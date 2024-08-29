@@ -14,8 +14,15 @@ public class InterfaceCounter
 {
     public static void main(String[] args) throws IOException {
 
-        String jarPath = "C:\\kthcs\\MEX\\RESULTS\\classgraph\\target\\classgraph-4.8.154-shaded.jar";
-        
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\classgraph\\target\\classgraph-4.8.154-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\java-faker\\target\\javafaker-1.0.2-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\modelmapper\\core\\target\\modelmapper-3.1.1-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\immutables\\gson\\target\\gson-2.9.3-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\commons-validator\\target\\commons-validator-1.7-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\tablesaw\\json\\target\\tablesaw-json-0.43.1-shaded.jar";
+        //String jarPath = "C:\\kthcs\\MEX\\RESULTS\\tika\\tika-core\\target\\tika-core-2.6.0-shaded.jar";
+        String jarPath = "C:\\kthcs\\MEX\\RESULTS\\woodstox\\target\\woodstox-core-6.4.0-shaded.jar";
+
         Map<String, Integer> packageInterfaceCount = new HashMap<>();
         
         JarFile jarFile = new JarFile(jarPath);
