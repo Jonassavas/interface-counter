@@ -1,0 +1,11 @@
+REGULAR CLASS mismatch: net/jodah/typetools/TypeResolver$1.class - Total numbers do not match: 0, 15
+REGULAR CLASS mismatch: net/jodah/typetools/TypeResolver$3.class - Total numbers do not match: 0, 17
+
+Summary:
+Interfaces found: 0
+Abstract classes found: 0
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 2
+

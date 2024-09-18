@@ -1,0 +1,15 @@
+REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2CharArraySource.class - Total numbers do not match: 9, 33
+REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2FileResult.class - Total numbers do not match: 24, 36
+REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2FileSource.class - Total numbers do not match: 48, 64
+ABSTRACT CLASS mismatch: org/codehaus/stax2/io/Stax2ReferentialResult.class - Total numbers do not match: 0, 3
+ABSTRACT CLASS mismatch: org/codehaus/stax2/io/Stax2ReferentialSource.class - Total numbers do not match: 0, 14
+REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2URLSource.class - Total numbers do not match: 25, 47
+
+Summary:
+Interfaces found: 0
+Abstract classes found: 2
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 4
+

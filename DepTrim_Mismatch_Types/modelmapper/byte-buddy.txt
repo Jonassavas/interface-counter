@@ -1,0 +1,77 @@
+ENUM mismatch: net/bytebuddy/TypeCache$Sort$1.class - Total numbers do not match: 0, 11
+REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$Appender.class - Total numbers do not match: 97, 155
+REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$WithCustomProperties.class - Total numbers do not match: 402, 457
+REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$ConstructorCall$Appender.class - Total numbers do not match: 37, 130
+ENUM mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$ConstructorCall.class - Total numbers do not match: 0, 37
+REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$MethodCall$Appender.class - Total numbers do not match: 52, 151
+REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$AssignableSignatureCall.class - Total numbers do not match: 50, 106
+ENUM mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$PrecomputedMethodGraph.class - Total numbers do not match: 9, 98
+REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy.class - Total numbers do not match: 46, 227
+REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$MethodCall.class - Total numbers do not match: 36, 71
+REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$ImplementationDelegate$ForStaticMethod.class - Total numbers do not match: 27, 79
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/SuperCall$Binder.class - Total numbers do not match: 38, 145
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Argument$Binder.class - Total numbers do not match: 16, 117
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/StubValue$Binder.class - Total numbers do not match: 12, 65
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/DefaultCall$Binder.class - Total numbers do not match: 104, 148
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic$1.class - Total numbers do not match: 0, 32
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/AllArguments$Assignment.class - Total numbers do not match: 3, 37
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/RuntimeType$Verifier.class - Total numbers do not match: 6, 12
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/DefaultMethod$Binder.class - Total numbers do not match: 100, 152
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor.class - Total numbers do not match: 55, 131
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/FieldValue$Binder.class - Total numbers do not match: 0, 59
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/This$Binder.class - Total numbers do not match: 36, 100
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor$Handler$Unbound.class - Total numbers do not match: 69, 80
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/IgnoreForBinding$Verifier.class - Total numbers do not match: 6, 11
+ABSTRACT CLASS mismatch: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic.class - Total numbers do not match: 0, 24
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Origin$Binder.class - Total numbers do not match: 120, 204
+INTERFACE mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$ParameterBinder.class - Total numbers do not match: 0, 58
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Default$Binder.class - Total numbers do not match: 54, 90
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic$2.class - Total numbers do not match: 24, 30
+REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$ImplementationDelegate$Compiled$ForStaticCall.class - Total numbers do not match: 37, 50
+REGULAR CLASS mismatch: net/bytebuddy/dynamic/loading/MultipleParentClassLoader$Builder.class - Total numbers do not match: 222, 358
+REGULAR CLASS mismatch: net/bytebuddy/TypeCache$LookupKey.class - Total numbers do not match: 15, 53
+REGULAR CLASS mismatch: net/bytebuddy/TypeCache$WithInlineExpunction.class - Total numbers do not match: 0, 44
+REGULAR CLASS mismatch: net/bytebuddy/TypeCache$StorageKey.class - Total numbers do not match: 47, 59
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodNameEqualityResolver.class - Total numbers do not match: 26, 40
+INTERFACE mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver.class - Total numbers do not match: 0, 27
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default$2.class - Total numbers do not match: 10, 16
+ENUM mismatch: net/bytebuddy/implementation/bind/ArgumentTypeResolver.class - Total numbers do not match: 148, 162
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/SuperMethod$Binder.class - Total numbers do not match: 97, 149
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor$Handler$Bound.class - Total numbers do not match: 56, 123
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder.class - Total numbers do not match: 39, 88
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Super$Binder.class - Total numbers do not match: 75, 111
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/FieldValue$Binder$Delegate.class - Total numbers do not match: 3, 61
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/BindingPriority$Resolver.class - Total numbers do not match: 4, 62
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/AllArguments$Binder.class - Total numbers do not match: 47, 208
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$Record.class - Total numbers do not match: 51, 143
+ABSTRACT CLASS mismatch: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$ParameterBinder$ForFieldBinding.class - Total numbers do not match: 93, 144
+ENUM mismatch: net/bytebuddy/implementation/bind/annotation/Empty$Binder.class - Total numbers do not match: 8, 24
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default$1.class - Total numbers do not match: 4, 35
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Builder.class - Total numbers do not match: 6, 76
+ENUM mismatch: net/bytebuddy/implementation/bind/ParameterLengthResolver.class - Total numbers do not match: 22, 36
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Illegal.class - Total numbers do not match: 10, 26
+ABSTRACT CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default.class - Total numbers do not match: 0, 24
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Unique.class - Total numbers do not match: 52, 80
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Builder$Build.class - Total numbers do not match: 104, 182
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$Processor.class - Total numbers do not match: 84, 138
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver$Resolution.class - Total numbers do not match: 23, 82
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Illegal.class - Total numbers do not match: 15, 31
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Anonymous.class - Total numbers do not match: 37, 61
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver$Compound.class - Total numbers do not match: 35, 103
+ENUM mismatch: net/bytebuddy/implementation/bind/DeclaringTypeResolver.class - Total numbers do not match: 30, 44
+REGULAR CLASS mismatch: net/bytebuddy/implementation/bind/ArgumentTypeResolver$ParameterIndexToken.class - Total numbers do not match: 26, 35
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$BindingResolver$Default.class - Total numbers do not match: 137, 189
+ENUM mismatch: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodInvoker$Simple.class - Total numbers do not match: 0, 17
+ABSTRACT CLASS mismatch: net/bytebuddy/TypeCache$Sort.class - Total numbers do not match: 0, 24
+REGULAR CLASS mismatch: net/bytebuddy/TypeCache$SimpleKey.class - Total numbers do not match: 29, 93
+ENUM mismatch: net/bytebuddy/TypeCache$Sort$2.class - Total numbers do not match: 0, 11
+REGULAR CLASS mismatch: net/bytebuddy/TypeCache.class - Total numbers do not match: 57, 180
+
+Summary:
+Interfaces found: 2
+Abstract classes found: 4
+Enums found: 32
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 30
+
