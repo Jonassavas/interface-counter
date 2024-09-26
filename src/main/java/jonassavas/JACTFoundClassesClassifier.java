@@ -22,9 +22,9 @@ public class JACTFoundClassesClassifier {
 
 
    public static void main(String[] args) throws IOException {
-       String rootDirectoryPath = "C:\\kthcs\\MEX\\CompleteJactResults\\woodstox_jact-report\\dependencies";
-       String jarFilePath = "C:\\kthcs\\MEX\\RESULTS\\woodstox\\target\\woodstox-core-6.4.0-shaded.jar";
-       String logFilePath = "./JACT_Class_Types/woodstox.txt"; // Output log file
+       String rootDirectoryPath = "C:\\kthcs\\MEX\\CompleteJactResults\\poi-tl_jact-report\\dependencies";
+       String jarFilePath = "C:\\kthcs\\MEX\\RESULTS\\poi-tl\\poi-tl\\target\\poi-tl-1.12.2-SNAPSHOT-shaded.jar";
+       String logFilePath = "./JACT_Class_Types/poi-tl.txt"; // Output log file
 
 
        File resultFile = new File(logFilePath);
