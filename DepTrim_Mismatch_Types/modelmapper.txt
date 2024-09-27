@@ -1,4 +1,7 @@
+REGULAR CLASS mismatch: net/jodah/typetools/TypeResolver$1.class - Total numbers do not match: 0, 15
+REGULAR CLASS mismatch: net/jodah/typetools/TypeResolver$3.class - Total numbers do not match: 0, 17
 ENUM mismatch: net/bytebuddy/TypeCache$Sort$1.class - Total numbers do not match: 0, 11
+REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation.class - Total numbers do not match: 248, 358
 REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$Appender.class - Total numbers do not match: 97, 155
 REGULAR CLASS mismatch: net/bytebuddy/implementation/MethodDelegation$WithCustomProperties.class - Total numbers do not match: 402, 457
 REGULAR CLASS mismatch: net/bytebuddy/implementation/auxiliary/MethodCallProxy$ConstructorCall$Appender.class - Total numbers do not match: 37, 130
@@ -73,5 +76,5 @@ Abstract classes found: 4
 Enums found: 32
 Annotations found: 0
 Synthetic classes found: 0
-Regular classes found: 30
+Regular classes found: 33
 

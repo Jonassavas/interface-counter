@@ -1,9 +1,7 @@
 package jonassavas;
 
-
 import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.Opcodes;
-
 
 import java.io.File;
 import java.io.FileWriter;
@@ -16,192 +14,199 @@ import java.util.Set;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
-// Checks for dependency classes not included in JACT
 public class JACTMissedClassesClassifier {
 
+    // Global counters for all JAR files
+    private static int totalInterfaceMissedCount = 0;
+    private static int totalAbstractClassMissedCount = 0;
+    private static int totalEnumMissedCount = 0;
+    private static int totalRegularClassMissedCount = 0;
+    private static int totalSyntheticClassMissedCount = 0;
+    private static int totalAnnotationMissedCount = 0;
+    private static int totalFoundCount = 0;
+    private static int totalNotFoundCount = 0;
 
-   public static void main(String[] args) throws IOException {
-       String rootDirectoryPath = "/home/jonassavas/complete-jact-reports/woodstox_jact-report/dependencies/";
-       String jarFilePath = "/home/jonassavas/deptrim-experiments/pipeline/results/woodstox/original/compile-scope-dependencies/dependency/xsdlib-2013.6.1.jar";
-       String logFilePath = "./Original_vs_JACT_RQ3/woodstox/xsdlib.txt"; // Output log file
+    public static void main(String[] args) throws IOException {
+        String rootDirectoryPath = "/home/jonassavas/complete-jact-reports/helidon-openapi_jact-report/dependencies/";
+        String jarDirPath = "/home/jonassavas/deptrim-experiments/pipeline/results/helidon/openapi/original/compile-scope-dependencies/dependency/";
+        String logDirPath = "./Original_vs_JACT_RQ3/helidon/"; // Output directory for log files
 
+        // Create the output directory if it doesn't exist
+        File logDir = new File(logDirPath);
+        if (!logDir.exists()) {
+            logDir.mkdirs();
+        }
 
-       File resultFile = new File(logFilePath);
+        // Set to store the class names gathered from HTML files
+        Set<String> htmlGeneratedClasses = new HashSet<>();
 
+        // Process the root directory to extract class names from HTML files
+        processDirectory(new File(rootDirectoryPath), "", htmlGeneratedClasses);
 
+        // Get all JAR files in the JAR directory and process each one
+        File jarDir = new File(jarDirPath);
+        File[] jarFiles = jarDir.listFiles((dir, name) -> name.endsWith(".jar"));
 
+        if (jarFiles == null || jarFiles.length == 0) {
+            System.out.println("No JAR files found in the directory: " + jarDirPath);
+            return;
+        }
 
-       File parentDir = resultFile.getParentFile();
-       if (parentDir != null && !parentDir.exists()) {
-           parentDir.mkdirs(); // This will create the necessary directories
-       }
+        // Loop through each JAR file and perform the comparison
+        for (File jarFile : jarFiles) {
+            String jarFileName = jarFile.getName().replace(".jar", ""); // Remove .jar extension
+            String logFilePath = logDirPath + jarFileName + ".txt"; // Create log file path
 
+            // Compare the JAR with the HTML-generated classes and log the result
+            checkJarFile(jarFile.getAbsolutePath(), htmlGeneratedClasses, logFilePath);
+        }
 
-       // Set to store the class names gathered from HTML files
-       Set<String> htmlGeneratedClasses = new HashSet<>();
+        // Write the final summary to SUMMARY.txt
+        writeFinalSummary(logDirPath + "SUMMARY.txt");
+    }
 
+    private static void processDirectory(File dir, String relativePath, Set<String> htmlGeneratedClasses) {
+        if (!dir.isDirectory()) {
+            return;
+        }
 
-       // Process the directory to extract class names
-       processDirectory(new File(rootDirectoryPath), "", htmlGeneratedClasses);
+        File[] files = dir.listFiles();
+        if (files == null) {
+            return;
+        }
 
+        for (File file : files) {
+            if (file.isDirectory()) {
+                // Skip the 'jacoco-resources' directory
+                if (file.getName().equals("jacoco-resources")) {
+                    continue;
+                }
+                // Recur into the directory, appending the directory name to the relative path
+                processDirectory(file, relativePath + file.getName() + ".", htmlGeneratedClasses);
+            } else if (file.getName().endsWith(".html")) {
+                String fileName = file.getName().replace(".html", "");
+                // Skip 'index' and 'index.source'
+                if (!fileName.equals("index") && !fileName.equals("index.source")) {
+                    // Generate the class name format (replace '.' with '/')
+                    String className = file.getParentFile().getName().replace(".", "/") + "/" + fileName + ".class";
+                    htmlGeneratedClasses.add(className);
+                }
+            }
+        }
+    }
 
-       // Compare with JAR entries and log output to file
-       checkJarFile(jarFilePath, htmlGeneratedClasses, logFilePath);
-   }
+    private static void checkJarFile(String jarFilePath, Set<String> htmlGeneratedClasses, String logFilePath) throws IOException {
+        // Open a file writer to log the output
+        try (PrintWriter logWriter = new PrintWriter(new FileWriter(logFilePath))) {
+            // Open the JAR file
+            try (JarFile jarFile = new JarFile(jarFilePath)) {
+                Set<String> jarClasses = new HashSet<>();
 
+                // Counters for each JAR file
+                int interfaceMissedCount = 0;
+                int abstractClassMissedCount = 0;
+                int enumMissedCount = 0;
+                int regularClassMissedCount = 0;
+                int syntheticClassMissedCount = 0;
+                int annotationMissedCount = 0;
 
-   private static void processDirectory(File dir, String relativePath, Set<String> htmlGeneratedClasses) {
-       if (!dir.isDirectory()) {
-           return;
-       }
+                int foundCount = 0;
+                int notFoundCount = 0;
 
+                // Iterate through the entries in the JAR file using Enumeration
+                Enumeration<JarEntry> entries = jarFile.entries();
+                while (entries.hasMoreElements()) {
+                    JarEntry jarEntry = entries.nextElement();
 
-       File[] files = dir.listFiles();
-       if (files == null) {
-           return;
-       }
+                    // Skip directories, module-info, META-INF, and meta-information files
+                    if (jarEntry.isDirectory() || jarEntry.getName().equals("module-info.class") || jarEntry.getName().startsWith("META-INF/")) {
+                        continue;
+                    }
 
+                    // Only process .class files
+                    if (!jarEntry.getName().endsWith(".class")) {
+                        continue;
+                    }
 
-       for (File file : files) {
-           if (file.isDirectory()) {
-               // Skip the 'jacoco-resources' directory
-               if (file.getName().equals("jacoco-resources")) {
-                   continue;
-               }
-               // Recur into the directory, appending the directory name to the relative path
-               processDirectory(file, relativePath + file.getName() + ".", htmlGeneratedClasses);
-           } else if (file.getName().endsWith(".html")) {
-               String fileName = file.getName().replace(".html", "");
-               // Skip 'index' and 'index.source'
-               if (!fileName.equals("index") && !fileName.equals("index.source")) {
-                   // Generate the class name format (replace '.' with '/')
-                   String className = file.getParentFile().getName().replace(".", "/") + "/" + fileName + ".class";
-                   htmlGeneratedClasses.add(className);
-               }
-           }
-       }
-   }
+                    jarClasses.add(jarEntry.getName());
 
+                    // Check if the class exists in the HTML-generated class set
+                    if (!htmlGeneratedClasses.contains(jarEntry.getName())) {
+                        notFoundCount++;
 
-   private static void checkJarFile(String jarFilePath, Set<String> htmlGeneratedClasses, String logFilePath) throws IOException {
-       // Open a file writer to log the output
-       try (PrintWriter logWriter = new PrintWriter(new FileWriter(logFilePath))) {
-           // Open the JAR file
-           try (JarFile jarFile = new JarFile(jarFilePath)) {
-               Set<String> jarClasses = new HashSet<>();
+                        // Use ASM to analyze the class file
+                        try (InputStream classStream = jarFile.getInputStream(jarEntry)) {
+                            ClassReader classReader = new ClassReader(classStream);
+                            int access = classReader.getAccess();
 
+                            if ((access & Opcodes.ACC_INTERFACE) != 0) {
+                                if ((access & Opcodes.ACC_ANNOTATION) != 0) {
+                                    annotationMissedCount++;
+                                    logWriter.println("ANNOTATION missed: " + jarEntry.getName());
+                                } else {
+                                    interfaceMissedCount++;
+                                    logWriter.println("INTERFACE missed: " + jarEntry.getName());
+                                }
+                            } else if ((access & Opcodes.ACC_ABSTRACT) != 0) {
+                                abstractClassMissedCount++;
+                                logWriter.println("ABSTRACT CLASS missed: " + jarEntry.getName());
+                            } else if ((access & Opcodes.ACC_ENUM) != 0) {
+                                enumMissedCount++;
+                                logWriter.println("ENUM missed: " + jarEntry.getName());
+                            } else if ((access & Opcodes.ACC_SYNTHETIC) != 0) {
+                                syntheticClassMissedCount++;
+                                logWriter.println("SYNTHETIC CLASS missed: " + jarEntry.getName());
+                            } else {
+                                regularClassMissedCount++;
+                                logWriter.println("REGULAR CLASS missed: " + jarEntry.getName());
+                            }
+                        } catch (IOException e) {
+                            logWriter.println("Could not process class: " + jarEntry.getName());
+                        }
+                    } else {
+                        foundCount++;
+                    }
+                }
 
-               // Counters for different types of missing classes
-               int interfaceMissedCount = 0;
-               int abstractClassMissedCount = 0;
-               int enumMissedCount = 0;
-               int regularClassMissedCount = 0;
-               int syntheticClassMissedCount = 0;
-               int annotationMissedCount = 0;
+                // Update global totals
+                totalInterfaceMissedCount += interfaceMissedCount;
+                totalAbstractClassMissedCount += abstractClassMissedCount;
+                totalEnumMissedCount += enumMissedCount;
+                totalRegularClassMissedCount += regularClassMissedCount;
+                totalSyntheticClassMissedCount += syntheticClassMissedCount;
+                totalAnnotationMissedCount += annotationMissedCount;
+                totalFoundCount += foundCount;
+                totalNotFoundCount += notFoundCount;
 
+                // Print and log the summary for the individual JAR
+                logWriter.printf("\nSummary for %s:\n" +
+                                "Classes found in both JAR and HTML: %d\n" +
+                                "Classes in JAR but not found in HTML: %d\n" +
+                                "Interfaces missed: %d\n" +
+                                "Abstract classes missed: %d\n" +
+                                "Enums missed: %d\n" +
+                                "Annotations missed: %d\n" +
+                                "Synthetic classes missed: %d\n" +
+                                "Regular classes missed: %d\n",
+                        jarFilePath, foundCount, notFoundCount, interfaceMissedCount, abstractClassMissedCount,
+                        enumMissedCount, annotationMissedCount, syntheticClassMissedCount, regularClassMissedCount);
+            }
+        }
+    }
 
-               // Counters for found and not found classes
-               int foundCount = 0;
-               int notFoundCount = 0;
-
-
-               // Iterate through the entries in the JAR file using Enumeration
-               Enumeration<JarEntry> entries = jarFile.entries();
-               while (entries.hasMoreElements()) {
-                   JarEntry jarEntry = entries.nextElement();
-
-
-                   // Skip directories, module-info, META-INF, and any meta-information files
-                   if (jarEntry.isDirectory() || jarEntry.getName().equals("module-info.class") || jarEntry.getName().startsWith("META-INF/")) {
-                       continue;
-                   }
-
-
-                   // Only process .class files
-                   if (!jarEntry.getName().endsWith(".class")) {
-                       continue;
-                   }
-
-
-                   jarClasses.add(jarEntry.getName());
-
-
-                   // Check if the class exists in the HTML-generated class set
-                   if (!htmlGeneratedClasses.contains(jarEntry.getName())) {
-                       notFoundCount++;
-
-
-                       // Use ASM to analyze the class file
-                       try (InputStream classStream = jarFile.getInputStream(jarEntry)) {
-                           ClassReader classReader = new ClassReader(classStream);
-                           int access = classReader.getAccess();
-
-
-                           if ((access & Opcodes.ACC_INTERFACE) != 0) {
-                               if ((access & Opcodes.ACC_ANNOTATION) != 0) {
-                                   annotationMissedCount++;
-                                   String message = "ANNOTATION missed: " + jarEntry.getName();
-                                   System.out.println(message);
-                                   logWriter.println(message);
-                               } else {
-                                   interfaceMissedCount++;
-                                   String message = "INTERFACE missed: " + jarEntry.getName();
-                                   System.out.println(message);
-                                   logWriter.println(message);
-                               }
-                           } else if ((access & Opcodes.ACC_ABSTRACT) != 0) {
-                               abstractClassMissedCount++;
-                               String message = "ABSTRACT CLASS missed: " + jarEntry.getName();
-                               System.out.println(message);
-                               logWriter.println(message);
-                           } else if ((access & Opcodes.ACC_ENUM) != 0) {
-                               enumMissedCount++;
-                               String message = "ENUM missed: " + jarEntry.getName();
-                               System.out.println(message);
-                               logWriter.println(message);
-                           } else if ((access & Opcodes.ACC_SYNTHETIC) != 0) {
-                               syntheticClassMissedCount++;
-                               String message = "SYNTHETIC CLASS missed: " + jarEntry.getName();
-                               System.out.println(message);
-                               logWriter.println(message);
-                           } else {
-                               regularClassMissedCount++;
-                               // Print and log the opcode for regular classes
-                               String message = "REGULAR CLASS missed: " + jarEntry.getName();
-                               System.out.println(message);
-                               logWriter.println(message);
-                           }
-                       } catch (IOException e) {
-                           String errorMessage = "Could not process class: " + jarEntry.getName();
-                           System.err.println(errorMessage);
-                           logWriter.println(errorMessage);
-                       }
-                   } else {
-                       foundCount++;
-                   }
-               }
-
-
-               // Print and log the summary
-               String summary = String.format("\nSummary:\n" +
-                       "Classes found in both JAR and HTML: %d\n" +
-                       "Classes in JAR but not found in HTML: %d\n" +
-                       "Interfaces missed: %d\n" +
-                       "Abstract classes missed: %d\n" +
-                       "Enums missed: %d\n" +
-                       "Annotations missed: %d\n" +
-                       "Synthetic classes missed: %d\n" +
-                       "Regular classes missed: %d\n",
-                       foundCount, notFoundCount, interfaceMissedCount, abstractClassMissedCount,
-                       enumMissedCount, annotationMissedCount, syntheticClassMissedCount, regularClassMissedCount);
-
-
-               System.out.println(summary);
-               logWriter.println(summary);
-           }
-       }
-   }
+    private static void writeFinalSummary(String summaryFilePath) throws IOException {
+        try (PrintWriter summaryWriter = new PrintWriter(new FileWriter(summaryFilePath))) {
+            summaryWriter.printf("Final Summary for all JAR files:\n" +
+                    "Total classes found in both JAR and HTML: %d\n" +
+                    "Total classes in JAR but not found in HTML: %d\n" +
+                    "Total interfaces missed: %d\n" +
+                    "Total abstract classes missed: %d\n" +
+                    "Total enums missed: %d\n" +
+                    "Total annotations missed: %d\n" +
+                    "Total synthetic classes missed: %d\n" +
+                    "Total regular classes missed: %d\n",
+                    totalFoundCount, totalNotFoundCount, totalInterfaceMissedCount, totalAbstractClassMissedCount,
+                    totalEnumMissedCount, totalAnnotationMissedCount, totalSyntheticClassMissedCount, totalRegularClassMissedCount);
+        }
+    }
 }
-
-
-

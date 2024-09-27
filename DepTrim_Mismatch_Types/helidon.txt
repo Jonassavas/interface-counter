@@ -1,0 +1,74 @@
+REGULAR CLASS mismatch: io/opentracing/noop/NoopTracerFactory.class - Total numbers do not match: 0, 2
+REGULAR CLASS mismatch: io/opentracing/noop/NoopScopeManagerImpl.class - Total numbers do not match: 4, 7
+INTERFACE mismatch: io/opentracing/noop/NoopScopeManager.class - Total numbers do not match: 0, 5
+REGULAR CLASS mismatch: io/opentracing/noop/NoopTracerImpl.class - Total numbers do not match: 13, 23
+REGULAR CLASS mismatch: io/netty/handler/codec/http/HttpContentDecompressor.class - Total numbers do not match: 84, 114
+REGULAR CLASS mismatch: io/netty/bootstrap/BootstrapConfig.class - Total numbers do not match: 45, 49
+REGULAR CLASS mismatch: io/netty/bootstrap/Bootstrap.class - Total numbers do not match: 170, 322
+REGULAR CLASS mismatch: io/netty/bootstrap/Bootstrap$1.class - Total numbers do not match: 6, 45
+REGULAR CLASS mismatch: io/netty/bootstrap/Bootstrap$3.class - Total numbers do not match: 10, 43
+REGULAR CLASS mismatch: io/netty/handler/timeout/IdleStateHandler$ReaderIdleTimeoutTask.class - Total numbers do not match: 74, 81
+REGULAR CLASS mismatch: io/netty/handler/timeout/IdleStateHandler$1.class - Total numbers do not match: 0, 22
+REGULAR CLASS mismatch: io/netty/handler/timeout/ReadTimeoutHandler.class - Total numbers do not match: 33, 41
+REGULAR CLASS mismatch: io/netty/handler/timeout/IdleStateHandler.class - Total numbers do not match: 195, 484
+ABSTRACT CLASS mismatch: io/netty/handler/timeout/IdleStateHandler$AbstractIdleTask.class - Total numbers do not match: 11, 17
+REGULAR CLASS mismatch: io/netty/handler/timeout/IdleStateHandler$AllIdleTimeoutTask.class - Total numbers do not match: 85, 92
+ABSTRACT CLASS mismatch: io/netty/resolver/InetNameResolver.class - Total numbers do not match: 0, 33
+ABSTRACT CLASS mismatch: io/netty/resolver/AbstractAddressResolver.class - Total numbers do not match: 167, 221
+REGULAR CLASS mismatch: io/netty/resolver/InetSocketAddressResolver$1.class - Total numbers do not match: 6, 36
+REGULAR CLASS mismatch: io/netty/resolver/AddressResolverGroup$1.class - Total numbers do not match: 27, 39
+ABSTRACT CLASS mismatch: io/netty/resolver/AddressResolverGroup.class - Total numbers do not match: 93, 166
+REGULAR CLASS mismatch: io/netty/resolver/DefaultNameResolver.class - Total numbers do not match: 18, 29
+REGULAR CLASS mismatch: io/netty/resolver/DefaultAddressResolverGroup.class - Total numbers do not match: 0, 11
+ABSTRACT CLASS mismatch: io/netty/resolver/SimpleNameResolver.class - Total numbers do not match: 30, 61
+REGULAR CLASS mismatch: io/netty/resolver/InetSocketAddressResolver.class - Total numbers do not match: 20, 47
+REGULAR CLASS mismatch: io/smallrye/openapi/spi/OASFactoryResolverImpl.class - Total numbers do not match: 15, 201
+REGULAR CLASS mismatch: org/glassfish/json/BufferPoolImpl.class - Total numbers do not match: 0, 46
+REGULAR CLASS mismatch: org/glassfish/json/JsonArrayBuilderImpl$JsonArrayImpl.class - Total numbers do not match: 101, 124
+REGULAR CLASS mismatch: org/glassfish/json/JsonArrayBuilderImpl.class - Total numbers do not match: 447, 495
+REGULAR CLASS mismatch: org/glassfish/json/JsonGeneratorImpl$Context.class - Total numbers do not match: 0, 9
+ENUM mismatch: org/glassfish/json/JsonGeneratorImpl$Scope.class - Total numbers do not match: 0, 44
+REGULAR CLASS mismatch: org/glassfish/json/JsonMessages.class - Total numbers do not match: 461, 486
+REGULAR CLASS mismatch: org/glassfish/json/JsonNumberImpl$JsonBigDecimalNumber.class - Total numbers do not match: 6, 12
+REGULAR CLASS mismatch: org/glassfish/json/JsonNumberImpl$JsonIntNumber.class - Total numbers do not match: 40, 50
+ABSTRACT CLASS mismatch: org/glassfish/json/JsonNumberImpl.class - Total numbers do not match: 82, 97
+REGULAR CLASS mismatch: org/glassfish/json/JsonObjectBuilderImpl$JsonObjectImpl.class - Total numbers do not match: 85, 130
+REGULAR CLASS mismatch: org/glassfish/json/JsonObjectBuilderImpl.class - Total numbers do not match: 250, 306
+REGULAR CLASS mismatch: org/glassfish/json/JsonParserImpl$ArrayContext.class - Total numbers do not match: 73, 148
+ABSTRACT CLASS mismatch: org/glassfish/json/JsonParserImpl$Context.class - Total numbers do not match: 0, 6
+REGULAR CLASS mismatch: org/glassfish/json/JsonParserImpl$NoneContext.class - Total numbers do not match: 35, 70
+REGULAR CLASS mismatch: org/glassfish/json/JsonParserImpl$ObjectContext.class - Total numbers do not match: 70, 184
+REGULAR CLASS mismatch: org/glassfish/json/JsonParserImpl$Stack.class - Total numbers do not match: 7, 35
+REGULAR CLASS mismatch: org/glassfish/json/JsonParserImpl.class - Total numbers do not match: 292, 521
+REGULAR CLASS mismatch: org/glassfish/json/JsonPointerImpl.class - Total numbers do not match: 203, 369
+REGULAR CLASS mismatch: org/glassfish/json/JsonProviderImpl.class - Total numbers do not match: 298, 347
+REGULAR CLASS mismatch: org/glassfish/json/JsonReaderFactoryImpl.class - Total numbers do not match: 11, 34
+REGULAR CLASS mismatch: org/glassfish/json/JsonReaderImpl.class - Total numbers do not match: 157, 214
+REGULAR CLASS mismatch: org/glassfish/json/JsonStringImpl.class - Total numbers do not match: 103, 160
+ENUM mismatch: org/glassfish/json/JsonTokenizer$JsonToken.class - Total numbers do not match: 0, 165
+REGULAR CLASS mismatch: org/glassfish/json/JsonWriterFactoryImpl.class - Total numbers do not match: 31, 43
+REGULAR CLASS mismatch: org/glassfish/json/JsonWriterImpl.class - Total numbers do not match: 148, 227
+REGULAR CLASS mismatch: org/glassfish/json/NodeReference$ObjectReference.class - Total numbers do not match: 49, 80
+ABSTRACT CLASS mismatch: org/glassfish/json/NodeReference.class - Total numbers do not match: 11, 20
+REGULAR CLASS mismatch: org/glassfish/json/UnicodeDetectingInputStream.class - Total numbers do not match: 207, 395
+REGULAR CLASS mismatch: javax/json/EmptyArray.class - Total numbers do not match: 74, 77
+REGULAR CLASS mismatch: javax/json/EmptyObject.class - Total numbers do not match: 50, 53
+REGULAR CLASS mismatch: javax/json/Json.class - Total numbers do not match: 131, 143
+REGULAR CLASS mismatch: javax/json/JsonException.class - Total numbers do not match: 5, 9
+INTERFACE mismatch: javax/json/JsonStructure.class - Total numbers do not match: 0, 5
+ENUM mismatch: javax/json/JsonValue$ValueType.class - Total numbers do not match: 0, 74
+INTERFACE mismatch: javax/json/JsonValue.class - Total numbers do not match: 10, 34
+REGULAR CLASS mismatch: javax/json/JsonValueImpl.class - Total numbers do not match: 26, 35
+ABSTRACT CLASS mismatch: javax/json/spi/JsonProvider.class - Total numbers do not match: 96, 112
+ENUM mismatch: javax/json/stream/JsonParser$Event.class - Total numbers do not match: 0, 104
+REGULAR CLASS mismatch: org/eclipse/microprofile/openapi/spi/OASFactoryResolver$1.class - Total numbers do not match: 0, 6
+ABSTRACT CLASS mismatch: org/eclipse/microprofile/openapi/spi/OASFactoryResolver.class - Total numbers do not match: 37, 96
+
+Summary:
+Interfaces found: 3
+Abstract classes found: 10
+Enums found: 4
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 48
+

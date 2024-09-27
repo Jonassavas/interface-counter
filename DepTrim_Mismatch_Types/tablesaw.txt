@@ -1,0 +1,31 @@
+ENUM mismatch: com/fasterxml/jackson/annotation/JsonAutoDetect$Visibility.class - Total numbers do not match: 20, 93
+REGULAR CLASS mismatch: com/fasterxml/jackson/annotation/JsonFormat$Features.class - Total numbers do not match: 280, 298
+ENUM mismatch: com/fasterxml/jackson/annotation/JsonFormat$Shape.class - Total numbers do not match: 23, 137
+REGULAR CLASS mismatch: com/fasterxml/jackson/annotation/JsonFormat$Value.class - Total numbers do not match: 703, 774
+ENUM mismatch: com/fasterxml/jackson/annotation/JsonInclude$Include.class - Total numbers do not match: 0, 74
+REGULAR CLASS mismatch: com/fasterxml/jackson/annotation/JsonInclude$Value.class - Total numbers do not match: 459, 495
+ENUM mismatch: com/fasterxml/jackson/annotation/JsonProperty$Access.class - Total numbers do not match: 0, 44
+REGULAR CLASS mismatch: com/fasterxml/jackson/annotation/JsonSetter$Value.class - Total numbers do not match: 245, 263
+ENUM mismatch: com/fasterxml/jackson/annotation/Nulls.class - Total numbers do not match: 0, 54
+ENUM mismatch: com/fasterxml/jackson/annotation/PropertyAccessor.class - Total numbers do not match: 50, 124
+REGULAR CLASS mismatch: com/eclipsesource/json/Json$DefaultHandler.class - Total numbers do not match: 26, 61
+REGULAR CLASS mismatch: com/eclipsesource/json/Json.class - Total numbers do not match: 310, 341
+ABSTRACT CLASS mismatch: com/eclipsesource/json/JsonHandler.class - Total numbers do not match: 19, 27
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonLiteral.class - Total numbers do not match: 65, 86
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonNumber.class - Total numbers do not match: 57, 70
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonObject$1.class - Total numbers do not match: 4, 36
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonObject$HashIndexTable.class - Total numbers do not match: 76, 109
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonObject$Member.class - Total numbers do not match: 55, 70
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonObject.class - Total numbers do not match: 527, 587
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonParser.class - Total numbers do not match: 514, 938
+REGULAR CLASS mismatch: com/eclipsesource/json/JsonString.class - Total numbers do not match: 39, 52
+ABSTRACT CLASS mismatch: com/eclipsesource/json/JsonValue.class - Total numbers do not match: 198, 225
+
+Summary:
+Interfaces found: 0
+Abstract classes found: 2
+Enums found: 6
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 14
+

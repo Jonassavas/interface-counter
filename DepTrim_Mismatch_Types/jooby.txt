@@ -1,4 +1,4 @@
-REGULAR CLASS mismatch: com/sun/msv/reader/xmlschema/WSDLSchemaReader$SimpleNamespaceContext.class - Total numbers do not match: 25, 31
+REGULAR CLASS mismatch: kotlinx/coroutines/CoroutineScopeKt.class - Total numbers do not match: 123, 143
 
 Summary:
 Interfaces found: 0

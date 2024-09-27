@@ -4,6 +4,7 @@ REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2FileSource.class - Total numb
 ABSTRACT CLASS mismatch: org/codehaus/stax2/io/Stax2ReferentialResult.class - Total numbers do not match: 0, 3
 ABSTRACT CLASS mismatch: org/codehaus/stax2/io/Stax2ReferentialSource.class - Total numbers do not match: 0, 14
 REGULAR CLASS mismatch: org/codehaus/stax2/io/Stax2URLSource.class - Total numbers do not match: 25, 47
+REGULAR CLASS mismatch: com/sun/msv/reader/xmlschema/WSDLSchemaReader$SimpleNamespaceContext.class - Total numbers do not match: 25, 31
 
 Summary:
 Interfaces found: 0
@@ -11,5 +12,5 @@ Abstract classes found: 2
 Enums found: 0
 Annotations found: 0
 Synthetic classes found: 0
-Regular classes found: 4
+Regular classes found: 5
 
