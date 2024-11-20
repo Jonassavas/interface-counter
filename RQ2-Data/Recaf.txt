@@ -1,0 +1,1244 @@
+JAR File: annotations-3.0.1.jar
+Packages:
+    edu.umd.cs.findbugs
+    edu.umd.cs.findbugs.annotations
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+    net.jcip.annotations
+
+JAR File: args4j-2.33.jar
+Packages:
+    org.kohsuke.args4j
+    org.kohsuke.args4j.spi
+
+JAR File: asm-9.2.jar
+Packages:
+    org.objectweb.asm
+    org.objectweb.asm.signature
+
+JAR File: asm-analysis-9.2.jar
+Packages:
+    org.objectweb.asm.tree.analysis
+
+JAR File: asm-commons-9.2.jar
+Packages:
+    org.objectweb.asm.commons
+
+JAR File: asm-tree-9.2.jar
+Packages:
+    org.objectweb.asm.tree
+
+JAR File: asm-util-9.2.jar
+Packages:
+    org.objectweb.asm.util
+
+JAR File: CAFED00D-1.9.6.jar
+Packages:
+    me.coley.cafedude
+    me.coley.cafedude.classfile
+    me.coley.cafedude.classfile.annotation
+    me.coley.cafedude.classfile.attribute
+    me.coley.cafedude.classfile.behavior
+    me.coley.cafedude.classfile.constant
+    me.coley.cafedude.io
+    me.coley.cafedude.transform
+
+JAR File: cfr-0.152.jar
+Packages:
+    org.benf.cfr.reader
+    org.benf.cfr.reader.api
+    org.benf.cfr.reader.apiunreleased
+    org.benf.cfr.reader.bytecode
+    org.benf.cfr.reader.bytecode.analysis.loc
+    org.benf.cfr.reader.bytecode.analysis.opgraph
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op02obf
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op03obf
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op2rewriters
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op3rewriters
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.checker
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.matchutil
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.transformers
+    org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.util
+    org.benf.cfr.reader.bytecode.analysis.parse
+    org.benf.cfr.reader.bytecode.analysis.parse.expression
+    org.benf.cfr.reader.bytecode.analysis.parse.expression.misc
+    org.benf.cfr.reader.bytecode.analysis.parse.expression.rewriteinterface
+    org.benf.cfr.reader.bytecode.analysis.parse.literal
+    org.benf.cfr.reader.bytecode.analysis.parse.lvalue
+    org.benf.cfr.reader.bytecode.analysis.parse.rewriters
+    org.benf.cfr.reader.bytecode.analysis.parse.statement
+    org.benf.cfr.reader.bytecode.analysis.parse.utils
+    org.benf.cfr.reader.bytecode.analysis.parse.utils.finalhelp
+    org.benf.cfr.reader.bytecode.analysis.parse.utils.scope
+    org.benf.cfr.reader.bytecode.analysis.parse.wildcard
+    org.benf.cfr.reader.bytecode.analysis.stack
+    org.benf.cfr.reader.bytecode.analysis.structured
+    org.benf.cfr.reader.bytecode.analysis.structured.expression
+    org.benf.cfr.reader.bytecode.analysis.structured.statement
+    org.benf.cfr.reader.bytecode.analysis.structured.statement.placeholder
+    org.benf.cfr.reader.bytecode.analysis.types
+    org.benf.cfr.reader.bytecode.analysis.types.annotated
+    org.benf.cfr.reader.bytecode.analysis.types.discovery
+    org.benf.cfr.reader.bytecode.analysis.variables
+    org.benf.cfr.reader.bytecode.opcode
+    org.benf.cfr.reader.entities
+    org.benf.cfr.reader.entities.annotations
+    org.benf.cfr.reader.entities.attributes
+    org.benf.cfr.reader.entities.bootstrap
+    org.benf.cfr.reader.entities.classfilehelpers
+    org.benf.cfr.reader.entities.constantpool
+    org.benf.cfr.reader.entities.exceptions
+    org.benf.cfr.reader.entities.innerclass
+    org.benf.cfr.reader.entityfactories
+    org.benf.cfr.reader.mapping
+    org.benf.cfr.reader.relationship
+    org.benf.cfr.reader.state
+    org.benf.cfr.reader.util
+    org.benf.cfr.reader.util.annotation
+    org.benf.cfr.reader.util.bytestream
+    org.benf.cfr.reader.util.collections
+    org.benf.cfr.reader.util.functors
+    org.benf.cfr.reader.util.getopt
+    org.benf.cfr.reader.util.graph
+    org.benf.cfr.reader.util.lambda
+    org.benf.cfr.reader.util.output
+
+JAR File: checker-qual-3.12.0.jar
+Packages:
+    org.checkerframework.checker.builder.qual
+    org.checkerframework.checker.calledmethods.qual
+    org.checkerframework.checker.compilermsgs.qual
+    org.checkerframework.checker.fenum.qual
+    org.checkerframework.checker.formatter.qual
+    org.checkerframework.checker.guieffect.qual
+    org.checkerframework.checker.i18n.qual
+    org.checkerframework.checker.i18nformatter.qual
+    org.checkerframework.checker.index.qual
+    org.checkerframework.checker.initialization.qual
+    org.checkerframework.checker.interning.qual
+    org.checkerframework.checker.lock.qual
+    org.checkerframework.checker.nullness.qual
+    org.checkerframework.checker.optional.qual
+    org.checkerframework.checker.propkey.qual
+    org.checkerframework.checker.regex.qual
+    org.checkerframework.checker.signature.qual
+    org.checkerframework.checker.signedness.qual
+    org.checkerframework.checker.tainting.qual
+    org.checkerframework.checker.units.qual
+    org.checkerframework.common.aliasing.qual
+    org.checkerframework.common.initializedfields.qual
+    org.checkerframework.common.reflection.qual
+    org.checkerframework.common.returnsreceiver.qual
+    org.checkerframework.common.subtyping.qual
+    org.checkerframework.common.util.report.qual
+    org.checkerframework.common.value.qual
+    org.checkerframework.dataflow.qual
+    org.checkerframework.framework.qual
+
+JAR File: commonmark-0.18.2.jar
+Packages:
+    org.commonmark
+    org.commonmark.internal
+    org.commonmark.internal.inline
+    org.commonmark.internal.renderer
+    org.commonmark.internal.renderer.text
+    org.commonmark.internal.util
+    org.commonmark.node
+    org.commonmark.parser
+    org.commonmark.parser.block
+    org.commonmark.parser.delimiter
+    org.commonmark.renderer
+    org.commonmark.renderer.html
+    org.commonmark.renderer.text
+
+JAR File: commons-codec-1.15.jar
+Packages:
+    org.apache.commons.codec
+    org.apache.commons.codec.binary
+    org.apache.commons.codec.cli
+    org.apache.commons.codec.digest
+    org.apache.commons.codec.language
+    org.apache.commons.codec.language.bm
+    org.apache.commons.codec.net
+
+JAR File: commons-io-2.11.0.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.comparator
+    org.apache.commons.io.file
+    org.apache.commons.io.file.spi
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.function
+    org.apache.commons.io.input
+    org.apache.commons.io.input.buffer
+    org.apache.commons.io.monitor
+    org.apache.commons.io.output
+    org.apache.commons.io.serialization
+
+JAR File: commons-lang3-3.11.jar
+Packages:
+    org.apache.commons.lang3
+    org.apache.commons.lang3.arch
+    org.apache.commons.lang3.builder
+    org.apache.commons.lang3.compare
+    org.apache.commons.lang3.concurrent
+    org.apache.commons.lang3.concurrent.locks
+    org.apache.commons.lang3.event
+    org.apache.commons.lang3.exception
+    org.apache.commons.lang3.function
+    org.apache.commons.lang3.math
+    org.apache.commons.lang3.mutable
+    org.apache.commons.lang3.reflect
+    org.apache.commons.lang3.stream
+    org.apache.commons.lang3.text
+    org.apache.commons.lang3.text.translate
+    org.apache.commons.lang3.time
+    org.apache.commons.lang3.tuple
+
+JAR File: cssparser-0.9.29.jar
+Packages:
+    com.steadystate.css.dom
+    com.steadystate.css.format
+    com.steadystate.css.parser
+    com.steadystate.css.parser.media
+    com.steadystate.css.parser.selectors
+    com.steadystate.css.sac
+    com.steadystate.css.userdata
+    com.steadystate.css.util
+
+JAR File: directories-12.jar
+Packages:
+    io.github.soc.directories
+
+JAR File: error_prone_annotations-2.11.0.jar
+Packages:
+    com.google.errorprone.annotations
+    com.google.errorprone.annotations.concurrent
+
+JAR File: failureaccess-1.0.1.jar
+Packages:
+    com.google.common.util.concurrent.internal
+
+JAR File: flowless-0.6.3.jar
+Packages:
+    org.fxmisc.flowless
+
+JAR File: forgeflower-1.5.498.29.jar
+Packages:
+    META-INF.versions.9.org.jetbrains.java.decompiler.util
+    org.jetbrains.java.decompiler.code
+    org.jetbrains.java.decompiler.code.cfg
+    org.jetbrains.java.decompiler.code.interpreter
+    org.jetbrains.java.decompiler.main
+    org.jetbrains.java.decompiler.main.collectors
+    org.jetbrains.java.decompiler.main.decompiler
+    org.jetbrains.java.decompiler.main.extern
+    org.jetbrains.java.decompiler.main.rels
+    org.jetbrains.java.decompiler.modules.code
+    org.jetbrains.java.decompiler.modules.decompiler
+    org.jetbrains.java.decompiler.modules.decompiler.decompose
+    org.jetbrains.java.decompiler.modules.decompiler.deobfuscator
+    org.jetbrains.java.decompiler.modules.decompiler.exps
+    org.jetbrains.java.decompiler.modules.decompiler.sforms
+    org.jetbrains.java.decompiler.modules.decompiler.stats
+    org.jetbrains.java.decompiler.modules.decompiler.vars
+    org.jetbrains.java.decompiler.modules.renamer
+    org.jetbrains.java.decompiler.struct
+    org.jetbrains.java.decompiler.struct.attr
+    org.jetbrains.java.decompiler.struct.consts
+    org.jetbrains.java.decompiler.struct.gen
+    org.jetbrains.java.decompiler.struct.gen.generics
+    org.jetbrains.java.decompiler.struct.lazy
+    org.jetbrains.java.decompiler.struct.match
+    org.jetbrains.java.decompiler.util
+
+JAR File: guava-31.1-jre.jar
+Packages:
+    com.google.common.annotations
+    com.google.common.base
+    com.google.common.base.internal
+    com.google.common.cache
+    com.google.common.collect
+    com.google.common.escape
+    com.google.common.eventbus
+    com.google.common.graph
+    com.google.common.hash
+    com.google.common.html
+    com.google.common.io
+    com.google.common.math
+    com.google.common.net
+    com.google.common.primitives
+    com.google.common.reflect
+    com.google.common.util.concurrent
+    com.google.common.xml
+    com.google.thirdparty.publicsuffix
+
+JAR File: j2objc-annotations-1.3.jar
+Packages:
+    com.google.j2objc.annotations
+
+JAR File: javafx-base-18-win.jar
+Packages:
+    com.sun.javafx
+    com.sun.javafx.beans
+    com.sun.javafx.binding
+    com.sun.javafx.collections
+    com.sun.javafx.event
+    com.sun.javafx.logging
+    com.sun.javafx.logging.jfr
+    com.sun.javafx.property
+    com.sun.javafx.property.adapter
+    com.sun.javafx.reflect
+    com.sun.javafx.runtime
+    javafx.beans
+    javafx.beans.binding
+    javafx.beans.property
+    javafx.beans.property.adapter
+    javafx.beans.value
+    javafx.collections
+    javafx.collections.transformation
+    javafx.event
+    javafx.util
+    javafx.util.converter
+
+JAR File: javafx-base-18.jar
+Packages:
+
+JAR File: javafx-controls-18-win.jar
+Packages:
+    com.sun.javafx.charts
+    com.sun.javafx.scene.control
+    com.sun.javafx.scene.control.behavior
+    com.sun.javafx.scene.control.inputmap
+    com.sun.javafx.scene.control.skin
+    com.sun.javafx.scene.control.skin.resources
+    javafx.scene.chart
+    javafx.scene.control
+    javafx.scene.control.cell
+    javafx.scene.control.skin
+
+JAR File: javafx-controls-18.jar
+Packages:
+
+JAR File: javafx-graphics-18-win.jar
+Packages:
+    com.sun.glass.events
+    com.sun.glass.ui
+    com.sun.glass.ui.delegate
+    com.sun.glass.ui.win
+    com.sun.glass.utils
+    com.sun.javafx.animation
+    com.sun.javafx.application
+    com.sun.javafx.beans.event
+    com.sun.javafx.css
+    com.sun.javafx.css.parser
+    com.sun.javafx.cursor
+    com.sun.javafx.effect
+    com.sun.javafx.embed
+    com.sun.javafx.font
+    com.sun.javafx.font.coretext
+    com.sun.javafx.font.directwrite
+    com.sun.javafx.font.freetype
+    com.sun.javafx.geom
+    com.sun.javafx.geom.transform
+    com.sun.javafx.geometry
+    com.sun.javafx.iio
+    com.sun.javafx.iio.bmp
+    com.sun.javafx.iio.common
+    com.sun.javafx.iio.gif
+    com.sun.javafx.iio.ios
+    com.sun.javafx.iio.jpeg
+    com.sun.javafx.iio.png
+    com.sun.javafx.image
+    com.sun.javafx.image.impl
+    com.sun.javafx.menu
+    com.sun.javafx.perf
+    com.sun.javafx.print
+    com.sun.javafx.runtime.async
+    com.sun.javafx.runtime.eula
+    com.sun.javafx.scene
+    com.sun.javafx.scene.canvas
+    com.sun.javafx.scene.input
+    com.sun.javafx.scene.layout
+    com.sun.javafx.scene.layout.region
+    com.sun.javafx.scene.paint
+    com.sun.javafx.scene.shape
+    com.sun.javafx.scene.text
+    com.sun.javafx.scene.transform
+    com.sun.javafx.scene.traversal
+    com.sun.javafx.sg.prism
+    com.sun.javafx.stage
+    com.sun.javafx.text
+    com.sun.javafx.tk
+    com.sun.javafx.tk.quantum
+    com.sun.javafx.util
+    com.sun.marlin
+    com.sun.marlin.stats
+    com.sun.openpisces
+    com.sun.pisces
+    com.sun.prism
+    com.sun.prism.d3d
+    com.sun.prism.image
+    com.sun.prism.impl
+    com.sun.prism.impl.packrect
+    com.sun.prism.impl.paint
+    com.sun.prism.impl.ps
+    com.sun.prism.impl.shape
+    com.sun.prism.j2d
+    com.sun.prism.j2d.paint
+    com.sun.prism.j2d.print
+    com.sun.prism.paint
+    com.sun.prism.ps
+    com.sun.prism.shader
+    com.sun.prism.shape
+    com.sun.prism.sw
+    com.sun.scenario
+    com.sun.scenario.animation
+    com.sun.scenario.animation.shared
+    com.sun.scenario.effect
+    com.sun.scenario.effect.impl
+    com.sun.scenario.effect.impl.hw
+    com.sun.scenario.effect.impl.hw.d3d
+    com.sun.scenario.effect.impl.prism
+    com.sun.scenario.effect.impl.prism.ps
+    com.sun.scenario.effect.impl.prism.sw
+    com.sun.scenario.effect.impl.state
+    com.sun.scenario.effect.impl.sw
+    com.sun.scenario.effect.impl.sw.java
+    com.sun.scenario.effect.impl.sw.sse
+    com.sun.scenario.effect.light
+    com.sun.util.reentrant
+    javafx.animation
+    javafx.application
+    javafx.concurrent
+    javafx.css
+    javafx.css.converter
+    javafx.geometry
+    javafx.print
+    javafx.scene
+    javafx.scene.canvas
+    javafx.scene.effect
+    javafx.scene.image
+    javafx.scene.input
+    javafx.scene.layout
+    javafx.scene.paint
+    javafx.scene.robot
+    javafx.scene.shape
+    javafx.scene.text
+    javafx.scene.transform
+    javafx.stage
+
+JAR File: javafx-graphics-18.jar
+Packages:
+
+JAR File: javafx-media-18-win.jar
+Packages:
+    com.sun.javafx.media
+    com.sun.javafx.scene.media
+    com.sun.media.jfxmedia
+    com.sun.media.jfxmedia.control
+    com.sun.media.jfxmedia.effects
+    com.sun.media.jfxmedia.events
+    com.sun.media.jfxmedia.locator
+    com.sun.media.jfxmedia.logging
+    com.sun.media.jfxmedia.track
+    com.sun.media.jfxmediaimpl
+    com.sun.media.jfxmediaimpl.platform
+    com.sun.media.jfxmediaimpl.platform.gstreamer
+    com.sun.media.jfxmediaimpl.platform.java
+    javafx.scene.media
+
+JAR File: javafx-media-18.jar
+Packages:
+
+JAR File: javaparser-core-3.24.2.jar
+Packages:
+    com.github.javaparser
+    com.github.javaparser.ast
+    com.github.javaparser.ast.body
+    com.github.javaparser.ast.comments
+    com.github.javaparser.ast.expr
+    com.github.javaparser.ast.modules
+    com.github.javaparser.ast.nodeTypes
+    com.github.javaparser.ast.nodeTypes.modifiers
+    com.github.javaparser.ast.observer
+    com.github.javaparser.ast.stmt
+    com.github.javaparser.ast.type
+    com.github.javaparser.ast.validator
+    com.github.javaparser.ast.validator.language_level_validations
+    com.github.javaparser.ast.validator.language_level_validations.chunks
+    com.github.javaparser.ast.validator.postprocessors
+    com.github.javaparser.ast.visitor
+    com.github.javaparser.javadoc
+    com.github.javaparser.javadoc.description
+    com.github.javaparser.metamodel
+    com.github.javaparser.printer
+    com.github.javaparser.printer.concretesyntaxmodel
+    com.github.javaparser.printer.configuration
+    com.github.javaparser.printer.lexicalpreservation
+    com.github.javaparser.printer.lexicalpreservation.changes
+    com.github.javaparser.resolution
+    com.github.javaparser.resolution.declarations
+    com.github.javaparser.resolution.types
+    com.github.javaparser.resolution.types.parametrization
+    com.github.javaparser.utils
+
+JAR File: javaparser-symbol-solver-core-3.24.2.jar
+Packages:
+    com.github.javaparser.symbolsolver
+    com.github.javaparser.symbolsolver.cache
+    com.github.javaparser.symbolsolver.core.resolution
+    com.github.javaparser.symbolsolver.declarations.common
+    com.github.javaparser.symbolsolver.javaparser
+    com.github.javaparser.symbolsolver.javaparsermodel
+    com.github.javaparser.symbolsolver.javaparsermodel.contexts
+    com.github.javaparser.symbolsolver.javaparsermodel.declarations
+    com.github.javaparser.symbolsolver.javaparsermodel.declarators
+    com.github.javaparser.symbolsolver.javassistmodel
+    com.github.javaparser.symbolsolver.logic
+    com.github.javaparser.symbolsolver.model.resolution
+    com.github.javaparser.symbolsolver.model.typesystem
+    com.github.javaparser.symbolsolver.reflectionmodel
+    com.github.javaparser.symbolsolver.reflectionmodel.comparators
+    com.github.javaparser.symbolsolver.resolution
+    com.github.javaparser.symbolsolver.resolution.naming
+    com.github.javaparser.symbolsolver.resolution.promotion
+    com.github.javaparser.symbolsolver.resolution.typeinference
+    com.github.javaparser.symbolsolver.resolution.typeinference.bounds
+    com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas
+    com.github.javaparser.symbolsolver.resolution.typesolvers
+    com.github.javaparser.symbolsolver.utils
+
+JAR File: javassist-3.28.0-GA.jar
+Packages:
+    javassist
+    javassist.bytecode
+    javassist.bytecode.analysis
+    javassist.bytecode.annotation
+    javassist.bytecode.stackmap
+    javassist.compiler
+    javassist.compiler.ast
+    javassist.convert
+    javassist.expr
+    javassist.runtime
+    javassist.scopedpool
+    javassist.tools
+    javassist.tools.reflect
+    javassist.tools.rmi
+    javassist.tools.web
+    javassist.util
+    javassist.util.proxy
+
+JAR File: javax.inject-1.jar
+Packages:
+    javax.inject
+
+JAR File: jcip-annotations-1.0.jar
+Packages:
+    net.jcip.annotations
+
+JAR File: jgrapht-core-1.0.1.jar
+Packages:
+    org.jgrapht
+    org.jgrapht.alg
+    org.jgrapht.alg.cycle
+    org.jgrapht.alg.flow
+    org.jgrapht.alg.interfaces
+    org.jgrapht.alg.isomorphism
+    org.jgrapht.alg.matching
+    org.jgrapht.alg.scoring
+    org.jgrapht.alg.shortestpath
+    org.jgrapht.alg.spanning
+    org.jgrapht.alg.util
+    org.jgrapht.alg.util.extension
+    org.jgrapht.alg.vertexcover
+    org.jgrapht.alg.vertexcover.util
+    org.jgrapht.event
+    org.jgrapht.experimental
+    org.jgrapht.experimental.alg
+    org.jgrapht.experimental.alg.color
+    org.jgrapht.experimental.dag
+    org.jgrapht.generate
+    org.jgrapht.graph
+    org.jgrapht.graph.builder
+    org.jgrapht.graph.specifics
+    org.jgrapht.traverse
+    org.jgrapht.util
+
+JAR File: jline-3.19.0.jar
+Packages:
+    org.jline.builtins
+    org.jline.builtins.ssh
+    org.jline.builtins.telnet
+    org.jline.console
+    org.jline.console.impl
+    org.jline.keymap
+    org.jline.reader
+    org.jline.reader.impl
+    org.jline.reader.impl.completer
+    org.jline.reader.impl.history
+    org.jline.style
+    org.jline.terminal
+    org.jline.terminal.impl
+    org.jline.terminal.impl.jansi
+    org.jline.terminal.impl.jansi.freebsd
+    org.jline.terminal.impl.jansi.linux
+    org.jline.terminal.impl.jansi.osx
+    org.jline.terminal.impl.jansi.solaris
+    org.jline.terminal.impl.jansi.win
+    org.jline.terminal.impl.jna
+    org.jline.terminal.impl.jna.freebsd
+    org.jline.terminal.impl.jna.linux
+    org.jline.terminal.impl.jna.osx
+    org.jline.terminal.impl.jna.solaris
+    org.jline.terminal.impl.jna.win
+    org.jline.terminal.spi
+    org.jline.utils
+    org.jline.widget
+
+JAR File: jline-builtins-3.21.0.jar
+Packages:
+    org.jline.builtins
+
+JAR File: jline-reader-3.21.0.jar
+Packages:
+    org.jline.keymap
+    org.jline.reader
+    org.jline.reader.impl
+    org.jline.reader.impl.completer
+    org.jline.reader.impl.history
+
+JAR File: jline-style-3.21.0.jar
+Packages:
+    org.jline.style
+
+JAR File: jline-terminal-3.21.0.jar
+Packages:
+    org.jline.terminal
+    org.jline.terminal.impl
+    org.jline.terminal.spi
+    org.jline.utils
+
+JAR File: jline-terminal-jna-3.21.0.jar
+Packages:
+    org.jline.terminal.impl.jna
+    org.jline.terminal.impl.jna.freebsd
+    org.jline.terminal.impl.jna.linux
+    org.jline.terminal.impl.jna.osx
+    org.jline.terminal.impl.jna.solaris
+    org.jline.terminal.impl.jna.win
+
+JAR File: jna-5.9.0.jar
+Packages:
+    com.sun.jna
+    com.sun.jna.internal
+    com.sun.jna.ptr
+    com.sun.jna.win32
+
+JAR File: jphantom-1.4.3.jar
+Packages:
+    org.clyze.jphantom
+    org.clyze.jphantom.access
+    org.clyze.jphantom.adapters
+    org.clyze.jphantom.constraints
+    org.clyze.jphantom.constraints.extractors
+    org.clyze.jphantom.constraints.solvers
+    org.clyze.jphantom.conversions
+    org.clyze.jphantom.dataflow
+    org.clyze.jphantom.exc
+    org.clyze.jphantom.fields
+    org.clyze.jphantom.hier
+    org.clyze.jphantom.hier.closure
+    org.clyze.jphantom.hier.graph
+    org.clyze.jphantom.jar
+    org.clyze.jphantom.methods
+    org.clyze.jphantom.util
+
+JAR File: jregex-1.2_01.jar
+Packages:
+    jregex
+    jregex.util.io
+
+JAR File: jsoup-1.14.3.jar
+Packages:
+    org.jsoup
+    org.jsoup.helper
+    org.jsoup.internal
+    org.jsoup.nodes
+    org.jsoup.parser
+    org.jsoup.safety
+    org.jsoup.select
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+Packages:
+
+JAR File: logback-classic-1.2.10.jar
+Packages:
+    ch.qos.logback.classic
+    ch.qos.logback.classic.boolex
+    ch.qos.logback.classic.db.names
+    ch.qos.logback.classic.encoder
+    ch.qos.logback.classic.filter
+    ch.qos.logback.classic.helpers
+    ch.qos.logback.classic.html
+    ch.qos.logback.classic.jmx
+    ch.qos.logback.classic.joran
+    ch.qos.logback.classic.joran.action
+    ch.qos.logback.classic.jul
+    ch.qos.logback.classic.layout
+    ch.qos.logback.classic.log4j
+    ch.qos.logback.classic.net
+    ch.qos.logback.classic.net.server
+    ch.qos.logback.classic.pattern
+    ch.qos.logback.classic.pattern.color
+    ch.qos.logback.classic.selector
+    ch.qos.logback.classic.selector.servlet
+    ch.qos.logback.classic.servlet
+    ch.qos.logback.classic.sift
+    ch.qos.logback.classic.spi
+    ch.qos.logback.classic.turbo
+    ch.qos.logback.classic.util
+    org.slf4j.impl
+
+JAR File: logback-core-1.2.3.jar
+Packages:
+    ch.qos.logback.core
+    ch.qos.logback.core.boolex
+    ch.qos.logback.core.db
+    ch.qos.logback.core.db.dialect
+    ch.qos.logback.core.encoder
+    ch.qos.logback.core.filter
+    ch.qos.logback.core.helpers
+    ch.qos.logback.core.hook
+    ch.qos.logback.core.html
+    ch.qos.logback.core.joran
+    ch.qos.logback.core.joran.action
+    ch.qos.logback.core.joran.conditional
+    ch.qos.logback.core.joran.event
+    ch.qos.logback.core.joran.event.stax
+    ch.qos.logback.core.joran.node
+    ch.qos.logback.core.joran.spi
+    ch.qos.logback.core.joran.util
+    ch.qos.logback.core.joran.util.beans
+    ch.qos.logback.core.layout
+    ch.qos.logback.core.net
+    ch.qos.logback.core.net.server
+    ch.qos.logback.core.net.ssl
+    ch.qos.logback.core.pattern
+    ch.qos.logback.core.pattern.color
+    ch.qos.logback.core.pattern.parser
+    ch.qos.logback.core.pattern.util
+    ch.qos.logback.core.property
+    ch.qos.logback.core.read
+    ch.qos.logback.core.recovery
+    ch.qos.logback.core.rolling
+    ch.qos.logback.core.rolling.helper
+    ch.qos.logback.core.sift
+    ch.qos.logback.core.spi
+    ch.qos.logback.core.status
+    ch.qos.logback.core.subst
+    ch.qos.logback.core.util
+
+JAR File: minimal-json-0.9.5.jar
+Packages:
+    com.eclipsesource.json
+
+JAR File: picocli-4.6.3.jar
+Packages:
+    META-INF.versions.9
+    picocli
+
+JAR File: picocli-shell-jline3-4.6.3.jar
+Packages:
+    picocli.shell.jline3
+
+JAR File: plugface-core-0.7.1.jar
+Packages:
+    org.plugface.core
+    org.plugface.core.annotations
+    org.plugface.core.factory
+    org.plugface.core.impl
+    org.plugface.core.internal
+    org.plugface.core.internal.di
+
+JAR File: procyon-compilertools-0.6.0.jar
+Packages:
+    com.strobel.assembler
+    com.strobel.assembler.flowanalysis
+    com.strobel.assembler.ir
+    com.strobel.assembler.ir.attributes
+    com.strobel.assembler.metadata
+    com.strobel.assembler.metadata.annotations
+    com.strobel.assembler.metadata.signatures
+    com.strobel.decompiler
+    com.strobel.decompiler.ast
+    com.strobel.decompiler.languages
+    com.strobel.decompiler.languages.java
+    com.strobel.decompiler.languages.java.analysis
+    com.strobel.decompiler.languages.java.ast
+    com.strobel.decompiler.languages.java.ast.transforms
+    com.strobel.decompiler.languages.java.utilities
+    com.strobel.decompiler.patterns
+    com.strobel.decompiler.semantics
+    com.strobel.decompiler.types
+    com.strobel.decompiler.utilities
+
+JAR File: procyon-core-0.6.0.jar
+Packages:
+    com.strobel
+    com.strobel.annotations
+    com.strobel.collections
+    com.strobel.collections.concurrent
+    com.strobel.compilerservices
+    com.strobel.componentmodel
+    com.strobel.concurrent
+    com.strobel.core
+    com.strobel.core.delegates
+    com.strobel.functions
+    com.strobel.io
+    com.strobel.reflection
+    com.strobel.util
+
+JAR File: reactfx-2.0-M5.jar
+Packages:
+    org.reactfx
+    org.reactfx.collection
+    org.reactfx.inhibeans
+    org.reactfx.inhibeans.binding
+    org.reactfx.inhibeans.collection
+    org.reactfx.inhibeans.property
+    org.reactfx.inhibeans.value
+    org.reactfx.util
+    org.reactfx.value
+
+JAR File: reflectasm-1.11.9.jar
+Packages:
+    com.esotericsoftware.asm
+    com.esotericsoftware.reflectasm
+
+JAR File: richtextfx-0.10.6.jar
+Packages:
+    META-INF.versions.9.org.fxmisc.richtext
+    org.fxmisc.richtext
+    org.fxmisc.richtext.event
+    org.fxmisc.richtext.model
+    org.fxmisc.richtext.util
+
+JAR File: sa-jdi-8.0.jar
+Packages:
+    com.sun.java.swing.action
+    com.sun.java.swing.ui
+    sun.jvm.hotspot
+    sun.jvm.hotspot.asm
+    sun.jvm.hotspot.asm.sparc
+    sun.jvm.hotspot.c1
+    sun.jvm.hotspot.ci
+    sun.jvm.hotspot.classfile
+    sun.jvm.hotspot.code
+    sun.jvm.hotspot.compiler
+    sun.jvm.hotspot.debugger
+    sun.jvm.hotspot.debugger.aarch64
+    sun.jvm.hotspot.debugger.amd64
+    sun.jvm.hotspot.debugger.bsd
+    sun.jvm.hotspot.debugger.bsd.amd64
+    sun.jvm.hotspot.debugger.bsd.x86
+    sun.jvm.hotspot.debugger.cdbg
+    sun.jvm.hotspot.debugger.cdbg.basic
+    sun.jvm.hotspot.debugger.dummy
+    sun.jvm.hotspot.debugger.ia64
+    sun.jvm.hotspot.debugger.linux
+    sun.jvm.hotspot.debugger.linux.aarch64
+    sun.jvm.hotspot.debugger.linux.amd64
+    sun.jvm.hotspot.debugger.linux.ia64
+    sun.jvm.hotspot.debugger.linux.sparc
+    sun.jvm.hotspot.debugger.linux.x86
+    sun.jvm.hotspot.debugger.posix
+    sun.jvm.hotspot.debugger.posix.elf
+    sun.jvm.hotspot.debugger.proc
+    sun.jvm.hotspot.debugger.proc.aarch64
+    sun.jvm.hotspot.debugger.proc.amd64
+    sun.jvm.hotspot.debugger.proc.sparc
+    sun.jvm.hotspot.debugger.proc.x86
+    sun.jvm.hotspot.debugger.remote
+    sun.jvm.hotspot.debugger.remote.aarch64
+    sun.jvm.hotspot.debugger.remote.amd64
+    sun.jvm.hotspot.debugger.remote.sparc
+    sun.jvm.hotspot.debugger.remote.x86
+    sun.jvm.hotspot.debugger.sparc
+    sun.jvm.hotspot.debugger.win32.coff
+    sun.jvm.hotspot.debugger.windbg
+    sun.jvm.hotspot.debugger.windbg.amd64
+    sun.jvm.hotspot.debugger.windbg.ia64
+    sun.jvm.hotspot.debugger.windbg.x86
+    sun.jvm.hotspot.debugger.windows.amd64
+    sun.jvm.hotspot.debugger.windows.x86
+    sun.jvm.hotspot.debugger.x86
+    sun.jvm.hotspot.gc_implementation.g1
+    sun.jvm.hotspot.gc_implementation.parallelScavenge
+    sun.jvm.hotspot.gc_implementation.shared
+    sun.jvm.hotspot.gc_interface
+    sun.jvm.hotspot.interpreter
+    sun.jvm.hotspot.jdi
+    sun.jvm.hotspot.memory
+    sun.jvm.hotspot.oops
+    sun.jvm.hotspot.opto
+    sun.jvm.hotspot.prims
+    sun.jvm.hotspot.runtime
+    sun.jvm.hotspot.runtime.aarch64
+    sun.jvm.hotspot.runtime.amd64
+    sun.jvm.hotspot.runtime.bsd
+    sun.jvm.hotspot.runtime.bsd_amd64
+    sun.jvm.hotspot.runtime.bsd_x86
+    sun.jvm.hotspot.runtime.linux
+    sun.jvm.hotspot.runtime.linux_aarch64
+    sun.jvm.hotspot.runtime.linux_amd64
+    sun.jvm.hotspot.runtime.linux_sparc
+    sun.jvm.hotspot.runtime.linux_x86
+    sun.jvm.hotspot.runtime.posix
+    sun.jvm.hotspot.runtime.solaris_amd64
+    sun.jvm.hotspot.runtime.solaris_sparc
+    sun.jvm.hotspot.runtime.solaris_x86
+    sun.jvm.hotspot.runtime.sparc
+    sun.jvm.hotspot.runtime.win32_amd64
+    sun.jvm.hotspot.runtime.win32_x86
+    sun.jvm.hotspot.runtime.x86
+    sun.jvm.hotspot.tools
+    sun.jvm.hotspot.tools.jcore
+    sun.jvm.hotspot.tools.soql
+    sun.jvm.hotspot.types
+    sun.jvm.hotspot.types.basic
+    sun.jvm.hotspot.ui
+    sun.jvm.hotspot.ui.action
+    sun.jvm.hotspot.ui.classbrowser
+    sun.jvm.hotspot.ui.table
+    sun.jvm.hotspot.ui.tree
+    sun.jvm.hotspot.ui.treetable
+    sun.jvm.hotspot.utilities
+    sun.jvm.hotspot.utilities.memo
+    sun.jvm.hotspot.utilities.soql
+
+JAR File: sac-1.3.jar
+Packages:
+    org.w3c.css.sac
+    org.w3c.css.sac.helpers
+
+JAR File: SimAnalyzer-1.6.0.jar
+Packages:
+    me.coley.analysis
+    me.coley.analysis.cfg
+    me.coley.analysis.exception
+    me.coley.analysis.util
+    me.coley.analysis.value
+    me.coley.analysis.value.simulated
+
+JAR File: slf4j-api-1.7.30.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: tools-8.0.jar
+Packages:
+    com.sun.codemodel.internal
+    com.sun.codemodel.internal.fmt
+    com.sun.codemodel.internal.util
+    com.sun.codemodel.internal.writer
+    com.sun.istack.internal.tools
+    com.sun.jarsigner
+    com.sun.javadoc
+    com.sun.jdi
+    com.sun.jdi.connect
+    com.sun.jdi.connect.spi
+    com.sun.jdi.event
+    com.sun.jdi.request
+    com.sun.source.doctree
+    com.sun.source.tree
+    com.sun.source.util
+    com.sun.tools.attach
+    com.sun.tools.attach.spi
+    com.sun.tools.classfile
+    com.sun.tools.corba.se.idl
+    com.sun.tools.corba.se.idl.constExpr
+    com.sun.tools.corba.se.idl.som.cff
+    com.sun.tools.corba.se.idl.som.idlemit
+    com.sun.tools.corba.se.idl.toJavaPortable
+    com.sun.tools.doclets
+    com.sun.tools.doclets.formats.html
+    com.sun.tools.doclets.formats.html.markup
+    com.sun.tools.doclets.formats.html.resources
+    com.sun.tools.doclets.internal.toolkit
+    com.sun.tools.doclets.internal.toolkit.builders
+    com.sun.tools.doclets.internal.toolkit.resources
+    com.sun.tools.doclets.internal.toolkit.taglets
+    com.sun.tools.doclets.internal.toolkit.util
+    com.sun.tools.doclets.internal.toolkit.util.links
+    com.sun.tools.doclets.standard
+    com.sun.tools.doclint
+    com.sun.tools.doclint.resources
+    com.sun.tools.example.debug.expr
+    com.sun.tools.example.debug.tty
+    com.sun.tools.extcheck
+    com.sun.tools.hat
+    com.sun.tools.hat.internal.model
+    com.sun.tools.hat.internal.oql
+    com.sun.tools.hat.internal.parser
+    com.sun.tools.hat.internal.server
+    com.sun.tools.hat.internal.util
+    com.sun.tools.internal.jxc
+    com.sun.tools.internal.jxc.ap
+    com.sun.tools.internal.jxc.api
+    com.sun.tools.internal.jxc.api.impl.j2s
+    com.sun.tools.internal.jxc.gen.config
+    com.sun.tools.internal.jxc.model.nav
+    com.sun.tools.internal.ws
+    com.sun.tools.internal.ws.api
+    com.sun.tools.internal.ws.api.wsdl
+    com.sun.tools.internal.ws.processor
+    com.sun.tools.internal.ws.processor.generator
+    com.sun.tools.internal.ws.processor.model
+    com.sun.tools.internal.ws.processor.model.exporter
+    com.sun.tools.internal.ws.processor.model.java
+    com.sun.tools.internal.ws.processor.model.jaxb
+    com.sun.tools.internal.ws.processor.modeler
+    com.sun.tools.internal.ws.processor.modeler.annotation
+    com.sun.tools.internal.ws.processor.modeler.wsdl
+    com.sun.tools.internal.ws.processor.util
+    com.sun.tools.internal.ws.resources
+    com.sun.tools.internal.ws.spi
+    com.sun.tools.internal.ws.util
+    com.sun.tools.internal.ws.util.xml
+    com.sun.tools.internal.ws.wscompile
+    com.sun.tools.internal.ws.wscompile.plugin.at_generated
+    com.sun.tools.internal.ws.wsdl.document
+    com.sun.tools.internal.ws.wsdl.document.http
+    com.sun.tools.internal.ws.wsdl.document.jaxws
+    com.sun.tools.internal.ws.wsdl.document.mime
+    com.sun.tools.internal.ws.wsdl.document.schema
+    com.sun.tools.internal.ws.wsdl.document.soap
+    com.sun.tools.internal.ws.wsdl.framework
+    com.sun.tools.internal.ws.wsdl.parser
+    com.sun.tools.internal.xjc
+    com.sun.tools.internal.xjc.addon.accessors
+    com.sun.tools.internal.xjc.addon.at_generated
+    com.sun.tools.internal.xjc.addon.code_injector
+    com.sun.tools.internal.xjc.addon.episode
+    com.sun.tools.internal.xjc.addon.locator
+    com.sun.tools.internal.xjc.addon.sync
+    com.sun.tools.internal.xjc.api
+    com.sun.tools.internal.xjc.api.impl.s2j
+    com.sun.tools.internal.xjc.api.util
+    com.sun.tools.internal.xjc.generator.annotation.spec
+    com.sun.tools.internal.xjc.generator.bean
+    com.sun.tools.internal.xjc.generator.bean.field
+    com.sun.tools.internal.xjc.generator.util
+    com.sun.tools.internal.xjc.model
+    com.sun.tools.internal.xjc.model.nav
+    com.sun.tools.internal.xjc.outline
+    com.sun.tools.internal.xjc.reader
+    com.sun.tools.internal.xjc.reader.dtd
+    com.sun.tools.internal.xjc.reader.dtd.bindinfo
+    com.sun.tools.internal.xjc.reader.gbind
+    com.sun.tools.internal.xjc.reader.internalizer
+    com.sun.tools.internal.xjc.reader.relaxng
+    com.sun.tools.internal.xjc.reader.xmlschema
+    com.sun.tools.internal.xjc.reader.xmlschema.bindinfo
+    com.sun.tools.internal.xjc.reader.xmlschema.ct
+    com.sun.tools.internal.xjc.reader.xmlschema.parser
+    com.sun.tools.internal.xjc.runtime
+    com.sun.tools.internal.xjc.util
+    com.sun.tools.internal.xjc.writer
+    com.sun.tools.javac
+    com.sun.tools.javac.api
+    com.sun.tools.javac.code
+    com.sun.tools.javac.comp
+    com.sun.tools.javac.file
+    com.sun.tools.javac.jvm
+    com.sun.tools.javac.main
+    com.sun.tools.javac.model
+    com.sun.tools.javac.nio
+    com.sun.tools.javac.parser
+    com.sun.tools.javac.processing
+    com.sun.tools.javac.resources
+    com.sun.tools.javac.sym
+    com.sun.tools.javac.tree
+    com.sun.tools.javac.util
+    com.sun.tools.javadoc
+    com.sun.tools.javadoc.api
+    com.sun.tools.javadoc.resources
+    com.sun.tools.javah
+    com.sun.tools.javah.resources
+    com.sun.tools.javap
+    com.sun.tools.javap.resources
+    com.sun.tools.jdeps
+    com.sun.tools.jdeps.resources
+    com.sun.tools.jdi
+    com.sun.tools.jdi.resources
+    com.sun.tools.script.shell
+    com.sun.xml.internal.dtdparser
+    com.sun.xml.internal.rngom.ast.builder
+    com.sun.xml.internal.rngom.ast.om
+    com.sun.xml.internal.rngom.ast.util
+    com.sun.xml.internal.rngom.binary
+    com.sun.xml.internal.rngom.binary.visitor
+    com.sun.xml.internal.rngom.digested
+    com.sun.xml.internal.rngom.dt
+    com.sun.xml.internal.rngom.dt.builtin
+    com.sun.xml.internal.rngom.nc
+    com.sun.xml.internal.rngom.parse
+    com.sun.xml.internal.rngom.parse.compact
+    com.sun.xml.internal.rngom.parse.host
+    com.sun.xml.internal.rngom.parse.xml
+    com.sun.xml.internal.rngom.util
+    com.sun.xml.internal.rngom.xml.sax
+    com.sun.xml.internal.rngom.xml.util
+    com.sun.xml.internal.xsom
+    com.sun.xml.internal.xsom.impl
+    com.sun.xml.internal.xsom.impl.parser
+    com.sun.xml.internal.xsom.impl.parser.state
+    com.sun.xml.internal.xsom.impl.scd
+    com.sun.xml.internal.xsom.impl.util
+    com.sun.xml.internal.xsom.parser
+    com.sun.xml.internal.xsom.util
+    com.sun.xml.internal.xsom.visitor
+    org.relaxng.datatype
+    org.relaxng.datatype.helpers
+    sun.applet
+    sun.applet.resources
+    sun.jvmstat.monitor
+    sun.jvmstat.monitor.event
+    sun.jvmstat.monitor.remote
+    sun.jvmstat.perfdata.monitor
+    sun.jvmstat.perfdata.monitor.protocol.file
+    sun.jvmstat.perfdata.monitor.protocol.local
+    sun.jvmstat.perfdata.monitor.protocol.rmi
+    sun.jvmstat.perfdata.monitor.v1_0
+    sun.jvmstat.perfdata.monitor.v2_0
+    sun.rmi.rmic
+    sun.rmi.rmic.iiop
+    sun.rmi.rmic.newrmic
+    sun.rmi.rmic.newrmic.jrmp
+    sun.security.tools.jarsigner
+    sun.tools.asm
+    sun.tools.attach
+    sun.tools.jar
+    sun.tools.jar.resources
+    sun.tools.java
+    sun.tools.javac
+    sun.tools.jcmd
+    sun.tools.jinfo
+    sun.tools.jmap
+    sun.tools.jps
+    sun.tools.jstack
+    sun.tools.jstat
+    sun.tools.jstatd
+    sun.tools.native2ascii
+    sun.tools.native2ascii.resources
+    sun.tools.serialver
+    sun.tools.tree
+    sun.tools.util
+
+JAR File: undofx-2.1.0.jar
+Packages:
+    org.fxmisc.undo
+    org.fxmisc.undo.impl
+
+JAR File: wellbehavedfx-0.3.3.jar
+Packages:
+    org.fxmisc.wellbehaved.event
+    org.fxmisc.wellbehaved.event.internal
+    org.fxmisc.wellbehaved.event.template
+
+Duplicate Packages Found:
+Package: org.jline.builtins
+    Appears in JARs:
+        jline-builtins-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.style
+    Appears in JARs:
+        jline-style-3.21.0.jar
+        jline-3.19.0.jar
+Package: javax.annotation.meta
+    Appears in JARs:
+        annotations-3.0.1.jar
+        jsr305-3.0.2.jar
+Package: org.jline.terminal.spi
+    Appears in JARs:
+        jline-terminal-3.21.0.jar
+        jline-3.19.0.jar
+Package: net.jcip.annotations
+    Appears in JARs:
+        annotations-3.0.1.jar
+        jcip-annotations-1.0.jar
+Package: org.jline.utils
+    Appears in JARs:
+        jline-terminal-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna.win
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal
+    Appears in JARs:
+        jline-terminal-3.21.0.jar
+        jline-3.19.0.jar
+Package: javax.annotation
+    Appears in JARs:
+        annotations-3.0.1.jar
+        jsr305-3.0.2.jar
+Package: javax.annotation.concurrent
+    Appears in JARs:
+        annotations-3.0.1.jar
+        jsr305-3.0.2.jar
+Package: org.jline.reader.impl.completer
+    Appears in JARs:
+        jline-reader-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl
+    Appears in JARs:
+        jline-terminal-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna.solaris
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna.freebsd
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.reader
+    Appears in JARs:
+        jline-reader-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.keymap
+    Appears in JARs:
+        jline-reader-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.reader.impl.history
+    Appears in JARs:
+        jline-reader-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna.linux
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.terminal.impl.jna.osx
+    Appears in JARs:
+        jline-terminal-jna-3.21.0.jar
+        jline-3.19.0.jar
+Package: org.jline.reader.impl
+    Appears in JARs:
+        jline-reader-3.21.0.jar
+        jline-3.19.0.jar

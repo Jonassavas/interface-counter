@@ -1,0 +1,20 @@
+JAR File: asm-9.1.jar
+Packages:
+    org.objectweb.asm
+    org.objectweb.asm.signature
+
+JAR File: java-semver-0.9.0.jar
+Packages:
+    com.github.zafarkhaja.semver
+    com.github.zafarkhaja.semver.expr
+    com.github.zafarkhaja.semver.util
+
+JAR File: slf4j-api-1.7.30.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.

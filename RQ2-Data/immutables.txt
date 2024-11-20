@@ -1,0 +1,120 @@
+JAR File: gson-2.8.8.jar
+Packages:
+    com.google.gson
+    com.google.gson.annotations
+    com.google.gson.internal
+    com.google.gson.internal.bind
+    com.google.gson.internal.bind.util
+    com.google.gson.internal.reflect
+    com.google.gson.reflect
+    com.google.gson.stream
+
+JAR File: guava-19.0.jar
+Packages:
+    com.google.common.annotations
+    com.google.common.base
+    com.google.common.base.internal
+    com.google.common.cache
+    com.google.common.collect
+    com.google.common.escape
+    com.google.common.eventbus
+    com.google.common.hash
+    com.google.common.html
+    com.google.common.io
+    com.google.common.math
+    com.google.common.net
+    com.google.common.primitives
+    com.google.common.reflect
+    com.google.common.util.concurrent
+    com.google.common.xml
+    com.google.thirdparty.publicsuffix
+
+JAR File: jackson-annotations-2.8.0.jar
+Packages:
+    com.fasterxml.jackson.annotation
+
+JAR File: jackson-core-2.8.11.jar
+Packages:
+    com.fasterxml.jackson.core
+    com.fasterxml.jackson.core.base
+    com.fasterxml.jackson.core.filter
+    com.fasterxml.jackson.core.format
+    com.fasterxml.jackson.core.io
+    com.fasterxml.jackson.core.json
+    com.fasterxml.jackson.core.sym
+    com.fasterxml.jackson.core.type
+    com.fasterxml.jackson.core.util
+
+JAR File: jackson-databind-2.8.11.6.jar
+Packages:
+    com.fasterxml.jackson.databind
+    com.fasterxml.jackson.databind.annotation
+    com.fasterxml.jackson.databind.cfg
+    com.fasterxml.jackson.databind.deser
+    com.fasterxml.jackson.databind.deser.impl
+    com.fasterxml.jackson.databind.deser.std
+    com.fasterxml.jackson.databind.exc
+    com.fasterxml.jackson.databind.ext
+    com.fasterxml.jackson.databind.introspect
+    com.fasterxml.jackson.databind.jsonFormatVisitors
+    com.fasterxml.jackson.databind.jsonschema
+    com.fasterxml.jackson.databind.jsontype
+    com.fasterxml.jackson.databind.jsontype.impl
+    com.fasterxml.jackson.databind.module
+    com.fasterxml.jackson.databind.node
+    com.fasterxml.jackson.databind.ser
+    com.fasterxml.jackson.databind.ser.impl
+    com.fasterxml.jackson.databind.ser.std
+    com.fasterxml.jackson.databind.type
+    com.fasterxml.jackson.databind.util
+
+JAR File: javax.ws.rs-api-2.0.jar
+Packages:
+    javax.ws.rs
+    javax.ws.rs.client
+    javax.ws.rs.container
+    javax.ws.rs.core
+    javax.ws.rs.ext
+
+JAR File: jsr305-3.0.1.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: metainf-2.9.3.jar
+Packages:
+    org.immutables.extgenerator
+    org.immutables.metainf
+    org.immutables.metainf.internal.$generator$
+    org.immutables.metainf.internal.$guava$.annotations
+    org.immutables.metainf.internal.$guava$.base
+    org.immutables.metainf.internal.$guava$.collect
+    org.immutables.metainf.internal.$guava$.escape
+    org.immutables.metainf.internal.$guava$.io
+    org.immutables.metainf.internal.$guava$.math
+    org.immutables.metainf.internal.$guava$.primitives
+    org.immutables.metainf.internal.$processor$
+
+JAR File: value-2.9.3.jar
+Packages:
+    org.immutables.extgenerator
+    org.immutables.processor
+    org.immutables.value
+    org.immutables.value.internal.$generator$
+    org.immutables.value.internal.$guava$.annotations
+    org.immutables.value.internal.$guava$.base
+    org.immutables.value.internal.$guava$.collect
+    org.immutables.value.internal.$guava$.escape
+    org.immutables.value.internal.$guava$.io
+    org.immutables.value.internal.$guava$.math
+    org.immutables.value.internal.$guava$.primitives
+    org.immutables.value.internal.$processor$
+    org.immutables.value.internal.$processor$.encode
+    org.immutables.value.internal.$processor$.meta
+
+Duplicate Packages Found:
+Package: org.immutables.extgenerator
+    Appears in JARs:
+        value-2.9.3.jar
+        metainf-2.9.3.jar

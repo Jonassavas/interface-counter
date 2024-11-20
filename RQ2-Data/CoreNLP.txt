@@ -1,0 +1,791 @@
+JAR File: AppleJavaExtensions-1.4.jar
+Packages:
+    com.apple.concurrent
+    com.apple.eawt
+    com.apple.eawt.event
+    com.apple.eio
+
+JAR File: commons-lang3-3.3.1.jar
+Packages:
+    org.apache.commons.lang3
+    org.apache.commons.lang3.builder
+    org.apache.commons.lang3.concurrent
+    org.apache.commons.lang3.event
+    org.apache.commons.lang3.exception
+    org.apache.commons.lang3.math
+    org.apache.commons.lang3.mutable
+    org.apache.commons.lang3.reflect
+    org.apache.commons.lang3.text
+    org.apache.commons.lang3.text.translate
+    org.apache.commons.lang3.time
+    org.apache.commons.lang3.tuple
+
+JAR File: ejml-cdense-0.39.jar
+Packages:
+    org.ejml.dense.row
+    org.ejml.dense.row.decompose
+    org.ejml.dense.row.decompose.chol
+    org.ejml.dense.row.decompose.hessenberg
+    org.ejml.dense.row.decompose.lu
+    org.ejml.dense.row.decompose.qr
+    org.ejml.dense.row.factory
+    org.ejml.dense.row.linsol
+    org.ejml.dense.row.linsol.chol
+    org.ejml.dense.row.linsol.lu
+    org.ejml.dense.row.linsol.qr
+    org.ejml.dense.row.misc
+    org.ejml.dense.row.mult
+
+JAR File: ejml-core-0.39.jar
+Packages:
+    org.ejml
+    org.ejml.data
+    org.ejml.interfaces
+    org.ejml.interfaces.decomposition
+    org.ejml.interfaces.linsol
+    org.ejml.ops
+    org.ejml.sparse
+
+JAR File: ejml-ddense-0.39.jar
+Packages:
+    org.ejml.dense.block
+    org.ejml.dense.block.decomposition.bidiagonal
+    org.ejml.dense.block.decomposition.chol
+    org.ejml.dense.block.decomposition.hessenberg
+    org.ejml.dense.block.decomposition.qr
+    org.ejml.dense.block.linsol.chol
+    org.ejml.dense.block.linsol.qr
+    org.ejml.dense.fixed
+    org.ejml.dense.row
+    org.ejml.dense.row.decomposition
+    org.ejml.dense.row.decomposition.bidiagonal
+    org.ejml.dense.row.decomposition.chol
+    org.ejml.dense.row.decomposition.eig
+    org.ejml.dense.row.decomposition.eig.symm
+    org.ejml.dense.row.decomposition.eig.watched
+    org.ejml.dense.row.decomposition.hessenberg
+    org.ejml.dense.row.decomposition.lu
+    org.ejml.dense.row.decomposition.qr
+    org.ejml.dense.row.decomposition.svd
+    org.ejml.dense.row.decomposition.svd.implicitqr
+    org.ejml.dense.row.factory
+    org.ejml.dense.row.linsol
+    org.ejml.dense.row.linsol.chol
+    org.ejml.dense.row.linsol.lu
+    org.ejml.dense.row.linsol.qr
+    org.ejml.dense.row.linsol.svd
+    org.ejml.dense.row.misc
+    org.ejml.dense.row.mult
+    org.ejml.generic
+
+JAR File: ejml-dsparse-0.39.jar
+Packages:
+    org.ejml.sparse.csc
+    org.ejml.sparse.csc.decomposition.chol
+    org.ejml.sparse.csc.decomposition.lu
+    org.ejml.sparse.csc.decomposition.qr
+    org.ejml.sparse.csc.factory
+    org.ejml.sparse.csc.linsol.chol
+    org.ejml.sparse.csc.linsol.lu
+    org.ejml.sparse.csc.linsol.qr
+    org.ejml.sparse.csc.misc
+    org.ejml.sparse.csc.mult
+    org.ejml.sparse.triplet
+
+JAR File: ejml-fdense-0.39.jar
+Packages:
+    org.ejml.dense.block
+    org.ejml.dense.block.decomposition.bidiagonal
+    org.ejml.dense.block.decomposition.chol
+    org.ejml.dense.block.decomposition.hessenberg
+    org.ejml.dense.block.decomposition.qr
+    org.ejml.dense.block.linsol.chol
+    org.ejml.dense.block.linsol.qr
+    org.ejml.dense.fixed
+    org.ejml.dense.row
+    org.ejml.dense.row.decomposition
+    org.ejml.dense.row.decomposition.bidiagonal
+    org.ejml.dense.row.decomposition.chol
+    org.ejml.dense.row.decomposition.eig
+    org.ejml.dense.row.decomposition.eig.symm
+    org.ejml.dense.row.decomposition.eig.watched
+    org.ejml.dense.row.decomposition.hessenberg
+    org.ejml.dense.row.decomposition.lu
+    org.ejml.dense.row.decomposition.qr
+    org.ejml.dense.row.decomposition.svd
+    org.ejml.dense.row.decomposition.svd.implicitqr
+    org.ejml.dense.row.factory
+    org.ejml.dense.row.linsol
+    org.ejml.dense.row.linsol.chol
+    org.ejml.dense.row.linsol.lu
+    org.ejml.dense.row.linsol.qr
+    org.ejml.dense.row.linsol.svd
+    org.ejml.dense.row.misc
+    org.ejml.dense.row.mult
+    org.ejml.generic
+
+JAR File: ejml-fsparse-0.39.jar
+Packages:
+    org.ejml.sparse.csc
+    org.ejml.sparse.csc.decomposition.chol
+    org.ejml.sparse.csc.decomposition.lu
+    org.ejml.sparse.csc.decomposition.qr
+    org.ejml.sparse.csc.factory
+    org.ejml.sparse.csc.linsol.chol
+    org.ejml.sparse.csc.linsol.lu
+    org.ejml.sparse.csc.linsol.qr
+    org.ejml.sparse.csc.misc
+    org.ejml.sparse.csc.mult
+    org.ejml.sparse.triplet
+
+JAR File: ejml-simple-0.39.jar
+Packages:
+    org.ejml.equation
+    org.ejml.simple
+    org.ejml.simple.ops
+
+JAR File: ejml-zdense-0.39.jar
+Packages:
+    org.ejml.dense.row
+    org.ejml.dense.row.decompose
+    org.ejml.dense.row.decompose.chol
+    org.ejml.dense.row.decompose.hessenberg
+    org.ejml.dense.row.decompose.lu
+    org.ejml.dense.row.decompose.qr
+    org.ejml.dense.row.factory
+    org.ejml.dense.row.linsol
+    org.ejml.dense.row.linsol.chol
+    org.ejml.dense.row.linsol.lu
+    org.ejml.dense.row.linsol.qr
+    org.ejml.dense.row.misc
+    org.ejml.dense.row.mult
+
+JAR File: istack-commons-runtime-3.0.7.jar
+Packages:
+    com.sun.istack
+    com.sun.istack.localization
+    com.sun.istack.logging
+
+JAR File: jakarta.servlet-api-4.0.4.jar
+Packages:
+    javax.servlet
+    javax.servlet.annotation
+    javax.servlet.descriptor
+    javax.servlet.http
+
+JAR File: javax.activation-api-1.2.0.jar
+Packages:
+    javax.activation
+
+JAR File: javax.json-1.0.4.jar
+Packages:
+    javax.json
+    javax.json.spi
+    javax.json.stream
+    org.glassfish.json
+    org.glassfish.json.api
+
+JAR File: jaxb-api-2.4.0-b180830.0359.jar
+Packages:
+    META-INF.versions.9.javax.xml.bind
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+
+JAR File: jaxb-impl-2.4.0-b180830.0438.jar
+Packages:
+    com.sun.xml.bind
+    com.sun.xml.bind.annotation
+    com.sun.xml.bind.api
+    com.sun.xml.bind.api.impl
+    com.sun.xml.bind.marshaller
+    com.sun.xml.bind.unmarshaller
+    com.sun.xml.bind.util
+    com.sun.xml.bind.v2
+    com.sun.xml.bind.v2.bytecode
+    com.sun.xml.bind.v2.model.annotation
+    com.sun.xml.bind.v2.model.core
+    com.sun.xml.bind.v2.model.impl
+    com.sun.xml.bind.v2.model.nav
+    com.sun.xml.bind.v2.model.runtime
+    com.sun.xml.bind.v2.model.util
+    com.sun.xml.bind.v2.runtime
+    com.sun.xml.bind.v2.runtime.output
+    com.sun.xml.bind.v2.runtime.property
+    com.sun.xml.bind.v2.runtime.reflect
+    com.sun.xml.bind.v2.runtime.reflect.opt
+    com.sun.xml.bind.v2.runtime.unmarshaller
+    com.sun.xml.bind.v2.schemagen
+    com.sun.xml.bind.v2.schemagen.episode
+    com.sun.xml.bind.v2.schemagen.xmlschema
+    com.sun.xml.bind.v2.util
+
+JAR File: joda-time-2.10.5.jar
+Packages:
+    org.joda.time
+    org.joda.time.base
+    org.joda.time.chrono
+    org.joda.time.convert
+    org.joda.time.field
+    org.joda.time.format
+    org.joda.time.tz
+
+JAR File: jollyday-0.4.9.jar
+Packages:
+    de.jollyday
+    de.jollyday.caching
+    de.jollyday.config
+    de.jollyday.configuration
+    de.jollyday.configuration.impl
+    de.jollyday.datasource
+    de.jollyday.datasource.impl
+    de.jollyday.impl
+    de.jollyday.parameter
+    de.jollyday.parser
+    de.jollyday.parser.impl
+    de.jollyday.util
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: lucene-analyzers-common-7.5.0.jar
+Packages:
+    org.apache.lucene.analysis.ar
+    org.apache.lucene.analysis.bg
+    org.apache.lucene.analysis.bn
+    org.apache.lucene.analysis.br
+    org.apache.lucene.analysis.ca
+    org.apache.lucene.analysis.charfilter
+    org.apache.lucene.analysis.cjk
+    org.apache.lucene.analysis.ckb
+    org.apache.lucene.analysis.commongrams
+    org.apache.lucene.analysis.compound
+    org.apache.lucene.analysis.compound.hyphenation
+    org.apache.lucene.analysis.core
+    org.apache.lucene.analysis.custom
+    org.apache.lucene.analysis.cz
+    org.apache.lucene.analysis.da
+    org.apache.lucene.analysis.de
+    org.apache.lucene.analysis.el
+    org.apache.lucene.analysis.en
+    org.apache.lucene.analysis.es
+    org.apache.lucene.analysis.eu
+    org.apache.lucene.analysis.fa
+    org.apache.lucene.analysis.fi
+    org.apache.lucene.analysis.fr
+    org.apache.lucene.analysis.ga
+    org.apache.lucene.analysis.gl
+    org.apache.lucene.analysis.hi
+    org.apache.lucene.analysis.hu
+    org.apache.lucene.analysis.hunspell
+    org.apache.lucene.analysis.hy
+    org.apache.lucene.analysis.id
+    org.apache.lucene.analysis.in
+    org.apache.lucene.analysis.it
+    org.apache.lucene.analysis.lt
+    org.apache.lucene.analysis.lv
+    org.apache.lucene.analysis.minhash
+    org.apache.lucene.analysis.miscellaneous
+    org.apache.lucene.analysis.ngram
+    org.apache.lucene.analysis.nl
+    org.apache.lucene.analysis.no
+    org.apache.lucene.analysis.path
+    org.apache.lucene.analysis.pattern
+    org.apache.lucene.analysis.payloads
+    org.apache.lucene.analysis.pt
+    org.apache.lucene.analysis.query
+    org.apache.lucene.analysis.reverse
+    org.apache.lucene.analysis.ro
+    org.apache.lucene.analysis.ru
+    org.apache.lucene.analysis.shingle
+    org.apache.lucene.analysis.sinks
+    org.apache.lucene.analysis.snowball
+    org.apache.lucene.analysis.sr
+    org.apache.lucene.analysis.standard
+    org.apache.lucene.analysis.sv
+    org.apache.lucene.analysis.synonym
+    org.apache.lucene.analysis.th
+    org.apache.lucene.analysis.tr
+    org.apache.lucene.analysis.util
+    org.apache.lucene.analysis.wikipedia
+    org.apache.lucene.collation
+    org.apache.lucene.collation.tokenattributes
+    org.tartarus.snowball
+    org.tartarus.snowball.ext
+
+JAR File: lucene-core-7.5.0.jar
+Packages:
+    META-INF.versions.9.org.apache.lucene.analysis.tokenattributes
+    META-INF.versions.9.org.apache.lucene.codecs.compressing
+    META-INF.versions.9.org.apache.lucene.document
+    META-INF.versions.9.org.apache.lucene.index
+    META-INF.versions.9.org.apache.lucene.search
+    META-INF.versions.9.org.apache.lucene.util
+    META-INF.versions.9.org.apache.lucene.util.automaton
+    META-INF.versions.9.org.apache.lucene.util.bkd
+    org.apache.lucene
+    org.apache.lucene.analysis
+    org.apache.lucene.analysis.standard
+    org.apache.lucene.analysis.tokenattributes
+    org.apache.lucene.codecs
+    org.apache.lucene.codecs.blocktree
+    org.apache.lucene.codecs.compressing
+    org.apache.lucene.codecs.lucene50
+    org.apache.lucene.codecs.lucene60
+    org.apache.lucene.codecs.lucene62
+    org.apache.lucene.codecs.lucene70
+    org.apache.lucene.codecs.perfield
+    org.apache.lucene.document
+    org.apache.lucene.geo
+    org.apache.lucene.index
+    org.apache.lucene.search
+    org.apache.lucene.search.similarities
+    org.apache.lucene.search.spans
+    org.apache.lucene.store
+    org.apache.lucene.util
+    org.apache.lucene.util.automaton
+    org.apache.lucene.util.bkd
+    org.apache.lucene.util.fst
+    org.apache.lucene.util.graph
+    org.apache.lucene.util.mutable
+    org.apache.lucene.util.packed
+
+JAR File: lucene-queries-7.5.0.jar
+Packages:
+    org.apache.lucene.queries
+    org.apache.lucene.queries.function
+    org.apache.lucene.queries.function.docvalues
+    org.apache.lucene.queries.function.valuesource
+    org.apache.lucene.queries.mlt
+    org.apache.lucene.queries.payloads
+
+JAR File: lucene-queryparser-7.5.0.jar
+Packages:
+    org.apache.lucene.queryparser.classic
+    org.apache.lucene.queryparser.complexPhrase
+    org.apache.lucene.queryparser.ext
+    org.apache.lucene.queryparser.flexible.core
+    org.apache.lucene.queryparser.flexible.core.builders
+    org.apache.lucene.queryparser.flexible.core.config
+    org.apache.lucene.queryparser.flexible.core.messages
+    org.apache.lucene.queryparser.flexible.core.nodes
+    org.apache.lucene.queryparser.flexible.core.parser
+    org.apache.lucene.queryparser.flexible.core.processors
+    org.apache.lucene.queryparser.flexible.core.util
+    org.apache.lucene.queryparser.flexible.messages
+    org.apache.lucene.queryparser.flexible.precedence
+    org.apache.lucene.queryparser.flexible.precedence.processors
+    org.apache.lucene.queryparser.flexible.standard
+    org.apache.lucene.queryparser.flexible.standard.builders
+    org.apache.lucene.queryparser.flexible.standard.config
+    org.apache.lucene.queryparser.flexible.standard.nodes
+    org.apache.lucene.queryparser.flexible.standard.parser
+    org.apache.lucene.queryparser.flexible.standard.processors
+    org.apache.lucene.queryparser.simple
+    org.apache.lucene.queryparser.surround.parser
+    org.apache.lucene.queryparser.surround.query
+    org.apache.lucene.queryparser.xml
+    org.apache.lucene.queryparser.xml.builders
+
+JAR File: lucene-sandbox-7.5.0.jar
+Packages:
+    META-INF.versions.9.org.apache.lucene.document
+    org.apache.lucene.codecs.idversion
+    org.apache.lucene.document
+    org.apache.lucene.geo
+    org.apache.lucene.payloads
+    org.apache.lucene.sandbox.queries
+    org.apache.lucene.search
+    org.apache.lucene.search.intervals
+
+JAR File: protobuf-java-3.19.6.jar
+Packages:
+    com.google.protobuf
+    com.google.protobuf.compiler
+
+JAR File: serializer-2.7.3.jar
+Packages:
+    org.apache.xml.serializer
+    org.apache.xml.serializer.dom3
+    org.apache.xml.serializer.utils
+
+JAR File: slf4j-api-1.7.12.jar
+Packages:
+    org.slf4j
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: xalan-2.7.3.jar
+Packages:
+    java_cup.runtime
+    org.apache.bcel
+    org.apache.bcel.classfile
+    org.apache.bcel.generic
+    org.apache.bcel.util
+    org.apache.bcel.verifier
+    org.apache.bcel.verifier.exc
+    org.apache.bcel.verifier.statics
+    org.apache.bcel.verifier.structurals
+    org.apache.regexp
+    org.apache.xalan
+    org.apache.xalan.client
+    org.apache.xalan.extensions
+    org.apache.xalan.lib
+    org.apache.xalan.lib.sql
+    org.apache.xalan.processor
+    org.apache.xalan.res
+    org.apache.xalan.serialize
+    org.apache.xalan.templates
+    org.apache.xalan.trace
+    org.apache.xalan.transformer
+    org.apache.xalan.xslt
+    org.apache.xalan.xslt.util
+    org.apache.xalan.xsltc
+    org.apache.xalan.xsltc.cmdline
+    org.apache.xalan.xsltc.cmdline.getopt
+    org.apache.xalan.xsltc.compiler
+    org.apache.xalan.xsltc.compiler.util
+    org.apache.xalan.xsltc.dom
+    org.apache.xalan.xsltc.runtime
+    org.apache.xalan.xsltc.runtime.output
+    org.apache.xalan.xsltc.trax
+    org.apache.xalan.xsltc.util
+    org.apache.xml.dtm
+    org.apache.xml.dtm.ref
+    org.apache.xml.dtm.ref.dom2dtm
+    org.apache.xml.dtm.ref.sax2dtm
+    org.apache.xml.res
+    org.apache.xml.utils
+    org.apache.xml.utils.res
+    org.apache.xpath
+    org.apache.xpath.axes
+    org.apache.xpath.compiler
+    org.apache.xpath.domapi
+    org.apache.xpath.functions
+    org.apache.xpath.jaxp
+    org.apache.xpath.objects
+    org.apache.xpath.operations
+    org.apache.xpath.patterns
+    org.apache.xpath.res
+
+JAR File: xercesImpl-2.12.2.jar
+Packages:
+    org.apache.html.dom
+    org.apache.wml
+    org.apache.wml.dom
+    org.apache.xerces.dom
+    org.apache.xerces.dom.events
+    org.apache.xerces.dom3.as
+    org.apache.xerces.impl
+    org.apache.xerces.impl.dtd
+    org.apache.xerces.impl.dtd.models
+    org.apache.xerces.impl.dv
+    org.apache.xerces.impl.dv.dtd
+    org.apache.xerces.impl.dv.util
+    org.apache.xerces.impl.dv.xs
+    org.apache.xerces.impl.io
+    org.apache.xerces.impl.msg
+    org.apache.xerces.impl.validation
+    org.apache.xerces.impl.xpath
+    org.apache.xerces.impl.xpath.regex
+    org.apache.xerces.impl.xs
+    org.apache.xerces.impl.xs.identity
+    org.apache.xerces.impl.xs.models
+    org.apache.xerces.impl.xs.opti
+    org.apache.xerces.impl.xs.traversers
+    org.apache.xerces.impl.xs.util
+    org.apache.xerces.jaxp
+    org.apache.xerces.jaxp.datatype
+    org.apache.xerces.jaxp.validation
+    org.apache.xerces.parsers
+    org.apache.xerces.stax
+    org.apache.xerces.stax.events
+    org.apache.xerces.util
+    org.apache.xerces.xinclude
+    org.apache.xerces.xni
+    org.apache.xerces.xni.grammars
+    org.apache.xerces.xni.parser
+    org.apache.xerces.xpointer
+    org.apache.xerces.xs
+    org.apache.xerces.xs.datatypes
+    org.apache.xml.serialize
+    org.w3c.dom.html
+
+JAR File: xml-apis-1.4.01.jar
+Packages:
+    javax.xml
+    javax.xml.datatype
+    javax.xml.namespace
+    javax.xml.parsers
+    javax.xml.stream
+    javax.xml.stream.events
+    javax.xml.stream.util
+    javax.xml.transform
+    javax.xml.transform.dom
+    javax.xml.transform.sax
+    javax.xml.transform.stax
+    javax.xml.transform.stream
+    javax.xml.validation
+    javax.xml.xpath
+    org.apache.xmlcommons
+    org.w3c.dom
+    org.w3c.dom.bootstrap
+    org.w3c.dom.css
+    org.w3c.dom.events
+    org.w3c.dom.html
+    org.w3c.dom.ls
+    org.w3c.dom.ranges
+    org.w3c.dom.stylesheets
+    org.w3c.dom.traversal
+    org.w3c.dom.views
+    org.w3c.dom.xpath
+    org.xml.sax
+    org.xml.sax.ext
+    org.xml.sax.helpers
+
+JAR File: xom-1.3.9.jar
+Packages:
+    nu.xom
+    nu.xom.canonical
+    nu.xom.converters
+    nu.xom.jaxen
+    nu.xom.jaxen.expr
+    nu.xom.jaxen.expr.iter
+    nu.xom.jaxen.function
+    nu.xom.jaxen.function.ext
+    nu.xom.jaxen.function.xslt
+    nu.xom.jaxen.saxpath
+    nu.xom.jaxen.saxpath.base
+    nu.xom.jaxen.saxpath.helpers
+    nu.xom.jaxen.util
+    nu.xom.tests
+    nu.xom.xinclude
+    nu.xom.xslt
+
+Duplicate Packages Found:
+Package: org.ejml.dense.block.decomposition.bidiagonal
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.row.decompose.lu
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-zdense-0.39.jar
+Package: org.ejml.dense.block.decomposition.chol
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.qr
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc.decomposition.qr
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.w3c.dom.html
+    Appears in JARs:
+        xml-apis-1.4.01.jar
+        xercesImpl-2.12.2.jar
+Package: org.ejml.dense.row.decomposition.lu
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.fixed
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.linsol.lu
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.misc
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.eig.symm
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decompose.qr
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-zdense-0.39.jar
+Package: org.ejml.sparse.triplet
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.block.linsol.chol
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.bidiagonal
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.eig.watched
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.mult
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.hessenberg
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.svd
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: META-INF.versions.9.org.apache.lucene.document
+    Appears in JARs:
+        lucene-core-7.5.0.jar
+        lucene-sandbox-7.5.0.jar
+Package: org.ejml.dense.row.linsol.qr
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.linsol
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.linsol.chol
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc.mult
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.sparse.csc.decomposition.lu
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.row.linsol.svd
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc.misc
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.row
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.apache.lucene.analysis.standard
+    Appears in JARs:
+        lucene-core-7.5.0.jar
+        lucene-analyzers-common-7.5.0.jar
+Package: org.ejml.dense.row.factory
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-fdense-0.39.jar
+        ejml-zdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.apache.lucene.search
+    Appears in JARs:
+        lucene-core-7.5.0.jar
+        lucene-sandbox-7.5.0.jar
+Package: org.ejml.dense.block.linsol.qr
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decomposition.chol
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc.linsol.chol
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.generic
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.block.decomposition.qr
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.sparse.csc.linsol.lu
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.row.decompose.chol
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-zdense-0.39.jar
+Package: org.ejml.dense.row.decomposition.eig
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.apache.lucene.geo
+    Appears in JARs:
+        lucene-core-7.5.0.jar
+        lucene-sandbox-7.5.0.jar
+Package: org.ejml.sparse.csc.decomposition.chol
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.sparse.csc.factory
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.ejml.dense.row.decomposition.svd.implicitqr
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decompose
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-zdense-0.39.jar
+Package: org.ejml.sparse.csc.linsol.qr
+    Appears in JARs:
+        ejml-dsparse-0.39.jar
+        ejml-fsparse-0.39.jar
+Package: org.apache.lucene.document
+    Appears in JARs:
+        lucene-core-7.5.0.jar
+        lucene-sandbox-7.5.0.jar
+Package: org.ejml.dense.block
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.block.decomposition.hessenberg
+    Appears in JARs:
+        ejml-fdense-0.39.jar
+        ejml-ddense-0.39.jar
+Package: org.ejml.dense.row.decompose.hessenberg
+    Appears in JARs:
+        ejml-cdense-0.39.jar
+        ejml-zdense-0.39.jar

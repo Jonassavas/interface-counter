@@ -1,0 +1,48 @@
+JAR File: automaton-1.11-8.jar
+Packages:
+    dk.brics.automaton
+
+JAR File: commons-lang3-3.5.jar
+Packages:
+    org.apache.commons.lang3
+    org.apache.commons.lang3.builder
+    org.apache.commons.lang3.concurrent
+    org.apache.commons.lang3.event
+    org.apache.commons.lang3.exception
+    org.apache.commons.lang3.math
+    org.apache.commons.lang3.mutable
+    org.apache.commons.lang3.reflect
+    org.apache.commons.lang3.text
+    org.apache.commons.lang3.text.translate
+    org.apache.commons.lang3.time
+    org.apache.commons.lang3.tuple
+
+JAR File: generex-1.0.2.jar
+Packages:
+    com.mifmif.common.regex
+    com.mifmif.common.regex.util
+
+JAR File: snakeyaml-1.23-android.jar
+Packages:
+    org.yaml.snakeyaml
+    org.yaml.snakeyaml.composer
+    org.yaml.snakeyaml.constructor
+    org.yaml.snakeyaml.emitter
+    org.yaml.snakeyaml.error
+    org.yaml.snakeyaml.events
+    org.yaml.snakeyaml.extensions.compactnotation
+    org.yaml.snakeyaml.external.biz.base64Coder
+    org.yaml.snakeyaml.external.com.google.gdata.util.common.base
+    org.yaml.snakeyaml.introspector
+    org.yaml.snakeyaml.nodes
+    org.yaml.snakeyaml.parser
+    org.yaml.snakeyaml.reader
+    org.yaml.snakeyaml.representer
+    org.yaml.snakeyaml.resolver
+    org.yaml.snakeyaml.scanner
+    org.yaml.snakeyaml.serializer
+    org.yaml.snakeyaml.tokens
+    org.yaml.snakeyaml.util
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.

@@ -1,0 +1,135 @@
+JAR File: biz.aQute.bnd.annotation-6.3.1.jar
+Packages:
+    aQute.bnd.annotation
+    aQute.bnd.annotation.baseline
+    aQute.bnd.annotation.component
+    aQute.bnd.annotation.headers
+    aQute.bnd.annotation.jpms
+    aQute.bnd.annotation.licenses
+    aQute.bnd.annotation.metatype
+    aQute.bnd.annotation.plugin
+    aQute.bnd.annotation.service
+    aQute.bnd.annotation.spi
+    aQute.bnd.annotation.xml
+
+JAR File: isorelax-20090621.jar
+Packages:
+    jp.gr.xml.relax.dom
+    jp.gr.xml.relax.sax
+    jp.gr.xml.relax.xml
+    org.iso_relax.catalog
+    org.iso_relax.dispatcher
+    org.iso_relax.dispatcher.impl
+    org.iso_relax.jaxp
+    org.iso_relax.verifier
+    org.iso_relax.verifier.impl
+
+JAR File: msv-core-2013.6.1.jar
+Packages:
+    com.sun.msv.driver.textui
+    com.sun.msv.grammar
+    com.sun.msv.grammar.dtd
+    com.sun.msv.grammar.relax
+    com.sun.msv.grammar.relaxng
+    com.sun.msv.grammar.relaxng.datatype
+    com.sun.msv.grammar.trex
+    com.sun.msv.grammar.trex.typed
+    com.sun.msv.grammar.util
+    com.sun.msv.grammar.xmlschema
+    com.sun.msv.reader
+    com.sun.msv.reader.datatype
+    com.sun.msv.reader.datatype.xsd
+    com.sun.msv.reader.dtd
+    com.sun.msv.reader.relax
+    com.sun.msv.reader.relax.core
+    com.sun.msv.reader.relax.core.checker
+    com.sun.msv.reader.trex
+    com.sun.msv.reader.trex.classic
+    com.sun.msv.reader.trex.ng
+    com.sun.msv.reader.trex.ng.comp
+    com.sun.msv.reader.trex.typed
+    com.sun.msv.reader.util
+    com.sun.msv.reader.xmlschema
+    com.sun.msv.relaxns.grammar
+    com.sun.msv.relaxns.grammar.relax
+    com.sun.msv.relaxns.grammar.trex
+    com.sun.msv.relaxns.reader
+    com.sun.msv.relaxns.reader.relax
+    com.sun.msv.relaxns.reader.trex
+    com.sun.msv.relaxns.verifier
+    com.sun.msv.scanner.dtd
+    com.sun.msv.util
+    com.sun.msv.util.xml
+    com.sun.msv.verifier
+    com.sun.msv.verifier.identity
+    com.sun.msv.verifier.jarv
+    com.sun.msv.verifier.jaxp
+    com.sun.msv.verifier.psvi
+    com.sun.msv.verifier.regexp
+    com.sun.msv.verifier.regexp.xmlschema
+    com.sun.msv.verifier.util
+    com.sun.msv.writer
+    com.sun.msv.writer.relaxng
+
+JAR File: org.osgi.resource-1.0.0.jar
+Packages:
+    org.osgi.resource
+    org.osgi.resource.dto
+
+JAR File: org.osgi.service.serviceloader-1.0.0.jar
+Packages:
+    org.osgi.service.serviceloader
+
+JAR File: osgi.core-5.0.0.jar
+Packages:
+    org.osgi.framework
+    org.osgi.framework.hooks.bundle
+    org.osgi.framework.hooks.resolver
+    org.osgi.framework.hooks.service
+    org.osgi.framework.hooks.weaving
+    org.osgi.framework.launch
+    org.osgi.framework.namespace
+    org.osgi.framework.startlevel
+    org.osgi.framework.wiring
+    org.osgi.resource
+    org.osgi.service.condpermadmin
+    org.osgi.service.packageadmin
+    org.osgi.service.permissionadmin
+    org.osgi.service.startlevel
+    org.osgi.service.url
+    org.osgi.util.tracker
+
+JAR File: relaxngDatatype-20020414.jar
+Packages:
+    org.relaxng.datatype
+    org.relaxng.datatype.helpers
+
+JAR File: stax2-api-4.2.1.jar
+Packages:
+    org.codehaus.stax2
+    org.codehaus.stax2.evt
+    org.codehaus.stax2.io
+    org.codehaus.stax2.osgi
+    org.codehaus.stax2.ri
+    org.codehaus.stax2.ri.dom
+    org.codehaus.stax2.ri.evt
+    org.codehaus.stax2.ri.typed
+    org.codehaus.stax2.typed
+    org.codehaus.stax2.util
+    org.codehaus.stax2.validation
+
+JAR File: xsdlib-2013.6.1.jar
+Packages:
+    com.sun.msv.datatype
+    com.sun.msv.datatype.regexp
+    com.sun.msv.datatype.xsd
+    com.sun.msv.datatype.xsd.datetime
+    com.sun.msv.datatype.xsd.ngimpl
+    com.sun.msv.datatype.xsd.regex
+    com.sun.xml.util
+
+Duplicate Packages Found:
+Package: org.osgi.resource
+    Appears in JARs:
+        org.osgi.resource-1.0.0.jar
+        osgi.core-5.0.0.jar

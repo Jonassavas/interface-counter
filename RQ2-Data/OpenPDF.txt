@@ -1,0 +1,1251 @@
+JAR File: batik-anim-1.14.jar
+Packages:
+    org.apache.batik.anim
+    org.apache.batik.anim.dom
+    org.apache.batik.anim.timing
+    org.apache.batik.anim.values
+
+JAR File: batik-awt-util-1.14.jar
+Packages:
+    org.apache.batik.ext.awt
+    org.apache.batik.ext.awt.color
+    org.apache.batik.ext.awt.font
+    org.apache.batik.ext.awt.g2d
+    org.apache.batik.ext.awt.geom
+    org.apache.batik.ext.awt.image
+    org.apache.batik.ext.awt.image.renderable
+    org.apache.batik.ext.awt.image.rendered
+    org.apache.batik.ext.awt.image.spi
+    org.apache.batik.ext.swing
+
+JAR File: batik-bridge-1.14.jar
+Packages:
+    org.apache.batik.bridge
+    org.apache.batik.bridge.svg12
+
+JAR File: batik-constants-1.14.jar
+Packages:
+    org.apache.batik.constants
+
+JAR File: batik-css-1.14.jar
+Packages:
+    org.apache.batik.css.dom
+    org.apache.batik.css.engine
+    org.apache.batik.css.engine.sac
+    org.apache.batik.css.engine.value
+    org.apache.batik.css.engine.value.css2
+    org.apache.batik.css.engine.value.svg
+    org.apache.batik.css.engine.value.svg12
+    org.apache.batik.css.parser
+
+JAR File: batik-dom-1.14.jar
+Packages:
+    org.apache.batik.dom
+    org.apache.batik.dom.events
+    org.apache.batik.dom.traversal
+    org.apache.batik.dom.util
+    org.apache.batik.dom.xbl
+
+JAR File: batik-ext-1.14.jar
+Packages:
+    org.apache.batik.w3c.dom
+    org.apache.batik.w3c.dom.events
+
+JAR File: batik-extension-1.14.jar
+Packages:
+    org.apache.batik.extension
+    org.apache.batik.extension.svg
+
+JAR File: batik-gvt-1.14.jar
+Packages:
+    org.apache.batik.gvt
+    org.apache.batik.gvt.event
+    org.apache.batik.gvt.filter
+    org.apache.batik.gvt.flow
+    org.apache.batik.gvt.font
+    org.apache.batik.gvt.renderer
+    org.apache.batik.gvt.text
+
+JAR File: batik-i18n-1.14.jar
+Packages:
+    org.apache.batik.i18n
+
+JAR File: batik-parser-1.14.jar
+Packages:
+    org.apache.batik.parser
+
+JAR File: batik-script-1.14.jar
+Packages:
+    org.apache.batik.script
+    org.apache.batik.script.jpython
+    org.apache.batik.script.rhino
+
+JAR File: batik-shared-resources-1.14.jar
+Packages:
+
+JAR File: batik-svg-dom-1.14.jar
+Packages:
+    org.apache.batik.dom.svg
+    org.apache.batik.dom.svg12
+
+JAR File: batik-svggen-1.14.jar
+Packages:
+    org.apache.batik.svggen
+    org.apache.batik.svggen.font
+    org.apache.batik.svggen.font.table
+
+JAR File: batik-transcoder-1.14.jar
+Packages:
+    org.apache.batik.transcoder
+    org.apache.batik.transcoder.image
+    org.apache.batik.transcoder.image.resources
+    org.apache.batik.transcoder.keys
+    org.apache.batik.transcoder.print
+    org.apache.batik.transcoder.svg2svg
+    org.apache.batik.transcoder.wmf
+    org.apache.batik.transcoder.wmf.tosvg
+
+JAR File: batik-util-1.14.jar
+Packages:
+    org.apache.batik
+    org.apache.batik.util
+    org.apache.batik.util.io
+    org.apache.batik.util.resources
+
+JAR File: batik-xml-1.14.jar
+Packages:
+    org.apache.batik.xml
+
+JAR File: bcpkix-jdk18on-1.71.1.jar
+Packages:
+    META-INF.versions.9
+    org.bouncycastle.cert
+    org.bouncycastle.cert.bc
+    org.bouncycastle.cert.cmp
+    org.bouncycastle.cert.crmf
+    org.bouncycastle.cert.crmf.bc
+    org.bouncycastle.cert.crmf.jcajce
+    org.bouncycastle.cert.dane
+    org.bouncycastle.cert.dane.fetcher
+    org.bouncycastle.cert.jcajce
+    org.bouncycastle.cert.ocsp
+    org.bouncycastle.cert.ocsp.jcajce
+    org.bouncycastle.cert.path
+    org.bouncycastle.cert.path.validations
+    org.bouncycastle.cert.selector
+    org.bouncycastle.cert.selector.jcajce
+    org.bouncycastle.cmc
+    org.bouncycastle.cms
+    org.bouncycastle.cms.bc
+    org.bouncycastle.cms.jcajce
+    org.bouncycastle.dvcs
+    org.bouncycastle.eac
+    org.bouncycastle.eac.jcajce
+    org.bouncycastle.eac.operator
+    org.bouncycastle.eac.operator.jcajce
+    org.bouncycastle.est
+    org.bouncycastle.est.jcajce
+    org.bouncycastle.its
+    org.bouncycastle.its.bc
+    org.bouncycastle.its.jcajce
+    org.bouncycastle.its.operator
+    org.bouncycastle.mime
+    org.bouncycastle.mime.encoding
+    org.bouncycastle.mime.smime
+    org.bouncycastle.mozilla
+    org.bouncycastle.mozilla.jcajce
+    org.bouncycastle.openssl
+    org.bouncycastle.openssl.bc
+    org.bouncycastle.openssl.jcajce
+    org.bouncycastle.operator
+    org.bouncycastle.operator.bc
+    org.bouncycastle.operator.jcajce
+    org.bouncycastle.pkcs
+    org.bouncycastle.pkcs.bc
+    org.bouncycastle.pkcs.jcajce
+    org.bouncycastle.pkix
+    org.bouncycastle.pkix.jcajce
+    org.bouncycastle.tsp
+    org.bouncycastle.tsp.cms
+    org.bouncycastle.tsp.ers
+    org.bouncycastle.voms
+
+JAR File: bcprov-jdk18on-1.71.1.jar
+Packages:
+    META-INF.versions.11.org.bouncycastle.jcajce.provider.asymmetric.edec
+    META-INF.versions.15.org.bouncycastle.jcajce.provider.asymmetric.edec
+    META-INF.versions.9
+    META-INF.versions.9.org.bouncycastle.asn1
+    META-INF.versions.9.org.bouncycastle.asn1.anssi
+    META-INF.versions.9.org.bouncycastle.asn1.bc
+    META-INF.versions.9.org.bouncycastle.asn1.cryptlib
+    META-INF.versions.9.org.bouncycastle.asn1.cryptopro
+    META-INF.versions.9.org.bouncycastle.asn1.gm
+    META-INF.versions.9.org.bouncycastle.asn1.gnu
+    META-INF.versions.9.org.bouncycastle.asn1.isara
+    META-INF.versions.9.org.bouncycastle.asn1.iso
+    META-INF.versions.9.org.bouncycastle.asn1.misc
+    META-INF.versions.9.org.bouncycastle.asn1.nist
+    META-INF.versions.9.org.bouncycastle.asn1.oiw
+    META-INF.versions.9.org.bouncycastle.asn1.pkcs
+    META-INF.versions.9.org.bouncycastle.asn1.rosstandart
+    META-INF.versions.9.org.bouncycastle.asn1.sec
+    META-INF.versions.9.org.bouncycastle.asn1.teletrust
+    META-INF.versions.9.org.bouncycastle.asn1.x509
+    META-INF.versions.9.org.bouncycastle.asn1.x9
+    META-INF.versions.9.org.bouncycastle.crypto
+    META-INF.versions.9.org.bouncycastle.crypto.digests
+    META-INF.versions.9.org.bouncycastle.crypto.ec
+    META-INF.versions.9.org.bouncycastle.crypto.engines
+    META-INF.versions.9.org.bouncycastle.crypto.generators
+    META-INF.versions.9.org.bouncycastle.crypto.macs
+    META-INF.versions.9.org.bouncycastle.crypto.params
+    META-INF.versions.9.org.bouncycastle.crypto.util
+    META-INF.versions.9.org.bouncycastle.jcajce.provider.asymmetric.util
+    META-INF.versions.9.org.bouncycastle.jcajce.provider.config
+    META-INF.versions.9.org.bouncycastle.jcajce.provider.symmetric.util
+    META-INF.versions.9.org.bouncycastle.jcajce.provider.util
+    META-INF.versions.9.org.bouncycastle.jcajce.spec
+    META-INF.versions.9.org.bouncycastle.jcajce.util
+    META-INF.versions.9.org.bouncycastle.jce
+    META-INF.versions.9.org.bouncycastle.jce.interfaces
+    META-INF.versions.9.org.bouncycastle.jce.provider
+    META-INF.versions.9.org.bouncycastle.jce.spec
+    META-INF.versions.9.org.bouncycastle.math
+    META-INF.versions.9.org.bouncycastle.math.ec
+    META-INF.versions.9.org.bouncycastle.math.ec.custom.djb
+    META-INF.versions.9.org.bouncycastle.math.ec.custom.gm
+    META-INF.versions.9.org.bouncycastle.math.ec.custom.sec
+    META-INF.versions.9.org.bouncycastle.math.ec.endo
+    META-INF.versions.9.org.bouncycastle.math.field
+    META-INF.versions.9.org.bouncycastle.math.raw
+    META-INF.versions.9.org.bouncycastle.pqc.asn1
+    META-INF.versions.9.org.bouncycastle.pqc.crypto
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.cmce
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.frodo
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.lms
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.mceliece
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.newhope
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.qtesla
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.rainbow
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.rainbow.util
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.saber
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.sphincs
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.sphincsplus
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.util
+    META-INF.versions.9.org.bouncycastle.pqc.crypto.xmss
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.interfaces
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.lms
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.mceliece
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.newhope
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.qtesla
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.rainbow
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.sphincs
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.sphincsplus
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.util
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.provider.xmss
+    META-INF.versions.9.org.bouncycastle.pqc.jcajce.spec
+    META-INF.versions.9.org.bouncycastle.pqc.math.linearalgebra
+    META-INF.versions.9.org.bouncycastle.util
+    META-INF.versions.9.org.bouncycastle.util.encoders
+    META-INF.versions.9.org.bouncycastle.util.io
+    org.bouncycastle
+    org.bouncycastle.asn1
+    org.bouncycastle.asn1.anssi
+    org.bouncycastle.asn1.bc
+    org.bouncycastle.asn1.cryptlib
+    org.bouncycastle.asn1.cryptopro
+    org.bouncycastle.asn1.edec
+    org.bouncycastle.asn1.gm
+    org.bouncycastle.asn1.gnu
+    org.bouncycastle.asn1.iana
+    org.bouncycastle.asn1.isara
+    org.bouncycastle.asn1.iso
+    org.bouncycastle.asn1.kisa
+    org.bouncycastle.asn1.microsoft
+    org.bouncycastle.asn1.misc
+    org.bouncycastle.asn1.mozilla
+    org.bouncycastle.asn1.nist
+    org.bouncycastle.asn1.nsri
+    org.bouncycastle.asn1.ntt
+    org.bouncycastle.asn1.ocsp
+    org.bouncycastle.asn1.oiw
+    org.bouncycastle.asn1.pkcs
+    org.bouncycastle.asn1.rosstandart
+    org.bouncycastle.asn1.sec
+    org.bouncycastle.asn1.teletrust
+    org.bouncycastle.asn1.ua
+    org.bouncycastle.asn1.util
+    org.bouncycastle.asn1.x500
+    org.bouncycastle.asn1.x500.style
+    org.bouncycastle.asn1.x509
+    org.bouncycastle.asn1.x509.qualified
+    org.bouncycastle.asn1.x509.sigi
+    org.bouncycastle.asn1.x9
+    org.bouncycastle.crypto
+    org.bouncycastle.crypto.agreement
+    org.bouncycastle.crypto.agreement.jpake
+    org.bouncycastle.crypto.agreement.kdf
+    org.bouncycastle.crypto.agreement.srp
+    org.bouncycastle.crypto.commitments
+    org.bouncycastle.crypto.digests
+    org.bouncycastle.crypto.ec
+    org.bouncycastle.crypto.encodings
+    org.bouncycastle.crypto.engines
+    org.bouncycastle.crypto.examples
+    org.bouncycastle.crypto.fpe
+    org.bouncycastle.crypto.generators
+    org.bouncycastle.crypto.io
+    org.bouncycastle.crypto.kems
+    org.bouncycastle.crypto.macs
+    org.bouncycastle.crypto.modes
+    org.bouncycastle.crypto.modes.gcm
+    org.bouncycastle.crypto.modes.kgcm
+    org.bouncycastle.crypto.paddings
+    org.bouncycastle.crypto.params
+    org.bouncycastle.crypto.parsers
+    org.bouncycastle.crypto.prng
+    org.bouncycastle.crypto.prng.drbg
+    org.bouncycastle.crypto.signers
+    org.bouncycastle.crypto.util
+    org.bouncycastle.i18n
+    org.bouncycastle.i18n.filter
+    org.bouncycastle.iana
+    org.bouncycastle.internal.asn1.bsi
+    org.bouncycastle.internal.asn1.cms
+    org.bouncycastle.internal.asn1.eac
+    org.bouncycastle.internal.asn1.isismtt
+    org.bouncycastle.jcajce
+    org.bouncycastle.jcajce.interfaces
+    org.bouncycastle.jcajce.io
+    org.bouncycastle.jcajce.provider.asymmetric
+    org.bouncycastle.jcajce.provider.asymmetric.dh
+    org.bouncycastle.jcajce.provider.asymmetric.dsa
+    org.bouncycastle.jcajce.provider.asymmetric.dstu
+    org.bouncycastle.jcajce.provider.asymmetric.ec
+    org.bouncycastle.jcajce.provider.asymmetric.ecgost
+    org.bouncycastle.jcajce.provider.asymmetric.ecgost12
+    org.bouncycastle.jcajce.provider.asymmetric.edec
+    org.bouncycastle.jcajce.provider.asymmetric.elgamal
+    org.bouncycastle.jcajce.provider.asymmetric.gost
+    org.bouncycastle.jcajce.provider.asymmetric.ies
+    org.bouncycastle.jcajce.provider.asymmetric.rsa
+    org.bouncycastle.jcajce.provider.asymmetric.util
+    org.bouncycastle.jcajce.provider.asymmetric.x509
+    org.bouncycastle.jcajce.provider.config
+    org.bouncycastle.jcajce.provider.digest
+    org.bouncycastle.jcajce.provider.drbg
+    org.bouncycastle.jcajce.provider.keystore
+    org.bouncycastle.jcajce.provider.keystore.bc
+    org.bouncycastle.jcajce.provider.keystore.bcfks
+    org.bouncycastle.jcajce.provider.keystore.pkcs12
+    org.bouncycastle.jcajce.provider.keystore.util
+    org.bouncycastle.jcajce.provider.symmetric
+    org.bouncycastle.jcajce.provider.symmetric.util
+    org.bouncycastle.jcajce.provider.util
+    org.bouncycastle.jcajce.spec
+    org.bouncycastle.jcajce.util
+    org.bouncycastle.jce
+    org.bouncycastle.jce.exception
+    org.bouncycastle.jce.interfaces
+    org.bouncycastle.jce.netscape
+    org.bouncycastle.jce.provider
+    org.bouncycastle.jce.spec
+    org.bouncycastle.math
+    org.bouncycastle.math.ec
+    org.bouncycastle.math.ec.custom.djb
+    org.bouncycastle.math.ec.custom.gm
+    org.bouncycastle.math.ec.custom.sec
+    org.bouncycastle.math.ec.endo
+    org.bouncycastle.math.ec.rfc7748
+    org.bouncycastle.math.ec.rfc8032
+    org.bouncycastle.math.ec.tools
+    org.bouncycastle.math.field
+    org.bouncycastle.math.raw
+    org.bouncycastle.pqc.asn1
+    org.bouncycastle.pqc.crypto
+    org.bouncycastle.pqc.crypto.cmce
+    org.bouncycastle.pqc.crypto.frodo
+    org.bouncycastle.pqc.crypto.gmss
+    org.bouncycastle.pqc.crypto.gmss.util
+    org.bouncycastle.pqc.crypto.lms
+    org.bouncycastle.pqc.crypto.mceliece
+    org.bouncycastle.pqc.crypto.newhope
+    org.bouncycastle.pqc.crypto.qtesla
+    org.bouncycastle.pqc.crypto.rainbow
+    org.bouncycastle.pqc.crypto.rainbow.util
+    org.bouncycastle.pqc.crypto.saber
+    org.bouncycastle.pqc.crypto.sphincs
+    org.bouncycastle.pqc.crypto.sphincsplus
+    org.bouncycastle.pqc.crypto.util
+    org.bouncycastle.pqc.crypto.xmss
+    org.bouncycastle.pqc.jcajce.interfaces
+    org.bouncycastle.pqc.jcajce.provider
+    org.bouncycastle.pqc.jcajce.provider.cmce
+    org.bouncycastle.pqc.jcajce.provider.frodo
+    org.bouncycastle.pqc.jcajce.provider.gmss
+    org.bouncycastle.pqc.jcajce.provider.lms
+    org.bouncycastle.pqc.jcajce.provider.mceliece
+    org.bouncycastle.pqc.jcajce.provider.newhope
+    org.bouncycastle.pqc.jcajce.provider.qtesla
+    org.bouncycastle.pqc.jcajce.provider.rainbow
+    org.bouncycastle.pqc.jcajce.provider.saber
+    org.bouncycastle.pqc.jcajce.provider.sphincs
+    org.bouncycastle.pqc.jcajce.provider.sphincsplus
+    org.bouncycastle.pqc.jcajce.provider.util
+    org.bouncycastle.pqc.jcajce.provider.xmss
+    org.bouncycastle.pqc.jcajce.spec
+    org.bouncycastle.pqc.math.linearalgebra
+    org.bouncycastle.util
+    org.bouncycastle.util.encoders
+    org.bouncycastle.util.io
+    org.bouncycastle.util.io.pem
+    org.bouncycastle.util.test
+    org.bouncycastle.x509
+    org.bouncycastle.x509.extension
+    org.bouncycastle.x509.util
+
+JAR File: bcutil-jdk18on-1.71.1.jar
+Packages:
+    META-INF.versions.9
+    org.bouncycastle.asn1.bsi
+    org.bouncycastle.asn1.cmc
+    org.bouncycastle.asn1.cmp
+    org.bouncycastle.asn1.cms
+    org.bouncycastle.asn1.cms.ecc
+    org.bouncycastle.asn1.crmf
+    org.bouncycastle.asn1.dvcs
+    org.bouncycastle.asn1.eac
+    org.bouncycastle.asn1.esf
+    org.bouncycastle.asn1.ess
+    org.bouncycastle.asn1.est
+    org.bouncycastle.asn1.icao
+    org.bouncycastle.asn1.isismtt
+    org.bouncycastle.asn1.isismtt.ocsp
+    org.bouncycastle.asn1.isismtt.x509
+    org.bouncycastle.asn1.smime
+    org.bouncycastle.asn1.tsp
+    org.bouncycastle.oer
+    org.bouncycastle.oer.its
+    org.bouncycastle.oer.its.etsi102941
+    org.bouncycastle.oer.its.etsi102941.basetypes
+    org.bouncycastle.oer.its.etsi103097
+    org.bouncycastle.oer.its.etsi103097.extension
+    org.bouncycastle.oer.its.ieee1609dot2
+    org.bouncycastle.oer.its.ieee1609dot2.basetypes
+    org.bouncycastle.oer.its.ieee1609dot2dot1
+    org.bouncycastle.oer.its.template.etsi102941
+    org.bouncycastle.oer.its.template.etsi102941.basetypes
+    org.bouncycastle.oer.its.template.etsi103097
+    org.bouncycastle.oer.its.template.etsi103097.extension
+    org.bouncycastle.oer.its.template.ieee1609dot2
+    org.bouncycastle.oer.its.template.ieee1609dot2.basetypes
+    org.bouncycastle.oer.its.template.ieee1609dot2dot1
+
+JAR File: commons-logging-1.0.4.jar
+Packages:
+    org.apache.commons.logging
+    org.apache.commons.logging.impl
+
+JAR File: fontbox-2.0.24.jar
+Packages:
+    org.apache.fontbox
+    org.apache.fontbox.afm
+    org.apache.fontbox.cff
+    org.apache.fontbox.cmap
+    org.apache.fontbox.encoding
+    org.apache.fontbox.pfb
+    org.apache.fontbox.ttf
+    org.apache.fontbox.type1
+    org.apache.fontbox.util
+    org.apache.fontbox.util.autodetect
+
+JAR File: fop-2.7.jar
+Packages:
+    org.apache.fop
+    org.apache.fop.accessibility
+    org.apache.fop.accessibility.fo
+    org.apache.fop.activity
+    org.apache.fop.afp
+    org.apache.fop.afp.apps
+    org.apache.fop.afp.fonts
+    org.apache.fop.afp.goca
+    org.apache.fop.afp.ioca
+    org.apache.fop.afp.modca
+    org.apache.fop.afp.modca.triplets
+    org.apache.fop.afp.parser
+    org.apache.fop.afp.ptoca
+    org.apache.fop.afp.svg
+    org.apache.fop.afp.util
+    org.apache.fop.apps
+    org.apache.fop.apps.io
+    org.apache.fop.area
+    org.apache.fop.area.inline
+    org.apache.fop.cli
+    org.apache.fop.complexscripts.bidi
+    org.apache.fop.complexscripts.fonts
+    org.apache.fop.complexscripts.scripts
+    org.apache.fop.complexscripts.util
+    org.apache.fop.configuration
+    org.apache.fop.datatypes
+    org.apache.fop.events
+    org.apache.fop.events.model
+    org.apache.fop.fo
+    org.apache.fop.fo.expr
+    org.apache.fop.fo.extensions
+    org.apache.fop.fo.extensions.destination
+    org.apache.fop.fo.extensions.svg
+    org.apache.fop.fo.extensions.xmp
+    org.apache.fop.fo.flow
+    org.apache.fop.fo.flow.table
+    org.apache.fop.fo.pagination
+    org.apache.fop.fo.pagination.bookmarks
+    org.apache.fop.fo.properties
+    org.apache.fop.fonts
+    org.apache.fop.fonts.apps
+    org.apache.fop.fonts.autodetect
+    org.apache.fop.fonts.base14
+    org.apache.fop.fonts.cff
+    org.apache.fop.fonts.substitute
+    org.apache.fop.fonts.truetype
+    org.apache.fop.fonts.type1
+    org.apache.fop.hyphenation
+    org.apache.fop.image.loader.batik
+    org.apache.fop.layoutmgr
+    org.apache.fop.layoutmgr.inline
+    org.apache.fop.layoutmgr.list
+    org.apache.fop.layoutmgr.table
+    org.apache.fop.pdf
+    org.apache.fop.pdf.xref
+    org.apache.fop.render
+    org.apache.fop.render.afp
+    org.apache.fop.render.afp.exceptions
+    org.apache.fop.render.afp.extensions
+    org.apache.fop.render.awt
+    org.apache.fop.render.awt.viewer
+    org.apache.fop.render.bitmap
+    org.apache.fop.render.extensions.prepress
+    org.apache.fop.render.gradient
+    org.apache.fop.render.intermediate
+    org.apache.fop.render.intermediate.extensions
+    org.apache.fop.render.intermediate.util
+    org.apache.fop.render.java2d
+    org.apache.fop.render.pcl
+    org.apache.fop.render.pcl.extensions
+    org.apache.fop.render.pcl.fonts
+    org.apache.fop.render.pcl.fonts.truetype
+    org.apache.fop.render.pdf
+    org.apache.fop.render.pdf.extensions
+    org.apache.fop.render.print
+    org.apache.fop.render.ps
+    org.apache.fop.render.ps.extensions
+    org.apache.fop.render.ps.fonts
+    org.apache.fop.render.ps.svg
+    org.apache.fop.render.rtf
+    org.apache.fop.render.rtf.rtflib.exceptions
+    org.apache.fop.render.rtf.rtflib.rtfdoc
+    org.apache.fop.render.rtf.rtflib.tools
+    org.apache.fop.render.txt
+    org.apache.fop.render.txt.border
+    org.apache.fop.render.xml
+    org.apache.fop.servlet
+    org.apache.fop.svg
+    org.apache.fop.svg.font
+    org.apache.fop.svg.text
+    org.apache.fop.text.linebreak
+    org.apache.fop.tools
+    org.apache.fop.tools.anttasks
+    org.apache.fop.tools.fontlist
+    org.apache.fop.traits
+    org.apache.fop.util
+    org.apache.fop.util.bitmap
+    org.apache.fop.util.text
+
+JAR File: fop-core-2.7.jar
+Packages:
+    org.apache.fop
+    org.apache.fop.accessibility
+    org.apache.fop.accessibility.fo
+    org.apache.fop.activity
+    org.apache.fop.afp
+    org.apache.fop.afp.apps
+    org.apache.fop.afp.fonts
+    org.apache.fop.afp.goca
+    org.apache.fop.afp.ioca
+    org.apache.fop.afp.modca
+    org.apache.fop.afp.modca.triplets
+    org.apache.fop.afp.parser
+    org.apache.fop.afp.ptoca
+    org.apache.fop.afp.svg
+    org.apache.fop.afp.util
+    org.apache.fop.apps
+    org.apache.fop.apps.io
+    org.apache.fop.area
+    org.apache.fop.area.inline
+    org.apache.fop.cli
+    org.apache.fop.complexscripts.bidi
+    org.apache.fop.complexscripts.fonts
+    org.apache.fop.complexscripts.scripts
+    org.apache.fop.complexscripts.util
+    org.apache.fop.configuration
+    org.apache.fop.datatypes
+    org.apache.fop.events
+    org.apache.fop.fo
+    org.apache.fop.fo.expr
+    org.apache.fop.fo.extensions
+    org.apache.fop.fo.extensions.destination
+    org.apache.fop.fo.extensions.svg
+    org.apache.fop.fo.extensions.xmp
+    org.apache.fop.fo.flow
+    org.apache.fop.fo.flow.table
+    org.apache.fop.fo.pagination
+    org.apache.fop.fo.pagination.bookmarks
+    org.apache.fop.fo.properties
+    org.apache.fop.fonts
+    org.apache.fop.fonts.apps
+    org.apache.fop.fonts.autodetect
+    org.apache.fop.fonts.base14
+    org.apache.fop.fonts.cff
+    org.apache.fop.fonts.substitute
+    org.apache.fop.fonts.truetype
+    org.apache.fop.fonts.type1
+    org.apache.fop.hyphenation
+    org.apache.fop.image.loader.batik
+    org.apache.fop.layoutmgr
+    org.apache.fop.layoutmgr.inline
+    org.apache.fop.layoutmgr.list
+    org.apache.fop.layoutmgr.table
+    org.apache.fop.pdf
+    org.apache.fop.pdf.xref
+    org.apache.fop.render
+    org.apache.fop.render.afp
+    org.apache.fop.render.afp.exceptions
+    org.apache.fop.render.afp.extensions
+    org.apache.fop.render.awt
+    org.apache.fop.render.awt.viewer
+    org.apache.fop.render.bitmap
+    org.apache.fop.render.extensions.prepress
+    org.apache.fop.render.gradient
+    org.apache.fop.render.intermediate
+    org.apache.fop.render.intermediate.extensions
+    org.apache.fop.render.intermediate.util
+    org.apache.fop.render.java2d
+    org.apache.fop.render.pcl
+    org.apache.fop.render.pcl.extensions
+    org.apache.fop.render.pcl.fonts
+    org.apache.fop.render.pcl.fonts.truetype
+    org.apache.fop.render.pdf
+    org.apache.fop.render.pdf.extensions
+    org.apache.fop.render.print
+    org.apache.fop.render.ps
+    org.apache.fop.render.ps.extensions
+    org.apache.fop.render.ps.fonts
+    org.apache.fop.render.ps.svg
+    org.apache.fop.render.rtf
+    org.apache.fop.render.rtf.rtflib.exceptions
+    org.apache.fop.render.rtf.rtflib.rtfdoc
+    org.apache.fop.render.rtf.rtflib.tools
+    org.apache.fop.render.txt
+    org.apache.fop.render.txt.border
+    org.apache.fop.render.xml
+    org.apache.fop.servlet
+    org.apache.fop.svg
+    org.apache.fop.svg.font
+    org.apache.fop.svg.text
+    org.apache.fop.text.linebreak
+    org.apache.fop.tools
+    org.apache.fop.tools.anttasks
+    org.apache.fop.tools.fontlist
+    org.apache.fop.traits
+    org.apache.fop.util
+    org.apache.fop.util.bitmap
+    org.apache.fop.util.text
+
+JAR File: fop-events-2.7.jar
+Packages:
+    org.apache.fop.events
+    org.apache.fop.events.model
+    org.apache.fop.tools
+
+JAR File: fop-util-2.7.jar
+Packages:
+    org.apache.fop.util
+    org.apache.fop.util.text
+
+JAR File: icu4j-71.1.jar
+Packages:
+    com.ibm.icu.impl
+    com.ibm.icu.impl.breakiter
+    com.ibm.icu.impl.coll
+    com.ibm.icu.impl.data
+    com.ibm.icu.impl.duration
+    com.ibm.icu.impl.duration.impl
+    com.ibm.icu.impl.locale
+    com.ibm.icu.impl.number
+    com.ibm.icu.impl.number.parse
+    com.ibm.icu.impl.number.range
+    com.ibm.icu.impl.text
+    com.ibm.icu.impl.units
+    com.ibm.icu.lang
+    com.ibm.icu.math
+    com.ibm.icu.number
+    com.ibm.icu.text
+    com.ibm.icu.util
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: qdox-1.12.jar
+Packages:
+    com.thoughtworks.qdox
+    com.thoughtworks.qdox.ant
+    com.thoughtworks.qdox.directorywalker
+    com.thoughtworks.qdox.junit
+    com.thoughtworks.qdox.model
+    com.thoughtworks.qdox.model.annotation
+    com.thoughtworks.qdox.model.util
+    com.thoughtworks.qdox.parser
+    com.thoughtworks.qdox.parser.impl
+    com.thoughtworks.qdox.parser.structs
+    com.thoughtworks.qdox.tools
+
+JAR File: serializer-2.7.2.jar
+Packages:
+    org.apache.xml.serializer
+    org.apache.xml.serializer.dom3
+    org.apache.xml.serializer.utils
+
+JAR File: xalan-2.7.2.jar
+Packages:
+    java_cup.runtime
+    org.apache.bcel
+    org.apache.bcel.classfile
+    org.apache.bcel.generic
+    org.apache.bcel.util
+    org.apache.bcel.verifier
+    org.apache.bcel.verifier.exc
+    org.apache.bcel.verifier.statics
+    org.apache.bcel.verifier.structurals
+    org.apache.regexp
+    org.apache.xalan
+    org.apache.xalan.client
+    org.apache.xalan.extensions
+    org.apache.xalan.lib
+    org.apache.xalan.lib.sql
+    org.apache.xalan.processor
+    org.apache.xalan.res
+    org.apache.xalan.serialize
+    org.apache.xalan.templates
+    org.apache.xalan.trace
+    org.apache.xalan.transformer
+    org.apache.xalan.xslt
+    org.apache.xalan.xsltc
+    org.apache.xalan.xsltc.cmdline
+    org.apache.xalan.xsltc.cmdline.getopt
+    org.apache.xalan.xsltc.compiler
+    org.apache.xalan.xsltc.compiler.util
+    org.apache.xalan.xsltc.dom
+    org.apache.xalan.xsltc.runtime
+    org.apache.xalan.xsltc.runtime.output
+    org.apache.xalan.xsltc.trax
+    org.apache.xalan.xsltc.util
+    org.apache.xml.dtm
+    org.apache.xml.dtm.ref
+    org.apache.xml.dtm.ref.dom2dtm
+    org.apache.xml.dtm.ref.sax2dtm
+    org.apache.xml.res
+    org.apache.xml.utils
+    org.apache.xml.utils.res
+    org.apache.xpath
+    org.apache.xpath.axes
+    org.apache.xpath.compiler
+    org.apache.xpath.domapi
+    org.apache.xpath.functions
+    org.apache.xpath.jaxp
+    org.apache.xpath.objects
+    org.apache.xpath.operations
+    org.apache.xpath.patterns
+    org.apache.xpath.res
+
+JAR File: xml-apis-1.4.01.jar
+Packages:
+    javax.xml
+    javax.xml.datatype
+    javax.xml.namespace
+    javax.xml.parsers
+    javax.xml.stream
+    javax.xml.stream.events
+    javax.xml.stream.util
+    javax.xml.transform
+    javax.xml.transform.dom
+    javax.xml.transform.sax
+    javax.xml.transform.stax
+    javax.xml.transform.stream
+    javax.xml.validation
+    javax.xml.xpath
+    org.apache.xmlcommons
+    org.w3c.dom
+    org.w3c.dom.bootstrap
+    org.w3c.dom.css
+    org.w3c.dom.events
+    org.w3c.dom.html
+    org.w3c.dom.ls
+    org.w3c.dom.ranges
+    org.w3c.dom.stylesheets
+    org.w3c.dom.traversal
+    org.w3c.dom.views
+    org.w3c.dom.xpath
+    org.xml.sax
+    org.xml.sax.ext
+    org.xml.sax.helpers
+
+JAR File: xml-apis-ext-1.3.04.jar
+Packages:
+    org.w3c.css.sac
+    org.w3c.css.sac.helpers
+    org.w3c.dom.smil
+    org.w3c.dom.svg
+
+JAR File: xmlgraphics-commons-2.7.jar
+Packages:
+    org.apache.xmlgraphics.fonts
+    org.apache.xmlgraphics.image
+    org.apache.xmlgraphics.image.codec.png
+    org.apache.xmlgraphics.image.codec.tiff
+    org.apache.xmlgraphics.image.codec.util
+    org.apache.xmlgraphics.image.loader
+    org.apache.xmlgraphics.image.loader.cache
+    org.apache.xmlgraphics.image.loader.impl
+    org.apache.xmlgraphics.image.loader.impl.imageio
+    org.apache.xmlgraphics.image.loader.pipeline
+    org.apache.xmlgraphics.image.loader.spi
+    org.apache.xmlgraphics.image.loader.util
+    org.apache.xmlgraphics.image.rendered
+    org.apache.xmlgraphics.image.writer
+    org.apache.xmlgraphics.image.writer.imageio
+    org.apache.xmlgraphics.image.writer.internal
+    org.apache.xmlgraphics.io
+    org.apache.xmlgraphics.java2d
+    org.apache.xmlgraphics.java2d.color
+    org.apache.xmlgraphics.java2d.color.profile
+    org.apache.xmlgraphics.java2d.ps
+    org.apache.xmlgraphics.ps
+    org.apache.xmlgraphics.ps.dsc
+    org.apache.xmlgraphics.ps.dsc.events
+    org.apache.xmlgraphics.ps.dsc.tools
+    org.apache.xmlgraphics.util
+    org.apache.xmlgraphics.util.dijkstra
+    org.apache.xmlgraphics.util.i18n
+    org.apache.xmlgraphics.util.io
+    org.apache.xmlgraphics.util.uri
+    org.apache.xmlgraphics.xmp
+    org.apache.xmlgraphics.xmp.merge
+    org.apache.xmlgraphics.xmp.schemas
+    org.apache.xmlgraphics.xmp.schemas.pdf
+
+Duplicate Packages Found:
+Package: org.apache.fop.render.txt.border
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.intermediate.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.complexscripts.util
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.svg.font
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.rtf.rtflib.tools
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.layoutmgr.table
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.pdf.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.type1
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.tools.anttasks
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.hyphenation
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.tools
+    Appears in JARs:
+        fop-2.7.jar
+        fop-events-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.image.loader.batik
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.autodetect
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.events
+    Appears in JARs:
+        fop-2.7.jar
+        fop-events-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.apps
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.ptoca
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.txt
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.java2d
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.rtf
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.afp.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.apps
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.apps.io
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.expr
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.complexscripts.scripts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.complexscripts.bidi
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.ps.fonts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.servlet
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.awt
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.apps
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.activity
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.util.bitmap
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.gradient
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.afp.exceptions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.accessibility.fo
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.base14
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.substitute
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.pcl.fonts.truetype
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.ps.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.truetype
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.intermediate.util
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.flow.table
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.extensions.destination
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.svg
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.layoutmgr.list
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.parser
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.ps.svg
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fonts.cff
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.goca
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.extensions.xmp
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.pcl.extensions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.configuration
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.xml
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.tools.fontlist
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.svg
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.complexscripts.fonts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.rtf.rtflib.rtfdoc
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.layoutmgr
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: META-INF.versions.9
+    Appears in JARs:
+        bcprov-jdk18on-1.71.1.jar
+        bcpkix-jdk18on-1.71.1.jar
+        bcutil-jdk18on-1.71.1.jar
+Package: org.apache.fop.render.awt.viewer
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.traits
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.area
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.accessibility
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.ps
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.pagination
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.text.linebreak
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.flow
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.util
+    Appears in JARs:
+        fop-2.7.jar
+        fop-util-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.layoutmgr.inline
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.bitmap
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.cli
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.modca
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.area.inline
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.pdf
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.intermediate
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.afp
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.pdf
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.util
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.ioca
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.datatypes
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.rtf.rtflib.exceptions
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.pcl
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.modca.triplets
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.svg.text
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.util.text
+    Appears in JARs:
+        fop-2.7.jar
+        fop-util-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.properties
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.afp.fonts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.extensions.svg
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.extensions.prepress
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.render.print
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.pdf.xref
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.events.model
+    Appears in JARs:
+        fop-2.7.jar
+        fop-events-2.7.jar
+Package: org.apache.fop.render.pcl.fonts
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar
+Package: org.apache.fop.fo.pagination.bookmarks
+    Appears in JARs:
+        fop-2.7.jar
+        fop-core-2.7.jar

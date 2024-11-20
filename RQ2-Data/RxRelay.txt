@@ -1,0 +1,40 @@
+JAR File: reactive-streams-1.0.3.jar
+Packages:
+    org.reactivestreams
+
+JAR File: rxjava-3.0.3.jar
+Packages:
+    io.reactivex.rxjava3.annotations
+    io.reactivex.rxjava3.core
+    io.reactivex.rxjava3.disposables
+    io.reactivex.rxjava3.exceptions
+    io.reactivex.rxjava3.flowables
+    io.reactivex.rxjava3.functions
+    io.reactivex.rxjava3.internal.disposables
+    io.reactivex.rxjava3.internal.functions
+    io.reactivex.rxjava3.internal.fuseable
+    io.reactivex.rxjava3.internal.jdk8
+    io.reactivex.rxjava3.internal.observers
+    io.reactivex.rxjava3.internal.operators.completable
+    io.reactivex.rxjava3.internal.operators.flowable
+    io.reactivex.rxjava3.internal.operators.maybe
+    io.reactivex.rxjava3.internal.operators.mixed
+    io.reactivex.rxjava3.internal.operators.observable
+    io.reactivex.rxjava3.internal.operators.parallel
+    io.reactivex.rxjava3.internal.operators.single
+    io.reactivex.rxjava3.internal.queue
+    io.reactivex.rxjava3.internal.schedulers
+    io.reactivex.rxjava3.internal.subscribers
+    io.reactivex.rxjava3.internal.subscriptions
+    io.reactivex.rxjava3.internal.util
+    io.reactivex.rxjava3.observables
+    io.reactivex.rxjava3.observers
+    io.reactivex.rxjava3.parallel
+    io.reactivex.rxjava3.plugins
+    io.reactivex.rxjava3.processors
+    io.reactivex.rxjava3.schedulers
+    io.reactivex.rxjava3.subjects
+    io.reactivex.rxjava3.subscribers
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.
