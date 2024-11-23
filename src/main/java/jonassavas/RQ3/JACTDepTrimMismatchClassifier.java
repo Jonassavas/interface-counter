@@ -1,4 +1,4 @@
-package jonassavas;
+package jonassavas.RQ3;
 
 import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.Opcodes;
@@ -117,7 +117,7 @@ public class JACTDepTrimMismatchClassifier {
         for (File htmlFile : htmlFiles) {
             // Ignore files named "index" or "index.source"
             String fileName = stripExtension(htmlFile.getName());
-            if (fileName.equals("index") || fileName.equals("index.source")) {
+            if (fileName.equals("index") || fileName.equals("index.source") || fileName.equals("indirect-dependencies")) {
                 System.out.println("Ignoring file: " + htmlFile.getName());
                 continue; // Skip this file
             }
@@ -244,7 +244,7 @@ public class JACTDepTrimMismatchClassifier {
 
     public static void main(String[] args) {
         String htmlBaseDir = "C:\\kthcs\\MEX\\CompleteJactResults\\woodstox_jact-report\\dependencies";
-        String txtBaseDir = "C:\\kthcs\\MEX\\RQ3-Data\\DepTrimResults\\debloated\\woodstox";
+        String txtBaseDir = "C:\\kthcs\\MEX\\RQ3-Data\\DepTrim_Debloated\\woodstox";
         String jarFilePath = "C:\\kthcs\\MEX\\RESULTS\\woodstox\\target\\woodstox-core-6.4.0-shaded.jar";
         String logFilePath = "./DepTrim_Mismatch_Types/woodstox.txt";
 

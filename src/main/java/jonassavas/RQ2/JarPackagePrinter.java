@@ -1,4 +1,4 @@
-package jonassavas;
+package jonassavas.RQ2;
 
 import java.io.*;
 import java.util.*;
