@@ -1,0 +1,147 @@
+ENUM: com/google/gson/FieldNamingPolicy$5.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: com/google/gson/Gson$5.class - JACT (NotCovered, Total): 74, 80
+REGULAR CLASS: com/google/gson/Gson$FutureTypeAdapter.class - JACT (NotCovered, Total): 29, 39
+REGULAR CLASS: com/google/gson/Gson.class - JACT (NotCovered, Total): 350, 1017
+ENUM: com/google/gson/FieldNamingPolicy$3.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: com/google/gson/JsonNull.class - JACT (NotCovered, Total): 9, 23
+ENUM: com/google/gson/FieldNamingPolicy$1.class - JACT (NotCovered, Total): 0, 9
+ABSTRACT CLASS: com/google/gson/JsonElement.class - JACT (NotCovered, Total): 171, 195
+REGULAR CLASS: com/google/gson/Gson$1.class - JACT (NotCovered, Total): 8, 34
+ENUM: com/google/gson/FieldNamingPolicy$6.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: com/google/gson/TypeAdapter$1.class - JACT (NotCovered, Total): 25, 31
+REGULAR CLASS: com/google/gson/Gson$4.class - JACT (NotCovered, Total): 20, 26
+REGULAR CLASS: com/google/gson/stream/JsonReader$1.class - JACT (NotCovered, Total): 53, 56
+REGULAR CLASS: com/google/gson/stream/JsonReader.class - JACT (NotCovered, Total): 1659, 2996
+ENUM: com/google/gson/stream/JsonToken.class - JACT (NotCovered, Total): 0, 104
+REGULAR CLASS: com/google/gson/stream/JsonWriter.class - JACT (NotCovered, Total): 214, 712
+ENUM: com/google/gson/FieldNamingPolicy$4.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/gson/reflect/TypeToken.class - JACT (NotCovered, Total): 346, 442
+ABSTRACT CLASS: com/google/gson/TypeAdapter.class - JACT (NotCovered, Total): 56, 84
+REGULAR CLASS: com/google/gson/JsonPrimitive.class - JACT (NotCovered, Total): 199, 340
+REGULAR CLASS: com/google/gson/internal/$Gson$Types.class - JACT (NotCovered, Total): 387, 853
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor.class - JACT (NotCovered, Total): 84, 201
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$1.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/google/gson/internal/LazilyParsedNumber.class - JACT (NotCovered, Total): 68, 85
+ABSTRACT CLASS: com/google/gson/internal/JsonReaderInternalAccess.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/google/gson/internal/reflect/UnsafeReflectionAccessor.class - JACT (NotCovered, Total): 29, 134
+ABSTRACT CLASS: com/google/gson/internal/reflect/ReflectionAccessor.class - JACT (NotCovered, Total): 4, 17
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$EntrySet.class - JACT (NotCovered, Total): 43, 54
+ABSTRACT CLASS: com/google/gson/internal/LinkedTreeMap$LinkedTreeMapIterator.class - JACT (NotCovered, Total): 30, 83
+REGULAR CLASS: com/google/gson/internal/$Gson$Preconditions.class - JACT (NotCovered, Total): 14, 21
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$6.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/gson/internal/Streams.class - JACT (NotCovered, Total): 55, 62
+ABSTRACT CLASS: com/google/gson/internal/UnsafeAllocator.class - JACT (NotCovered, Total): 103, 146
+REGULAR CLASS: com/google/gson/internal/$Gson$Types$ParameterizedTypeImpl.class - JACT (NotCovered, Total): 58, 166
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$8.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$14.class - JACT (NotCovered, Total): 17, 40
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap.class - JACT (NotCovered, Total): 395, 795
+REGULAR CLASS: com/google/gson/internal/Primitives.class - JACT (NotCovered, Total): 98, 136
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$13.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$8.class - JACT (NotCovered, Total): 19, 22
+REGULAR CLASS: com/google/gson/internal/bind/ObjectTypeAdapter.class - JACT (NotCovered, Total): 64, 107
+REGULAR CLASS: com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.class - JACT (NotCovered, Total): 95, 113
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$13.class - JACT (NotCovered, Total): 17, 20
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$35$1.class - JACT (NotCovered, Total): 20, 51
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$11.class - JACT (NotCovered, Total): 10, 26
+REGULAR CLASS: com/google/gson/internal/bind/ObjectTypeAdapter$1.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: com/google/gson/internal/bind/TimeTypeAdapter$1.class - JACT (NotCovered, Total): 4, 13
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$35.class - JACT (NotCovered, Total): 18, 43
+REGULAR CLASS: com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$1.class - JACT (NotCovered, Total): 9, 87
+REGULAR CLASS: com/google/gson/internal/bind/JsonTreeReader.class - JACT (NotCovered, Total): 440, 780
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.class - JACT (NotCovered, Total): 10, 73
+REGULAR CLASS: com/google/gson/internal/bind/DateTypeAdapter.class - JACT (NotCovered, Total): 99, 104
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$28.class - JACT (NotCovered, Total): 75, 78
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$15.class - JACT (NotCovered, Total): 34, 45
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$17.class - JACT (NotCovered, Total): 10, 28
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$EnumTypeAdapter.class - JACT (NotCovered, Total): 38, 129
+REGULAR CLASS: com/google/gson/internal/bind/SqlDateTypeAdapter$1.class - JACT (NotCovered, Total): 4, 13
+REGULAR CLASS: com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$Adapter.class - JACT (NotCovered, Total): 29, 111
+REGULAR CLASS: com/google/gson/internal/bind/TimeTypeAdapter.class - JACT (NotCovered, Total): 47, 52
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$33.class - JACT (NotCovered, Total): 24, 52
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$10.class - JACT (NotCovered, Total): 75, 78
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$34.class - JACT (NotCovered, Total): 27, 52
+REGULAR CLASS: com/google/gson/internal/bind/JsonTreeReader$1.class - JACT (NotCovered, Total): 8, 11
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$9.class - JACT (NotCovered, Total): 12, 15
+ABSTRACT CLASS: com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$BoundField.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$12.class - JACT (NotCovered, Total): 18, 21
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$16.class - JACT (NotCovered, Total): 8, 28
+REGULAR CLASS: com/google/gson/internal/bind/DateTypeAdapter$1.class - JACT (NotCovered, Total): 4, 13
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$32.class - JACT (NotCovered, Total): 18, 37
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$30.class - JACT (NotCovered, Total): 3, 26
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$14.class - JACT (NotCovered, Total): 16, 38
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$29.class - JACT (NotCovered, Total): 122, 195
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$25.class - JACT (NotCovered, Total): 10, 13
+REGULAR CLASS: com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class - JACT (NotCovered, Total): 78, 310
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$18.class - JACT (NotCovered, Total): 25, 28
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$3.class - JACT (NotCovered, Total): 4, 30
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$1.class - JACT (NotCovered, Total): 20, 23
+REGULAR CLASS: com/google/gson/internal/bind/MapTypeAdapterFactory$Adapter.class - JACT (NotCovered, Total): 271, 333
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$27.class - JACT (NotCovered, Total): 165, 168
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$23.class - JACT (NotCovered, Total): 22, 25
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$5.class - JACT (NotCovered, Total): 26, 29
+REGULAR CLASS: com/google/gson/internal/bind/ArrayTypeAdapter$1.class - JACT (NotCovered, Total): 16, 34
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$7.class - JACT (NotCovered, Total): 10, 26
+REGULAR CLASS: com/google/gson/internal/bind/CollectionTypeAdapterFactory.class - JACT (NotCovered, Total): 0, 42
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$21.class - JACT (NotCovered, Total): 32, 35
+REGULAR CLASS: com/google/gson/internal/bind/MapTypeAdapterFactory.class - JACT (NotCovered, Total): 2, 77
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$EnumTypeAdapter$1.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters.class - JACT (NotCovered, Total): 12, 259
+REGULAR CLASS: com/google/gson/internal/bind/SqlDateTypeAdapter.class - JACT (NotCovered, Total): 47, 52
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$26.class - JACT (NotCovered, Total): 10, 19
+REGULAR CLASS: com/google/gson/internal/bind/JsonTreeWriter.class - JACT (NotCovered, Total): 131, 355
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$19.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: com/google/gson/internal/bind/CollectionTypeAdapterFactory$Adapter.class - JACT (NotCovered, Total): 8, 74
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$24.class - JACT (NotCovered, Total): 22, 25
+REGULAR CLASS: com/google/gson/internal/bind/JsonTreeWriter$1.class - JACT (NotCovered, Total): 12, 15
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$2.class - JACT (NotCovered, Total): 111, 114
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$6.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$20.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$22.class - JACT (NotCovered, Total): 38, 41
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$4.class - JACT (NotCovered, Total): 22, 25
+REGULAR CLASS: com/google/gson/internal/bind/ArrayTypeAdapter.class - JACT (NotCovered, Total): 98, 103
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$EntrySet$1.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: com/google/gson/internal/Excluder.class - JACT (NotCovered, Total): 270, 417
+REGULAR CLASS: com/google/gson/internal/UnsafeAllocator$1.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: com/google/gson/internal/JavaVersion.class - JACT (NotCovered, Total): 54, 90
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$Node.class - JACT (NotCovered, Total): 107, 149
+ENUM: com/google/gson/FieldNamingPolicy$2.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: com/google/gson/Gson$2.class - JACT (NotCovered, Total): 8, 36
+ABSTRACT CLASS: com/google/gson/LongSerializationPolicy.class - JACT (NotCovered, Total): 0, 24
+ABSTRACT CLASS: com/google/gson/FieldNamingPolicy.class - JACT (NotCovered, Total): 60, 159
+ENUM: com/google/gson/LongSerializationPolicy$1.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: com/google/gson/JsonArray.class - JACT (NotCovered, Total): 353, 373
+REGULAR CLASS: com/google/gson/JsonParseException.class - JACT (NotCovered, Total): 9, 13
+ENUM: com/google/gson/LongSerializationPolicy$2.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: com/google/gson/GsonBuilder.class - JACT (NotCovered, Total): 416, 581
+REGULAR CLASS: com/google/gson/JsonObject.class - JACT (NotCovered, Total): 136, 163
+REGULAR CLASS: javax/ws/rs/BadRequestException.class - JACT (NotCovered, Total): 42, 48
+REGULAR CLASS: javax/ws/rs/ClientErrorException.class - JACT (NotCovered, Total): 101, 109
+REGULAR CLASS: javax/ws/rs/ProcessingException.class - JACT (NotCovered, Total): 9, 13
+ENUM: javax/ws/rs/RuntimeType.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: javax/ws/rs/WebApplicationException.class - JACT (NotCovered, Total): 128, 189
+ABSTRACT CLASS: javax/ws/rs/client/ClientBuilder.class - JACT (NotCovered, Total): 66, 79
+REGULAR CLASS: javax/ws/rs/client/Entity.class - JACT (NotCovered, Total): 96, 145
+ABSTRACT CLASS: javax/ws/rs/core/AbstractMultivaluedMap.class - JACT (NotCovered, Total): 169, 308
+REGULAR CLASS: javax/ws/rs/core/Application.class - JACT (NotCovered, Total): 6, 9
+REGULAR CLASS: javax/ws/rs/core/GenericType.class - JACT (NotCovered, Total): 110, 232
+REGULAR CLASS: javax/ws/rs/core/MediaType$1.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: javax/ws/rs/core/MediaType$2.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: javax/ws/rs/core/MediaType.class - JACT (NotCovered, Total): 60, 309
+REGULAR CLASS: javax/ws/rs/core/MultivaluedHashMap.class - JACT (NotCovered, Total): 67, 73
+ABSTRACT CLASS: javax/ws/rs/core/Response$ResponseBuilder.class - JACT (NotCovered, Total): 15, 21
+ENUM: javax/ws/rs/core/Response$Status$Family.class - JACT (NotCovered, Total): 4, 80
+ENUM: javax/ws/rs/core/Response$Status.class - JACT (NotCovered, Total): 5, 487
+ABSTRACT CLASS: javax/ws/rs/core/Response.class - JACT (NotCovered, Total): 125, 138
+ABSTRACT CLASS: javax/ws/rs/core/UriBuilder.class - JACT (NotCovered, Total): 24, 38
+REGULAR CLASS: javax/ws/rs/core/Variant.class - JACT (NotCovered, Total): 297, 320
+REGULAR CLASS: javax/ws/rs/ext/FactoryFinder$1.class - JACT (NotCovered, Total): 6, 17
+REGULAR CLASS: javax/ws/rs/ext/FactoryFinder.class - JACT (NotCovered, Total): 177, 242
+ABSTRACT CLASS: javax/ws/rs/ext/RuntimeDelegate.class - JACT (NotCovered, Total): 69, 113
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 0
+Abstract classes found: 15
+Enums found: 12
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 112

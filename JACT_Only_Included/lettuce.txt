@@ -1,0 +1,68 @@
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannel$EmbeddedChannelPipeline.class - JACT (NotCovered, Total): 10, 17
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannel$EmbeddedUnsafe$1.class - JACT (NotCovered, Total): 61, 118
+REGULAR CLASS: io/netty/channel/socket/DefaultServerSocketChannelConfig.class - JACT (NotCovered, Total): 158, 227
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor$1.class - JACT (NotCovered, Total): 7, 16
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannel$2.class - JACT (NotCovered, Total): 1, 42
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannelId.class - JACT (NotCovered, Total): 24, 29
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedEventLoop.class - JACT (NotCovered, Total): 109, 172
+ENUM: io/netty/channel/embedded/EmbeddedChannel$State.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannel$EmbeddedUnsafe.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor$2.class - JACT (NotCovered, Total): 5, 18
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedChannel$1.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$1$1.class - JACT (NotCovered, Total): 0, 39
+REGULAR CLASS: io/netty/channel/socket/nio/NioServerSocketChannel$NioServerSocketChannelConfig.class - JACT (NotCovered, Total): 36, 65
+REGULAR CLASS: io/netty/channel/embedded/EmbeddedSocketAddress.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$1.class - JACT (NotCovered, Total): 9, 47
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrapConfig.class - JACT (NotCovered, Total): 136, 140
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor.class - JACT (NotCovered, Total): 38, 96
+ABSTRACT CLASS: org/LatencyUtils/IntervalEstimator.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/LatencyUtils/LatencyStats$Builder.class - JACT (NotCovered, Total): 25, 71
+REGULAR CLASS: org/LatencyUtils/LatencyStats$PauseTracker.class - JACT (NotCovered, Total): 14, 29
+REGULAR CLASS: org/LatencyUtils/LatencyStats.class - JACT (NotCovered, Total): 123, 336
+REGULAR CLASS: org/LatencyUtils/MovingAverageIntervalEstimator.class - JACT (NotCovered, Total): 88, 158
+ENUM: org/LatencyUtils/PauseDetector$ChangeListenersRequest$ChangeCommand.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/LatencyUtils/PauseDetector$ChangeListenersRequest.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/LatencyUtils/PauseDetector$PauseDetectorThread.class - JACT (NotCovered, Total): 57, 121
+ABSTRACT CLASS: org/LatencyUtils/PauseDetector.class - JACT (NotCovered, Total): 10, 83
+REGULAR CLASS: org/LatencyUtils/SimplePauseDetector$SimplePauseDetectorThread.class - JACT (NotCovered, Total): 47, 188
+REGULAR CLASS: org/LatencyUtils/SimplePauseDetector.class - JACT (NotCovered, Total): 55, 135
+REGULAR CLASS: org/LatencyUtils/TimeCappedMovingAverageIntervalEstimator$PauseTracker.class - JACT (NotCovered, Total): 19, 30
+REGULAR CLASS: org/LatencyUtils/TimeCappedMovingAverageIntervalEstimator.class - JACT (NotCovered, Total): 447, 510
+REGULAR CLASS: org/LatencyUtils/TimeServices$ScheduledExecutor$CompareRunnableTaskEntryByStartTime.class - JACT (NotCovered, Total): 20, 23
+REGULAR CLASS: org/LatencyUtils/TimeServices$ScheduledExecutor.class - JACT (NotCovered, Total): 74, 104
+REGULAR CLASS: org/LatencyUtils/TimeServices.class - JACT (NotCovered, Total): 107, 136
+ABSTRACT CLASS: io/micrometer/core/instrument/AbstractTimer.class - JACT (NotCovered, Total): 185, 259
+INTERFACE: io/micrometer/core/instrument/config/MeterRegistryConfig.class - JACT (NotCovered, Total): 2, 6
+REGULAR CLASS: io/micrometer/core/instrument/config/MeterRegistryConfigValidator.class - JACT (NotCovered, Total): 14, 57
+ENUM: io/micrometer/core/instrument/config/validate/DurationValidator$1.class - JACT (NotCovered, Total): 86, 93
+ENUM: io/micrometer/core/instrument/config/validate/DurationValidator$2.class - JACT (NotCovered, Total): 13, 20
+ABSTRACT CLASS: io/micrometer/core/instrument/config/validate/DurationValidator.class - JACT (NotCovered, Total): 172, 224
+REGULAR CLASS: io/micrometer/core/instrument/config/validate/PropertyValidator.class - JACT (NotCovered, Total): 177, 213
+REGULAR CLASS: io/micrometer/core/instrument/config/validate/Validated$Either.class - JACT (NotCovered, Total): 37, 82
+REGULAR CLASS: io/micrometer/core/instrument/config/validate/Validated$None.class - JACT (NotCovered, Total): 13, 16
+REGULAR CLASS: io/micrometer/core/instrument/config/validate/Validated$Valid.class - JACT (NotCovered, Total): 37, 69
+INTERFACE: io/micrometer/core/instrument/config/validate/Validated.class - JACT (NotCovered, Total): 73, 118
+REGULAR CLASS: io/micrometer/core/instrument/cumulative/CumulativeTimer.class - JACT (NotCovered, Total): 9, 75
+ABSTRACT CLASS: io/micrometer/core/instrument/distribution/AbstractTimeWindowHistogram.class - JACT (NotCovered, Total): 248, 517
+REGULAR CLASS: io/micrometer/core/instrument/distribution/HistogramGauges.class - JACT (NotCovered, Total): 194, 332
+REGULAR CLASS: io/micrometer/core/instrument/distribution/NoopHistogram.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: io/micrometer/core/instrument/distribution/TimeWindowMax.class - JACT (NotCovered, Total): 126, 262
+REGULAR CLASS: io/micrometer/core/instrument/distribution/TimeWindowPercentileHistogram.class - JACT (NotCovered, Total): 29, 93
+REGULAR CLASS: io/micrometer/core/instrument/internal/DefaultGauge.class - JACT (NotCovered, Total): 32, 51
+ENUM: io/micrometer/core/instrument/simple/CountingMode.class - JACT (NotCovered, Total): 0, 15
+INTERFACE: io/micrometer/core/instrument/simple/SimpleConfig.class - JACT (NotCovered, Total): 0, 40
+REGULAR CLASS: io/micrometer/core/instrument/util/DoubleFormat.class - JACT (NotCovered, Total): 40, 82
+REGULAR CLASS: io/micrometer/core/util/internal/logging/WarnThenDebugLogger.class - JACT (NotCovered, Total): 82, 94
+REGULAR CLASS: org/HdrHistogram/ConcurrentDoubleHistogram.class - JACT (NotCovered, Total): 55, 79
+REGULAR CLASS: org/HdrHistogram/DoubleRecorder$InternalConcurrentDoubleHistogram.class - JACT (NotCovered, Total): 8, 23
+REGULAR CLASS: org/HdrHistogram/DoubleRecorder.class - JACT (NotCovered, Total): 177, 289
+ABSTRACT CLASS: rx/RxReactiveStreams.class - JACT (NotCovered, Total): 58, 66
+REGULAR CLASS: rx/internal/reactivestreams/PublisherAsSingle.class - JACT (NotCovered, Total): 8, 14
+
+Summary for Class Files Only In JACT:
+Interfaces found: 3
+Abstract classes found: 6
+Enums found: 5
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 46

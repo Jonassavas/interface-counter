@@ -1,0 +1,30 @@
+ENUM: com/fasterxml/jackson/annotation/JsonAutoDetect$Visibility.class - JACT (NotCovered, Total): 20, 93
+REGULAR CLASS: com/fasterxml/jackson/annotation/JsonFormat$Features.class - JACT (NotCovered, Total): 280, 298
+ENUM: com/fasterxml/jackson/annotation/JsonFormat$Shape.class - JACT (NotCovered, Total): 23, 137
+REGULAR CLASS: com/fasterxml/jackson/annotation/JsonFormat$Value.class - JACT (NotCovered, Total): 703, 774
+ENUM: com/fasterxml/jackson/annotation/JsonInclude$Include.class - JACT (NotCovered, Total): 0, 74
+REGULAR CLASS: com/fasterxml/jackson/annotation/JsonInclude$Value.class - JACT (NotCovered, Total): 459, 495
+ENUM: com/fasterxml/jackson/annotation/JsonProperty$Access.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: com/fasterxml/jackson/annotation/JsonSetter$Value.class - JACT (NotCovered, Total): 245, 263
+ENUM: com/fasterxml/jackson/annotation/Nulls.class - JACT (NotCovered, Total): 0, 54
+ENUM: com/fasterxml/jackson/annotation/PropertyAccessor.class - JACT (NotCovered, Total): 50, 124
+REGULAR CLASS: com/eclipsesource/json/Json$DefaultHandler.class - JACT (NotCovered, Total): 26, 61
+REGULAR CLASS: com/eclipsesource/json/Json.class - JACT (NotCovered, Total): 310, 341
+ABSTRACT CLASS: com/eclipsesource/json/JsonHandler.class - JACT (NotCovered, Total): 19, 27
+REGULAR CLASS: com/eclipsesource/json/JsonLiteral.class - JACT (NotCovered, Total): 65, 86
+REGULAR CLASS: com/eclipsesource/json/JsonNumber.class - JACT (NotCovered, Total): 57, 70
+REGULAR CLASS: com/eclipsesource/json/JsonObject$1.class - JACT (NotCovered, Total): 4, 36
+REGULAR CLASS: com/eclipsesource/json/JsonObject$HashIndexTable.class - JACT (NotCovered, Total): 76, 109
+REGULAR CLASS: com/eclipsesource/json/JsonObject$Member.class - JACT (NotCovered, Total): 55, 70
+REGULAR CLASS: com/eclipsesource/json/JsonObject.class - JACT (NotCovered, Total): 527, 587
+REGULAR CLASS: com/eclipsesource/json/JsonParser.class - JACT (NotCovered, Total): 514, 938
+REGULAR CLASS: com/eclipsesource/json/JsonString.class - JACT (NotCovered, Total): 39, 52
+ABSTRACT CLASS: com/eclipsesource/json/JsonValue.class - JACT (NotCovered, Total): 198, 225
+
+Summary for Class Files Only In JACT:
+Interfaces found: 0
+Abstract classes found: 2
+Enums found: 6
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 14

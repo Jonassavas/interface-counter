@@ -1,0 +1,61 @@
+ENUM: io/github/toolfactory/narcissus/LibraryLoader$OperatingSystem.class - JACT (NotCovered, Total): 0, 45
+REGULAR CLASS: io/github/toolfactory/narcissus/LibraryLoader.class - JACT (NotCovered, Total): 100, 252
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$1.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$3.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$5.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus.class - JACT (NotCovered, Total): 810, 1079
+REGULAR CLASS: io/github/toolfactory/jvm/DefaultDriver.class - JACT (NotCovered, Total): 2, 47
+REGULAR CLASS: io/github/toolfactory/jvm/DriverAbst$1.class - JACT (NotCovered, Total): 0, 11
+ABSTRACT CLASS: io/github/toolfactory/jvm/DriverAbst.class - JACT (NotCovered, Total): 1305, 2017
+REGULAR CLASS: io/github/toolfactory/jvm/Info$Provider.class - JACT (NotCovered, Total): 3, 5
+INTERFACE: io/github/toolfactory/jvm/Info.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/github/toolfactory/jvm/InfoImpl$Holder.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/github/toolfactory/jvm/InfoImpl.class - JACT (NotCovered, Total): 63, 211
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/AllocateInstanceFunction$ForJava7.class - JACT (NotCovered, Total): 0, 20
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/BuiltinClassLoaderClassSupplier$ForJava9.class - JACT (NotCovered, Total): 0, 24
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Abst.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava9.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Abst.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$ForJava9.class - JACT (NotCovered, Total): 0, 68
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$Abst.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava9$1.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava9.class - JACT (NotCovered, Total): 0, 78
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/DefineHookClassFunction$Abst.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DefineHookClassFunction$ForJava7.class - JACT (NotCovered, Total): 16, 95
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DefineHookClassFunction$ForJava9.class - JACT (NotCovered, Total): 0, 20
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetClassByNameFunction$Abst.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetClassByNameFunction$ForJava7.class - JACT (NotCovered, Total): 0, 63
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldFunction$ForJava7.class - JACT (NotCovered, Total): 17, 57
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldsFunction$Abst.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldsFunction$ForJava7.class - JACT (NotCovered, Total): 0, 44
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodsFunction$Abst.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodsFunction$ForJava7.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetFieldValueFunction$ForJava7.class - JACT (NotCovered, Total): 171, 223
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction$Abst.class - JACT (NotCovered, Total): 85, 93
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction$ForJava7$1.class - JACT (NotCovered, Total): 29, 35
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction$ForJava7.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction$ForJava9$1.class - JACT (NotCovered, Total): 205, 357
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction$ForJava9.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/MethodInvokeFunction$Abst.class - JACT (NotCovered, Total): 0, 21
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/MethodInvokeFunction$ForJava9.class - JACT (NotCovered, Total): 0, 52
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/PrivateLookupInMethodHandleSupplier$Abst.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/PrivateLookupInMethodHandleSupplier$ForJava9.class - JACT (NotCovered, Total): 0, 27
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Abst.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$ForJava9.class - JACT (NotCovered, Total): 0, 57
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/SetFieldValueFunction$Abst.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetFieldValueFunction$ForJava7.class - JACT (NotCovered, Total): 260, 315
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/UnsafeSupplier$ForJava7.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes.class - JACT (NotCovered, Total): 43, 54
+REGULAR CLASS: io/github/toolfactory/jvm/util/ObjectProvider.class - JACT (NotCovered, Total): 348, 818
+REGULAR CLASS: io/github/toolfactory/jvm/util/Streams.class - JACT (NotCovered, Total): 3, 34
+REGULAR CLASS: io/github/toolfactory/jvm/util/Strings.class - JACT (NotCovered, Total): 55, 89
+ABSTRACT CLASS: io/github/toolfactory/jvm/util/ThrowingBiConsumerAdapter.class - JACT (NotCovered, Total): 6, 14
+ABSTRACT CLASS: io/github/toolfactory/jvm/util/ThrowingFunctionAdapter.class - JACT (NotCovered, Total): 9, 17
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 1
+Abstract classes found: 14
+Enums found: 1
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 37

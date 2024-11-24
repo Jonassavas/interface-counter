@@ -1,328 +1,327 @@
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/XMLInputFactory2.class - JACT (NotCovered, Total): 0, 3
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/XMLOutputFactory2.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: org/codehaus/stax2/XMLStreamLocation2$1.class - JACT (NotCovered, Total): 8, 15
-INTERFACE Included by both tools: org/codehaus/stax2/XMLStreamLocation2.class - JACT (NotCovered, Total): 0, 5
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/evt/XMLEventFactory2.class - JACT (NotCovered, Total): 0, 3
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/io/Stax2BlockResult.class - JACT (NotCovered, Total): 0, 3
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/io/Stax2BlockSource.class - JACT (NotCovered, Total): 2, 5
-REGULAR CLASS Included by both tools: org/codehaus/stax2/io/Stax2ByteArraySource.class - JACT (NotCovered, Total): 32, 63
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/io/Stax2Result.class - JACT (NotCovered, Total): 21, 24
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/io/Stax2Source.class - JACT (NotCovered, Total): 12, 24
-REGULAR CLASS Included by both tools: org/codehaus/stax2/io/Stax2StringSource.class - JACT (NotCovered, Total): 0, 17
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/SingletonIterator.class - JACT (NotCovered, Total): 9, 39
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/Stax2EventFactoryImpl.class - JACT (NotCovered, Total): 65, 237
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2EventWriterImpl.class - JACT (NotCovered, Total): 62, 245
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2FilteredStreamReader.class - JACT (NotCovered, Total): 12, 35
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2LocationAdapter.class - JACT (NotCovered, Total): 31, 53
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2ReaderAdapter.class - JACT (NotCovered, Total): 411, 1256
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2Util$ByteAggregator.class - JACT (NotCovered, Total): 39, 169
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2Util$TextBuffer.class - JACT (NotCovered, Total): 12, 81
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2Util.class - JACT (NotCovered, Total): 33, 91
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/Stax2WriterAdapter.class - JACT (NotCovered, Total): 430, 748
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/Stax2WriterImpl.class - JACT (NotCovered, Total): 345, 348
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/dom/DOMWrappingReader.class - JACT (NotCovered, Total): 1315, 3155
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/dom/DOMWrappingWriter.class - JACT (NotCovered, Total): 211, 542
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/AttributeEventImpl.class - JACT (NotCovered, Total): 49, 239
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/evt/BaseEventImpl.class - JACT (NotCovered, Total): 46, 131
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/CharactersEventImpl.class - JACT (NotCovered, Total): 53, 295
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/CommentEventImpl.class - JACT (NotCovered, Total): 15, 60
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/DTDEventImpl.class - JACT (NotCovered, Total): 138, 289
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/EndDocumentEventImpl.class - JACT (NotCovered, Total): 4, 26
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/EndElementEventImpl.class - JACT (NotCovered, Total): 47, 160
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/EntityReferenceEventImpl.class - JACT (NotCovered, Total): 59, 77
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/NamespaceEventImpl.class - JACT (NotCovered, Total): 0, 72
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/NotationDeclarationEventImpl.class - JACT (NotCovered, Total): 137, 153
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/ProcInstrEventImpl.class - JACT (NotCovered, Total): 30, 114
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/StartDocumentEventImpl.class - JACT (NotCovered, Total): 58, 279
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/Stax2EventReaderAdapter.class - JACT (NotCovered, Total): 68, 74
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/evt/Stax2FilteredEventReader.class - JACT (NotCovered, Total): 90, 112
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/AsciiValueEncoder.class - JACT (NotCovered, Total): 2, 10
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/Base64DecoderBase.class - JACT (NotCovered, Total): 15, 246
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/CharArrayBase64Decoder.class - JACT (NotCovered, Total): 32, 447
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/NumberUtil.class - JACT (NotCovered, Total): 358, 820
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/SimpleValueEncoder.class - JACT (NotCovered, Total): 10, 116
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/StringBase64Decoder.class - JACT (NotCovered, Total): 13, 311
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$BaseArrayDecoder.class - JACT (NotCovered, Total): 12, 43
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$BooleanDecoder.class - JACT (NotCovered, Total): 0, 197
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DecimalDecoder.class - JACT (NotCovered, Total): 0, 48
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DecoderBase.class - JACT (NotCovered, Total): 15, 740
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DoubleArrayDecoder.class - JACT (NotCovered, Total): 0, 127
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DoubleDecoder.class - JACT (NotCovered, Total): 0, 200
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$FloatArrayDecoder.class - JACT (NotCovered, Total): 0, 127
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$FloatDecoder.class - JACT (NotCovered, Total): 0, 200
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntArrayDecoder.class - JACT (NotCovered, Total): 0, 127
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntDecoder.class - JACT (NotCovered, Total): 0, 296
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntegerDecoder.class - JACT (NotCovered, Total): 0, 43
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$LongArrayDecoder.class - JACT (NotCovered, Total): 0, 127
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$LongDecoder.class - JACT (NotCovered, Total): 0, 273
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory$QNameDecoder.class - JACT (NotCovered, Total): 48, 167
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueDecoderFactory.class - JACT (NotCovered, Total): 0, 146
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$ArrayEncoder.class - JACT (NotCovered, Total): 0, 18
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$Base64Encoder.class - JACT (NotCovered, Total): 142, 315
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$DoubleArrayEncoder.class - JACT (NotCovered, Total): 34, 76
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$DoubleEncoder.class - JACT (NotCovered, Total): 6, 19
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$FloatArrayEncoder.class - JACT (NotCovered, Total): 34, 76
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$FloatEncoder.class - JACT (NotCovered, Total): 6, 19
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$IntArrayEncoder.class - JACT (NotCovered, Total): 34, 76
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$IntEncoder.class - JACT (NotCovered, Total): 6, 19
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$LongArrayEncoder.class - JACT (NotCovered, Total): 34, 76
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$LongEncoder.class - JACT (NotCovered, Total): 6, 19
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$ScalarEncoder.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$StringEncoder.class - JACT (NotCovered, Total): 79, 120
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$TokenEncoder.class - JACT (NotCovered, Total): 27, 61
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory$TypedScalarEncoder.class - JACT (NotCovered, Total): 0, 5
-REGULAR CLASS Included by both tools: org/codehaus/stax2/ri/typed/ValueEncoderFactory.class - JACT (NotCovered, Total): 0, 156
-REGULAR CLASS Included by both tools: org/codehaus/stax2/typed/Base64Variant.class - JACT (NotCovered, Total): 165, 455
-REGULAR CLASS Included by both tools: org/codehaus/stax2/typed/Base64Variants.class - JACT (NotCovered, Total): 5, 58
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/typed/TypedArrayDecoder.class - JACT (NotCovered, Total): 0, 3
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/typed/TypedValueDecoder.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: org/codehaus/stax2/typed/TypedXMLStreamException.class - JACT (NotCovered, Total): 25, 42
-REGULAR CLASS Included by both tools: org/codehaus/stax2/util/StreamReader2Delegate.class - JACT (NotCovered, Total): 275, 282
-REGULAR CLASS Included by both tools: org/codehaus/stax2/util/StreamWriterDelegate.class - JACT (NotCovered, Total): 143, 185
-REGULAR CLASS Included by both tools: org/codehaus/stax2/validation/ValidatorPair.class - JACT (NotCovered, Total): 319, 358
-REGULAR CLASS Included by both tools: org/codehaus/stax2/validation/XMLValidationException.class - JACT (NotCovered, Total): 53, 66
-REGULAR CLASS Included by both tools: org/codehaus/stax2/validation/XMLValidationProblem.class - JACT (NotCovered, Total): 10, 58
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/validation/XMLValidationSchemaFactory.class - JACT (NotCovered, Total): 155, 323
-ABSTRACT CLASS Included by both tools: org/codehaus/stax2/validation/XMLValidator.class - JACT (NotCovered, Total): 10, 13
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/MultiSchemaReader.class - JACT (NotCovered, Total): 21, 65
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/XMLSchemaReader$StateFactory.class - JACT (NotCovered, Total): 86, 127
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/XMLSchemaReader.class - JACT (NotCovered, Total): 541, 1305
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/EmbeddedSchema.class - JACT (NotCovered, Total): 0, 15
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/AttributeWildcardComputer.class - JACT (NotCovered, Total): 166, 286
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/WSDLGrammarReaderController.class - JACT (NotCovered, Total): 43, 55
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/WSDLSchemaReader.class - JACT (NotCovered, Total): 0, 168
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/ElementDeclState$1.class - JACT (NotCovered, Total): 8, 82
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/ElementDeclState.class - JACT (NotCovered, Total): 211, 470
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/SchemaState.class - JACT (NotCovered, Total): 13, 57
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/SchemaIncludedState.class - JACT (NotCovered, Total): 41, 216
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/GlobalDeclState.class - JACT (NotCovered, Total): 107, 167
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/ElementRefState$1.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/ElementRefState.class - JACT (NotCovered, Total): 6, 32
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/xmlschema/RedefinableDeclState.class - JACT (NotCovered, Total): 49, 72
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/AttributeState.class - JACT (NotCovered, Total): 162, 303
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/RootIncludedSchemaState.class - JACT (NotCovered, Total): 2, 16
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/RootState.class - JACT (NotCovered, Total): 0, 13
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/ComplexTypeDeclState.class - JACT (NotCovered, Total): 133, 304
-REGULAR CLASS Included by both tools: com/sun/msv/reader/xmlschema/IdentityConstraintState.class - JACT (NotCovered, Total): 179, 464
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/DefaultDatatypeLibraryFactory.class - JACT (NotCovered, Total): 36, 59
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RELAXNGReader$RefExpParseInfo$RedefinitionStatus.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RELAXNGReader$RefExpParseInfo.class - JACT (NotCovered, Total): 13, 48
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RELAXNGReader$StateFactory.class - JACT (NotCovered, Total): 70, 94
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RELAXNGReader.class - JACT (NotCovered, Total): 298, 645
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$DefaultChecker$1.class - JACT (NotCovered, Total): 43, 54
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$DefaultChecker.class - JACT (NotCovered, Total): 44, 216
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$1.class - JACT (NotCovered, Total): 48, 56
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$2.class - JACT (NotCovered, Total): 6, 14
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$3.class - JACT (NotCovered, Total): 13, 21
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$4.class - JACT (NotCovered, Total): 0, 15
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$5.class - JACT (NotCovered, Total): 12, 20
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$ListChecker.class - JACT (NotCovered, Total): 24, 32
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$6.class - JACT (NotCovered, Total): 12, 20
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$7.class - JACT (NotCovered, Total): 6, 14
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$8.class - JACT (NotCovered, Total): 54, 62
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$NameClassWalker.class - JACT (NotCovered, Total): 55, 63
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$9.class - JACT (NotCovered, Total): 7, 14
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$10.class - JACT (NotCovered, Total): 14, 21
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateNameChecker.class - JACT (NotCovered, Total): 81, 176
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateElementsChecker.class - JACT (NotCovered, Total): 26, 40
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateAttributesChecker.class - JACT (NotCovered, Total): 26, 55
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/RestrictionChecker.class - JACT (NotCovered, Total): 29, 119
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/AttributeState$1.class - JACT (NotCovered, Total): 52, 77
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/AttributeState.class - JACT (NotCovered, Total): 0, 24
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/DataState.class - JACT (NotCovered, Total): 66, 125
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/ElementState.class - JACT (NotCovered, Total): 0, 33
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ng/ValueState.class - JACT (NotCovered, Total): 36, 92
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/trex/TREXBaseReader$StateFactory.class - JACT (NotCovered, Total): 81, 106
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/trex/TREXBaseReader.class - JACT (NotCovered, Total): 167, 297
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/TREXSequencedStringChecker.class - JACT (NotCovered, Total): 123, 330
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/trex/NameClassAndExpressionState.class - JACT (NotCovered, Total): 62, 132
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ElementState.class - JACT (NotCovered, Total): 0, 16
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/RootIncludedPatternState.class - JACT (NotCovered, Total): 4, 22
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/OneOrMoreState.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/AttributeState.class - JACT (NotCovered, Total): 11, 62
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/RootState.class - JACT (NotCovered, Total): 6, 58
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/OptionalState.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/reader/trex/ZeroOrMoreState.class - JACT (NotCovered, Total): 0, 9
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/State.class - JACT (NotCovered, Total): 41, 119
-REGULAR CLASS Included by both tools: com/sun/msv/reader/GrammarReader$1.class - JACT (NotCovered, Total): 2, 11
-REGULAR CLASS Included by both tools: com/sun/msv/reader/GrammarReader$ChainPrefixResolver.class - JACT (NotCovered, Total): 0, 29
-REGULAR CLASS Included by both tools: com/sun/msv/reader/GrammarReader$InclusionContext.class - JACT (NotCovered, Total): 0, 18
-REGULAR CLASS Included by both tools: com/sun/msv/reader/GrammarReader$BackwardReferenceMap.class - JACT (NotCovered, Total): 30, 66
-REGULAR CLASS Included by both tools: com/sun/msv/reader/util/IgnoreController.class - JACT (NotCovered, Total): 4, 7
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/GrammarReader.class - JACT (NotCovered, Total): 566, 951
-REGULAR CLASS Included by both tools: com/sun/msv/reader/Controller.class - JACT (NotCovered, Total): 147, 159
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$1.class - JACT (NotCovered, Total): 0, 34
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/XSDatatypeExp.class - JACT (NotCovered, Total): 323, 362
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/FacetState.class - JACT (NotCovered, Total): 17, 105
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/SimpleTypeState.class - JACT (NotCovered, Total): 99, 142
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/TypeWithOneChildState.class - JACT (NotCovered, Total): 19, 37
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/TypeState.class - JACT (NotCovered, Total): 52, 132
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/xsd/RestrictionState.class - JACT (NotCovered, Total): 27, 105
-REGULAR CLASS Included by both tools: com/sun/msv/reader/datatype/DataTypeVocabularyMap.class - JACT (NotCovered, Total): 39, 47
-REGULAR CLASS Included by both tools: com/sun/msv/reader/RunAwayExpressionChecker.class - JACT (NotCovered, Total): 109, 306
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/SimpleState.class - JACT (NotCovered, Total): 31, 93
-REGULAR CLASS Included by both tools: com/sun/msv/reader/SequenceState.class - JACT (NotCovered, Total): 0, 28
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/ExpressionWithChildState.class - JACT (NotCovered, Total): 13, 52
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/ExpressionState.class - JACT (NotCovered, Total): 0, 21
-ABSTRACT CLASS Included by both tools: com/sun/msv/reader/ExpressionWithoutChildState.class - JACT (NotCovered, Total): 2, 5
-REGULAR CLASS Included by both tools: com/sun/msv/reader/ChildlessState.class - JACT (NotCovered, Total): 2, 5
-REGULAR CLASS Included by both tools: com/sun/msv/reader/ChoiceState.class - JACT (NotCovered, Total): 2, 28
-REGULAR CLASS Included by both tools: com/sun/msv/reader/InterleaveState.class - JACT (NotCovered, Total): 0, 14
-REGULAR CLASS Included by both tools: com/sun/msv/reader/TerminalState.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/relaxng/datatype/BuiltinDatatypeLibrary.class - JACT (NotCovered, Total): 21, 39
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/trex/TREXGrammar$RefContainer.class - JACT (NotCovered, Total): 9, 12
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/trex/TREXGrammar.class - JACT (NotCovered, Total): 15, 41
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/trex/ElementPattern.class - JACT (NotCovered, Total): 0, 11
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/Expression$EpsilonExpression.class - JACT (NotCovered, Total): 15, 29
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/Expression$NullSetExpression.class - JACT (NotCovered, Total): 18, 29
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/Expression$AnyStringExpression.class - JACT (NotCovered, Total): 9, 29
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/Expression.class - JACT (NotCovered, Total): 67, 146
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/ExpressionPool$ClosedHash.class - JACT (NotCovered, Total): 205, 458
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/ExpressionPool.class - JACT (NotCovered, Total): 123, 423
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/ReferenceContainer.class - JACT (NotCovered, Total): 17, 80
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/ReferenceExp.class - JACT (NotCovered, Total): 14, 58
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/relax/NoneType.class - JACT (NotCovered, Total): 14, 23
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/util/ExpressionWalker.class - JACT (NotCovered, Total): 19, 68
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/util/NameClassComparator.class - JACT (NotCovered, Total): 53, 88
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/util/RefExpRemover.class - JACT (NotCovered, Total): 26, 68
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/util/NameClassCollisionChecker.class - JACT (NotCovered, Total): 3, 19
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/DataExp.class - JACT (NotCovered, Total): 19, 89
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/ValueExp.class - JACT (NotCovered, Total): 52, 82
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/UnaryExp.class - JACT (NotCovered, Total): 4, 30
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/ElementExp.class - JACT (NotCovered, Total): 13, 43
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/AttributeExp.class - JACT (NotCovered, Total): 15, 71
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/BinaryExp.class - JACT (NotCovered, Total): 17, 98
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/OneOrMoreExp.class - JACT (NotCovered, Total): 4, 24
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/MixedExp.class - JACT (NotCovered, Total): 20, 24
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/OtherExp.class - JACT (NotCovered, Total): 45, 62
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/SequenceExp.class - JACT (NotCovered, Total): 4, 33
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/InterleaveExp.class - JACT (NotCovered, Total): 16, 33
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/ExpressionCloner.class - JACT (NotCovered, Total): 44, 140
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/xmlschema/RedefinableExp.class - JACT (NotCovered, Total): 20, 24
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$SimpleTypeContainer.class - JACT (NotCovered, Total): 0, 21
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$ComplexTypeContainer.class - JACT (NotCovered, Total): 0, 23
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$AttributeGroupContainer.class - JACT (NotCovered, Total): 15, 21
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$AttributeDeclContainer.class - JACT (NotCovered, Total): 15, 21
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$ElementDeclContainer.class - JACT (NotCovered, Total): 5, 23
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$GroupDeclContainer.class - JACT (NotCovered, Total): 15, 21
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$IdentityConstraintContainer.class - JACT (NotCovered, Total): 0, 24
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaSchema.class - JACT (NotCovered, Total): 0, 58
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaGrammar.class - JACT (NotCovered, Total): 6, 34
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/IdentityConstraint.class - JACT (NotCovered, Total): 0, 15
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XPath.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/Field.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/OccurrenceExp.class - JACT (NotCovered, Total): 28, 41
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/UniqueConstraint.class - JACT (NotCovered, Total): 0, 7
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/ComplexTypeExp.class - JACT (NotCovered, Total): 171, 220
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/xmlschema/XMLSchemaTypeExp.class - JACT (NotCovered, Total): 0, 4
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/SimpleTypeExp.class - JACT (NotCovered, Total): 48, 59
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/ElementDeclExp$XSElementExp.class - JACT (NotCovered, Total): 0, 22
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/xmlschema/ElementDeclExp.class - JACT (NotCovered, Total): 109, 178
-ABSTRACT CLASS Included by both tools: com/sun/msv/grammar/NameClass.class - JACT (NotCovered, Total): 66, 79
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/ChoiceExp.class - JACT (NotCovered, Total): 4, 33
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/SimpleNameClass.class - JACT (NotCovered, Total): 15, 58
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/AnyNameClass.class - JACT (NotCovered, Total): 10, 18
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/NamespaceNameClass.class - JACT (NotCovered, Total): 24, 30
-REGULAR CLASS Included by both tools: com/sun/msv/grammar/NotNameClass.class - JACT (NotCovered, Total): 25, 31
-REGULAR CLASS Included by both tools: com/sun/msv/driver/textui/Debug.class - JACT (NotCovered, Total): 8, 15
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/xmlschema/XSREDocDecl.class - JACT (NotCovered, Total): 15, 47
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/xmlschema/XSAcceptor.class - JACT (NotCovered, Total): 313, 373
-ABSTRACT CLASS Included by both tools: com/sun/msv/verifier/regexp/Token.class - JACT (NotCovered, Total): 12, 17
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/ResidualCalculator.class - JACT (NotCovered, Total): 124, 259
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/REDocumentDeclaration.class - JACT (NotCovered, Total): 0, 109
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/ElementToken.class - JACT (NotCovered, Total): 48, 54
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/CombinedChildContentExpCreator$ExpressionPair.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/CombinedChildContentExpCreator.class - JACT (NotCovered, Total): 179, 536
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributeFeeder.class - JACT (NotCovered, Total): 75, 161
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributePicker.class - JACT (NotCovered, Total): 55, 112
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributeRemover.class - JACT (NotCovered, Total): 10, 18
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/ElementsOfConcernCollector.class - JACT (NotCovered, Total): 105, 108
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributeToken.class - JACT (NotCovered, Total): 26, 131
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributeRecoveryToken.class - JACT (NotCovered, Total): 0, 46
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/ExpressionAcceptor$1.class - JACT (NotCovered, Total): 0, 12
-ABSTRACT CLASS Included by both tools: com/sun/msv/verifier/regexp/ExpressionAcceptor.class - JACT (NotCovered, Total): 500, 1231
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/OptimizationTag$OwnerAndCont.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/OptimizationTag.class - JACT (NotCovered, Total): 0, 16
-ABSTRACT CLASS Included by both tools: com/sun/msv/verifier/regexp/ContentModelAcceptor.class - JACT (NotCovered, Total): 62, 103
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/StringCareLevelCalculator.class - JACT (NotCovered, Total): 55, 151
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AnyElementToken.class - JACT (NotCovered, Total): 0, 11
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/StringToken.class - JACT (NotCovered, Total): 192, 302
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/AttributePruner.class - JACT (NotCovered, Total): 10, 47
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/SimpleAcceptor.class - JACT (NotCovered, Total): 15, 32
-REGULAR CLASS Included by both tools: com/sun/msv/verifier/regexp/StringRecoveryToken.class - JACT (NotCovered, Total): 34, 65
-REGULAR CLASS Included by both tools: com/sun/msv/util/StartTagInfo.class - JACT (NotCovered, Total): 22, 114
-REGULAR CLASS Included by both tools: com/sun/msv/util/StringPair.class - JACT (NotCovered, Total): 35, 76
-REGULAR CLASS Included by both tools: com/sun/msv/util/StringRef.class - JACT (NotCovered, Total): 0, 3
-REGULAR CLASS Included by both tools: com/sun/msv/util/LightStack.class - JACT (NotCovered, Total): 60, 95
-REGULAR CLASS Included by both tools: com/sun/msv/util/Util.class - JACT (NotCovered, Total): 117, 157
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/XSDatatypeImpl$1.class - JACT (NotCovered, Total): 8, 11
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/XSDatatypeImpl.class - JACT (NotCovered, Total): 220, 320
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/TypeIncubator$FacetInfo.class - JACT (NotCovered, Total): 0, 9
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/TypeIncubator.class - JACT (NotCovered, Total): 446, 840
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$Preserve.class - JACT (NotCovered, Total): 4, 6
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$Collapse.class - JACT (NotCovered, Total): 4, 66
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$1.class - JACT (NotCovered, Total): 8, 11
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$2.class - JACT (NotCovered, Total): 8, 11
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$3.class - JACT (NotCovered, Total): 8, 11
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/ConcreteType.class - JACT (NotCovered, Total): 20, 51
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/WhiteSpaceProcessor.class - JACT (NotCovered, Total): 64, 115
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/BuiltinAtomicType.class - JACT (NotCovered, Total): 13, 27
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/IntegerValueType.class - JACT (NotCovered, Total): 236, 335
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/Proxy.class - JACT (NotCovered, Total): 59, 88
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/XmlNames.class - JACT (NotCovered, Total): 117, 165
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NumberType.class - JACT (NotCovered, Total): 129, 214
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/StringType.class - JACT (NotCovered, Total): 24, 82
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/QnameType.class - JACT (NotCovered, Total): 235, 244
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ngimpl/DatatypeBuilderImpl.class - JACT (NotCovered, Total): 33, 48
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ngimpl/DataTypeLibraryImpl.class - JACT (NotCovered, Total): 4, 29
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/BooleanType.class - JACT (NotCovered, Total): 68, 97
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/FloatingNumberType.class - JACT (NotCovered, Total): 49, 81
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/SimpleURType.class - JACT (NotCovered, Total): 18, 30
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ListType.class - JACT (NotCovered, Total): 140, 214
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/UnicodeUtil.class - JACT (NotCovered, Total): 7, 29
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/FloatType.class - JACT (NotCovered, Total): 56, 101
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/DatatypeFactory$1.class - JACT (NotCovered, Total): 13, 19
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/DatatypeFactory.class - JACT (NotCovered, Total): 252, 466
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NormalizedStringType.class - JACT (NotCovered, Total): 2, 15
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ListValueType.class - JACT (NotCovered, Total): 65, 71
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/DataTypeWithFacet.class - JACT (NotCovered, Total): 78, 165
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/IntegerType.class - JACT (NotCovered, Total): 41, 64
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/IntegerDerivedType.class - JACT (NotCovered, Total): 89, 168
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/MinInclusiveFacet.class - JACT (NotCovered, Total): 9, 18
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/RangeFacet.class - JACT (NotCovered, Total): 43, 54
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/DataTypeWithValueConstraintFacet.class - JACT (NotCovered, Total): 1, 19
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/MaxLengthFacet.class - JACT (NotCovered, Total): 56, 103
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/MinLengthFacet.class - JACT (NotCovered, Total): 56, 103
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/EnumerationFacet.class - JACT (NotCovered, Total): 95, 124
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/IntType.class - JACT (NotCovered, Total): 7, 40
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NmtokenType.class - JACT (NotCovered, Total): 9, 20
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/TokenType.class - JACT (NotCovered, Total): 2, 15
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NegativeIntegerType.class - JACT (NotCovered, Total): 21, 35
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/LongType.class - JACT (NotCovered, Total): 24, 43
-ABSTRACT CLASS Included by both tools: com/sun/msv/datatype/xsd/DataTypeWithLexicalConstraintFacet.class - JACT (NotCovered, Total): 28, 36
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/FractionDigitsFacet.class - JACT (NotCovered, Total): 94, 111
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NcnameType.class - JACT (NotCovered, Total): 2, 20
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/IDREFType.class - JACT (NotCovered, Total): 2, 13
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NameType.class - JACT (NotCovered, Total): 9, 19
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/MaxInclusiveFacet.class - JACT (NotCovered, Total): 9, 18
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NonNegativeIntegerType.class - JACT (NotCovered, Total): 21, 35
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/NonPositiveIntegerType.class - JACT (NotCovered, Total): 21, 35
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/IDType.class - JACT (NotCovered, Total): 2, 13
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ByteType.class - JACT (NotCovered, Total): 19, 38
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/ShortType.class - JACT (NotCovered, Total): 19, 40
-REGULAR CLASS Included by both tools: com/sun/msv/datatype/xsd/PositiveIntegerType.class - JACT (NotCovered, Total): 4, 35
-REGULAR CLASS Included by both tools: com/sun/xml/util/XmlChars.class - JACT (NotCovered, Total): 409, 551
-REGULAR CLASS Included by both tools: org/relaxng/datatype/DatatypeException.class - JACT (NotCovered, Total): 13, 20
-REGULAR CLASS Included by both tools: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$Loader2.class - JACT (NotCovered, Total): 10, 52
-REGULAR CLASS Included by both tools: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$ProviderEnumeration.class - JACT (NotCovered, Total): 5, 41
-REGULAR CLASS Included by both tools: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service.class - JACT (NotCovered, Total): 34, 196
-REGULAR CLASS Included by both tools: org/relaxng/datatype/helpers/DatatypeLibraryLoader.class - JACT (NotCovered, Total): 0, 38
+ABSTRACT CLASS: org/codehaus/stax2/XMLInputFactory2.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: org/codehaus/stax2/XMLOutputFactory2.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/codehaus/stax2/XMLStreamLocation2$1.class - JACT (NotCovered, Total): 8, 15
+INTERFACE: org/codehaus/stax2/XMLStreamLocation2.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: org/codehaus/stax2/evt/XMLEventFactory2.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: org/codehaus/stax2/io/Stax2BlockResult.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: org/codehaus/stax2/io/Stax2BlockSource.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: org/codehaus/stax2/io/Stax2ByteArraySource.class - JACT (NotCovered, Total): 32, 63
+ABSTRACT CLASS: org/codehaus/stax2/io/Stax2Result.class - JACT (NotCovered, Total): 21, 24
+ABSTRACT CLASS: org/codehaus/stax2/io/Stax2Source.class - JACT (NotCovered, Total): 12, 24
+REGULAR CLASS: org/codehaus/stax2/io/Stax2StringSource.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: org/codehaus/stax2/ri/SingletonIterator.class - JACT (NotCovered, Total): 9, 39
+ABSTRACT CLASS: org/codehaus/stax2/ri/Stax2EventFactoryImpl.class - JACT (NotCovered, Total): 65, 237
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2EventWriterImpl.class - JACT (NotCovered, Total): 62, 245
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2FilteredStreamReader.class - JACT (NotCovered, Total): 12, 35
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2LocationAdapter.class - JACT (NotCovered, Total): 31, 53
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2ReaderAdapter.class - JACT (NotCovered, Total): 411, 1256
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2Util$ByteAggregator.class - JACT (NotCovered, Total): 39, 169
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2Util$TextBuffer.class - JACT (NotCovered, Total): 12, 81
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2Util.class - JACT (NotCovered, Total): 33, 91
+REGULAR CLASS: org/codehaus/stax2/ri/Stax2WriterAdapter.class - JACT (NotCovered, Total): 430, 748
+ABSTRACT CLASS: org/codehaus/stax2/ri/Stax2WriterImpl.class - JACT (NotCovered, Total): 345, 348
+ABSTRACT CLASS: org/codehaus/stax2/ri/dom/DOMWrappingReader.class - JACT (NotCovered, Total): 1315, 3155
+ABSTRACT CLASS: org/codehaus/stax2/ri/dom/DOMWrappingWriter.class - JACT (NotCovered, Total): 211, 542
+REGULAR CLASS: org/codehaus/stax2/ri/evt/AttributeEventImpl.class - JACT (NotCovered, Total): 49, 239
+ABSTRACT CLASS: org/codehaus/stax2/ri/evt/BaseEventImpl.class - JACT (NotCovered, Total): 46, 131
+REGULAR CLASS: org/codehaus/stax2/ri/evt/CharactersEventImpl.class - JACT (NotCovered, Total): 53, 295
+REGULAR CLASS: org/codehaus/stax2/ri/evt/CommentEventImpl.class - JACT (NotCovered, Total): 15, 60
+REGULAR CLASS: org/codehaus/stax2/ri/evt/DTDEventImpl.class - JACT (NotCovered, Total): 138, 289
+REGULAR CLASS: org/codehaus/stax2/ri/evt/EndDocumentEventImpl.class - JACT (NotCovered, Total): 4, 26
+REGULAR CLASS: org/codehaus/stax2/ri/evt/EndElementEventImpl.class - JACT (NotCovered, Total): 47, 160
+REGULAR CLASS: org/codehaus/stax2/ri/evt/EntityReferenceEventImpl.class - JACT (NotCovered, Total): 59, 77
+REGULAR CLASS: org/codehaus/stax2/ri/evt/NamespaceEventImpl.class - JACT (NotCovered, Total): 0, 72
+REGULAR CLASS: org/codehaus/stax2/ri/evt/NotationDeclarationEventImpl.class - JACT (NotCovered, Total): 137, 153
+REGULAR CLASS: org/codehaus/stax2/ri/evt/ProcInstrEventImpl.class - JACT (NotCovered, Total): 30, 114
+REGULAR CLASS: org/codehaus/stax2/ri/evt/StartDocumentEventImpl.class - JACT (NotCovered, Total): 58, 279
+REGULAR CLASS: org/codehaus/stax2/ri/evt/Stax2EventReaderAdapter.class - JACT (NotCovered, Total): 68, 74
+REGULAR CLASS: org/codehaus/stax2/ri/evt/Stax2FilteredEventReader.class - JACT (NotCovered, Total): 90, 112
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/AsciiValueEncoder.class - JACT (NotCovered, Total): 2, 10
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/Base64DecoderBase.class - JACT (NotCovered, Total): 15, 246
+REGULAR CLASS: org/codehaus/stax2/ri/typed/CharArrayBase64Decoder.class - JACT (NotCovered, Total): 32, 447
+REGULAR CLASS: org/codehaus/stax2/ri/typed/NumberUtil.class - JACT (NotCovered, Total): 358, 820
+REGULAR CLASS: org/codehaus/stax2/ri/typed/SimpleValueEncoder.class - JACT (NotCovered, Total): 10, 116
+REGULAR CLASS: org/codehaus/stax2/ri/typed/StringBase64Decoder.class - JACT (NotCovered, Total): 13, 311
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$BaseArrayDecoder.class - JACT (NotCovered, Total): 12, 43
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$BooleanDecoder.class - JACT (NotCovered, Total): 0, 197
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DecimalDecoder.class - JACT (NotCovered, Total): 0, 48
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DecoderBase.class - JACT (NotCovered, Total): 15, 740
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DoubleArrayDecoder.class - JACT (NotCovered, Total): 0, 127
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$DoubleDecoder.class - JACT (NotCovered, Total): 0, 200
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$FloatArrayDecoder.class - JACT (NotCovered, Total): 0, 127
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$FloatDecoder.class - JACT (NotCovered, Total): 0, 200
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntArrayDecoder.class - JACT (NotCovered, Total): 0, 127
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntDecoder.class - JACT (NotCovered, Total): 0, 296
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$IntegerDecoder.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$LongArrayDecoder.class - JACT (NotCovered, Total): 0, 127
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$LongDecoder.class - JACT (NotCovered, Total): 0, 273
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory$QNameDecoder.class - JACT (NotCovered, Total): 48, 167
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueDecoderFactory.class - JACT (NotCovered, Total): 0, 146
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$ArrayEncoder.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$Base64Encoder.class - JACT (NotCovered, Total): 142, 315
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$DoubleArrayEncoder.class - JACT (NotCovered, Total): 34, 76
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$DoubleEncoder.class - JACT (NotCovered, Total): 6, 19
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$FloatArrayEncoder.class - JACT (NotCovered, Total): 34, 76
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$FloatEncoder.class - JACT (NotCovered, Total): 6, 19
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$IntArrayEncoder.class - JACT (NotCovered, Total): 34, 76
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$IntEncoder.class - JACT (NotCovered, Total): 6, 19
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$LongArrayEncoder.class - JACT (NotCovered, Total): 34, 76
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$LongEncoder.class - JACT (NotCovered, Total): 6, 19
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$ScalarEncoder.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$StringEncoder.class - JACT (NotCovered, Total): 79, 120
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$TokenEncoder.class - JACT (NotCovered, Total): 27, 61
+ABSTRACT CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory$TypedScalarEncoder.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/codehaus/stax2/ri/typed/ValueEncoderFactory.class - JACT (NotCovered, Total): 0, 156
+REGULAR CLASS: org/codehaus/stax2/typed/Base64Variant.class - JACT (NotCovered, Total): 165, 455
+REGULAR CLASS: org/codehaus/stax2/typed/Base64Variants.class - JACT (NotCovered, Total): 5, 58
+ABSTRACT CLASS: org/codehaus/stax2/typed/TypedArrayDecoder.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: org/codehaus/stax2/typed/TypedValueDecoder.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/codehaus/stax2/typed/TypedXMLStreamException.class - JACT (NotCovered, Total): 25, 42
+REGULAR CLASS: org/codehaus/stax2/util/StreamReader2Delegate.class - JACT (NotCovered, Total): 275, 282
+REGULAR CLASS: org/codehaus/stax2/util/StreamWriterDelegate.class - JACT (NotCovered, Total): 143, 185
+REGULAR CLASS: org/codehaus/stax2/validation/ValidatorPair.class - JACT (NotCovered, Total): 319, 358
+REGULAR CLASS: org/codehaus/stax2/validation/XMLValidationException.class - JACT (NotCovered, Total): 53, 66
+REGULAR CLASS: org/codehaus/stax2/validation/XMLValidationProblem.class - JACT (NotCovered, Total): 10, 58
+ABSTRACT CLASS: org/codehaus/stax2/validation/XMLValidationSchemaFactory.class - JACT (NotCovered, Total): 155, 323
+ABSTRACT CLASS: org/codehaus/stax2/validation/XMLValidator.class - JACT (NotCovered, Total): 10, 13
+REGULAR CLASS: com/sun/msv/reader/xmlschema/MultiSchemaReader.class - JACT (NotCovered, Total): 21, 65
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader$StateFactory.class - JACT (NotCovered, Total): 86, 127
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader.class - JACT (NotCovered, Total): 541, 1305
+REGULAR CLASS: com/sun/msv/reader/xmlschema/EmbeddedSchema.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeWildcardComputer.class - JACT (NotCovered, Total): 166, 286
+REGULAR CLASS: com/sun/msv/reader/xmlschema/WSDLGrammarReaderController.class - JACT (NotCovered, Total): 43, 55
+REGULAR CLASS: com/sun/msv/reader/xmlschema/WSDLSchemaReader.class - JACT (NotCovered, Total): 0, 168
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ElementDeclState$1.class - JACT (NotCovered, Total): 8, 82
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ElementDeclState.class - JACT (NotCovered, Total): 211, 470
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SchemaState.class - JACT (NotCovered, Total): 13, 57
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SchemaIncludedState.class - JACT (NotCovered, Total): 41, 216
+REGULAR CLASS: com/sun/msv/reader/xmlschema/GlobalDeclState.class - JACT (NotCovered, Total): 107, 167
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ElementRefState$1.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ElementRefState.class - JACT (NotCovered, Total): 6, 32
+ABSTRACT CLASS: com/sun/msv/reader/xmlschema/RedefinableDeclState.class - JACT (NotCovered, Total): 49, 72
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeState.class - JACT (NotCovered, Total): 162, 303
+REGULAR CLASS: com/sun/msv/reader/xmlschema/RootIncludedSchemaState.class - JACT (NotCovered, Total): 2, 16
+REGULAR CLASS: com/sun/msv/reader/xmlschema/RootState.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ComplexTypeDeclState.class - JACT (NotCovered, Total): 133, 304
+REGULAR CLASS: com/sun/msv/reader/xmlschema/IdentityConstraintState.class - JACT (NotCovered, Total): 179, 464
+REGULAR CLASS: com/sun/msv/reader/trex/ng/DefaultDatatypeLibraryFactory.class - JACT (NotCovered, Total): 36, 59
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader$RefExpParseInfo$RedefinitionStatus.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader$RefExpParseInfo.class - JACT (NotCovered, Total): 13, 48
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader$StateFactory.class - JACT (NotCovered, Total): 70, 94
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader.class - JACT (NotCovered, Total): 298, 645
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$DefaultChecker$1.class - JACT (NotCovered, Total): 43, 54
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$DefaultChecker.class - JACT (NotCovered, Total): 44, 216
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$1.class - JACT (NotCovered, Total): 48, 56
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$2.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$3.class - JACT (NotCovered, Total): 13, 21
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$4.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$5.class - JACT (NotCovered, Total): 12, 20
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$ListChecker.class - JACT (NotCovered, Total): 24, 32
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$6.class - JACT (NotCovered, Total): 12, 20
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$7.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$8.class - JACT (NotCovered, Total): 54, 62
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$NameClassWalker.class - JACT (NotCovered, Total): 55, 63
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$9.class - JACT (NotCovered, Total): 7, 14
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$10.class - JACT (NotCovered, Total): 14, 21
+ABSTRACT CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateNameChecker.class - JACT (NotCovered, Total): 81, 176
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateElementsChecker.class - JACT (NotCovered, Total): 26, 40
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker$DuplicateAttributesChecker.class - JACT (NotCovered, Total): 26, 55
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RestrictionChecker.class - JACT (NotCovered, Total): 29, 119
+REGULAR CLASS: com/sun/msv/reader/trex/ng/AttributeState$1.class - JACT (NotCovered, Total): 52, 77
+REGULAR CLASS: com/sun/msv/reader/trex/ng/AttributeState.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: com/sun/msv/reader/trex/ng/DataState.class - JACT (NotCovered, Total): 66, 125
+REGULAR CLASS: com/sun/msv/reader/trex/ng/ElementState.class - JACT (NotCovered, Total): 0, 33
+REGULAR CLASS: com/sun/msv/reader/trex/ng/ValueState.class - JACT (NotCovered, Total): 36, 92
+ABSTRACT CLASS: com/sun/msv/reader/trex/TREXBaseReader$StateFactory.class - JACT (NotCovered, Total): 81, 106
+ABSTRACT CLASS: com/sun/msv/reader/trex/TREXBaseReader.class - JACT (NotCovered, Total): 167, 297
+REGULAR CLASS: com/sun/msv/reader/trex/TREXSequencedStringChecker.class - JACT (NotCovered, Total): 123, 330
+ABSTRACT CLASS: com/sun/msv/reader/trex/NameClassAndExpressionState.class - JACT (NotCovered, Total): 62, 132
+REGULAR CLASS: com/sun/msv/reader/trex/ElementState.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: com/sun/msv/reader/trex/RootIncludedPatternState.class - JACT (NotCovered, Total): 4, 22
+REGULAR CLASS: com/sun/msv/reader/trex/OneOrMoreState.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/reader/trex/AttributeState.class - JACT (NotCovered, Total): 11, 62
+REGULAR CLASS: com/sun/msv/reader/trex/RootState.class - JACT (NotCovered, Total): 6, 58
+REGULAR CLASS: com/sun/msv/reader/trex/OptionalState.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/reader/trex/ZeroOrMoreState.class - JACT (NotCovered, Total): 0, 9
+ABSTRACT CLASS: com/sun/msv/reader/State.class - JACT (NotCovered, Total): 41, 119
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$1.class - JACT (NotCovered, Total): 2, 11
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$ChainPrefixResolver.class - JACT (NotCovered, Total): 0, 29
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$InclusionContext.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$BackwardReferenceMap.class - JACT (NotCovered, Total): 30, 66
+REGULAR CLASS: com/sun/msv/reader/util/IgnoreController.class - JACT (NotCovered, Total): 4, 7
+ABSTRACT CLASS: com/sun/msv/reader/GrammarReader.class - JACT (NotCovered, Total): 566, 951
+REGULAR CLASS: com/sun/msv/reader/Controller.class - JACT (NotCovered, Total): 147, 159
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$1.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp.class - JACT (NotCovered, Total): 323, 362
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/FacetState.class - JACT (NotCovered, Total): 17, 105
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/SimpleTypeState.class - JACT (NotCovered, Total): 99, 142
+ABSTRACT CLASS: com/sun/msv/reader/datatype/xsd/TypeWithOneChildState.class - JACT (NotCovered, Total): 19, 37
+ABSTRACT CLASS: com/sun/msv/reader/datatype/xsd/TypeState.class - JACT (NotCovered, Total): 52, 132
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/RestrictionState.class - JACT (NotCovered, Total): 27, 105
+REGULAR CLASS: com/sun/msv/reader/datatype/DataTypeVocabularyMap.class - JACT (NotCovered, Total): 39, 47
+REGULAR CLASS: com/sun/msv/reader/RunAwayExpressionChecker.class - JACT (NotCovered, Total): 109, 306
+ABSTRACT CLASS: com/sun/msv/reader/SimpleState.class - JACT (NotCovered, Total): 31, 93
+REGULAR CLASS: com/sun/msv/reader/SequenceState.class - JACT (NotCovered, Total): 0, 28
+ABSTRACT CLASS: com/sun/msv/reader/ExpressionWithChildState.class - JACT (NotCovered, Total): 13, 52
+ABSTRACT CLASS: com/sun/msv/reader/ExpressionState.class - JACT (NotCovered, Total): 0, 21
+ABSTRACT CLASS: com/sun/msv/reader/ExpressionWithoutChildState.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: com/sun/msv/reader/ChildlessState.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: com/sun/msv/reader/ChoiceState.class - JACT (NotCovered, Total): 2, 28
+REGULAR CLASS: com/sun/msv/reader/InterleaveState.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: com/sun/msv/reader/TerminalState.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/grammar/relaxng/datatype/BuiltinDatatypeLibrary.class - JACT (NotCovered, Total): 21, 39
+REGULAR CLASS: com/sun/msv/grammar/trex/TREXGrammar$RefContainer.class - JACT (NotCovered, Total): 9, 12
+REGULAR CLASS: com/sun/msv/grammar/trex/TREXGrammar.class - JACT (NotCovered, Total): 15, 41
+REGULAR CLASS: com/sun/msv/grammar/trex/ElementPattern.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: com/sun/msv/grammar/Expression$EpsilonExpression.class - JACT (NotCovered, Total): 15, 29
+REGULAR CLASS: com/sun/msv/grammar/Expression$NullSetExpression.class - JACT (NotCovered, Total): 18, 29
+REGULAR CLASS: com/sun/msv/grammar/Expression$AnyStringExpression.class - JACT (NotCovered, Total): 9, 29
+ABSTRACT CLASS: com/sun/msv/grammar/Expression.class - JACT (NotCovered, Total): 67, 146
+REGULAR CLASS: com/sun/msv/grammar/ExpressionPool$ClosedHash.class - JACT (NotCovered, Total): 205, 458
+REGULAR CLASS: com/sun/msv/grammar/ExpressionPool.class - JACT (NotCovered, Total): 123, 423
+ABSTRACT CLASS: com/sun/msv/grammar/ReferenceContainer.class - JACT (NotCovered, Total): 17, 80
+REGULAR CLASS: com/sun/msv/grammar/ReferenceExp.class - JACT (NotCovered, Total): 14, 58
+REGULAR CLASS: com/sun/msv/grammar/relax/NoneType.class - JACT (NotCovered, Total): 14, 23
+ABSTRACT CLASS: com/sun/msv/grammar/util/ExpressionWalker.class - JACT (NotCovered, Total): 19, 68
+ABSTRACT CLASS: com/sun/msv/grammar/util/NameClassComparator.class - JACT (NotCovered, Total): 53, 88
+REGULAR CLASS: com/sun/msv/grammar/util/RefExpRemover.class - JACT (NotCovered, Total): 26, 68
+REGULAR CLASS: com/sun/msv/grammar/util/NameClassCollisionChecker.class - JACT (NotCovered, Total): 3, 19
+REGULAR CLASS: com/sun/msv/grammar/DataExp.class - JACT (NotCovered, Total): 19, 89
+REGULAR CLASS: com/sun/msv/grammar/ValueExp.class - JACT (NotCovered, Total): 52, 82
+ABSTRACT CLASS: com/sun/msv/grammar/UnaryExp.class - JACT (NotCovered, Total): 4, 30
+ABSTRACT CLASS: com/sun/msv/grammar/ElementExp.class - JACT (NotCovered, Total): 13, 43
+REGULAR CLASS: com/sun/msv/grammar/AttributeExp.class - JACT (NotCovered, Total): 15, 71
+ABSTRACT CLASS: com/sun/msv/grammar/BinaryExp.class - JACT (NotCovered, Total): 17, 98
+REGULAR CLASS: com/sun/msv/grammar/OneOrMoreExp.class - JACT (NotCovered, Total): 4, 24
+REGULAR CLASS: com/sun/msv/grammar/MixedExp.class - JACT (NotCovered, Total): 20, 24
+REGULAR CLASS: com/sun/msv/grammar/OtherExp.class - JACT (NotCovered, Total): 45, 62
+REGULAR CLASS: com/sun/msv/grammar/SequenceExp.class - JACT (NotCovered, Total): 4, 33
+REGULAR CLASS: com/sun/msv/grammar/InterleaveExp.class - JACT (NotCovered, Total): 16, 33
+ABSTRACT CLASS: com/sun/msv/grammar/ExpressionCloner.class - JACT (NotCovered, Total): 44, 140
+ABSTRACT CLASS: com/sun/msv/grammar/xmlschema/RedefinableExp.class - JACT (NotCovered, Total): 20, 24
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$SimpleTypeContainer.class - JACT (NotCovered, Total): 0, 21
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$ComplexTypeContainer.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$AttributeGroupContainer.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$AttributeDeclContainer.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$ElementDeclContainer.class - JACT (NotCovered, Total): 5, 23
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$GroupDeclContainer.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema$IdentityConstraintContainer.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaSchema.class - JACT (NotCovered, Total): 0, 58
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaGrammar.class - JACT (NotCovered, Total): 6, 34
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/IdentityConstraint.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/XPath.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/Field.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/OccurrenceExp.class - JACT (NotCovered, Total): 28, 41
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/UniqueConstraint.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/ComplexTypeExp.class - JACT (NotCovered, Total): 171, 220
+ABSTRACT CLASS: com/sun/msv/grammar/xmlschema/XMLSchemaTypeExp.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/SimpleTypeExp.class - JACT (NotCovered, Total): 48, 59
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/ElementDeclExp$XSElementExp.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/ElementDeclExp.class - JACT (NotCovered, Total): 109, 178
+ABSTRACT CLASS: com/sun/msv/grammar/NameClass.class - JACT (NotCovered, Total): 66, 79
+REGULAR CLASS: com/sun/msv/grammar/ChoiceExp.class - JACT (NotCovered, Total): 4, 33
+REGULAR CLASS: com/sun/msv/grammar/SimpleNameClass.class - JACT (NotCovered, Total): 15, 58
+REGULAR CLASS: com/sun/msv/grammar/AnyNameClass.class - JACT (NotCovered, Total): 10, 18
+REGULAR CLASS: com/sun/msv/grammar/NamespaceNameClass.class - JACT (NotCovered, Total): 24, 30
+REGULAR CLASS: com/sun/msv/grammar/NotNameClass.class - JACT (NotCovered, Total): 25, 31
+REGULAR CLASS: com/sun/msv/driver/textui/Debug.class - JACT (NotCovered, Total): 8, 15
+REGULAR CLASS: com/sun/msv/verifier/regexp/xmlschema/XSREDocDecl.class - JACT (NotCovered, Total): 15, 47
+REGULAR CLASS: com/sun/msv/verifier/regexp/xmlschema/XSAcceptor.class - JACT (NotCovered, Total): 313, 373
+ABSTRACT CLASS: com/sun/msv/verifier/regexp/Token.class - JACT (NotCovered, Total): 12, 17
+REGULAR CLASS: com/sun/msv/verifier/regexp/ResidualCalculator.class - JACT (NotCovered, Total): 124, 259
+REGULAR CLASS: com/sun/msv/verifier/regexp/REDocumentDeclaration.class - JACT (NotCovered, Total): 0, 109
+REGULAR CLASS: com/sun/msv/verifier/regexp/ElementToken.class - JACT (NotCovered, Total): 48, 54
+REGULAR CLASS: com/sun/msv/verifier/regexp/CombinedChildContentExpCreator$ExpressionPair.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/verifier/regexp/CombinedChildContentExpCreator.class - JACT (NotCovered, Total): 179, 536
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributeFeeder.class - JACT (NotCovered, Total): 75, 161
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributePicker.class - JACT (NotCovered, Total): 55, 112
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributeRemover.class - JACT (NotCovered, Total): 10, 18
+REGULAR CLASS: com/sun/msv/verifier/regexp/ElementsOfConcernCollector.class - JACT (NotCovered, Total): 105, 108
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributeToken.class - JACT (NotCovered, Total): 26, 131
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributeRecoveryToken.class - JACT (NotCovered, Total): 0, 46
+REGULAR CLASS: com/sun/msv/verifier/regexp/ExpressionAcceptor$1.class - JACT (NotCovered, Total): 0, 12
+ABSTRACT CLASS: com/sun/msv/verifier/regexp/ExpressionAcceptor.class - JACT (NotCovered, Total): 500, 1231
+REGULAR CLASS: com/sun/msv/verifier/regexp/OptimizationTag$OwnerAndCont.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/verifier/regexp/OptimizationTag.class - JACT (NotCovered, Total): 0, 16
+ABSTRACT CLASS: com/sun/msv/verifier/regexp/ContentModelAcceptor.class - JACT (NotCovered, Total): 62, 103
+REGULAR CLASS: com/sun/msv/verifier/regexp/StringCareLevelCalculator.class - JACT (NotCovered, Total): 55, 151
+REGULAR CLASS: com/sun/msv/verifier/regexp/AnyElementToken.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: com/sun/msv/verifier/regexp/StringToken.class - JACT (NotCovered, Total): 192, 302
+REGULAR CLASS: com/sun/msv/verifier/regexp/AttributePruner.class - JACT (NotCovered, Total): 10, 47
+REGULAR CLASS: com/sun/msv/verifier/regexp/SimpleAcceptor.class - JACT (NotCovered, Total): 15, 32
+REGULAR CLASS: com/sun/msv/verifier/regexp/StringRecoveryToken.class - JACT (NotCovered, Total): 34, 65
+REGULAR CLASS: com/sun/msv/util/StartTagInfo.class - JACT (NotCovered, Total): 22, 114
+REGULAR CLASS: com/sun/msv/util/StringPair.class - JACT (NotCovered, Total): 35, 76
+REGULAR CLASS: com/sun/msv/util/StringRef.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/sun/msv/util/LightStack.class - JACT (NotCovered, Total): 60, 95
+REGULAR CLASS: com/sun/msv/util/Util.class - JACT (NotCovered, Total): 117, 157
+REGULAR CLASS: com/sun/msv/datatype/xsd/XSDatatypeImpl$1.class - JACT (NotCovered, Total): 8, 11
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/XSDatatypeImpl.class - JACT (NotCovered, Total): 220, 320
+REGULAR CLASS: com/sun/msv/datatype/xsd/TypeIncubator$FacetInfo.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/sun/msv/datatype/xsd/TypeIncubator.class - JACT (NotCovered, Total): 446, 840
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$Preserve.class - JACT (NotCovered, Total): 4, 6
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$Collapse.class - JACT (NotCovered, Total): 4, 66
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$1.class - JACT (NotCovered, Total): 8, 11
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$2.class - JACT (NotCovered, Total): 8, 11
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$3.class - JACT (NotCovered, Total): 8, 11
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/ConcreteType.class - JACT (NotCovered, Total): 20, 51
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor.class - JACT (NotCovered, Total): 64, 115
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/BuiltinAtomicType.class - JACT (NotCovered, Total): 13, 27
+REGULAR CLASS: com/sun/msv/datatype/xsd/IntegerValueType.class - JACT (NotCovered, Total): 236, 335
+REGULAR CLASS: com/sun/msv/datatype/xsd/Proxy.class - JACT (NotCovered, Total): 59, 88
+REGULAR CLASS: com/sun/msv/datatype/xsd/XmlNames.class - JACT (NotCovered, Total): 117, 165
+REGULAR CLASS: com/sun/msv/datatype/xsd/NumberType.class - JACT (NotCovered, Total): 129, 214
+REGULAR CLASS: com/sun/msv/datatype/xsd/StringType.class - JACT (NotCovered, Total): 24, 82
+REGULAR CLASS: com/sun/msv/datatype/xsd/QnameType.class - JACT (NotCovered, Total): 235, 244
+REGULAR CLASS: com/sun/msv/datatype/xsd/ngimpl/DatatypeBuilderImpl.class - JACT (NotCovered, Total): 33, 48
+REGULAR CLASS: com/sun/msv/datatype/xsd/ngimpl/DataTypeLibraryImpl.class - JACT (NotCovered, Total): 4, 29
+REGULAR CLASS: com/sun/msv/datatype/xsd/BooleanType.class - JACT (NotCovered, Total): 68, 97
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/FloatingNumberType.class - JACT (NotCovered, Total): 49, 81
+REGULAR CLASS: com/sun/msv/datatype/xsd/SimpleURType.class - JACT (NotCovered, Total): 18, 30
+REGULAR CLASS: com/sun/msv/datatype/xsd/ListType.class - JACT (NotCovered, Total): 140, 214
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnicodeUtil.class - JACT (NotCovered, Total): 7, 29
+REGULAR CLASS: com/sun/msv/datatype/xsd/FloatType.class - JACT (NotCovered, Total): 56, 101
+REGULAR CLASS: com/sun/msv/datatype/xsd/DatatypeFactory$1.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: com/sun/msv/datatype/xsd/DatatypeFactory.class - JACT (NotCovered, Total): 252, 466
+REGULAR CLASS: com/sun/msv/datatype/xsd/NormalizedStringType.class - JACT (NotCovered, Total): 2, 15
+REGULAR CLASS: com/sun/msv/datatype/xsd/ListValueType.class - JACT (NotCovered, Total): 65, 71
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/DataTypeWithFacet.class - JACT (NotCovered, Total): 78, 165
+REGULAR CLASS: com/sun/msv/datatype/xsd/IntegerType.class - JACT (NotCovered, Total): 41, 64
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/IntegerDerivedType.class - JACT (NotCovered, Total): 89, 168
+REGULAR CLASS: com/sun/msv/datatype/xsd/MinInclusiveFacet.class - JACT (NotCovered, Total): 9, 18
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/RangeFacet.class - JACT (NotCovered, Total): 43, 54
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/DataTypeWithValueConstraintFacet.class - JACT (NotCovered, Total): 1, 19
+REGULAR CLASS: com/sun/msv/datatype/xsd/MaxLengthFacet.class - JACT (NotCovered, Total): 56, 103
+REGULAR CLASS: com/sun/msv/datatype/xsd/MinLengthFacet.class - JACT (NotCovered, Total): 56, 103
+REGULAR CLASS: com/sun/msv/datatype/xsd/EnumerationFacet.class - JACT (NotCovered, Total): 95, 124
+REGULAR CLASS: com/sun/msv/datatype/xsd/IntType.class - JACT (NotCovered, Total): 7, 40
+REGULAR CLASS: com/sun/msv/datatype/xsd/NmtokenType.class - JACT (NotCovered, Total): 9, 20
+REGULAR CLASS: com/sun/msv/datatype/xsd/TokenType.class - JACT (NotCovered, Total): 2, 15
+REGULAR CLASS: com/sun/msv/datatype/xsd/NegativeIntegerType.class - JACT (NotCovered, Total): 21, 35
+REGULAR CLASS: com/sun/msv/datatype/xsd/LongType.class - JACT (NotCovered, Total): 24, 43
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/DataTypeWithLexicalConstraintFacet.class - JACT (NotCovered, Total): 28, 36
+REGULAR CLASS: com/sun/msv/datatype/xsd/FractionDigitsFacet.class - JACT (NotCovered, Total): 94, 111
+REGULAR CLASS: com/sun/msv/datatype/xsd/NcnameType.class - JACT (NotCovered, Total): 2, 20
+REGULAR CLASS: com/sun/msv/datatype/xsd/IDREFType.class - JACT (NotCovered, Total): 2, 13
+REGULAR CLASS: com/sun/msv/datatype/xsd/NameType.class - JACT (NotCovered, Total): 9, 19
+REGULAR CLASS: com/sun/msv/datatype/xsd/MaxInclusiveFacet.class - JACT (NotCovered, Total): 9, 18
+REGULAR CLASS: com/sun/msv/datatype/xsd/NonNegativeIntegerType.class - JACT (NotCovered, Total): 21, 35
+REGULAR CLASS: com/sun/msv/datatype/xsd/NonPositiveIntegerType.class - JACT (NotCovered, Total): 21, 35
+REGULAR CLASS: com/sun/msv/datatype/xsd/IDType.class - JACT (NotCovered, Total): 2, 13
+REGULAR CLASS: com/sun/msv/datatype/xsd/ByteType.class - JACT (NotCovered, Total): 19, 38
+REGULAR CLASS: com/sun/msv/datatype/xsd/ShortType.class - JACT (NotCovered, Total): 19, 40
+REGULAR CLASS: com/sun/msv/datatype/xsd/PositiveIntegerType.class - JACT (NotCovered, Total): 4, 35
+REGULAR CLASS: com/sun/xml/util/XmlChars.class - JACT (NotCovered, Total): 409, 551
+REGULAR CLASS: org/relaxng/datatype/DatatypeException.class - JACT (NotCovered, Total): 13, 20
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$Loader2.class - JACT (NotCovered, Total): 10, 52
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$ProviderEnumeration.class - JACT (NotCovered, Total): 5, 41
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service.class - JACT (NotCovered, Total): 34, 196
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader.class - JACT (NotCovered, Total): 0, 38
 
-Summary:
+Summary for Included Classes By Both Tools:
 Interfaces found: 1
 Abstract classes found: 60
 Enums found: 0
 Annotations found: 0
 Synthetic classes found: 0
 Regular classes found: 258
-

@@ -1,0 +1,315 @@
+ENUM: com/fasterxml/jackson/databind/AnnotationIntrospector$ReferenceProperty$Type.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: com/fasterxml/jackson/databind/AnnotationIntrospector$ReferenceProperty.class - JACT (NotCovered, Total): 28, 43
+ABSTRACT CLASS: com/fasterxml/jackson/databind/AnnotationIntrospector.class - JACT (NotCovered, Total): 235, 246
+ABSTRACT CLASS: com/fasterxml/jackson/databind/BeanDescription.class - JACT (NotCovered, Total): 36, 42
+ABSTRACT CLASS: com/fasterxml/jackson/databind/DatabindContext.class - JACT (NotCovered, Total): 495, 498
+REGULAR CLASS: com/fasterxml/jackson/databind/DeserializationConfig.class - JACT (NotCovered, Total): 1665, 1740
+ABSTRACT CLASS: com/fasterxml/jackson/databind/DeserializationContext.class - JACT (NotCovered, Total): 2075, 2240
+ENUM: com/fasterxml/jackson/databind/DeserializationFeature.class - JACT (NotCovered, Total): 9, 341
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JavaType.class - JACT (NotCovered, Total): 206, 273
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonDeserializer.class - JACT (NotCovered, Total): 82, 85
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonNode.class - JACT (NotCovered, Total): 377, 401
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonSerializable$Base.class - JACT (NotCovered, Total): 2, 5
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonSerializer.class - JACT (NotCovered, Total): 62, 65
+ABSTRACT CLASS: com/fasterxml/jackson/databind/KeyDeserializer.class - JACT (NotCovered, Total): 0, 3
+ENUM: com/fasterxml/jackson/databind/MapperFeature.class - JACT (NotCovered, Total): 16, 431
+REGULAR CLASS: com/fasterxml/jackson/databind/MappingJsonFactory.class - JACT (NotCovered, Total): 50, 56
+ABSTRACT CLASS: com/fasterxml/jackson/databind/Module.class - JACT (NotCovered, Total): 4, 9
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectMapper$1.class - JACT (NotCovered, Total): 192, 264
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectMapper.class - JACT (NotCovered, Total): 3167, 3648
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyMetadata.class - JACT (NotCovered, Total): 265, 331
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyName.class - JACT (NotCovered, Total): 230, 292
+REGULAR CLASS: com/fasterxml/jackson/databind/SerializationConfig.class - JACT (NotCovered, Total): 1441, 1531
+ENUM: com/fasterxml/jackson/databind/SerializationFeature.class - JACT (NotCovered, Total): 2, 319
+ABSTRACT CLASS: com/fasterxml/jackson/databind/SerializerProvider.class - JACT (NotCovered, Total): 987, 1230
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/BaseSettings.class - JACT (NotCovered, Total): 493, 585
+ENUM: com/fasterxml/jackson/databind/cfg/CoercionAction.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/CoercionConfig.class - JACT (NotCovered, Total): 25, 39
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/CoercionConfigs.class - JACT (NotCovered, Total): 354, 382
+ENUM: com/fasterxml/jackson/databind/cfg/CoercionInputShape.class - JACT (NotCovered, Total): 0, 104
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/ConfigOverride$Empty.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/ConfigOverride.class - JACT (NotCovered, Total): 59, 64
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/ConfigOverrides.class - JACT (NotCovered, Total): 155, 198
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/ContextAttributes$Impl.class - JACT (NotCovered, Total): 162, 183
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/ContextAttributes.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/DeserializerFactoryConfig.class - JACT (NotCovered, Total): 125, 268
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/MapperConfig.class - JACT (NotCovered, Total): 203, 308
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/MapperConfigBase.class - JACT (NotCovered, Total): 741, 831
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/MutableCoercionConfig.class - JACT (NotCovered, Total): 22, 25
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/SerializerFactoryConfig.class - JACT (NotCovered, Total): 62, 145
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.class - JACT (NotCovered, Total): 3947, 4076
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.class - JACT (NotCovered, Total): 1615, 1647
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/DefaultDeserializationContext$Impl.class - JACT (NotCovered, Total): 24, 55
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/DefaultDeserializationContext.class - JACT (NotCovered, Total): 499, 527
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/DeserializerCache.class - JACT (NotCovered, Total): 466, 694
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/DeserializerFactory.class - JACT (NotCovered, Total): 0, 7
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/Deserializers$Base.class - JACT (NotCovered, Total): 18, 21
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/ValueInstantiators$Base.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/BaseNodeDeserializer$ContainerStack.class - JACT (NotCovered, Total): 24, 84
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/BaseNodeDeserializer.class - JACT (NotCovered, Total): 530, 760
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer.class - JACT (NotCovered, Total): 29, 71
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/StdDeserializer.class - JACT (NotCovered, Total): 2931, 2953
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializers.class - JACT (NotCovered, Total): 217, 220
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer.class - JACT (NotCovered, Total): 29, 33
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ext/Java7Support.class - JACT (NotCovered, Total): 1, 20
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/Java7SupportImpl.class - JACT (NotCovered, Total): 30, 63
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/AccessorNamingStrategy$Provider.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/AccessorNamingStrategy.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/Annotated.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedClass$Creators.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedClass.class - JACT (NotCovered, Total): 167, 365
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedClassResolver.class - JACT (NotCovered, Total): 290, 601
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.class - JACT (NotCovered, Total): 261, 292
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedCreatorCollector.class - JACT (NotCovered, Total): 390, 799
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedField.class - JACT (NotCovered, Total): 194, 217
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedFieldCollector$FieldBuilder.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedFieldCollector.class - JACT (NotCovered, Total): 68, 227
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMember.class - JACT (NotCovered, Total): 60, 88
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMethod.class - JACT (NotCovered, Total): 325, 392
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMethodCollector$MethodBuilder.class - JACT (NotCovered, Total): 2, 29
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMethodCollector.class - JACT (NotCovered, Total): 174, 392
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMethodMap.class - JACT (NotCovered, Total): 43, 57
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedParameter.class - JACT (NotCovered, Total): 124, 141
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedWithParams.class - JACT (NotCovered, Total): 43, 80
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$EmptyCollector.class - JACT (NotCovered, Total): 2, 27
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$NoAnnotations.class - JACT (NotCovered, Total): 6, 11
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$OneCollector.class - JACT (NotCovered, Total): 41, 57
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector.class - JACT (NotCovered, Total): 8, 23
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationMap.class - JACT (NotCovered, Total): 159, 216
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/BasicBeanDescription.class - JACT (NotCovered, Total): 1073, 1201
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/BasicClassIntrospector.class - JACT (NotCovered, Total): 202, 386
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/BeanPropertyDefinition.class - JACT (NotCovered, Total): 81, 87
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/ClassIntrospector.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/CollectorBase.class - JACT (NotCovered, Total): 172, 232
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/DefaultAccessorNamingStrategy$Provider.class - JACT (NotCovered, Total): 124, 164
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/DefaultAccessorNamingStrategy.class - JACT (NotCovered, Total): 192, 324
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.class - JACT (NotCovered, Total): 2033, 2561
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/MemberKey.class - JACT (NotCovered, Total): 44, 125
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/MethodGenericTypeResolver.class - JACT (NotCovered, Total): 333, 351
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.class - JACT (NotCovered, Total): 1430, 2252
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$5.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$Linked.class - JACT (NotCovered, Total): 189, 259
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder.class - JACT (NotCovered, Total): 1810, 2231
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/SimpleMixInResolver.class - JACT (NotCovered, Total): 150, 169
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/TypeResolutionContext$Basic.class - JACT (NotCovered, Total): 7, 16
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/VisibilityChecker$Std.class - JACT (NotCovered, Total): 411, 472
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/PolymorphicTypeValidator$Base.class - JACT (NotCovered, Total): 6, 9
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/PolymorphicTypeValidator.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/SubtypeResolver.class - JACT (NotCovered, Total): 43, 46
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/LaissezFaireSubTypeValidator.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/StdSubtypeResolver.class - JACT (NotCovered, Total): 641, 644
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleDeserializers.class - JACT (NotCovered, Total): 133, 177
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleKeyDeserializers.class - JACT (NotCovered, Total): 15, 40
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleModule.class - JACT (NotCovered, Total): 455, 670
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleSerializers.class - JACT (NotCovered, Total): 207, 301
+REGULAR CLASS: com/fasterxml/jackson/databind/node/ArrayNode.class - JACT (NotCovered, Total): 1092, 1169
+ABSTRACT CLASS: com/fasterxml/jackson/databind/node/BaseJsonNode.class - JACT (NotCovered, Total): 58, 61
+ABSTRACT CLASS: com/fasterxml/jackson/databind/node/ContainerNode.class - JACT (NotCovered, Total): 131, 137
+REGULAR CLASS: com/fasterxml/jackson/databind/node/DoubleNode.class - JACT (NotCovered, Total): 138, 158
+REGULAR CLASS: com/fasterxml/jackson/databind/node/JsonNodeFactory.class - JACT (NotCovered, Total): 156, 194
+ENUM: com/fasterxml/jackson/databind/node/JsonNodeType.class - JACT (NotCovered, Total): 0, 94
+REGULAR CLASS: com/fasterxml/jackson/databind/node/LongNode.class - JACT (NotCovered, Total): 100, 120
+ABSTRACT CLASS: com/fasterxml/jackson/databind/node/NumericNode.class - JACT (NotCovered, Total): 20, 25
+REGULAR CLASS: com/fasterxml/jackson/databind/node/ObjectNode.class - JACT (NotCovered, Total): 877, 958
+REGULAR CLASS: com/fasterxml/jackson/databind/node/TextNode.class - JACT (NotCovered, Total): 139, 177
+ABSTRACT CLASS: com/fasterxml/jackson/databind/node/ValueNode.class - JACT (NotCovered, Total): 51, 54
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/BasicSerializerFactory.class - JACT (NotCovered, Total): 1648, 1885
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/BeanSerializerFactory.class - JACT (NotCovered, Total): 1188, 1319
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/DefaultSerializerProvider$Impl.class - JACT (NotCovered, Total): 16, 32
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/DefaultSerializerProvider.class - JACT (NotCovered, Total): 702, 749
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/SerializerCache.class - JACT (NotCovered, Total): 110, 260
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/SerializerFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/Serializers$Base.class - JACT (NotCovered, Total): 18, 21
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/FailingSerializer.class - JACT (NotCovered, Total): 7, 14
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/ReadOnlyClassToSerializerMap$Bucket.class - JACT (NotCovered, Total): 29, 67
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/ReadOnlyClassToSerializerMap.class - JACT (NotCovered, Total): 86, 225
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/UnknownSerializer.class - JACT (NotCovered, Total): 49, 53
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/BooleanSerializer.class - JACT (NotCovered, Total): 59, 71
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/CalendarSerializer.class - JACT (NotCovered, Total): 30, 46
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/DateSerializer.class - JACT (NotCovered, Total): 29, 45
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.class - JACT (NotCovered, Total): 275, 291
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NullSerializer.class - JACT (NotCovered, Total): 15, 24
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializer.class - JACT (NotCovered, Total): 120, 139
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$Base.class - JACT (NotCovered, Total): 31, 73
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$DoubleSerializer.class - JACT (NotCovered, Total): 33, 45
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$FloatSerializer.class - JACT (NotCovered, Total): 6, 17
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$IntLikeSerializer.class - JACT (NotCovered, Total): 6, 17
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$IntegerSerializer.class - JACT (NotCovered, Total): 12, 18
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$LongSerializer.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$ShortSerializer.class - JACT (NotCovered, Total): 6, 17
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers.class - JACT (NotCovered, Total): 3, 94
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/SerializableSerializer.class - JACT (NotCovered, Total): 21, 35
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdJdkSerializers.class - JACT (NotCovered, Total): 3, 92
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/StdScalarSerializer.class - JACT (NotCovered, Total): 33, 41
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/StdSerializer.class - JACT (NotCovered, Total): 433, 459
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StringSerializer.class - JACT (NotCovered, Total): 21, 31
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ToEmptyObjectSerializer.class - JACT (NotCovered, Total): 34, 39
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ToStringSerializer.class - JACT (NotCovered, Total): 3, 16
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/ToStringSerializerBase.class - JACT (NotCovered, Total): 40, 45
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/UUIDSerializer.class - JACT (NotCovered, Total): 275, 290
+REGULAR CLASS: com/fasterxml/jackson/databind/type/ClassKey.class - JACT (NotCovered, Total): 49, 80
+REGULAR CLASS: com/fasterxml/jackson/databind/type/ClassStack.class - JACT (NotCovered, Total): 45, 119
+ENUM: com/fasterxml/jackson/databind/type/LogicalType.class - JACT (NotCovered, Total): 34, 168
+REGULAR CLASS: com/fasterxml/jackson/databind/type/ResolvedRecursiveType.class - JACT (NotCovered, Total): 123, 141
+REGULAR CLASS: com/fasterxml/jackson/databind/type/SimpleType.class - JACT (NotCovered, Total): 515, 558
+ABSTRACT CLASS: com/fasterxml/jackson/databind/type/TypeBase.class - JACT (NotCovered, Total): 281, 331
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeBindings$AsKey.class - JACT (NotCovered, Total): 73, 88
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeBindings$TypeParamStash.class - JACT (NotCovered, Total): 31, 74
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeBindings.class - JACT (NotCovered, Total): 619, 741
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeFactory.class - JACT (NotCovered, Total): 1622, 2093
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeParser.class - JACT (NotCovered, Total): 178, 184
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders.class - JACT (NotCovered, Total): 180, 219
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayIterator.class - JACT (NotCovered, Total): 8, 46
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ClassUtil$Ctor.class - JACT (NotCovered, Total): 4, 59
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ClassUtil.class - JACT (NotCovered, Total): 1309, 1455
+REGULAR CLASS: com/fasterxml/jackson/databind/util/LRUMap.class - JACT (NotCovered, Total): 56, 99
+REGULAR CLASS: com/fasterxml/jackson/databind/util/RootNameLookup.class - JACT (NotCovered, Total): 56, 66
+REGULAR CLASS: com/fasterxml/jackson/databind/util/StdDateFormat.class - JACT (NotCovered, Total): 1195, 1259
+REGULAR CLASS: com/fasterxml/jackson/databind/util/TokenBuffer$Parser.class - JACT (NotCovered, Total): 759, 922
+REGULAR CLASS: com/fasterxml/jackson/databind/util/TokenBuffer$Segment.class - JACT (NotCovered, Total): 269, 340
+REGULAR CLASS: com/fasterxml/jackson/databind/util/TokenBuffer.class - JACT (NotCovered, Total): 1581, 1688
+REGULAR CLASS: com/fasterxml/jackson/databind/util/TokenBufferReadContext.class - JACT (NotCovered, Total): 153, 177
+REGULAR CLASS: com/fasterxml/jackson/databind/util/TypeKey.class - JACT (NotCovered, Total): 168, 234
+ENUM: com/fasterxml/jackson/core/Base64Variant$PaddingReadBehaviour.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: com/fasterxml/jackson/core/Base64Variant.class - JACT (NotCovered, Total): 1202, 1366
+REGULAR CLASS: com/fasterxml/jackson/core/Base64Variants.class - JACT (NotCovered, Total): 59, 114
+ENUM: com/fasterxml/jackson/core/JsonFactory$Feature.class - JACT (NotCovered, Total): 1, 101
+REGULAR CLASS: com/fasterxml/jackson/core/JsonFactory.class - JACT (NotCovered, Total): 1085, 1291
+ENUM: com/fasterxml/jackson/core/JsonGenerator$Feature.class - JACT (NotCovered, Total): 0, 171
+ABSTRACT CLASS: com/fasterxml/jackson/core/JsonGenerator.class - JACT (NotCovered, Total): 1135, 1150
+REGULAR CLASS: com/fasterxml/jackson/core/JsonLocation.class - JACT (NotCovered, Total): 272, 302
+ENUM: com/fasterxml/jackson/core/JsonParser$Feature.class - JACT (NotCovered, Total): 0, 226
+ENUM: com/fasterxml/jackson/core/JsonParser$NumberType.class - JACT (NotCovered, Total): 0, 64
+ABSTRACT CLASS: com/fasterxml/jackson/core/JsonParser.class - JACT (NotCovered, Total): 550, 565
+ABSTRACT CLASS: com/fasterxml/jackson/core/JsonStreamContext.class - JACT (NotCovered, Total): 152, 185
+ENUM: com/fasterxml/jackson/core/JsonToken.class - JACT (NotCovered, Total): 21, 299
+ABSTRACT CLASS: com/fasterxml/jackson/core/ObjectCodec.class - JACT (NotCovered, Total): 6, 9
+INTERFACE: com/fasterxml/jackson/core/PrettyPrinter.class - JACT (NotCovered, Total): 0, 8
+ENUM: com/fasterxml/jackson/core/StreamReadCapability.class - JACT (NotCovered, Total): 12, 66
+ENUM: com/fasterxml/jackson/core/StreamWriteCapability.class - JACT (NotCovered, Total): 9, 55
+ABSTRACT CLASS: com/fasterxml/jackson/core/TokenStreamFactory.class - JACT (NotCovered, Total): 34, 37
+ABSTRACT CLASS: com/fasterxml/jackson/core/TreeCodec.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/fasterxml/jackson/core/Version.class - JACT (NotCovered, Total): 210, 253
+ABSTRACT CLASS: com/fasterxml/jackson/core/base/GeneratorBase.class - JACT (NotCovered, Total): 416, 466
+ABSTRACT CLASS: com/fasterxml/jackson/core/base/ParserBase.class - JACT (NotCovered, Total): 1527, 1719
+ABSTRACT CLASS: com/fasterxml/jackson/core/base/ParserMinimalBase.class - JACT (NotCovered, Total): 835, 889
+REGULAR CLASS: com/fasterxml/jackson/core/io/CharTypes.class - JACT (NotCovered, Total): 110, 440
+REGULAR CLASS: com/fasterxml/jackson/core/io/ContentReference.class - JACT (NotCovered, Total): 476, 516
+REGULAR CLASS: com/fasterxml/jackson/core/io/IOContext.class - JACT (NotCovered, Total): 207, 308
+REGULAR CLASS: com/fasterxml/jackson/core/io/JsonStringEncoder.class - JACT (NotCovered, Total): 1314, 1328
+REGULAR CLASS: com/fasterxml/jackson/core/io/NumberInput.class - JACT (NotCovered, Total): 407, 546
+REGULAR CLASS: com/fasterxml/jackson/core/io/NumberOutput.class - JACT (NotCovered, Total): 1035, 1423
+REGULAR CLASS: com/fasterxml/jackson/core/io/SegmentedStringWriter.class - JACT (NotCovered, Total): 62, 88
+REGULAR CLASS: com/fasterxml/jackson/core/io/SerializedString.class - JACT (NotCovered, Total): 327, 338
+ABSTRACT CLASS: com/fasterxml/jackson/core/json/JsonGeneratorImpl.class - JACT (NotCovered, Total): 143, 173
+REGULAR CLASS: com/fasterxml/jackson/core/json/JsonReadContext.class - JACT (NotCovered, Total): 97, 238
+REGULAR CLASS: com/fasterxml/jackson/core/json/JsonWriteContext.class - JACT (NotCovered, Total): 158, 350
+REGULAR CLASS: com/fasterxml/jackson/core/json/ReaderBasedJsonParser.class - JACT (NotCovered, Total): 4892, 5854
+REGULAR CLASS: com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.class - JACT (NotCovered, Total): 3795, 4318
+REGULAR CLASS: com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer$TableInfo.class - JACT (NotCovered, Total): 31, 79
+REGULAR CLASS: com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.class - JACT (NotCovered, Total): 2481, 2548
+REGULAR CLASS: com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$TableInfo.class - JACT (NotCovered, Total): 0, 46
+REGULAR CLASS: com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer.class - JACT (NotCovered, Total): 563, 873
+ABSTRACT CLASS: com/fasterxml/jackson/core/type/ResolvedType.class - JACT (NotCovered, Total): 4, 12
+REGULAR CLASS: com/fasterxml/jackson/core/util/BufferRecycler.class - JACT (NotCovered, Total): 46, 151
+REGULAR CLASS: com/fasterxml/jackson/core/util/BufferRecyclers.class - JACT (NotCovered, Total): 37, 84
+REGULAR CLASS: com/fasterxml/jackson/core/util/DefaultIndenter.class - JACT (NotCovered, Total): 88, 140
+REGULAR CLASS: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$FixedSpaceIndenter.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$NopIndenter.class - JACT (NotCovered, Total): 3, 11
+REGULAR CLASS: com/fasterxml/jackson/core/util/DefaultPrettyPrinter.class - JACT (NotCovered, Total): 331, 378
+REGULAR CLASS: com/fasterxml/jackson/core/util/InternCache.class - JACT (NotCovered, Total): 14, 53
+REGULAR CLASS: com/fasterxml/jackson/core/util/JacksonFeatureSet.class - JACT (NotCovered, Total): 68, 119
+REGULAR CLASS: com/fasterxml/jackson/core/util/Separators.class - JACT (NotCovered, Total): 51, 76
+REGULAR CLASS: com/fasterxml/jackson/core/util/TextBuffer.class - JACT (NotCovered, Total): 1140, 1359
+REGULAR CLASS: com/fasterxml/jackson/core/util/VersionUtil.class - JACT (NotCovered, Total): 131, 212
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/JavaTimeModule$1.class - JACT (NotCovered, Total): 52, 58
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/JavaTimeModule.class - JACT (NotCovered, Total): 47, 284
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/PackageVersion.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/DurationDeserializer.class - JACT (NotCovered, Total): 210, 222
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/InstantDeserializer.class - JACT (NotCovered, Total): 520, 587
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/deser/JSR310DateTimeDeserializerBase.class - JACT (NotCovered, Total): 187, 197
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/deser/JSR310DeserializerBase.class - JACT (NotCovered, Total): 258, 265
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/JSR310StringParsableDeserializer.class - JACT (NotCovered, Total): 188, 214
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/LocalDateDeserializer.class - JACT (NotCovered, Total): 251, 267
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/LocalDateTimeDeserializer.class - JACT (NotCovered, Total): 278, 294
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/LocalTimeDeserializer.class - JACT (NotCovered, Total): 229, 245
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/MonthDayDeserializer.class - JACT (NotCovered, Total): 183, 197
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/OffsetTimeDeserializer.class - JACT (NotCovered, Total): 239, 253
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/YearDeserializer.class - JACT (NotCovered, Total): 136, 150
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/YearMonthDeserializer.class - JACT (NotCovered, Total): 177, 192
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/DurationKeyDeserializer.class - JACT (NotCovered, Total): 12, 17
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/InstantKeyDeserializer.class - JACT (NotCovered, Total): 15, 20
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/Jsr310KeyDeserializer.class - JACT (NotCovered, Total): 54, 57
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/LocalDateKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/LocalDateTimeKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/LocalTimeKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/MonthDayKeyDeserializer.class - JACT (NotCovered, Total): 13, 33
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/OffsetDateTimeKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/OffsetTimeKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/PeriodKeyDeserializer.class - JACT (NotCovered, Total): 12, 17
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/YearKeyDeserializer.class - JACT (NotCovered, Total): 26, 34
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/YearMonthKeyDeserializer.class - JACT (NotCovered, Total): 13, 36
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/ZoneIdKeyDeserializer.class - JACT (NotCovered, Total): 11, 16
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/ZoneOffsetKeyDeserializer.class - JACT (NotCovered, Total): 12, 17
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/key/ZonedDateTimeKeyDeserializer.class - JACT (NotCovered, Total): 13, 18
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/DurationSerializer.class - JACT (NotCovered, Total): 199, 208
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/InstantSerializer.class - JACT (NotCovered, Total): 31, 44
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/ser/InstantSerializerBase.class - JACT (NotCovered, Total): 139, 156
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/ser/JSR310FormattedSerializerBase.class - JACT (NotCovered, Total): 283, 304
+ABSTRACT CLASS: com/fasterxml/jackson/datatype/jsr310/ser/JSR310SerializerBase.class - JACT (NotCovered, Total): 21, 26
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/LocalDateSerializer.class - JACT (NotCovered, Total): 158, 167
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/LocalDateTimeSerializer.class - JACT (NotCovered, Total): 153, 167
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/LocalTimeSerializer.class - JACT (NotCovered, Total): 166, 180
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/MonthDaySerializer.class - JACT (NotCovered, Total): 96, 110
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/OffsetDateTimeSerializer.class - JACT (NotCovered, Total): 35, 48
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/OffsetTimeSerializer.class - JACT (NotCovered, Total): 151, 160
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/YearMonthSerializer.class - JACT (NotCovered, Total): 126, 140
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/YearSerializer.class - JACT (NotCovered, Total): 56, 70
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/ZoneIdSerializer.class - JACT (NotCovered, Total): 23, 27
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/ZonedDateTimeSerializer.class - JACT (NotCovered, Total): 97, 117
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/key/ZonedDateTimeKeySerializer.class - JACT (NotCovered, Total): 46, 51
+ENUM: com/github/wnameless/json/flattener/FlattenMode.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: com/github/wnameless/json/flattener/JsonFlattener.class - JACT (NotCovered, Total): 683, 940
+REGULAR CLASS: com/github/wnameless/json/flattener/JsonifyLinkedHashMap.class - JACT (NotCovered, Total): 19, 127
+ENUM: com/github/wnameless/json/flattener/StringEscapePolicy.class - JACT (NotCovered, Total): 0, 202
+REGULAR CLASS: com/github/wnameless/json/flattener/StringEscapePolicy$5.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/github/wnameless/json/flattener/StringEscapePolicy$1.class - JACT (NotCovered, Total): 0, 18
+ENUM: com/github/wnameless/json/flattener/PrintMode.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: com/github/wnameless/json/flattener/StringEscapePolicy$3.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: com/github/wnameless/json/flattener/StringEscapePolicy$4.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/github/wnameless/json/flattener/IndexedPeekIterator.class - JACT (NotCovered, Total): 31, 112
+REGULAR CLASS: com/github/wnameless/json/flattener/StringEscapePolicy$2.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/apache/commons/text/StringEscapeUtils.class - JACT (NotCovered, Total): 77, 844
+ABSTRACT CLASS: org/apache/commons/text/translate/CodePointTranslator.class - JACT (NotCovered, Total): 15, 18
+REGULAR CLASS: org/apache/commons/text/translate/NumericEntityEscaper.class - JACT (NotCovered, Total): 44, 64
+ABSTRACT CLASS: org/apache/commons/text/translate/CharSequenceTranslator.class - JACT (NotCovered, Total): 67, 193
+REGULAR CLASS: org/apache/commons/text/translate/LookupTranslator.class - JACT (NotCovered, Total): 49, 130
+REGULAR CLASS: org/apache/commons/text/translate/UnicodeUnpairedSurrogateRemover.class - JACT (NotCovered, Total): 10, 13
+REGULAR CLASS: org/apache/commons/text/translate/EntityArrays.class - JACT (NotCovered, Total): 3, 1374
+REGULAR CLASS: org/apache/commons/text/translate/UnicodeEscaper.class - JACT (NotCovered, Total): 109, 121
+REGULAR CLASS: org/apache/commons/text/StringEscapeUtils$XsiUnescaper.class - JACT (NotCovered, Total): 56, 59
+REGULAR CLASS: org/apache/commons/text/translate/CsvTranslators$CsvEscaper.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: org/apache/commons/text/translate/CsvTranslators$CsvUnescaper.class - JACT (NotCovered, Total): 43, 46
+ENUM: org/apache/commons/text/translate/NumericEntityUnescaper$OPTION.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/apache/commons/text/translate/NumericEntityUnescaper.class - JACT (NotCovered, Total): 191, 207
+REGULAR CLASS: org/apache/commons/text/translate/OctalUnescaper.class - JACT (NotCovered, Total): 113, 116
+ABSTRACT CLASS: org/apache/commons/text/translate/SinglePassTranslator.class - JACT (NotCovered, Total): 37, 40
+REGULAR CLASS: org/apache/commons/text/translate/AggregateTranslator.class - JACT (NotCovered, Total): 2, 57
+REGULAR CLASS: org/apache/commons/text/translate/JavaUnicodeEscaper.class - JACT (NotCovered, Total): 37, 50
+REGULAR CLASS: org/apache/commons/text/translate/UnicodeUnescaper.class - JACT (NotCovered, Total): 116, 119
+REGULAR CLASS: org/apache/commons/lang3/StringUtils.class - JACT (NotCovered, Total): 6923, 6975
+REGULAR CLASS: org/apache/commons/lang3/Range.class - JACT (NotCovered, Total): 385, 424
+ENUM: org/apache/commons/lang3/Range$ComparableComparator.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/apache/commons/lang3/ArrayUtils.class - JACT (NotCovered, Total): 8284, 8352
+REGULAR CLASS: org/apache/commons/lang3/Validate.class - JACT (NotCovered, Total): 814, 817
+REGULAR CLASS: com/github/wnameless/json/MinimalJsonObject.class - JACT (NotCovered, Total): 33, 48
+REGULAR CLASS: com/github/wnameless/json/MinimalJsonValue.class - JACT (NotCovered, Total): 48, 89
+REGULAR CLASS: com/github/wnameless/json/MinimalJsonObject$MinimalJsonEntryIterator.class - JACT (NotCovered, Total): 0, 29
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 1
+Abstract classes found: 68
+Enums found: 21
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 217

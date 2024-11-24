@@ -1,0 +1,1278 @@
+ANNOTATION: com/jcabi/aspects/Immutable$Array.class
+ANNOTATION: com/jcabi/aspects/Immutable.class
+ANNOTATION: com/jcabi/aspects/Loggable$Quiet.class
+ANNOTATION: com/jcabi/aspects/Loggable.class
+ANNOTATION: com/jcabi/aspects/RetryOnFailure.class
+REGULAR CLASS: com/jcabi/aspects/Tv.class
+SYNTHETIC CLASS: com/jcabi/immutable/ArrayMap$1.class
+REGULAR CLASS: com/jcabi/xml/TextResource.class
+INTERFACE: com/jcabi/xml/XML.class
+INTERFACE: org/cactoos/Bytes.class
+INTERFACE: org/cactoos/Func.class
+REGULAR CLASS: org/cactoos/Fallback$From.class
+INTERFACE: org/cactoos/BiFunc.class
+INTERFACE: org/cactoos/Scalar.class
+REGULAR CLASS: org/cactoos/scalar/Sticky.class
+ABSTRACT CLASS: org/cactoos/scalar/ScalarEnvelope.class
+REGULAR CLASS: org/cactoos/scalar/Mapped.class
+REGULAR CLASS: org/cactoos/scalar/Or.class
+REGULAR CLASS: org/cactoos/scalar/Equals.class
+REGULAR CLASS: org/cactoos/scalar/ScalarOf.class
+REGULAR CLASS: org/cactoos/scalar/Not.class
+REGULAR CLASS: org/cactoos/scalar/InheritanceLevel.class
+REGULAR CLASS: org/cactoos/scalar/And.class
+REGULAR CLASS: org/cactoos/scalar/Folded.class
+REGULAR CLASS: org/cactoos/scalar/Reduced.class
+REGULAR CLASS: org/cactoos/scalar/Constant.class
+REGULAR CLASS: org/cactoos/scalar/ScalarWithFallback.class
+ABSTRACT CLASS: org/cactoos/collection/CollectionEnvelope.class
+REGULAR CLASS: org/cactoos/func/UncheckedBiFunc.class
+REGULAR CLASS: org/cactoos/func/UncheckedFunc.class
+ABSTRACT CLASS: org/cactoos/func/FuncEnvelope.class
+REGULAR CLASS: org/cactoos/func/Flattened.class
+REGULAR CLASS: org/cactoos/func/FuncOf.class
+REGULAR CLASS: org/cactoos/func/StickyFunc.class
+REGULAR CLASS: org/cactoos/func/StickyBiFunc.class
+INTERFACE: org/cactoos/Fallback.class
+INTERFACE: org/cactoos/Input.class
+REGULAR CLASS: org/cactoos/text/TextOfScalar.class
+REGULAR CLASS: org/cactoos/text/UncheckedText.class
+REGULAR CLASS: org/cactoos/text/FormattedText.class
+REGULAR CLASS: org/cactoos/text/Mapped.class
+REGULAR CLASS: org/cactoos/text/Joined.class
+REGULAR CLASS: org/cactoos/text/Concatenated.class
+ABSTRACT CLASS: org/cactoos/text/TextEnvelope.class
+REGULAR CLASS: org/cactoos/text/TextOf.class
+REGULAR CLASS: org/cactoos/iterator/Sorted.class
+REGULAR CLASS: org/cactoos/iterator/Mapped$1.class
+REGULAR CLASS: org/cactoos/iterator/Mapped.class
+REGULAR CLASS: org/cactoos/iterator/Matched.class
+REGULAR CLASS: org/cactoos/iterator/Joined.class
+ABSTRACT CLASS: org/cactoos/iterator/IteratorEnvelope.class
+REGULAR CLASS: org/cactoos/iterator/Filtered.class
+REGULAR CLASS: org/cactoos/Fallback$None.class
+REGULAR CLASS: org/cactoos/iterable/Mapped.class
+REGULAR CLASS: org/cactoos/iterable/Matched.class
+REGULAR CLASS: org/cactoos/iterable/Joined.class
+ABSTRACT CLASS: org/cactoos/iterable/IterableEnvelope.class
+REGULAR CLASS: org/cactoos/list/ListOf.class
+ABSTRACT CLASS: org/cactoos/list/ListEnvelope.class
+REGULAR CLASS: org/cactoos/bytes/BytesOf.class
+REGULAR CLASS: org/cactoos/bytes/InputAsBytes.class
+REGULAR CLASS: org/cactoos/bytes/ReaderAsBytes.class
+REGULAR CLASS: org/cactoos/io/TeeInputStream.class
+REGULAR CLASS: org/cactoos/io/TeeInput.class
+REGULAR CLASS: org/cactoos/io/WriterAsOutputStream.class
+REGULAR CLASS: org/cactoos/io/InputOf.class
+REGULAR CLASS: org/cactoos/io/OutputTo.class
+ABSTRACT CLASS: org/cactoos/number/NumberEnvelope.class
+REGULAR CLASS: org/cactoos/number/MinOf.class
+REGULAR CLASS: org/cactoos/number/NumberOfScalars.class
+INTERFACE: org/cactoos/Output.class
+INTERFACE: org/cactoos/Proc.class
+INTERFACE: org/cactoos/Text.class
+REGULAR CLASS: com/jcabi/http/request/MultipartBodyBuilder.class
+REGULAR CLASS: com/jcabi/http/request/BaseRequest$MultipartFormBody.class
+INTERFACE: com/jcabi/http/RequestURI.class
+INTERFACE: com/jcabi/http/Wire.class
+INTERFACE: com/jcabi/http/RequestBody.class
+INTERFACE: com/jcabi/http/response/WebLinkingResponse$Link.class
+INTERFACE: com/jcabi/http/mock/MkQuery.class
+INTERFACE: com/jcabi/http/mock/MkContainer.class
+INTERFACE: com/jcabi/http/mock/MkAnswer.class
+INTERFACE: com/jcabi/http/Request.class
+INTERFACE: com/jcabi/http/Response.class
+REGULAR CLASS: org/xembly/Verbs.class
+REGULAR CLASS: org/xembly/XattrDirective.class
+REGULAR CLASS: org/xembly/ImpossibleModificationException.class
+INTERFACE: org/xembly/Directive$Cursor.class
+REGULAR CLASS: org/xembly/XemblyParser$ArgumentContext.class
+REGULAR CLASS: org/xembly/XemblyParser$DirectiveContext.class
+INTERFACE: org/xembly/Directive$Stack.class
+INTERFACE: org/xembly/Directive.class
+REGULAR CLASS: org/xembly/SyntaxException.class
+REGULAR CLASS: org/xembly/PiDirective.class
+REGULAR CLASS: org/xembly/ParsingException.class
+REGULAR CLASS: org/xembly/PushDirective.class
+REGULAR CLASS: org/xembly/Verbs$1.class
+REGULAR CLASS: org/xembly/XmlContentException.class
+REGULAR CLASS: org/xembly/CdataDirective.class
+REGULAR CLASS: org/xembly/Print.class
+REGULAR CLASS: org/xembly/PopDirective.class
+REGULAR CLASS: org/xembly/XemblyParser$DirectivesContext.class
+REGULAR CLASS: org/xembly/XemblyParser$LabelContext.class
+REGULAR CLASS: org/xembly/XemblyLexer.class
+REGULAR CLASS: org/xembly/XsetDirective.class
+INTERFACE: org/xembly/XemblyListener.class
+REGULAR CLASS: org/xembly/CommentDirective.class
+REGULAR CLASS: org/xembly/XemblyParser.class
+REGULAR CLASS: org/antlr/v4/runtime/BailErrorStrategy.class
+REGULAR CLASS: org/antlr/v4/runtime/InterpreterRuleContext.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/ObjectEqualityComparator.class
+INTERFACE: org/antlr/v4/runtime/misc/Predicate.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/FlexibleHashMap.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/Pair.class
+INTERFACE: org/antlr/v4/runtime/misc/EqualityComparator.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/Array2DHashSet.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/MultiMap.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/IntervalSet.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/Interval.class
+INTERFACE: org/antlr/v4/runtime/misc/IntSet.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/DoubleKeyMap.class
+ABSTRACT CLASS: org/antlr/v4/runtime/misc/AbstractEqualityComparator.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/MurmurHash.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/Array2DHashSet$SetIterator.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/IntegerList.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/Utils.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/FlexibleHashMap$Entry.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/IntegerStack.class
+REGULAR CLASS: org/antlr/v4/runtime/misc/ParseCancellationException.class
+INTERFACE: org/antlr/v4/runtime/tree/ErrorNode.class
+INTERFACE: org/antlr/v4/runtime/tree/TerminalNode.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathRuleAnywhereElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathLexerErrorListener.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPath.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathWildcardElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathTokenElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPath$1.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathLexer.class
+ABSTRACT CLASS: org/antlr/v4/runtime/tree/xpath/XPathElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathWildcardAnywhereElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathRuleElement.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/xpath/XPathTokenAnywhereElement.class
+INTERFACE: org/antlr/v4/runtime/tree/ParseTreeVisitor.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/ErrorNodeImpl.class
+INTERFACE: org/antlr/v4/runtime/tree/Tree.class
+INTERFACE: org/antlr/v4/runtime/tree/SyntaxTree.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/TokenTagToken.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/TextChunk.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/ParseTreeMatch.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/ParseTreePatternMatcher$CannotInvokeStartRule.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/TagChunk.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/ParseTreePatternMatcher.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/ParseTreePattern.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/ParseTreePatternMatcher$StartRuleDoesNotConsumeFullPattern.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/pattern/RuleTagToken.class
+ABSTRACT CLASS: org/antlr/v4/runtime/tree/pattern/Chunk.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/TerminalNodeImpl.class
+INTERFACE: org/antlr/v4/runtime/tree/ParseTree.class
+INTERFACE: org/antlr/v4/runtime/tree/RuleNode.class
+INTERFACE: org/antlr/v4/runtime/tree/ParseTreeListener.class
+REGULAR CLASS: org/antlr/v4/runtime/tree/Trees.class
+REGULAR CLASS: org/antlr/v4/runtime/CommonTokenFactory.class
+REGULAR CLASS: org/antlr/v4/runtime/CodePointBuffer$Builder.class
+REGULAR CLASS: org/antlr/v4/runtime/LexerNoViableAltException.class
+ABSTRACT CLASS: org/antlr/v4/runtime/Lexer.class
+INTERFACE: org/antlr/v4/runtime/ANTLRErrorListener.class
+REGULAR CLASS: org/antlr/v4/runtime/CommonTokenStream.class
+REGULAR CLASS: org/antlr/v4/runtime/DefaultErrorStrategy.class
+REGULAR CLASS: org/antlr/v4/runtime/CodePointCharStream$CodePoint8BitCharStream.class
+REGULAR CLASS: org/antlr/v4/runtime/ListTokenSource.class
+REGULAR CLASS: org/antlr/v4/runtime/ParserInterpreter.class
+INTERFACE: org/antlr/v4/runtime/Vocabulary.class
+SYNTHETIC CLASS: org/antlr/v4/runtime/CodePointBuffer$1.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/DFA$1.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/DFASerializer.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/LexerDFASerializer.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/DFAState.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/DFAState$PredPrediction.class
+REGULAR CLASS: org/antlr/v4/runtime/dfa/DFA.class
+INTERFACE: org/antlr/v4/runtime/TokenStream.class
+INTERFACE: org/antlr/v4/runtime/WritableToken.class
+REGULAR CLASS: org/antlr/v4/runtime/ProxyErrorListener.class
+ENUM: org/antlr/v4/runtime/CodePointBuffer$Type.class
+SYNTHETIC CLASS: org/antlr/v4/runtime/CodePointCharStream$1.class
+REGULAR CLASS: org/antlr/v4/runtime/RuntimeMetaData.class
+REGULAR CLASS: org/antlr/v4/runtime/RuleContext.class
+REGULAR CLASS: org/antlr/v4/runtime/FailedPredicateException.class
+INTERFACE: org/antlr/v4/runtime/ANTLRErrorStrategy.class
+INTERFACE: org/antlr/v4/runtime/TokenSource.class
+REGULAR CLASS: org/antlr/v4/runtime/Recognizer$1.class
+ABSTRACT CLASS: org/antlr/v4/runtime/Recognizer.class
+INTERFACE: org/antlr/v4/runtime/TokenFactory.class
+REGULAR CLASS: org/antlr/v4/runtime/RecognitionException.class
+REGULAR CLASS: org/antlr/v4/runtime/CodePointCharStream$CodePoint32BitCharStream.class
+REGULAR CLASS: org/antlr/v4/runtime/InputMismatchException.class
+ABSTRACT CLASS: org/antlr/v4/runtime/CodePointCharStream.class
+REGULAR CLASS: org/antlr/v4/runtime/VocabularyImpl.class
+REGULAR CLASS: org/antlr/v4/runtime/NoViableAltException.class
+REGULAR CLASS: org/antlr/v4/runtime/CodePointBuffer.class
+INTERFACE: org/antlr/v4/runtime/CharStream.class
+REGULAR CLASS: org/antlr/v4/runtime/Parser$TraceListener.class
+REGULAR CLASS: org/antlr/v4/runtime/BufferedTokenStream.class
+REGULAR CLASS: org/antlr/v4/runtime/BaseErrorListener.class
+REGULAR CLASS: org/antlr/v4/runtime/ConsoleErrorListener.class
+REGULAR CLASS: org/antlr/v4/runtime/CommonToken.class
+INTERFACE: org/antlr/v4/runtime/IntStream.class
+REGULAR CLASS: org/antlr/v4/runtime/CharStreams.class
+INTERFACE: org/antlr/v4/runtime/Token.class
+REGULAR CLASS: org/antlr/v4/runtime/CodePointCharStream$CodePoint16BitCharStream.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/DecisionState.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/PredictionContext.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ContextSensitivityInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/EmptyPredictionContext.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerPushModeAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/OrderedATNConfigSet.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerATNConfig.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNConfigSet.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNConfigSet$ConfigEqualityComparator.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ParseInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LookaheadEventInfo.class
+ENUM: org/antlr/v4/runtime/atn/LexerActionType.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerModeAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/StarLoopbackState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/NotSetTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SetTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/DecisionInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredicateEvalInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SemanticContext$Predicate.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredictionMode$AltAndContextMap.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LoopEndState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ActionTransition.class
+ENUM: org/antlr/v4/runtime/atn/PredictionMode.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/RuleStopState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerIndexedCustomAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SemanticContext$OR.class
+SYNTHETIC CLASS: org/antlr/v4/runtime/atn/ATNDeserializer$1.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/BasicState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredictionContextCache.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/EpsilonTransition.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/SemanticContext.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ProfilingATNSimulator.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerCustomAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LL1Analyzer.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNDeserializer.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/AmbiguityInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNConfigSet$ConfigHashSet.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/DecisionEventInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PlusLoopbackState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerActionExecutor.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SemanticContext$PrecedencePredicate.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SingletonPredictionContext.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/ATNState.class
+INTERFACE: org/antlr/v4/runtime/atn/LexerAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ParserATNSimulator.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/AbstractPredicateTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/AtomTransition.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/BlockStartState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredictionContext$1.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerMoreAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNConfig.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/BasicBlockStartState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerSkipAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/WildcardTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/RangeTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredictionMode$AltAndContextConfigEqualityComparator.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ErrorInfo.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/OrderedATNConfigSet$LexerConfigHashSet.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerATNSimulator$SimState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/RuleStartState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/SemanticContext$AND.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PredicateTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/StarBlockStartState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATNDeserializationOptions.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PrecedencePredicateTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ATN.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerTypeAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/TokensStartState.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerChannelAction.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/Transition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerATNSimulator.class
+ENUM: org/antlr/v4/runtime/atn/ATNType.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/ATNSimulator.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/BlockEndState.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/SemanticContext$Operator.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/LexerPopModeAction.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/RuleTransition.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/Transition$1.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/ArrayPredictionContext.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/StarLoopEntryState.class
+ABSTRACT CLASS: org/antlr/v4/runtime/atn/ATNConfigSet$AbstractConfigHashSet.class
+REGULAR CLASS: org/antlr/v4/runtime/atn/PlusBlockStartState.class
+ABSTRACT CLASS: org/antlr/v4/runtime/Parser.class
+REGULAR CLASS: org/antlr/v4/runtime/Parser$TrimToSizeListener.class
+REGULAR CLASS: org/antlr/v4/runtime/ParserRuleContext.class
+REGULAR CLASS: org/antlr/v4/runtime/ANTLRInputStream.class
+REGULAR CLASS: com/jcabi/log/DecorException.class
+REGULAR CLASS: com/jcabi/log/DomDecor.class
+REGULAR CLASS: com/jcabi/log/ExceptionDecor.class
+REGULAR CLASS: com/jcabi/log/ListDecor.class
+REGULAR CLASS: com/jcabi/log/Logger$1.class
+REGULAR CLASS: com/jcabi/log/NanoDecor.class
+REGULAR CLASS: com/jcabi/log/ObjectDecor$ArrayFormatAction.class
+REGULAR CLASS: com/jcabi/log/ObjectDecor$ObjectContentsFormatAction.class
+REGULAR CLASS: com/jcabi/log/ObjectDecor.class
+REGULAR CLASS: com/jcabi/log/SecretDecor.class
+REGULAR CLASS: com/jcabi/log/SizeDecor.class
+INTERFACE: com/jcabi/log/Supplier.class
+REGULAR CLASS: com/jcabi/log/SupplierLogger.class
+REGULAR CLASS: com/jcabi/log/TypeDecor.class
+INTERFACE: org/slf4j/ILoggerFactory.class
+INTERFACE: org/slf4j/IMarkerFactory.class
+INTERFACE: org/slf4j/Logger.class
+INTERFACE: org/slf4j/Marker.class
+REGULAR CLASS: org/slf4j/event/DefaultLoggingEvent.class
+REGULAR CLASS: org/slf4j/event/EventConstants.class
+REGULAR CLASS: org/slf4j/event/KeyValuePair.class
+INTERFACE: org/slf4j/event/LoggingEvent.class
+REGULAR CLASS: org/slf4j/helpers/BasicMarker.class
+ANNOTATION: org/slf4j/helpers/CheckReturnValue.class
+REGULAR CLASS: org/slf4j/helpers/NOPLogger.class
+ABSTRACT CLASS: org/slf4j/helpers/NamedLoggerBase.class
+REGULAR CLASS: org/slf4j/helpers/NormalizedParameters.class
+SYNTHETIC CLASS: org/slf4j/helpers/Util$1.class
+REGULAR CLASS: org/slf4j/helpers/Util$ClassContextSecurityManager.class
+INTERFACE: org/slf4j/spi/CallerBoundaryAware.class
+SYNTHETIC CLASS: org/slf4j/spi/DefaultLoggingEventBuilder$1.class
+REGULAR CLASS: org/slf4j/spi/DefaultLoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/LocationAwareLogger.class
+INTERFACE: org/slf4j/spi/LoggingEventAware.class
+INTERFACE: org/slf4j/spi/LoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/MDCAdapter.class
+REGULAR CLASS: org/slf4j/spi/NOPLoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/SLF4JServiceProvider.class
+REGULAR CLASS: org/apache/commons/io/FileExistsException.class
+ENUM: org/apache/commons/io/FileSystem.class
+REGULAR CLASS: org/apache/commons/io/FilenameUtils.class
+ENUM: org/apache/commons/io/IOCase.class
+REGULAR CLASS: org/apache/commons/io/IOExceptionList.class
+REGULAR CLASS: org/apache/commons/io/LineIterator.class
+REGULAR CLASS: org/apache/commons/io/StreamIterator.class
+REGULAR CLASS: org/apache/commons/io/file/AccumulatorPathVisitor.class
+REGULAR CLASS: org/apache/commons/io/file/CleaningPathVisitor.class
+REGULAR CLASS: org/apache/commons/io/file/CopyDirectoryVisitor.class
+SYNTHETIC CLASS: org/apache/commons/io/file/Counters$1.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$AbstractPathCounters.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$BigIntegerCounter.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$BigIntegerPathCounters.class
+INTERFACE: org/apache/commons/io/file/Counters$Counter.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$LongCounter.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$LongPathCounters.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$NoopCounter.class
+REGULAR CLASS: org/apache/commons/io/file/Counters$NoopPathCounters.class
+INTERFACE: org/apache/commons/io/file/Counters$PathCounters.class
+REGULAR CLASS: org/apache/commons/io/file/Counters.class
+REGULAR CLASS: org/apache/commons/io/file/CountingPathVisitor.class
+INTERFACE: org/apache/commons/io/file/DeleteOption.class
+REGULAR CLASS: org/apache/commons/io/file/DeletingPathVisitor.class
+REGULAR CLASS: org/apache/commons/io/file/DirectoryStreamFilter.class
+INTERFACE: org/apache/commons/io/file/PathFilter.class
+SYNTHETIC CLASS: org/apache/commons/io/file/PathUtils$1.class
+REGULAR CLASS: org/apache/commons/io/file/PathUtils$RelativeSortedPaths.class
+REGULAR CLASS: org/apache/commons/io/file/PathUtils.class
+INTERFACE: org/apache/commons/io/file/PathVisitor.class
+ABSTRACT CLASS: org/apache/commons/io/file/SimplePathVisitor.class
+ENUM: org/apache/commons/io/file/StandardDeleteOption.class
+ABSTRACT CLASS: org/apache/commons/io/filefilter/AbstractFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/AndFileFilter.class
+INTERFACE: org/apache/commons/io/filefilter/ConditionalFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/FalseFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/FileEqualsFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/FileFileFilter.class
+INTERFACE: org/apache/commons/io/filefilter/IOFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/NotFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/OrFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/SuffixFileFilter.class
+REGULAR CLASS: org/apache/commons/io/filefilter/TrueFileFilter.class
+INTERFACE: org/apache/commons/io/function/IOConsumer.class
+INTERFACE: org/apache/commons/io/function/IOFunction.class
+INTERFACE: org/apache/commons/io/function/IOSupplier.class
+REGULAR CLASS: org/apache/commons/io/input/ClosedInputStream.class
+REGULAR CLASS: org/apache/commons/io/input/UnsynchronizedByteArrayInputStream.class
+INTERFACE: org/apache/commons/io/output/AbstractByteArrayOutputStream$InputStreamConstructor.class
+ABSTRACT CLASS: org/apache/commons/io/output/AbstractByteArrayOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/AppendableWriter.class
+REGULAR CLASS: org/apache/commons/io/output/ByteArrayOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/NullOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/ThresholdingOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.class
+REGULAR CLASS: org/apache/commons/lang3/ArraySorter.class
+REGULAR CLASS: org/apache/commons/lang3/ArrayUtils.class
+REGULAR CLASS: org/apache/commons/lang3/BooleanUtils.class
+REGULAR CLASS: org/apache/commons/lang3/CharUtils.class
+REGULAR CLASS: org/apache/commons/lang3/Charsets.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$1.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$2.class
+ENUM: org/apache/commons/lang3/ClassUtils$Interfaces.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils.class
+REGULAR CLASS: org/apache/commons/lang3/LocaleUtils$SyncAvoid.class
+REGULAR CLASS: org/apache/commons/lang3/LocaleUtils.class
+REGULAR CLASS: org/apache/commons/lang3/NotImplementedException.class
+REGULAR CLASS: org/apache/commons/lang3/ObjectUtils$Null.class
+REGULAR CLASS: org/apache/commons/lang3/ObjectUtils.class
+REGULAR CLASS: org/apache/commons/lang3/RandomUtils.class
+ENUM: org/apache/commons/lang3/Range$ComparableComparator.class
+REGULAR CLASS: org/apache/commons/lang3/Range.class
+REGULAR CLASS: org/apache/commons/lang3/RegExUtils.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils$CsvEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils$CsvUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils.class
+REGULAR CLASS: org/apache/commons/lang3/Validate.class
+INTERFACE: org/apache/commons/lang3/builder/Builder.class
+REGULAR CLASS: org/apache/commons/lang3/builder/EqualsBuilder.class
+ANNOTATION: org/apache/commons/lang3/builder/EqualsExclude.class
+REGULAR CLASS: org/apache/commons/lang3/builder/HashCodeBuilder.class
+ANNOTATION: org/apache/commons/lang3/builder/HashCodeExclude.class
+REGULAR CLASS: org/apache/commons/lang3/builder/IDKey.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ReflectionToStringBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringBuilder.class
+ANNOTATION: org/apache/commons/lang3/builder/ToStringExclude.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$DefaultToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$JsonToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$MultiLineToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$NoClassNameToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$NoFieldNameToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$ShortPrefixToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$SimpleToStringStyle.class
+ABSTRACT CLASS: org/apache/commons/lang3/builder/ToStringStyle.class
+ANNOTATION: org/apache/commons/lang3/builder/ToStringSummary.class
+REGULAR CLASS: org/apache/commons/lang3/exception/CloneFailedException.class
+INTERFACE: org/apache/commons/lang3/function/FailableBiConsumer.class
+INTERFACE: org/apache/commons/lang3/function/ToBooleanBiFunction.class
+REGULAR CLASS: org/apache/commons/lang3/math/NumberUtils.class
+INTERFACE: org/apache/commons/lang3/mutable/Mutable.class
+REGULAR CLASS: org/apache/commons/lang3/mutable/MutableInt.class
+REGULAR CLASS: org/apache/commons/lang3/mutable/MutableObject.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderReader.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderTokenizer.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderWriter.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$CharMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$CharSetMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$NoMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$StringMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$TrimMatcher.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/StrMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrTokenizer.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/AggregateTranslator.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/translate/CharSequenceTranslator.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/translate/CodePointTranslator.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/EntityArrays.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/JavaUnicodeEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/LookupTranslator.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/NumericEntityEscaper.class
+ENUM: org/apache/commons/lang3/text/translate/NumericEntityUnescaper$OPTION.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/NumericEntityUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/OctalUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.class
+SYNTHETIC CLASS: org/apache/commons/lang3/time/DurationUtils$1.class
+REGULAR CLASS: org/apache/commons/lang3/time/DurationUtils.class
+REGULAR CLASS: org/apache/commons/lang3/tuple/ImmutablePair.class
+REGULAR CLASS: org/apache/commons/lang3/tuple/Pair$PairAdapter.class
+ABSTRACT CLASS: org/apache/commons/lang3/tuple/Pair.class
+REGULAR CLASS: org/hamcrest/Condition$NotMatched.class
+REGULAR CLASS: org/hamcrest/core/IsCollectionContaining.class
+REGULAR CLASS: org/hamcrest/core/StringRegularExpression.class
+REGULAR CLASS: org/hamcrest/core/CombinableMatcher$CombinableEitherMatcher.class
+REGULAR CLASS: org/hamcrest/core/CombinableMatcher$CombinableBothMatcher.class
+REGULAR CLASS: org/hamcrest/core/CombinableMatcher.class
+REGULAR CLASS: org/hamcrest/collection/IsArray.class
+REGULAR CLASS: org/hamcrest/collection/IsEmptyCollection.class
+REGULAR CLASS: org/hamcrest/collection/IsMapWithSize.class
+REGULAR CLASS: org/hamcrest/collection/IsIterableContainingInRelativeOrder.class
+REGULAR CLASS: org/hamcrest/collection/IsIterableContainingInRelativeOrder$MatchSeriesInRelativeOrder.class
+REGULAR CLASS: org/hamcrest/collection/HasItemInArray.class
+REGULAR CLASS: org/hamcrest/collection/IsArrayWithSize.class
+REGULAR CLASS: org/hamcrest/collection/IsMapContaining.class
+REGULAR CLASS: org/hamcrest/collection/ArrayAsIterableMatcher.class
+REGULAR CLASS: org/hamcrest/beans/HasPropertyWithValue.class
+REGULAR CLASS: org/hamcrest/beans/SamePropertyValuesAs.class
+REGULAR CLASS: org/hamcrest/beans/HasProperty.class
+REGULAR CLASS: org/hamcrest/beans/PropertyUtil.class
+REGULAR CLASS: org/hamcrest/beans/HasPropertyWithValue$1.class
+REGULAR CLASS: org/hamcrest/beans/SamePropertyValuesAs$PropertyMatcher.class
+REGULAR CLASS: org/hamcrest/beans/HasPropertyWithValue$2.class
+REGULAR CLASS: org/hamcrest/xml/HasXPath.class
+REGULAR CLASS: org/hamcrest/xml/HasXPath$1.class
+INTERFACE: org/hamcrest/SelfDescribing.class
+REGULAR CLASS: org/hamcrest/Condition$Matched.class
+SYNTHETIC CLASS: org/hamcrest/Condition$1.class
+REGULAR CLASS: org/hamcrest/object/IsCompatibleType.class
+REGULAR CLASS: org/hamcrest/object/IsEventFrom.class
+INTERFACE: org/hamcrest/Matcher.class
+INTERFACE: org/hamcrest/Condition$Step.class
+REGULAR CLASS: org/hamcrest/text/CharSequenceLength.class
+REGULAR CLASS: org/hamcrest/text/IsBlankString.class
+REGULAR CLASS: org/hamcrest/text/MatchesPattern.class
+REGULAR CLASS: org/hamcrest/text/IsEqualIgnoringCase.class
+REGULAR CLASS: org/hamcrest/text/IsEqualCompressingWhiteSpace.class
+REGULAR CLASS: org/hamcrest/number/IsCloseTo.class
+REGULAR CLASS: org/hamcrest/number/IsNaN.class
+REGULAR CLASS: org/hamcrest/number/BigDecimalCloseTo.class
+REGULAR CLASS: org/hamcrest/internal/NullSafety.class
+REGULAR CLASS: org/hamcrest/internal/ArrayIterator.class
+ABSTRACT CLASS: org/hamcrest/Condition.class
+ANNOTATION: com/google/common/annotations/Beta.class
+ANNOTATION: com/google/common/annotations/GwtCompatible.class
+ANNOTATION: com/google/common/annotations/GwtIncompatible.class
+ANNOTATION: com/google/common/annotations/VisibleForTesting.class
+SYNTHETIC CLASS: com/google/common/base/AbstractIterator$1.class
+ENUM: com/google/common/base/AbstractIterator$State.class
+ABSTRACT CLASS: com/google/common/base/AbstractIterator.class
+REGULAR CLASS: com/google/common/base/Ascii.class
+REGULAR CLASS: com/google/common/base/CharMatcher$1.class
+REGULAR CLASS: com/google/common/base/CharMatcher$And.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Any.class
+REGULAR CLASS: com/google/common/base/CharMatcher$AnyOf.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Ascii.class
+REGULAR CLASS: com/google/common/base/CharMatcher$BitSetMatcher.class
+REGULAR CLASS: com/google/common/base/CharMatcher$BreakingWhitespace.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Digit.class
+ABSTRACT CLASS: com/google/common/base/CharMatcher$FastMatcher.class
+REGULAR CLASS: com/google/common/base/CharMatcher$ForPredicate.class
+REGULAR CLASS: com/google/common/base/CharMatcher$InRange.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Invisible.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Is.class
+REGULAR CLASS: com/google/common/base/CharMatcher$IsEither.class
+REGULAR CLASS: com/google/common/base/CharMatcher$IsNot.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaDigit.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaIsoControl.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaLetter.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaLetterOrDigit.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaLowerCase.class
+REGULAR CLASS: com/google/common/base/CharMatcher$JavaUpperCase.class
+ABSTRACT CLASS: com/google/common/base/CharMatcher$NamedFastMatcher.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Negated.class
+REGULAR CLASS: com/google/common/base/CharMatcher$NegatedFastMatcher.class
+REGULAR CLASS: com/google/common/base/CharMatcher$None.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Or.class
+REGULAR CLASS: com/google/common/base/CharMatcher$RangesMatcher.class
+REGULAR CLASS: com/google/common/base/CharMatcher$SingleWidth.class
+REGULAR CLASS: com/google/common/base/CharMatcher$Whitespace.class
+ABSTRACT CLASS: com/google/common/base/CharMatcher.class
+ABSTRACT CLASS: com/google/common/base/CommonMatcher.class
+ABSTRACT CLASS: com/google/common/base/CommonPattern.class
+REGULAR CLASS: com/google/common/base/Converter$1$1.class
+REGULAR CLASS: com/google/common/base/Converter$1.class
+REGULAR CLASS: com/google/common/base/Converter$ConverterComposition.class
+REGULAR CLASS: com/google/common/base/Converter$FunctionBasedConverter.class
+REGULAR CLASS: com/google/common/base/Converter$IdentityConverter.class
+REGULAR CLASS: com/google/common/base/Converter$ReverseConverter.class
+ABSTRACT CLASS: com/google/common/base/Converter.class
+ANNOTATION: com/google/common/base/ElementTypesAreNonnullByDefault.class
+REGULAR CLASS: com/google/common/base/Enums$StringConverter.class
+REGULAR CLASS: com/google/common/base/Enums.class
+SYNTHETIC CLASS: com/google/common/base/Equivalence$1.class
+REGULAR CLASS: com/google/common/base/Equivalence$Equals.class
+REGULAR CLASS: com/google/common/base/Equivalence$EquivalentToPredicate.class
+REGULAR CLASS: com/google/common/base/Equivalence$Identity.class
+REGULAR CLASS: com/google/common/base/Equivalence$Wrapper.class
+ABSTRACT CLASS: com/google/common/base/Equivalence.class
+ABSTRACT CLASS: com/google/common/base/ExtraObjectsMethodsForWeb.class
+INTERFACE: com/google/common/base/Function.class
+REGULAR CLASS: com/google/common/base/FunctionalEquivalence.class
+REGULAR CLASS: com/google/common/base/JdkPattern$JdkMatcher.class
+REGULAR CLASS: com/google/common/base/JdkPattern.class
+REGULAR CLASS: com/google/common/base/Joiner$1.class
+REGULAR CLASS: com/google/common/base/Joiner$2.class
+REGULAR CLASS: com/google/common/base/Joiner$3.class
+REGULAR CLASS: com/google/common/base/Joiner$MapJoiner.class
+REGULAR CLASS: com/google/common/base/Joiner.class
+SYNTHETIC CLASS: com/google/common/base/MoreObjects$1.class
+REGULAR CLASS: com/google/common/base/MoreObjects$ToStringHelper$UnconditionalValueHolder.class
+REGULAR CLASS: com/google/common/base/MoreObjects$ToStringHelper$ValueHolder.class
+REGULAR CLASS: com/google/common/base/MoreObjects$ToStringHelper.class
+REGULAR CLASS: com/google/common/base/MoreObjects.class
+REGULAR CLASS: com/google/common/base/NullnessCasts.class
+REGULAR CLASS: com/google/common/base/Objects.class
+REGULAR CLASS: com/google/common/base/Optional$1$1.class
+REGULAR CLASS: com/google/common/base/Optional$1.class
+REGULAR CLASS: com/google/common/base/PairwiseEquivalence.class
+ANNOTATION: com/google/common/base/ParametricNullness.class
+INTERFACE: com/google/common/base/PatternCompiler.class
+SYNTHETIC CLASS: com/google/common/base/Platform$1.class
+REGULAR CLASS: com/google/common/base/Platform$JdkPatternCompiler.class
+REGULAR CLASS: com/google/common/base/Platform.class
+INTERFACE: com/google/common/base/Predicate.class
+SYNTHETIC CLASS: com/google/common/base/Predicates$1.class
+REGULAR CLASS: com/google/common/base/Predicates$AndPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$CompositionPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$ContainsPatternFromStringPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$ContainsPatternPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$InPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$InstanceOfPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$IsEqualToPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$NotPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$OrPredicate.class
+REGULAR CLASS: com/google/common/base/Predicates$SubtypeOfPredicate.class
+REGULAR CLASS: com/google/common/base/SmallCharMatcher.class
+REGULAR CLASS: com/google/common/base/Strings.class
+INTERFACE: com/google/common/base/Supplier.class
+SYNTHETIC CLASS: com/google/common/collect/AbstractIterator$1.class
+ABSTRACT CLASS: com/google/common/collect/AbstractListMultimap.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$1.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$2.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapEntries.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapIterator.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap.class
+ABSTRACT CLASS: com/google/common/collect/AbstractMapBasedMultimap$Itr.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$KeySet$1.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$KeySet.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$NavigableAsMap.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$NavigableKeySet.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$RandomAccessWrappedList.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$SortedAsMap.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$SortedKeySet.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedList$WrappedListIterator.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedList.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedNavigableSet.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedSortedSet.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultiset$1.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultiset$2$1.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultiset$2.class
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultiset$MapBasedMultisetIterator.class
+ABSTRACT CLASS: com/google/common/collect/AbstractMapBasedMultiset.class
+ABSTRACT CLASS: com/google/common/collect/AbstractMapEntry.class
+REGULAR CLASS: com/google/common/collect/AbstractMultimap$Entries.class
+REGULAR CLASS: com/google/common/collect/AbstractMultimap$EntrySet.class
+REGULAR CLASS: com/google/common/collect/AbstractMultimap$Values.class
+REGULAR CLASS: com/google/common/collect/AbstractMultiset$ElementSet.class
+REGULAR CLASS: com/google/common/collect/AbstractMultiset$EntrySet.class
+ABSTRACT CLASS: com/google/common/collect/AbstractMultiset.class
+SYNTHETIC CLASS: com/google/common/collect/AbstractNavigableMap$1.class
+REGULAR CLASS: com/google/common/collect/AbstractNavigableMap$DescendingMap.class
+ABSTRACT CLASS: com/google/common/collect/AbstractNavigableMap.class
+ABSTRACT CLASS: com/google/common/collect/AbstractRangeSet.class
+ABSTRACT CLASS: com/google/common/collect/AbstractSequentialIterator.class
+ABSTRACT CLASS: com/google/common/collect/AbstractSortedSetMultimap.class
+REGULAR CLASS: com/google/common/collect/AllEqualOrdering.class
+ABSTRACT CLASS: com/google/common/collect/BaseImmutableMultimap.class
+INTERFACE: com/google/common/collect/BiMap.class
+ENUM: com/google/common/collect/BoundType.class
+REGULAR CLASS: com/google/common/collect/ByFunctionOrdering.class
+REGULAR CLASS: com/google/common/collect/CartesianList$1.class
+REGULAR CLASS: com/google/common/collect/CartesianList.class
+REGULAR CLASS: com/google/common/collect/CollectCollectors$EnumMapAccumulator.class
+REGULAR CLASS: com/google/common/collect/CollectCollectors$EnumSetAccumulator.class
+REGULAR CLASS: com/google/common/collect/CollectCollectors.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$1.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$1Splitr.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$1WithCharacteristics.class
+INTERFACE: com/google/common/collect/CollectSpliterators$FlatMapSpliterator$Factory.class
+ABSTRACT CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliterator.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliteratorOfDouble.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliteratorOfInt.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliteratorOfLong.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliteratorOfObject.class
+ABSTRACT CLASS: com/google/common/collect/CollectSpliterators$FlatMapSpliteratorOfPrimitive.class
+REGULAR CLASS: com/google/common/collect/CollectSpliterators.class
+REGULAR CLASS: com/google/common/collect/Collections2$FilteredCollection.class
+REGULAR CLASS: com/google/common/collect/Collections2$OrderedPermutationCollection.class
+REGULAR CLASS: com/google/common/collect/Collections2$OrderedPermutationIterator.class
+REGULAR CLASS: com/google/common/collect/Collections2$PermutationCollection.class
+REGULAR CLASS: com/google/common/collect/Collections2$PermutationIterator.class
+REGULAR CLASS: com/google/common/collect/Collections2$TransformedCollection.class
+REGULAR CLASS: com/google/common/collect/Collections2.class
+REGULAR CLASS: com/google/common/collect/ComparatorOrdering.class
+REGULAR CLASS: com/google/common/collect/ComparisonChain$1.class
+REGULAR CLASS: com/google/common/collect/ComparisonChain$InactiveComparisonChain.class
+ABSTRACT CLASS: com/google/common/collect/ComparisonChain.class
+REGULAR CLASS: com/google/common/collect/CompoundOrdering.class
+REGULAR CLASS: com/google/common/collect/ConsumingQueueIterator.class
+ABSTRACT CLASS: com/google/common/collect/ContiguousSet.class
+REGULAR CLASS: com/google/common/collect/Count.class
+SYNTHETIC CLASS: com/google/common/collect/Cut$1.class
+REGULAR CLASS: com/google/common/collect/Cut$AboveAll.class
+REGULAR CLASS: com/google/common/collect/Cut$AboveValue.class
+REGULAR CLASS: com/google/common/collect/Cut$BelowAll.class
+REGULAR CLASS: com/google/common/collect/Cut$BelowValue.class
+ABSTRACT CLASS: com/google/common/collect/Cut.class
+REGULAR CLASS: com/google/common/collect/DescendingImmutableSortedSet.class
+SYNTHETIC CLASS: com/google/common/collect/DiscreteDomain$1.class
+REGULAR CLASS: com/google/common/collect/DiscreteDomain$BigIntegerDomain.class
+REGULAR CLASS: com/google/common/collect/DiscreteDomain$IntegerDomain.class
+REGULAR CLASS: com/google/common/collect/DiscreteDomain$LongDomain.class
+ABSTRACT CLASS: com/google/common/collect/DiscreteDomain.class
+ANNOTATION: com/google/common/collect/ElementTypesAreNonnullByDefault.class
+SYNTHETIC CLASS: com/google/common/collect/EmptyContiguousSet$1.class
+REGULAR CLASS: com/google/common/collect/EmptyContiguousSet$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/EmptyContiguousSet.class
+REGULAR CLASS: com/google/common/collect/EmptyImmutableListMultimap.class
+REGULAR CLASS: com/google/common/collect/EmptyImmutableSetMultimap.class
+REGULAR CLASS: com/google/common/collect/ExplicitOrdering.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$AsMap$1EntrySetImpl$1.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$AsMap$1EntrySetImpl.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$AsMap$1KeySetImpl.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$AsMap$1ValuesImpl.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$AsMap.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$Keys$1.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$Keys.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap$ValuePredicate.class
+REGULAR CLASS: com/google/common/collect/FilteredEntryMultimap.class
+REGULAR CLASS: com/google/common/collect/FilteredEntrySetMultimap.class
+REGULAR CLASS: com/google/common/collect/FilteredKeyListMultimap.class
+REGULAR CLASS: com/google/common/collect/FilteredKeyMultimap$AddRejectingList.class
+REGULAR CLASS: com/google/common/collect/FilteredKeyMultimap$AddRejectingSet.class
+REGULAR CLASS: com/google/common/collect/FilteredKeyMultimap$Entries.class
+REGULAR CLASS: com/google/common/collect/FilteredKeyMultimap.class
+REGULAR CLASS: com/google/common/collect/FilteredKeySetMultimap$EntrySet.class
+REGULAR CLASS: com/google/common/collect/FilteredKeySetMultimap.class
+INTERFACE: com/google/common/collect/FilteredMultimap.class
+REGULAR CLASS: com/google/common/collect/FilteredMultimapValues.class
+INTERFACE: com/google/common/collect/FilteredSetMultimap.class
+REGULAR CLASS: com/google/common/collect/FluentIterable$1.class
+REGULAR CLASS: com/google/common/collect/FluentIterable$3$1.class
+REGULAR CLASS: com/google/common/collect/FluentIterable$3.class
+REGULAR CLASS: com/google/common/collect/FluentIterable$FromIterableFunction.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingCollection.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingConcurrentMap.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingList.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingMap$StandardEntrySet.class
+REGULAR CLASS: com/google/common/collect/ForwardingMap$StandardKeySet.class
+REGULAR CLASS: com/google/common/collect/ForwardingMap$StandardValues.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingMap.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingMapEntry.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingMultimap.class
+REGULAR CLASS: com/google/common/collect/ForwardingMultiset$StandardElementSet.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingMultiset.class
+REGULAR CLASS: com/google/common/collect/ForwardingNavigableSet$StandardDescendingSet.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingNavigableSet.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingObject.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingSet.class
+REGULAR CLASS: com/google/common/collect/ForwardingSortedMap$StandardKeySet.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingSortedMap.class
+ABSTRACT CLASS: com/google/common/collect/ForwardingSortedSet.class
+REGULAR CLASS: com/google/common/collect/HashMultiset.class
+REGULAR CLASS: com/google/common/collect/ImmutableAsList$SerializedForm.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableAsList.class
+REGULAR CLASS: com/google/common/collect/ImmutableBiMap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableBiMap$SerializedForm.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableBiMap.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableBiMapFauxverideShim.class
+REGULAR CLASS: com/google/common/collect/ImmutableEntry.class
+SYNTHETIC CLASS: com/google/common/collect/ImmutableEnumMap$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableEnumMap$EnumSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableEnumMap.class
+SYNTHETIC CLASS: com/google/common/collect/ImmutableEnumSet$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableEnumSet$EnumSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableEnumSet.class
+REGULAR CLASS: com/google/common/collect/ImmutableList$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableList$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableList$ReverseImmutableList.class
+REGULAR CLASS: com/google/common/collect/ImmutableList$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableList$SubList.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableList.class
+REGULAR CLASS: com/google/common/collect/ImmutableListMultimap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableListMultimap.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$IteratorBasedImmutableMap$1EntrySetImpl.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMap$IteratorBasedImmutableMap.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$MapViewOfValuesAsSingletonSets$1$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$MapViewOfValuesAsSingletonSets$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$MapViewOfValuesAsSingletonSets.class
+REGULAR CLASS: com/google/common/collect/ImmutableMap$SerializedForm.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMap.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntry$NonTerminalImmutableBiMapEntry.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntry$NonTerminalImmutableMapEntry.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntry.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntrySet$EntrySetSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntrySet$RegularEntrySet.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMapEntrySet.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapKeySet$KeySetSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapKeySet.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapValues$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapValues$2.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapValues$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableMapValues.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$2.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$EntryCollection.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$FieldSettersHolder.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$Keys.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$KeysSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$Values.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMultimap.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$ElementSet.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$EntrySet.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$EntrySetSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableMultiset$SerializedForm.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMultiset.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableMultisetGwtSerializationDependencies.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeMap$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeMap$2.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeMap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeMap$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeMap.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$AsSet$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$AsSet$2.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$AsSet.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$AsSetSerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$ComplementRanges.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableRangeSet.class
+REGULAR CLASS: com/google/common/collect/ImmutableSet$Indexed$1.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableSet$Indexed.class
+REGULAR CLASS: com/google/common/collect/ImmutableSet$JdkBackedSetBuilderImpl.class
+REGULAR CLASS: com/google/common/collect/ImmutableSet$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableSetMultimap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableSetMultimap$EntrySet.class
+REGULAR CLASS: com/google/common/collect/ImmutableSetMultimap$SetFieldSettersHolder.class
+REGULAR CLASS: com/google/common/collect/ImmutableSetMultimap.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedAsList.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap$1EntrySet$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap$1EntrySet.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedMap.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableSortedMapFauxverideShim.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedSet$1.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedSet$Builder.class
+REGULAR CLASS: com/google/common/collect/ImmutableSortedSet$SerializedForm.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableSortedSet.class
+ABSTRACT CLASS: com/google/common/collect/ImmutableSortedSetFauxverideShim.class
+REGULAR CLASS: com/google/common/collect/IndexedImmutableSet$1.class
+ABSTRACT CLASS: com/google/common/collect/IndexedImmutableSet.class
+REGULAR CLASS: com/google/common/collect/Iterables$1.class
+REGULAR CLASS: com/google/common/collect/Iterables$2.class
+REGULAR CLASS: com/google/common/collect/Iterables$3.class
+REGULAR CLASS: com/google/common/collect/Iterables$5.class
+REGULAR CLASS: com/google/common/collect/Iterables$6$1.class
+REGULAR CLASS: com/google/common/collect/Iterables$6.class
+REGULAR CLASS: com/google/common/collect/Iterables$7.class
+REGULAR CLASS: com/google/common/collect/Iterables$8.class
+REGULAR CLASS: com/google/common/collect/Iterables$9.class
+REGULAR CLASS: com/google/common/collect/Iterables$UnmodifiableIterable.class
+REGULAR CLASS: com/google/common/collect/Iterators$1.class
+REGULAR CLASS: com/google/common/collect/Iterators$10.class
+REGULAR CLASS: com/google/common/collect/Iterators$11.class
+REGULAR CLASS: com/google/common/collect/Iterators$2.class
+REGULAR CLASS: com/google/common/collect/Iterators$3.class
+REGULAR CLASS: com/google/common/collect/Iterators$4.class
+REGULAR CLASS: com/google/common/collect/Iterators$7.class
+REGULAR CLASS: com/google/common/collect/Iterators$8.class
+REGULAR CLASS: com/google/common/collect/Iterators$9.class
+ENUM: com/google/common/collect/Iterators$EmptyModifiableIterator.class
+REGULAR CLASS: com/google/common/collect/Iterators$MergingIterator.class
+REGULAR CLASS: com/google/common/collect/Iterators$PeekingImpl.class
+SYNTHETIC CLASS: com/google/common/collect/JdkBackedImmutableBiMap$1.class
+REGULAR CLASS: com/google/common/collect/JdkBackedImmutableBiMap$InverseEntries.class
+REGULAR CLASS: com/google/common/collect/JdkBackedImmutableBiMap.class
+REGULAR CLASS: com/google/common/collect/JdkBackedImmutableMap.class
+REGULAR CLASS: com/google/common/collect/JdkBackedImmutableMultiset.class
+REGULAR CLASS: com/google/common/collect/JdkBackedImmutableSet.class
+REGULAR CLASS: com/google/common/collect/LexicographicalOrdering.class
+REGULAR CLASS: com/google/common/collect/LinkedHashMultiset.class
+INTERFACE: com/google/common/collect/ListMultimap.class
+REGULAR CLASS: com/google/common/collect/Lists$1.class
+REGULAR CLASS: com/google/common/collect/Lists$2.class
+REGULAR CLASS: com/google/common/collect/Lists$AbstractListWrapper.class
+REGULAR CLASS: com/google/common/collect/Lists$CharSequenceAsList.class
+REGULAR CLASS: com/google/common/collect/Lists$OnePlusArrayList.class
+REGULAR CLASS: com/google/common/collect/Lists$Partition.class
+REGULAR CLASS: com/google/common/collect/Lists$RandomAccessListWrapper.class
+REGULAR CLASS: com/google/common/collect/Lists$RandomAccessPartition.class
+REGULAR CLASS: com/google/common/collect/Lists$RandomAccessReverseList.class
+REGULAR CLASS: com/google/common/collect/Lists$ReverseList$1.class
+REGULAR CLASS: com/google/common/collect/Lists$ReverseList.class
+REGULAR CLASS: com/google/common/collect/Lists$StringAsImmutableList.class
+REGULAR CLASS: com/google/common/collect/Lists$TransformingRandomAccessList$1.class
+REGULAR CLASS: com/google/common/collect/Lists$TransformingRandomAccessList.class
+REGULAR CLASS: com/google/common/collect/Lists$TransformingSequentialList$1.class
+REGULAR CLASS: com/google/common/collect/Lists$TransformingSequentialList.class
+REGULAR CLASS: com/google/common/collect/Lists$TwoPlusArrayList.class
+INTERFACE: com/google/common/collect/MapDifference$ValueDifference.class
+INTERFACE: com/google/common/collect/MapDifference.class
+ENUM: com/google/common/collect/MapMaker$Dummy.class
+REGULAR CLASS: com/google/common/collect/MapMaker.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$1.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$AbstractSerializationProxy.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$AbstractStrongKeyEntry.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$AbstractWeakKeyEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$CleanupMapTask.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$DummyInternalEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$EntryIterator.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$EntrySet.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$HashIterator.class
+INTERFACE: com/google/common/collect/MapMakerInternalMap$InternalEntry.class
+INTERFACE: com/google/common/collect/MapMakerInternalMap$InternalEntryHelper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$KeyIterator.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$KeySet.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$SafeToArraySet.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$Segment.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$SerializationProxy.class
+ENUM: com/google/common/collect/MapMakerInternalMap$Strength$1.class
+ENUM: com/google/common/collect/MapMakerInternalMap$Strength$2.class
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$Strength.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyDummyValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyDummyValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyDummyValueSegment.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyStrongValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyStrongValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyStrongValueSegment.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyWeakValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyWeakValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$StrongKeyWeakValueSegment.class
+INTERFACE: com/google/common/collect/MapMakerInternalMap$StrongValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$ValueIterator.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$Values.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyDummyValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyDummyValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyDummyValueSegment.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueSegment.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyWeakValueEntry$Helper.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyWeakValueEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyWeakValueSegment.class
+INTERFACE: com/google/common/collect/MapMakerInternalMap$WeakValueEntry.class
+INTERFACE: com/google/common/collect/MapMakerInternalMap$WeakValueReference.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakValueReferenceImpl.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WriteThroughEntry.class
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap.class
+REGULAR CLASS: com/google/common/collect/Maps$1.class
+REGULAR CLASS: com/google/common/collect/Maps$10.class
+REGULAR CLASS: com/google/common/collect/Maps$11.class
+REGULAR CLASS: com/google/common/collect/Maps$12.class
+REGULAR CLASS: com/google/common/collect/Maps$13.class
+REGULAR CLASS: com/google/common/collect/Maps$2.class
+REGULAR CLASS: com/google/common/collect/Maps$3.class
+REGULAR CLASS: com/google/common/collect/Maps$4.class
+REGULAR CLASS: com/google/common/collect/Maps$5.class
+REGULAR CLASS: com/google/common/collect/Maps$6.class
+REGULAR CLASS: com/google/common/collect/Maps$7.class
+REGULAR CLASS: com/google/common/collect/Maps$8.class
+REGULAR CLASS: com/google/common/collect/Maps$9.class
+ABSTRACT CLASS: com/google/common/collect/Maps$AbstractFilteredMap.class
+REGULAR CLASS: com/google/common/collect/Maps$AsMapView$1EntrySetImpl.class
+REGULAR CLASS: com/google/common/collect/Maps$AsMapView.class
+REGULAR CLASS: com/google/common/collect/Maps$BiMapConverter.class
+REGULAR CLASS: com/google/common/collect/Maps$DescendingMap$1EntrySetImpl.class
+ABSTRACT CLASS: com/google/common/collect/Maps$DescendingMap.class
+ENUM: com/google/common/collect/Maps$EntryFunction$1.class
+ENUM: com/google/common/collect/Maps$EntryFunction$2.class
+ABSTRACT CLASS: com/google/common/collect/Maps$EntryFunction.class
+ABSTRACT CLASS: com/google/common/collect/Maps$EntrySet.class
+INTERFACE: com/google/common/collect/Maps$EntryTransformer.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryBiMap$1.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryBiMap.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet$1$1.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet$1.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$KeySet.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryNavigableMap$1.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryNavigableMap.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntrySortedMap$SortedKeySet.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntrySortedMap.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredKeyMap.class
+REGULAR CLASS: com/google/common/collect/Maps$FilteredMapValues.class
+REGULAR CLASS: com/google/common/collect/Maps$IteratorBasedAbstractMap$1.class
+ABSTRACT CLASS: com/google/common/collect/Maps$IteratorBasedAbstractMap.class
+REGULAR CLASS: com/google/common/collect/Maps$KeySet.class
+REGULAR CLASS: com/google/common/collect/Maps$MapDifferenceImpl.class
+REGULAR CLASS: com/google/common/collect/Maps$NavigableAsMapView.class
+REGULAR CLASS: com/google/common/collect/Maps$NavigableKeySet.class
+REGULAR CLASS: com/google/common/collect/Maps$SortedAsMapView.class
+REGULAR CLASS: com/google/common/collect/Maps$SortedKeySet.class
+REGULAR CLASS: com/google/common/collect/Maps$SortedMapDifferenceImpl.class
+REGULAR CLASS: com/google/common/collect/Maps$TransformedEntriesMap.class
+REGULAR CLASS: com/google/common/collect/Maps$TransformedEntriesNavigableMap.class
+REGULAR CLASS: com/google/common/collect/Maps$TransformedEntriesSortedMap.class
+REGULAR CLASS: com/google/common/collect/Maps$UnmodifiableBiMap.class
+REGULAR CLASS: com/google/common/collect/Maps$UnmodifiableEntries.class
+REGULAR CLASS: com/google/common/collect/Maps$UnmodifiableEntrySet.class
+REGULAR CLASS: com/google/common/collect/Maps$UnmodifiableNavigableMap.class
+REGULAR CLASS: com/google/common/collect/Maps$ValueDifferenceImpl.class
+REGULAR CLASS: com/google/common/collect/Maps$Values.class
+ABSTRACT CLASS: com/google/common/collect/Maps$ViewCachingAbstractMap.class
+INTERFACE: com/google/common/collect/Multimap.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$1.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$2.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$3.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$4.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$ArrayListSupplier.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$EnumSetSupplier.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$HashSetSupplier.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$LinkedHashSetSupplier.class
+ENUM: com/google/common/collect/MultimapBuilder$LinkedListSupplier.class
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$ListMultimapBuilder.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$1.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$2.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$3.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$4.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$5.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$6.class
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys.class
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$SetMultimapBuilder.class
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$SortedSetMultimapBuilder.class
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$TreeSetSupplier.class
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder.class
+REGULAR CLASS: com/google/common/collect/Multimaps$AsMap$EntrySet$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$AsMap$EntrySet.class
+REGULAR CLASS: com/google/common/collect/Multimaps$AsMap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$CustomListMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$CustomMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$CustomSortedSetMultimap.class
+ABSTRACT CLASS: com/google/common/collect/Multimaps$Entries.class
+REGULAR CLASS: com/google/common/collect/Multimaps$Keys$1$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$Keys$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$Keys.class
+REGULAR CLASS: com/google/common/collect/Multimaps$MapMultimap$1$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$MapMultimap$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$MapMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$TransformedEntriesListMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$TransformedEntriesMultimap$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$TransformedEntriesMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$UnmodifiableListMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$UnmodifiableMultimap$1.class
+REGULAR CLASS: com/google/common/collect/Multimaps$UnmodifiableMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$UnmodifiableSetMultimap.class
+REGULAR CLASS: com/google/common/collect/Multimaps$UnmodifiableSortedSetMultimap.class
+INTERFACE: com/google/common/collect/Multiset$Entry.class
+INTERFACE: com/google/common/collect/Multiset.class
+REGULAR CLASS: com/google/common/collect/Multisets$1$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$2$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$2.class
+REGULAR CLASS: com/google/common/collect/Multisets$3$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$3.class
+REGULAR CLASS: com/google/common/collect/Multisets$4$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$4$2.class
+REGULAR CLASS: com/google/common/collect/Multisets$4.class
+REGULAR CLASS: com/google/common/collect/Multisets$5.class
+ABSTRACT CLASS: com/google/common/collect/Multisets$AbstractEntry.class
+REGULAR CLASS: com/google/common/collect/Multisets$DecreasingCount.class
+ABSTRACT CLASS: com/google/common/collect/Multisets$ElementSet.class
+ABSTRACT CLASS: com/google/common/collect/Multisets$EntrySet.class
+REGULAR CLASS: com/google/common/collect/Multisets$FilteredMultiset$1.class
+REGULAR CLASS: com/google/common/collect/Multisets$FilteredMultiset.class
+REGULAR CLASS: com/google/common/collect/Multisets$ImmutableEntry.class
+REGULAR CLASS: com/google/common/collect/Multisets$MultisetIteratorImpl.class
+REGULAR CLASS: com/google/common/collect/Multisets$UnmodifiableMultiset.class
+ABSTRACT CLASS: com/google/common/collect/Multisets$ViewMultiset.class
+REGULAR CLASS: com/google/common/collect/Multisets.class
+REGULAR CLASS: com/google/common/collect/NaturalOrdering.class
+REGULAR CLASS: com/google/common/collect/NullnessCasts.class
+REGULAR CLASS: com/google/common/collect/NullsFirstOrdering.class
+REGULAR CLASS: com/google/common/collect/NullsLastOrdering.class
+REGULAR CLASS: com/google/common/collect/ObjectArrays.class
+REGULAR CLASS: com/google/common/collect/Ordering$ArbitraryOrdering.class
+REGULAR CLASS: com/google/common/collect/Ordering$ArbitraryOrderingHolder.class
+REGULAR CLASS: com/google/common/collect/Ordering$IncomparableValueException.class
+ABSTRACT CLASS: com/google/common/collect/Ordering.class
+ANNOTATION: com/google/common/collect/ParametricNullness.class
+INTERFACE: com/google/common/collect/PeekingIterator.class
+REGULAR CLASS: com/google/common/collect/Platform.class
+SYNTHETIC CLASS: com/google/common/collect/Range$1.class
+REGULAR CLASS: com/google/common/collect/Range$LowerBoundFn.class
+REGULAR CLASS: com/google/common/collect/Range$RangeLexOrdering.class
+REGULAR CLASS: com/google/common/collect/Range$UpperBoundFn.class
+REGULAR CLASS: com/google/common/collect/Range.class
+ABSTRACT CLASS: com/google/common/collect/RangeGwtSerializationDependencies.class
+INTERFACE: com/google/common/collect/RangeMap.class
+INTERFACE: com/google/common/collect/RangeSet.class
+REGULAR CLASS: com/google/common/collect/RegularContiguousSet$1.class
+REGULAR CLASS: com/google/common/collect/RegularContiguousSet$2.class
+REGULAR CLASS: com/google/common/collect/RegularContiguousSet$3.class
+REGULAR CLASS: com/google/common/collect/RegularContiguousSet$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/RegularContiguousSet.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableAsList.class
+SYNTHETIC CLASS: com/google/common/collect/RegularImmutableBiMap$1.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableBiMap$Inverse$InverseEntrySet$1.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableBiMap$Inverse$InverseEntrySet.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableBiMap$Inverse.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableBiMap$InverseSerializedForm.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableBiMap.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableList.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$BucketOverflowException.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$KeySet$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$KeySet.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$Values$SerializedForm.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$Values.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMultiset$NonTerminalEntry.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableMultiset.class
+REGULAR CLASS: com/google/common/collect/RegularImmutableSortedSet.class
+REGULAR CLASS: com/google/common/collect/ReverseNaturalOrdering.class
+REGULAR CLASS: com/google/common/collect/ReverseOrdering.class
+SYNTHETIC CLASS: com/google/common/collect/Serialization$1.class
+REGULAR CLASS: com/google/common/collect/Serialization$FieldSetter.class
+REGULAR CLASS: com/google/common/collect/Serialization.class
+INTERFACE: com/google/common/collect/SetMultimap.class
+REGULAR CLASS: com/google/common/collect/Sets$1$1.class
+REGULAR CLASS: com/google/common/collect/Sets$1.class
+REGULAR CLASS: com/google/common/collect/Sets$2$1.class
+REGULAR CLASS: com/google/common/collect/Sets$2.class
+REGULAR CLASS: com/google/common/collect/Sets$3$1.class
+REGULAR CLASS: com/google/common/collect/Sets$3.class
+REGULAR CLASS: com/google/common/collect/Sets$4$1.class
+REGULAR CLASS: com/google/common/collect/Sets$4.class
+REGULAR CLASS: com/google/common/collect/Sets$5$1$1$1.class
+REGULAR CLASS: com/google/common/collect/Sets$5$1$1.class
+REGULAR CLASS: com/google/common/collect/Sets$5$1.class
+REGULAR CLASS: com/google/common/collect/Sets$5.class
+REGULAR CLASS: com/google/common/collect/Sets$CartesianSet$1.class
+REGULAR CLASS: com/google/common/collect/Sets$CartesianSet.class
+REGULAR CLASS: com/google/common/collect/Sets$DescendingSet.class
+REGULAR CLASS: com/google/common/collect/Sets$FilteredNavigableSet.class
+REGULAR CLASS: com/google/common/collect/Sets$FilteredSet.class
+REGULAR CLASS: com/google/common/collect/Sets$FilteredSortedSet.class
+ABSTRACT CLASS: com/google/common/collect/Sets$ImprovedAbstractSet.class
+REGULAR CLASS: com/google/common/collect/Sets$PowerSet$1.class
+REGULAR CLASS: com/google/common/collect/Sets$PowerSet.class
+ABSTRACT CLASS: com/google/common/collect/Sets$SetView.class
+REGULAR CLASS: com/google/common/collect/Sets$SubSet$1.class
+REGULAR CLASS: com/google/common/collect/Sets$SubSet.class
+REGULAR CLASS: com/google/common/collect/Sets$UnmodifiableNavigableSet.class
+REGULAR CLASS: com/google/common/collect/SingletonImmutableBiMap.class
+REGULAR CLASS: com/google/common/collect/SingletonImmutableList.class
+REGULAR CLASS: com/google/common/collect/SingletonImmutableSet.class
+INTERFACE: com/google/common/collect/SortedIterable.class
+REGULAR CLASS: com/google/common/collect/SortedIterables.class
+SYNTHETIC CLASS: com/google/common/collect/SortedLists$1.class
+ENUM: com/google/common/collect/SortedLists$KeyAbsentBehavior$1.class
+ENUM: com/google/common/collect/SortedLists$KeyAbsentBehavior$2.class
+ENUM: com/google/common/collect/SortedLists$KeyAbsentBehavior$3.class
+ABSTRACT CLASS: com/google/common/collect/SortedLists$KeyAbsentBehavior.class
+ENUM: com/google/common/collect/SortedLists$KeyPresentBehavior$1.class
+ENUM: com/google/common/collect/SortedLists$KeyPresentBehavior$2.class
+ENUM: com/google/common/collect/SortedLists$KeyPresentBehavior$3.class
+ENUM: com/google/common/collect/SortedLists$KeyPresentBehavior$4.class
+ENUM: com/google/common/collect/SortedLists$KeyPresentBehavior$5.class
+ABSTRACT CLASS: com/google/common/collect/SortedLists$KeyPresentBehavior.class
+REGULAR CLASS: com/google/common/collect/SortedLists.class
+INTERFACE: com/google/common/collect/SortedMapDifference.class
+INTERFACE: com/google/common/collect/SortedMultiset.class
+INTERFACE: com/google/common/collect/SortedMultisetBridge.class
+INTERFACE: com/google/common/collect/SortedSetMultimap.class
+REGULAR CLASS: com/google/common/collect/Streams$1.class
+REGULAR CLASS: com/google/common/collect/Streams$1OptionalState.class
+REGULAR CLASS: com/google/common/collect/Streams$1Splitr.class
+REGULAR CLASS: com/google/common/collect/Streams$2.class
+REGULAR CLASS: com/google/common/collect/Streams$2Splitr.class
+REGULAR CLASS: com/google/common/collect/Streams$3.class
+REGULAR CLASS: com/google/common/collect/Streams$3Splitr.class
+REGULAR CLASS: com/google/common/collect/Streams$4.class
+REGULAR CLASS: com/google/common/collect/Streams$4Splitr.class
+REGULAR CLASS: com/google/common/collect/Streams$5.class
+INTERFACE: com/google/common/collect/Streams$DoubleFunctionWithIndex.class
+INTERFACE: com/google/common/collect/Streams$FunctionWithIndex.class
+INTERFACE: com/google/common/collect/Streams$IntFunctionWithIndex.class
+INTERFACE: com/google/common/collect/Streams$LongFunctionWithIndex.class
+ABSTRACT CLASS: com/google/common/collect/Streams$MapWithIndexSpliterator.class
+REGULAR CLASS: com/google/common/collect/Streams$TemporaryPair.class
+REGULAR CLASS: com/google/common/collect/Streams.class
+SYNTHETIC CLASS: com/google/common/collect/Synchronized$1.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMapEntries$1$1.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMapEntries$1.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMapEntries.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMapValues$1.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedAsMapValues.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedBiMap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedCollection.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedDeque.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedEntry.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedList.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedListMultimap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedMap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedMultimap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedMultiset.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedNavigableMap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedNavigableSet.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedObject.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedQueue.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedRandomAccessList.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedSet.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedSetMultimap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedSortedMap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedSortedSet.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedSortedSetMultimap.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedTable$1.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedTable$2.class
+REGULAR CLASS: com/google/common/collect/Synchronized$SynchronizedTable.class
+REGULAR CLASS: com/google/common/collect/Synchronized.class
+INTERFACE: com/google/common/collect/Table$Cell.class
+INTERFACE: com/google/common/collect/Table.class
+REGULAR CLASS: com/google/common/collect/TopKSelector.class
+ABSTRACT CLASS: com/google/common/collect/TransformedListIterator.class
+SYNTHETIC CLASS: com/google/common/collect/TreeRangeSet$1.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$AsRanges.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$Complement.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$ComplementRangesByLowerBound$1.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$ComplementRangesByLowerBound$2.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$ComplementRangesByLowerBound.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$RangesByUpperBound$1.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$RangesByUpperBound$2.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$RangesByUpperBound.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$SubRangeSet.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$SubRangeSetRangesByLowerBound$1.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$SubRangeSetRangesByLowerBound$2.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet$SubRangeSetRangesByLowerBound.class
+REGULAR CLASS: com/google/common/collect/TreeRangeSet.class
+REGULAR CLASS: com/google/common/collect/UnmodifiableSortedMultiset.class
+REGULAR CLASS: com/google/common/collect/UsingToStringOrdering.class
+REGULAR CLASS: com/google/common/math/DoubleUtils.class
+ANNOTATION: com/google/common/math/ElementTypesAreNonnullByDefault.class
+SYNTHETIC CLASS: com/google/common/math/IntMath$1.class
+SYNTHETIC CLASS: com/google/common/math/LongMath$1.class
+ENUM: com/google/common/math/LongMath$MillerRabinTester$1.class
+ENUM: com/google/common/math/LongMath$MillerRabinTester$2.class
+ABSTRACT CLASS: com/google/common/math/LongMath$MillerRabinTester.class
+REGULAR CLASS: com/google/common/math/LongMath.class
+REGULAR CLASS: com/google/common/primitives/Booleans$BooleanArrayAsList.class
+ENUM: com/google/common/primitives/Booleans$BooleanComparator.class
+ENUM: com/google/common/primitives/Booleans$LexicographicalComparator.class
+REGULAR CLASS: com/google/common/primitives/Booleans.class
+ANNOTATION: com/google/common/primitives/ElementTypesAreNonnullByDefault.class
+REGULAR CLASS: com/google/common/primitives/Ints$IntArrayAsList.class
+REGULAR CLASS: com/google/common/primitives/Ints$IntConverter.class
+ENUM: com/google/common/primitives/Ints$LexicographicalComparator.class
+REGULAR CLASS: com/google/common/primitives/Ints.class
+ABSTRACT CLASS: com/google/common/primitives/IntsMethodsForWeb.class
+REGULAR CLASS: com/google/common/primitives/Longs$AsciiDigits.class
+ENUM: com/google/common/primitives/Longs$LexicographicalComparator.class
+REGULAR CLASS: com/google/common/primitives/Longs$LongArrayAsList.class
+REGULAR CLASS: com/google/common/primitives/Longs$LongConverter.class
+REGULAR CLASS: com/google/common/primitives/Longs.class
+REGULAR CLASS: com/google/common/primitives/ParseRequest.class
+ENUM: com/google/common/primitives/UnsignedLongs$LexicographicalComparator.class
+REGULAR CLASS: com/google/common/primitives/UnsignedLongs$ParseOverflowDetection.class
+REGULAR CLASS: com/google/common/primitives/UnsignedLongs.class
+ANNOTATION: javax/annotation/CheckForNull.class
+ANNOTATION: javax/annotation/meta/TypeQualifier.class
+ANNOTATION: javax/annotation/meta/TypeQualifierDefault.class
+ANNOTATION: javax/annotation/meta/TypeQualifierNickname.class
+INTERFACE: javax/annotation/meta/TypeQualifierValidator.class
+ENUM: javax/annotation/meta/When.class
+REGULAR CLASS: javax/annotation/Nonnull$Checker.class
+ANNOTATION: javax/annotation/Nonnull.class
+ANNOTATION: org/checkerframework/checker/nullness/qual/Nullable.class
+ANNOTATION: org/checkerframework/framework/qual/DefaultFor.class
+ENUM: org/checkerframework/framework/qual/LiteralKind.class
+ANNOTATION: org/checkerframework/framework/qual/QualifierForLiterals.class
+ANNOTATION: org/checkerframework/framework/qual/SubtypeOf.class
+ENUM: org/checkerframework/framework/qual/TypeKind.class
+ENUM: org/checkerframework/framework/qual/TypeUseLocation.class
+ANNOTATION: com/google/errorprone/annotations/CanIgnoreReturnValue.class
+ANNOTATION: com/google/errorprone/annotations/IncompatibleModifiers.class
+ENUM: com/google/errorprone/annotations/Modifier.class
+ANNOTATION: com/google/errorprone/annotations/concurrent/LazyInit.class
+ANNOTATION: com/google/errorprone/annotations/concurrent/GuardedBy.class
+ANNOTATION: com/google/errorprone/annotations/CompatibleWith.class
+ANNOTATION: com/google/errorprone/annotations/CheckReturnValue.class
+ANNOTATION: com/google/errorprone/annotations/DoNotMock.class
+ANNOTATION: com/google/errorprone/annotations/InlineMe.class
+ANNOTATION: com/google/errorprone/annotations/InlineMeValidationDisabled.class
+ANNOTATION: com/google/errorprone/annotations/ForOverride.class
+ANNOTATION: com/google/errorprone/annotations/DoNotCall.class
+ANNOTATION: com/google/j2objc/annotations/RetainedWith.class
+ANNOTATION: com/google/j2objc/annotations/Weak.class
+
+Total number of class files only in DepTrim: 1269
+Total number of class files in DepTrim: 1456
+Interfaces found: 111
+Abstract classes found: 121
+Enums found: 39
+Annotations found: 42
+Synthetic classes found: 31
+Regular classes found: 925

@@ -1,0 +1,80 @@
+REGULAR CLASS: net/jodah/typetools/TypeResolver$1.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: net/jodah/typetools/TypeResolver$3.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: net/jodah/typetools/TypeResolver.class - JACT (NotCovered, Total): 466, 1391
+ENUM: net/bytebuddy/TypeCache$Sort$1.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: net/bytebuddy/implementation/MethodDelegation.class - JACT (NotCovered, Total): 248, 358
+REGULAR CLASS: net/bytebuddy/implementation/MethodDelegation$Appender.class - JACT (NotCovered, Total): 97, 155
+REGULAR CLASS: net/bytebuddy/implementation/MethodDelegation$WithCustomProperties.class - JACT (NotCovered, Total): 402, 457
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/MethodCallProxy$ConstructorCall$Appender.class - JACT (NotCovered, Total): 37, 130
+ENUM: net/bytebuddy/implementation/auxiliary/MethodCallProxy$ConstructorCall.class - JACT (NotCovered, Total): 0, 37
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/MethodCallProxy$MethodCall$Appender.class - JACT (NotCovered, Total): 52, 151
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/MethodCallProxy$AssignableSignatureCall.class - JACT (NotCovered, Total): 50, 106
+ENUM: net/bytebuddy/implementation/auxiliary/MethodCallProxy$PrecomputedMethodGraph.class - JACT (NotCovered, Total): 9, 98
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/MethodCallProxy.class - JACT (NotCovered, Total): 46, 227
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/MethodCallProxy$MethodCall.class - JACT (NotCovered, Total): 36, 71
+REGULAR CLASS: net/bytebuddy/implementation/MethodDelegation$ImplementationDelegate$ForStaticMethod.class - JACT (NotCovered, Total): 27, 79
+ENUM: net/bytebuddy/implementation/bind/annotation/SuperCall$Binder.class - JACT (NotCovered, Total): 38, 145
+ENUM: net/bytebuddy/implementation/bind/annotation/Argument$Binder.class - JACT (NotCovered, Total): 16, 117
+ENUM: net/bytebuddy/implementation/bind/annotation/StubValue$Binder.class - JACT (NotCovered, Total): 12, 65
+ENUM: net/bytebuddy/implementation/bind/annotation/DefaultCall$Binder.class - JACT (NotCovered, Total): 104, 148
+ENUM: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic$1.class - JACT (NotCovered, Total): 0, 32
+ENUM: net/bytebuddy/implementation/bind/annotation/AllArguments$Assignment.class - JACT (NotCovered, Total): 3, 37
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/RuntimeType$Verifier.class - JACT (NotCovered, Total): 6, 12
+ENUM: net/bytebuddy/implementation/bind/annotation/DefaultMethod$Binder.class - JACT (NotCovered, Total): 100, 152
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor.class - JACT (NotCovered, Total): 55, 131
+ENUM: net/bytebuddy/implementation/bind/annotation/FieldValue$Binder.class - JACT (NotCovered, Total): 0, 59
+ENUM: net/bytebuddy/implementation/bind/annotation/This$Binder.class - JACT (NotCovered, Total): 36, 100
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor$Handler$Unbound.class - JACT (NotCovered, Total): 69, 80
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/IgnoreForBinding$Verifier.class - JACT (NotCovered, Total): 6, 11
+ABSTRACT CLASS: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic.class - JACT (NotCovered, Total): 0, 24
+ENUM: net/bytebuddy/implementation/bind/annotation/Origin$Binder.class - JACT (NotCovered, Total): 120, 204
+INTERFACE: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$ParameterBinder.class - JACT (NotCovered, Total): 0, 58
+ENUM: net/bytebuddy/implementation/bind/annotation/Default$Binder.class - JACT (NotCovered, Total): 54, 90
+ENUM: net/bytebuddy/implementation/bind/annotation/Argument$BindingMechanic$2.class - JACT (NotCovered, Total): 24, 30
+REGULAR CLASS: net/bytebuddy/implementation/MethodDelegation$ImplementationDelegate$Compiled$ForStaticCall.class - JACT (NotCovered, Total): 37, 50
+REGULAR CLASS: net/bytebuddy/dynamic/loading/MultipleParentClassLoader$Builder.class - JACT (NotCovered, Total): 222, 358
+REGULAR CLASS: net/bytebuddy/TypeCache$LookupKey.class - JACT (NotCovered, Total): 15, 53
+REGULAR CLASS: net/bytebuddy/TypeCache$WithInlineExpunction.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: net/bytebuddy/TypeCache$StorageKey.class - JACT (NotCovered, Total): 47, 59
+ENUM: net/bytebuddy/implementation/bind/MethodNameEqualityResolver.class - JACT (NotCovered, Total): 26, 40
+INTERFACE: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver.class - JACT (NotCovered, Total): 0, 27
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default$2.class - JACT (NotCovered, Total): 10, 16
+ENUM: net/bytebuddy/implementation/bind/ArgumentTypeResolver.class - JACT (NotCovered, Total): 148, 162
+ENUM: net/bytebuddy/implementation/bind/annotation/SuperMethod$Binder.class - JACT (NotCovered, Total): 97, 149
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$DelegationProcessor$Handler$Bound.class - JACT (NotCovered, Total): 56, 123
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder.class - JACT (NotCovered, Total): 39, 88
+ENUM: net/bytebuddy/implementation/bind/annotation/Super$Binder.class - JACT (NotCovered, Total): 75, 111
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/FieldValue$Binder$Delegate.class - JACT (NotCovered, Total): 3, 61
+ENUM: net/bytebuddy/implementation/bind/annotation/BindingPriority$Resolver.class - JACT (NotCovered, Total): 4, 62
+ENUM: net/bytebuddy/implementation/bind/annotation/AllArguments$Binder.class - JACT (NotCovered, Total): 47, 208
+REGULAR CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$Record.class - JACT (NotCovered, Total): 51, 143
+ABSTRACT CLASS: net/bytebuddy/implementation/bind/annotation/TargetMethodAnnotationDrivenBinder$ParameterBinder$ForFieldBinding.class - JACT (NotCovered, Total): 93, 144
+ENUM: net/bytebuddy/implementation/bind/annotation/Empty$Binder.class - JACT (NotCovered, Total): 8, 24
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default$1.class - JACT (NotCovered, Total): 4, 35
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Builder.class - JACT (NotCovered, Total): 6, 76
+ENUM: net/bytebuddy/implementation/bind/ParameterLengthResolver.class - JACT (NotCovered, Total): 22, 36
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Illegal.class - JACT (NotCovered, Total): 10, 26
+ABSTRACT CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$TerminationHandler$Default.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Unique.class - JACT (NotCovered, Total): 52, 80
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Builder$Build.class - JACT (NotCovered, Total): 104, 182
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$Processor.class - JACT (NotCovered, Total): 84, 138
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver$Resolution.class - JACT (NotCovered, Total): 23, 82
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodBinding$Illegal.class - JACT (NotCovered, Total): 15, 31
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$ParameterBinding$Anonymous.class - JACT (NotCovered, Total): 37, 61
+REGULAR CLASS: net/bytebuddy/implementation/bind/MethodDelegationBinder$AmbiguityResolver$Compound.class - JACT (NotCovered, Total): 35, 103
+ENUM: net/bytebuddy/implementation/bind/DeclaringTypeResolver.class - JACT (NotCovered, Total): 30, 44
+REGULAR CLASS: net/bytebuddy/implementation/bind/ArgumentTypeResolver$ParameterIndexToken.class - JACT (NotCovered, Total): 26, 35
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$BindingResolver$Default.class - JACT (NotCovered, Total): 137, 189
+ENUM: net/bytebuddy/implementation/bind/MethodDelegationBinder$MethodInvoker$Simple.class - JACT (NotCovered, Total): 0, 17
+ABSTRACT CLASS: net/bytebuddy/TypeCache$Sort.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: net/bytebuddy/TypeCache$SimpleKey.class - JACT (NotCovered, Total): 29, 93
+ENUM: net/bytebuddy/TypeCache$Sort$2.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: net/bytebuddy/TypeCache.class - JACT (NotCovered, Total): 57, 180
+
+Summary for Class Files Only In JACT:
+Interfaces found: 2
+Abstract classes found: 4
+Enums found: 32
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 34

@@ -1,0 +1,945 @@
+ENUM: io/helidon/webserver/SocketConfiguration$RequestedUriDiscoveryType.class - JACT (NotCovered, Total): 0, 34
+INTERFACE: io/helidon/webserver/Route.class - JACT (NotCovered, Total): 4, 9
+REGULAR CLASS: io/helidon/webserver/RouteListRoutingRules$Record.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/helidon/webserver/PathPattern$CharIterator.class - JACT (NotCovered, Total): 5, 38
+REGULAR CLASS: io/helidon/webserver/PathPattern.class - JACT (NotCovered, Total): 176, 349
+REGULAR CLASS: io/helidon/webserver/Request$Path.class - JACT (NotCovered, Total): 148, 178
+REGULAR CLASS: io/helidon/webserver/BareRequestImpl.class - JACT (NotCovered, Total): 102, 183
+REGULAR CLASS: io/helidon/webserver/HttpRequestScopedPublisher.class - JACT (NotCovered, Total): 25, 47
+INTERFACE: io/helidon/webserver/PathMatcher.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/helidon/webserver/HttpInitializer.class - JACT (NotCovered, Total): 301, 477
+REGULAR CLASS: io/helidon/webserver/PathPattern$CanonicalPathMatcher.class - JACT (NotCovered, Total): 49, 75
+REGULAR CLASS: io/helidon/webserver/PathTracingConfig$Builder.class - JACT (NotCovered, Total): 49, 87
+REGULAR CLASS: io/helidon/webserver/HashResponseHeaders$CompletionSupport.class - JACT (NotCovered, Total): 89, 204
+REGULAR CLASS: io/helidon/webserver/Response$SendLockSupport.class - JACT (NotCovered, Total): 8, 20
+INTERFACE: io/helidon/webserver/ExperimentalConfiguration.class - JACT (NotCovered, Total): 0, 4
+INTERFACE: io/helidon/webserver/SocketConfiguration.class - JACT (NotCovered, Total): 17, 25
+REGULAR CLASS: io/helidon/webserver/ServerConfiguration$Builder.class - JACT (NotCovered, Total): 436, 557
+REGULAR CLASS: io/helidon/webserver/SocketClosedException.class - JACT (NotCovered, Total): 9, 13
+REGULAR CLASS: io/helidon/webserver/ServerBasicConfig$SocketConfig.class - JACT (NotCovered, Total): 50, 199
+REGULAR CLASS: io/helidon/webserver/SocketConfiguration$Builder.class - JACT (NotCovered, Total): 312, 516
+REGULAR CLASS: io/helidon/webserver/DirectHandlers$Builder.class - JACT (NotCovered, Total): 8, 51
+REGULAR CLASS: io/helidon/webserver/ReferenceHoldingQueue$IndirectReference.class - JACT (NotCovered, Total): 5, 28
+REGULAR CLASS: io/helidon/webserver/HashResponseHeaders.class - JACT (NotCovered, Total): 521, 645
+REGULAR CLASS: io/helidon/webserver/WebTracingConfig$Builder.class - JACT (NotCovered, Total): 24, 108
+REGULAR CLASS: io/helidon/webserver/Route$HttpMethodPredicate.class - JACT (NotCovered, Total): 15, 115
+REGULAR CLASS: io/helidon/webserver/RouteListRoutingRules.class - JACT (NotCovered, Total): 310, 691
+REGULAR CLASS: io/helidon/webserver/HashRequestHeaders.class - JACT (NotCovered, Total): 112, 265
+REGULAR CLASS: io/helidon/webserver/NotFoundException.class - JACT (NotCovered, Total): 6, 11
+REGULAR CLASS: io/helidon/webserver/ByteBufRequestChunk$DataChunkHoldingQueue.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: io/helidon/webserver/HandlerRoute.class - JACT (NotCovered, Total): 56, 171
+REGULAR CLASS: io/helidon/webserver/ServerResponseSubscription$Unbounded.class - JACT (NotCovered, Total): 4, 18
+ABSTRACT CLASS: io/helidon/webserver/WebTracingConfig.class - JACT (NotCovered, Total): 31, 114
+REGULAR CLASS: io/helidon/webserver/ExperimentalConfiguration$Builder.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: io/helidon/webserver/WebServer$Builder.class - JACT (NotCovered, Total): 408, 507
+REGULAR CLASS: io/helidon/webserver/WebTracingConfig$Builder$1.class - JACT (NotCovered, Total): 0, 18
+ABSTRACT CLASS: io/helidon/webserver/Response.class - JACT (NotCovered, Total): 199, 386
+REGULAR CLASS: io/helidon/webserver/PathTracingConfig$Builder$1.class - JACT (NotCovered, Total): 9, 33
+REGULAR CLASS: io/helidon/webserver/RequestRouting$RoutedRequest.class - JACT (NotCovered, Total): 204, 398
+REGULAR CLASS: io/helidon/webserver/ServerResponseSubscription$WatermarkLinear.class - JACT (NotCovered, Total): 18, 59
+REGULAR CLASS: io/helidon/webserver/HtmlEncoder.class - JACT (NotCovered, Total): 25, 53
+REGULAR CLASS: io/helidon/webserver/Request$MessageBodyEventListener.class - JACT (NotCovered, Total): 106, 112
+INTERFACE: io/helidon/webserver/ServerConfiguration.class - JACT (NotCovered, Total): 25, 53
+REGULAR CLASS: io/helidon/webserver/NettyChannel.class - JACT (NotCovered, Total): 87, 163
+REGULAR CLASS: io/helidon/webserver/Route$1$1.class - JACT (NotCovered, Total): 11, 24
+REGULAR CLASS: io/helidon/webserver/RouteList.class - JACT (NotCovered, Total): 119, 169
+REGULAR CLASS: io/helidon/webserver/PathPattern$PositiveResult.class - JACT (NotCovered, Total): 60, 88
+ENUM: io/helidon/webserver/BackpressureStrategy.class - JACT (NotCovered, Total): 17, 87
+REGULAR CLASS: io/helidon/webserver/NettyInitializer.class - JACT (NotCovered, Total): 0, 20
+REGULAR CLASS: io/helidon/webserver/ServerBasicConfig.class - JACT (NotCovered, Total): 66, 167
+REGULAR CLASS: io/helidon/webserver/HttpException.class - JACT (NotCovered, Total): 19, 29
+REGULAR CLASS: io/helidon/webserver/PathPattern$1.class - JACT (NotCovered, Total): 6, 11
+ENUM: io/helidon/webserver/ClientAuthentication.class - JACT (NotCovered, Total): 3, 48
+INTERFACE: io/helidon/webserver/Routing.class - JACT (NotCovered, Total): 7, 11
+REGULAR CLASS: io/helidon/webserver/PathHelper.class - JACT (NotCovered, Total): 91, 97
+REGULAR CLASS: io/helidon/webserver/NettyWebServer.class - JACT (NotCovered, Total): 441, 1048
+REGULAR CLASS: io/helidon/webserver/WebTracingConfig$TracingConfigHandler.class - JACT (NotCovered, Total): 5, 32
+REGULAR CLASS: io/helidon/webserver/RequestRouting.class - JACT (NotCovered, Total): 17, 133
+ENUM: io/helidon/webserver/HashResponseHeaders$CompletionSupport$State.class - JACT (NotCovered, Total): 0, 34
+ABSTRACT CLASS: io/helidon/webserver/Request.class - JACT (NotCovered, Total): 462, 569
+REGULAR CLASS: io/helidon/webserver/Route$1.class - JACT (NotCovered, Total): 0, 13
+INTERFACE: io/helidon/webserver/WebServer.class - JACT (NotCovered, Total): 86, 98
+REGULAR CLASS: io/helidon/webserver/ForwardingHandler.class - JACT (NotCovered, Total): 916, 1394
+REGULAR CLASS: io/helidon/webserver/RequestContext.class - JACT (NotCovered, Total): 58, 119
+REGULAR CLASS: io/helidon/webserver/WebServerTls$Builder.class - JACT (NotCovered, Total): 381, 413
+REGULAR CLASS: io/helidon/webserver/WebTracingConfig$RequestSpanHandler.class - JACT (NotCovered, Total): 216, 250
+REGULAR CLASS: io/helidon/webserver/RequestRouting$Crawler$Item.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/helidon/webserver/WebServerTls.class - JACT (NotCovered, Total): 19, 61
+REGULAR CLASS: io/helidon/webserver/BareResponseImpl.class - JACT (NotCovered, Total): 493, 1167
+INTERFACE: io/helidon/webserver/PathTracingConfig.class - JACT (NotCovered, Total): 5, 9
+REGULAR CLASS: io/helidon/webserver/DirectHandlers.class - JACT (NotCovered, Total): 6, 19
+REGULAR CLASS: io/helidon/webserver/RequestRouting$RoutedResponse.class - JACT (NotCovered, Total): 16, 56
+REGULAR CLASS: io/helidon/webserver/PathPattern$RegexpPathMatcher.class - JACT (NotCovered, Total): 64, 122
+REGULAR CLASS: io/helidon/webserver/RequestRouting$Crawler.class - JACT (NotCovered, Total): 68, 164
+REGULAR CLASS: io/helidon/webserver/Response$MessageBodyEventListener.class - JACT (NotCovered, Total): 47, 102
+REGULAR CLASS: io/helidon/webserver/Routing$Builder.class - JACT (NotCovered, Total): 291, 342
+REGULAR CLASS: io/helidon/webserver/RouteListRoutingRules$Aggregation.class - JACT (NotCovered, Total): 55, 90
+ENUM: io/helidon/webserver/DirectHandler$EventType.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/helidon/webserver/NettyWebServer$NioTransport.class - JACT (NotCovered, Total): 6, 55
+REGULAR CLASS: io/helidon/webserver/ReferenceHoldingQueue.class - JACT (NotCovered, Total): 57, 81
+REGULAR CLASS: io/helidon/common/reactive/SingleFromPublisher$SingleSubscriber.class - JACT (NotCovered, Total): 25, 77
+REGULAR CLASS: io/helidon/common/reactive/SingleFlatMapMulti$FlatMapSubscriber.class - JACT (NotCovered, Total): 42, 110
+INTERFACE: io/helidon/common/reactive/Single.class - JACT (NotCovered, Total): 475, 539
+REGULAR CLASS: io/helidon/common/reactive/SingleFromCompletionStage.class - JACT (NotCovered, Total): 11, 27
+REGULAR CLASS: io/helidon/common/reactive/BufferedEmittingPublisher.class - JACT (NotCovered, Total): 194, 431
+INTERFACE: io/helidon/common/reactive/Awaitable.class - JACT (NotCovered, Total): 30, 43
+REGULAR CLASS: io/helidon/common/reactive/SingleJust.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/helidon/common/reactive/MultiTappedPublisher$Builder.class - JACT (NotCovered, Total): 34, 59
+REGULAR CLASS: io/helidon/common/reactive/DeferredScalarSubscription.class - JACT (NotCovered, Total): 85, 138
+REGULAR CLASS: io/helidon/common/reactive/BufferedEmittingPublisher$1.class - JACT (NotCovered, Total): 28, 76
+ENUM: io/helidon/common/reactive/SubscriptionHelper.class - JACT (NotCovered, Total): 123, 231
+REGULAR CLASS: io/helidon/common/reactive/SingleSubscription.class - JACT (NotCovered, Total): 14, 47
+REGULAR CLASS: io/helidon/common/reactive/SingleToFuture.class - JACT (NotCovered, Total): 62, 111
+REGULAR CLASS: io/helidon/common/reactive/SingleEmpty.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: io/helidon/common/reactive/SingleFlatMapMulti$FlatMapSubscriber$InnerSubscriber.class - JACT (NotCovered, Total): 11, 36
+REGULAR CLASS: io/helidon/common/reactive/CompletionAwaitable.class - JACT (NotCovered, Total): 574, 653
+REGULAR CLASS: io/helidon/common/reactive/SingleTappedPublisher$Builder.class - JACT (NotCovered, Total): 24, 59
+REGULAR CLASS: io/helidon/common/reactive/MultiFromPublisher.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/helidon/common/reactive/MultiFromCompletionStage$AtomicBiConsumer.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/helidon/common/reactive/EmptySubscription.class - JACT (NotCovered, Total): 1, 10
+REGULAR CLASS: io/helidon/common/reactive/MultiFromCompletionStage$CompletionStageSubscription.class - JACT (NotCovered, Total): 30, 52
+REGULAR CLASS: io/helidon/common/reactive/SingleFlatMapMulti.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: io/helidon/common/reactive/FunctionalSubscriber.class - JACT (NotCovered, Total): 38, 76
+REGULAR CLASS: io/helidon/common/reactive/MultiTappedPublisher.class - JACT (NotCovered, Total): 160, 200
+REGULAR CLASS: io/helidon/common/reactive/SingleFromPublisher.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: io/helidon/common/reactive/SingleTappedPublisher.class - JACT (NotCovered, Total): 160, 200
+REGULAR CLASS: io/helidon/common/reactive/BiConsumerChain.class - JACT (NotCovered, Total): 77, 81
+ABSTRACT CLASS: io/helidon/common/reactive/CompletionSingle.class - JACT (NotCovered, Total): 10, 49
+INTERFACE: io/helidon/common/reactive/Multi.class - JACT (NotCovered, Total): 712, 772
+REGULAR CLASS: io/helidon/common/reactive/MultiFromCompletionStage.class - JACT (NotCovered, Total): 16, 39
+INTERFACE: io/helidon/common/mapper/Mapper.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: io/helidon/common/HelidonFeatures$Node.class - JACT (NotCovered, Total): 3, 22
+ENUM: io/helidon/common/SerializationConfig$Action.class - JACT (NotCovered, Total): 0, 44
+INTERFACE: io/helidon/common/Builder.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/helidon/common/GenericType.class - JACT (NotCovered, Total): 31, 86
+REGULAR CLASS: io/helidon/common/FeatureDescriptor$Builder.class - JACT (NotCovered, Total): 23, 123
+ENUM: io/helidon/common/SerializationConfig$TraceOption.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/helidon/common/SerializationConfig$ConfigOptions.class - JACT (NotCovered, Total): 72, 103
+ENUM: io/helidon/common/HelidonFlavor.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/helidon/common/LazyListImpl.class - JACT (NotCovered, Total): 224, 251
+REGULAR CLASS: io/helidon/common/FeatureDescriptor.class - JACT (NotCovered, Total): 85, 159
+REGULAR CLASS: io/helidon/common/HelidonFeatures.class - JACT (NotCovered, Total): 244, 581
+REGULAR CLASS: io/helidon/common/SerializationConfig.class - JACT (NotCovered, Total): 233, 318
+REGULAR CLASS: io/helidon/common/LazyValueImpl.class - JACT (NotCovered, Total): 60, 129
+INTERFACE: io/helidon/common/LazyList.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/helidon/common/NativeImageHelper.class - JACT (NotCovered, Total): 13, 27
+REGULAR CLASS: io/helidon/common/GenericTypeUtil.class - JACT (NotCovered, Total): 137, 143
+INTERFACE: io/helidon/common/LazyValue.class - JACT (NotCovered, Total): 5, 10
+REGULAR CLASS: io/helidon/common/SerializationConfig$Builder.class - JACT (NotCovered, Total): 157, 241
+REGULAR CLASS: io/helidon/common/LazyListImpl$1.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: io/helidon/common/FeatureCatalog.class - JACT (NotCovered, Total): 12, 2347
+REGULAR CLASS: io/helidon/common/http/HashParameters.class - JACT (NotCovered, Total): 539, 698
+REGULAR CLASS: io/helidon/common/http/ReadOnlyParameters.class - JACT (NotCovered, Total): 45, 150
+REGULAR CLASS: io/helidon/common/http/Ascii.class - JACT (NotCovered, Total): 76, 101
+REGULAR CLASS: io/helidon/common/http/UriComponent.class - JACT (NotCovered, Total): 110, 121
+ABSTRACT CLASS: io/helidon/common/http/CharMatcher.class - JACT (NotCovered, Total): 148, 224
+REGULAR CLASS: io/helidon/common/http/CharMatcher$AnyOf.class - JACT (NotCovered, Total): 55, 75
+INTERFACE: io/helidon/common/http/DataChunk.class - JACT (NotCovered, Total): 133, 231
+ENUM: io/helidon/common/http/Http$ResponseStatus$Family.class - JACT (NotCovered, Total): 2, 80
+REGULAR CLASS: io/helidon/common/http/ByteBufferDataChunk.class - JACT (NotCovered, Total): 10, 78
+REGULAR CLASS: io/helidon/common/http/Utils.class - JACT (NotCovered, Total): 121, 193
+ENUM: io/helidon/common/http/Http$Status.class - JACT (NotCovered, Total): 11, 527
+ENUM: io/helidon/common/http/Http$Method.class - JACT (NotCovered, Total): 0, 84
+REGULAR CLASS: io/helidon/common/http/MediaType$Builder.class - JACT (NotCovered, Total): 9, 61
+REGULAR CLASS: io/helidon/common/http/Preconditions.class - JACT (NotCovered, Total): 197, 209
+REGULAR CLASS: io/helidon/common/http/Tokenizer.class - JACT (NotCovered, Total): 64, 190
+REGULAR CLASS: io/helidon/common/http/CharMatcher$JavaIsoControl.class - JACT (NotCovered, Total): 5, 22
+REGULAR CLASS: io/helidon/common/http/MediaType.class - JACT (NotCovered, Total): 133, 857
+INTERFACE: io/helidon/common/http/Http$RequestMethod.class - JACT (NotCovered, Total): 20, 70
+ABSTRACT CLASS: io/helidon/common/http/CharMatcher$NamedFastMatcher.class - JACT (NotCovered, Total): 3, 11
+REGULAR CLASS: io/helidon/common/http/Http$ResponseStatus$1.class - JACT (NotCovered, Total): 58, 73
+ENUM: io/helidon/common/http/Http$Version.class - JACT (NotCovered, Total): 6, 81
+ABSTRACT CLASS: io/helidon/common/http/CharMatcher$FastMatcher.class - JACT (NotCovered, Total): 0, 8
+INTERFACE: io/helidon/common/http/Headers.class - JACT (NotCovered, Total): 24, 34
+REGULAR CLASS: io/helidon/common/http/Http$DateTime.class - JACT (NotCovered, Total): 14, 246
+REGULAR CLASS: io/helidon/common/http/CharMatcher$NegatedFastMatcher.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: io/helidon/common/http/CharMatcher$Negated.class - JACT (NotCovered, Total): 41, 58
+INTERFACE: io/helidon/common/http/Http$ResponseStatus.class - JACT (NotCovered, Total): 4, 39
+REGULAR CLASS: io/helidon/common/http/CharMatcher$And.class - JACT (NotCovered, Total): 29, 56
+REGULAR CLASS: io/helidon/common/http/CharMatcher$Ascii.class - JACT (NotCovered, Total): 1, 16
+REGULAR CLASS: io/helidon/common/http/CharMatcher$IsNot.class - JACT (NotCovered, Total): 43, 56
+REGULAR CLASS: io/helidon/media/common/FormParamsBodyWriter.class - JACT (NotCovered, Total): 28, 69
+INTERFACE: io/helidon/media/common/spi/MediaSupportProvider.class - JACT (NotCovered, Total): 0, 2
+REGULAR CLASS: io/helidon/media/common/FormParamsBodyReader.class - JACT (NotCovered, Total): 127, 152
+REGULAR CLASS: io/helidon/media/common/MessageBodyReaderContext.class - JACT (NotCovered, Total): 232, 341
+REGULAR CLASS: io/helidon/media/common/ThrowableBodyWriter.class - JACT (NotCovered, Total): 24, 49
+REGULAR CLASS: io/helidon/media/common/MediaContext$Builder$1.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: io/helidon/media/common/MessageBodyWriterContext.class - JACT (NotCovered, Total): 349, 602
+REGULAR CLASS: io/helidon/media/common/ByteChannelBodyWriter.class - JACT (NotCovered, Total): 22, 41
+REGULAR CLASS: io/helidon/media/common/MediaContext.class - JACT (NotCovered, Total): 10, 32
+REGULAR CLASS: io/helidon/media/common/InputStreamBodyReader.class - JACT (NotCovered, Total): 19, 32
+REGULAR CLASS: io/helidon/media/common/PathBodyWriter.class - JACT (NotCovered, Total): 7, 18
+REGULAR CLASS: io/helidon/media/common/MessageBodyContext$EventImpl.class - JACT (NotCovered, Total): 6, 21
+REGULAR CLASS: io/helidon/media/common/MediaContext$Builder$2.class - JACT (NotCovered, Total): 5, 19
+REGULAR CLASS: io/helidon/media/common/ContentWriters.class - JACT (NotCovered, Total): 112, 125
+REGULAR CLASS: io/helidon/media/common/MessageBodyOperators$ParentedIterator.class - JACT (NotCovered, Total): 32, 99
+REGULAR CLASS: io/helidon/media/common/MediaContext$Builder.class - JACT (NotCovered, Total): 170, 317
+REGULAR CLASS: io/helidon/media/common/MessageBodyContext$EventingPublisher.class - JACT (NotCovered, Total): 0, 19
+ENUM: io/helidon/media/common/MessageBodyOperator$PredicateResult.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: io/helidon/media/common/CharSequenceBodyWriter$CharSequenceToChunks.class - JACT (NotCovered, Total): 0, 11
+ENUM: io/helidon/media/common/MessageBodyContext$EventType.class - JACT (NotCovered, Total): 0, 84
+REGULAR CLASS: io/helidon/media/common/FileBodyWriter.class - JACT (NotCovered, Total): 7, 18
+INTERFACE: io/helidon/media/common/MediaSupport.class - JACT (NotCovered, Total): 6, 41
+REGULAR CLASS: io/helidon/media/common/DefaultMediaSupport$Builder.class - JACT (NotCovered, Total): 12, 32
+ABSTRACT CLASS: io/helidon/media/common/MessageBodyContext.class - JACT (NotCovered, Total): 49, 147
+REGULAR CLASS: io/helidon/media/common/MessageBodyContext$EventingSubscriber.class - JACT (NotCovered, Total): 25, 75
+REGULAR CLASS: io/helidon/media/common/MediaContext$DefaultsProvider.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: io/helidon/media/common/MessageBodyReadableContent.class - JACT (NotCovered, Total): 105, 131
+REGULAR CLASS: io/helidon/media/common/CharSequenceBodyStreamWriter.class - JACT (NotCovered, Total): 26, 33
+REGULAR CLASS: io/helidon/media/common/CharSequenceBodyWriter.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: io/helidon/media/common/StringBodyReader.class - JACT (NotCovered, Total): 9, 16
+REGULAR CLASS: io/helidon/media/common/ByteChannelBodyWriter$ByteChannelToChunks.class - JACT (NotCovered, Total): 26, 32
+REGULAR CLASS: io/helidon/media/common/DefaultMediaSupport.class - JACT (NotCovered, Total): 16, 69
+REGULAR CLASS: io/helidon/media/common/MessageBodyOperators.class - JACT (NotCovered, Total): 20, 136
+REGULAR CLASS: io/helidon/common/configurable/LruCache$Builder.class - JACT (NotCovered, Total): 9, 25
+INTERFACE: io/helidon/common/configurable/AllowList.class - JACT (NotCovered, Total): 5, 9
+REGULAR CLASS: io/helidon/common/configurable/AllowList$Builder.class - JACT (NotCovered, Total): 215, 254
+REGULAR CLASS: io/helidon/common/configurable/AllowList$Builder$AllowListImpl.class - JACT (NotCovered, Total): 105, 118
+REGULAR CLASS: io/helidon/common/configurable/LruCache.class - JACT (NotCovered, Total): 156, 188
+REGULAR CLASS: io/helidon/logging/common/HelidonMdc.class - JACT (NotCovered, Total): 33, 51
+REGULAR CLASS: io/opentracing/util/GlobalTracer.class - JACT (NotCovered, Total): 124, 138
+REGULAR CLASS: io/helidon/tracing/config/TracingConfig$RootTracingConfig.class - JACT (NotCovered, Total): 10, 20
+ABSTRACT CLASS: io/helidon/tracing/config/TracingConfig.class - JACT (NotCovered, Total): 39, 64
+REGULAR CLASS: io/helidon/tracing/config/TracingConfig$Builder.class - JACT (NotCovered, Total): 40, 70
+REGULAR CLASS: io/helidon/tracing/config/TracingConfig$1.class - JACT (NotCovered, Total): 43, 53
+ABSTRACT CLASS: io/helidon/tracing/config/Traceable.class - JACT (NotCovered, Total): 8, 17
+ABSTRACT CLASS: io/netty/handler/codec/http/HttpObjectEncoder.class - JACT (NotCovered, Total): 641, 1116
+REGULAR CLASS: io/netty/handler/codec/http/HttpMethod$EnumNameMap.class - JACT (NotCovered, Total): 29, 103
+REGULAR CLASS: io/netty/handler/codec/http/HttpHeaderValues.class - JACT (NotCovered, Total): 0, 163
+REGULAR CLASS: io/netty/handler/codec/http/HttpUtil.class - JACT (NotCovered, Total): 474, 677
+ABSTRACT CLASS: io/netty/handler/codec/http/DefaultHttpMessage.class - JACT (NotCovered, Total): 77, 108
+ABSTRACT CLASS: io/netty/handler/codec/http/HttpContentDecoder.class - JACT (NotCovered, Total): 244, 387
+REGULAR CLASS: io/netty/handler/codec/http/HttpRequestDecoder.class - JACT (NotCovered, Total): 48, 76
+ABSTRACT CLASS: io/netty/handler/codec/http/HttpObjectDecoder.class - JACT (NotCovered, Total): 562, 1416
+REGULAR CLASS: io/netty/handler/codec/http/HttpObjectDecoder$LineParser.class - JACT (NotCovered, Total): 18, 57
+REGULAR CLASS: io/netty/handler/codec/http/HttpResponseEncoder.class - JACT (NotCovered, Total): 54, 111
+REGULAR CLASS: io/netty/handler/codec/http/HttpClientCodec.class - JACT (NotCovered, Total): 102, 160
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpObject.class - JACT (NotCovered, Total): 29, 45
+INTERFACE: io/netty/handler/codec/http/LastHttpContent.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpContent.class - JACT (NotCovered, Total): 65, 94
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpResponse.class - JACT (NotCovered, Total): 77, 106
+REGULAR CLASS: io/netty/handler/codec/http/HttpHeadersEncoder.class - JACT (NotCovered, Total): 0, 71
+ENUM: io/netty/handler/codec/http/HttpStatusClass$1.class - JACT (NotCovered, Total): 10, 19
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpHeaders.class - JACT (NotCovered, Total): 205, 363
+REGULAR CLASS: io/netty/handler/codec/http/DefaultLastHttpContent.class - JACT (NotCovered, Total): 123, 150
+REGULAR CLASS: io/netty/handler/codec/http/HttpClientCodec$Encoder.class - JACT (NotCovered, Total): 17, 47
+REGULAR CLASS: io/netty/handler/codec/http/HttpResponseStatus.class - JACT (NotCovered, Total): 274, 654
+ENUM: io/netty/handler/codec/http/HttpStatusClass.class - JACT (NotCovered, Total): 62, 191
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpHeaders$1.class - JACT (NotCovered, Total): 39, 54
+REGULAR CLASS: io/netty/handler/codec/http/HttpHeaderValidationUtil$BitSet128.class - JACT (NotCovered, Total): 4, 110
+REGULAR CLASS: io/netty/handler/codec/http/HttpClientCodec$Decoder.class - JACT (NotCovered, Total): 110, 177
+REGULAR CLASS: io/netty/handler/codec/http/DefaultLastHttpContent$TrailingHttpHeaders.class - JACT (NotCovered, Total): 1, 14
+REGULAR CLASS: io/netty/handler/codec/http/HttpRequestEncoder.class - JACT (NotCovered, Total): 47, 104
+REGULAR CLASS: io/netty/handler/codec/http/HttpVersion.class - JACT (NotCovered, Total): 157, 322
+REGULAR CLASS: io/netty/handler/codec/http/HttpMethod.class - JACT (NotCovered, Total): 26, 226
+REGULAR CLASS: io/netty/handler/codec/http/EmptyHttpHeaders$InstanceInitializer.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/netty/handler/codec/http/HttpMessageDecoderResult.class - JACT (NotCovered, Total): 12, 22
+REGULAR CLASS: io/netty/handler/codec/http/DefaultLastHttpContent$TrailingHttpHeaders$1.class - JACT (NotCovered, Total): 28, 31
+REGULAR CLASS: io/netty/handler/codec/http/HttpResponseDecoder.class - JACT (NotCovered, Total): 48, 83
+REGULAR CLASS: io/netty/handler/codec/http/EmptyHttpHeaders.class - JACT (NotCovered, Total): 82, 93
+REGULAR CLASS: io/netty/handler/codec/http/HttpMethod$EnumNameMap$Node.class - JACT (NotCovered, Total): 0, 9
+ENUM: io/netty/handler/codec/http/HttpObjectDecoder$State.class - JACT (NotCovered, Total): 0, 114
+REGULAR CLASS: io/netty/handler/codec/http/HttpHeaderNames.class - JACT (NotCovered, Total): 0, 253
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpHeaders$HeaderValueValidator.class - JACT (NotCovered, Total): 21, 33
+REGULAR CLASS: io/netty/handler/codec/http/HttpObjectDecoder$HeaderParser.class - JACT (NotCovered, Total): 24, 116
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpRequest.class - JACT (NotCovered, Total): 98, 139
+REGULAR CLASS: io/netty/handler/codec/http/DefaultHttpHeaders$HeaderValueConverter.class - JACT (NotCovered, Total): 9, 29
+ABSTRACT CLASS: io/netty/handler/codec/http/HttpHeaders.class - JACT (NotCovered, Total): 679, 732
+REGULAR CLASS: io/netty/handler/codec/http/LastHttpContent$1.class - JACT (NotCovered, Total): 33, 44
+REGULAR CLASS: io/netty/handler/codec/http/HttpHeaderValidationUtil.class - JACT (NotCovered, Total): 82, 318
+REGULAR CLASS: io/netty/util/ResourceLeakDetector$TraceRecord$1.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/netty/util/internal/ThreadExecutorMap$2.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$9.class - JACT (NotCovered, Total): 3, 16
+REGULAR CLASS: io/netty/util/internal/PlatformDependent$Mpsc.class - JACT (NotCovered, Total): 25, 59
+ENUM: io/netty/util/internal/logging/InternalLogLevel.class - JACT (NotCovered, Total): 0, 54
+ABSTRACT CLASS: io/netty/util/concurrent/AbstractEventExecutor.class - JACT (NotCovered, Total): 95, 129
+REGULAR CLASS: io/netty/util/concurrent/DefaultEventExecutorChooserFactory$PowerOfTwoEventExecutorChooser.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/netty/util/ResourceLeakDetectorFactory$DefaultResourceLeakDetectorFactory.class - JACT (NotCovered, Total): 202, 233
+REGULAR CLASS: io/netty/util/internal/DefaultPriorityQueue.class - JACT (NotCovered, Total): 273, 507
+REGULAR CLASS: io/netty/util/internal/SocketUtils$5.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$6.class - JACT (NotCovered, Total): 38, 81
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$5.class - JACT (NotCovered, Total): 8, 37
+REGULAR CLASS: io/netty/util/internal/PlatformDependent$1.class - JACT (NotCovered, Total): 1, 4
+REGULAR CLASS: io/netty/util/concurrent/DefaultPromise$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/AttributeKey.class - JACT (NotCovered, Total): 15, 30
+REGULAR CLASS: io/netty/util/DefaultAttributeMap.class - JACT (NotCovered, Total): 106, 308
+REGULAR CLASS: io/netty/util/internal/PlatformDependent$2.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$1.class - JACT (NotCovered, Total): 14, 31
+ABSTRACT CLASS: io/netty/util/internal/logging/InternalLoggerFactory.class - JACT (NotCovered, Total): 44, 103
+REGULAR CLASS: io/netty/util/Recycler$DefaultHandle.class - JACT (NotCovered, Total): 14, 61
+REGULAR CLASS: io/netty/util/concurrent/PromiseTask.class - JACT (NotCovered, Total): 115, 175
+REGULAR CLASS: io/netty/util/concurrent/PromiseTask$SentinelRunnable.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: io/netty/util/concurrent/FailedFuture.class - JACT (NotCovered, Total): 17, 27
+ABSTRACT CLASS: io/netty/util/ResourceLeakDetectorFactory.class - JACT (NotCovered, Total): 16, 34
+REGULAR CLASS: io/netty/util/ResourceLeakDetector$TraceRecord.class - JACT (NotCovered, Total): 100, 132
+REGULAR CLASS: io/netty/util/AttributeKey$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/ReflectionUtil.class - JACT (NotCovered, Total): 17, 31
+REGULAR CLASS: io/netty/util/internal/CleanerJava9$1.class - JACT (NotCovered, Total): 9, 39
+REGULAR CLASS: io/netty/util/internal/SocketUtils$11.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/NetUtilInitializations$NetworkIfaceAndInetAddress.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/netty/util/concurrent/GlobalEventExecutor$1.class - JACT (NotCovered, Total): 0, 7
+ABSTRACT CLASS: io/netty/util/concurrent/MultithreadEventExecutorGroup.class - JACT (NotCovered, Total): 207, 347
+ABSTRACT CLASS: io/netty/util/concurrent/AbstractEventExecutorGroup.class - JACT (NotCovered, Total): 85, 88
+REGULAR CLASS: io/netty/util/concurrent/AbstractScheduledEventExecutor$2.class - JACT (NotCovered, Total): 1, 4
+REGULAR CLASS: io/netty/util/AsciiString$2.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: io/netty/util/AsciiString$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/SocketUtils$13.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/SocketUtils$7.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/PlatformDependent$Mpsc$1.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/netty/util/internal/PlatformDependent.class - JACT (NotCovered, Total): 1631, 2498
+REGULAR CLASS: io/netty/util/internal/logging/JdkLoggerFactory.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: io/netty/util/internal/SocketUtils.class - JACT (NotCovered, Total): 107, 159
+REGULAR CLASS: io/netty/util/ResourceLeakDetector$DefaultResourceLeak.class - JACT (NotCovered, Total): 240, 315
+REGULAR CLASS: io/netty/util/NetUtil.class - JACT (NotCovered, Total): 2119, 2163
+REGULAR CLASS: io/netty/util/concurrent/PromiseCombiner$1.class - JACT (NotCovered, Total): 23, 69
+REGULAR CLASS: io/netty/util/concurrent/MultithreadEventExecutorGroup$1.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: io/netty/util/ResourceLeakDetector.class - JACT (NotCovered, Total): 174, 405
+REGULAR CLASS: io/netty/util/internal/TypeParameterMatcher$1.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: io/netty/util/internal/ObjectPool.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: io/netty/util/internal/AppendableCharSequence.class - JACT (NotCovered, Total): 245, 314
+REGULAR CLASS: io/netty/util/internal/SystemPropertyUtil.class - JACT (NotCovered, Total): 120, 179
+REGULAR CLASS: io/netty/util/internal/SocketUtils$8.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/EmptyArrays.class - JACT (NotCovered, Total): 0, 37
+REGULAR CLASS: io/netty/util/concurrent/DefaultPromise.class - JACT (NotCovered, Total): 901, 1297
+REGULAR CLASS: io/netty/util/concurrent/GlobalEventExecutor$2.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/netty/util/concurrent/FastThreadLocalRunnable.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/netty/util/internal/LongAdderCounter.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: io/netty/util/internal/MacAddressUtil.class - JACT (NotCovered, Total): 194, 439
+REGULAR CLASS: io/netty/util/concurrent/DefaultPromise$StacklessCancellationException.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/concurrent/DefaultEventExecutorChooserFactory$GenericEventExecutorChooser.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: io/netty/util/Recycler$2.class - JACT (NotCovered, Total): 0, 32
+ENUM: io/netty/util/ResourceLeakDetector$Level.class - JACT (NotCovered, Total): 2, 78
+REGULAR CLASS: io/netty/util/internal/InternalThreadLocalMap.class - JACT (NotCovered, Total): 294, 529
+ABSTRACT CLASS: io/netty/util/internal/TypeParameterMatcher.class - JACT (NotCovered, Total): 99, 238
+REGULAR CLASS: io/netty/util/internal/ThrowableUtil.class - JACT (NotCovered, Total): 61, 78
+REGULAR CLASS: io/netty/util/internal/PlatformDependent$4.class - JACT (NotCovered, Total): 91, 114
+REGULAR CLASS: io/netty/util/internal/logging/Slf4JLoggerFactory.class - JACT (NotCovered, Total): 33, 46
+REGULAR CLASS: io/netty/util/internal/ObjectPool$RecyclerObjectPool$1.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: io/netty/util/concurrent/FastThreadLocal.class - JACT (NotCovered, Total): 76, 260
+REGULAR CLASS: io/netty/util/concurrent/GlobalEventExecutor$TaskRunner.class - JACT (NotCovered, Total): 18, 72
+REGULAR CLASS: io/netty/util/concurrent/GlobalEventExecutor.class - JACT (NotCovered, Total): 60, 252
+ABSTRACT CLASS: io/netty/util/Recycler.class - JACT (NotCovered, Total): 89, 201
+REGULAR CLASS: io/netty/util/internal/ObjectUtil.class - JACT (NotCovered, Total): 461, 497
+REGULAR CLASS: io/netty/util/internal/ObjectPool$RecyclerObjectPool.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$7.class - JACT (NotCovered, Total): 6, 23
+ABSTRACT CLASS: io/netty/util/concurrent/AbstractFuture.class - JACT (NotCovered, Total): 50, 53
+REGULAR CLASS: io/netty/util/concurrent/DefaultPromise$CauseHolder.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/netty/util/ReferenceCountUtil.class - JACT (NotCovered, Total): 114, 150
+REGULAR CLASS: io/netty/util/internal/StringUtil.class - JACT (NotCovered, Total): 951, 1118
+REGULAR CLASS: io/netty/util/concurrent/PromiseCombiner.class - JACT (NotCovered, Total): 56, 123
+REGULAR CLASS: io/netty/util/Recycler$LocalPool.class - JACT (NotCovered, Total): 9, 74
+REGULAR CLASS: io/netty/util/internal/ThreadExecutorMap.class - JACT (NotCovered, Total): 0, 55
+ABSTRACT CLASS: io/netty/util/internal/logging/AbstractInternalLogger.class - JACT (NotCovered, Total): 265, 285
+ABSTRACT CLASS: io/netty/util/concurrent/SingleThreadEventExecutor.class - JACT (NotCovered, Total): 750, 1258
+REGULAR CLASS: io/netty/util/concurrent/SingleThreadEventExecutor$1.class - JACT (NotCovered, Total): 1, 4
+ABSTRACT CLASS: io/netty/util/concurrent/AbstractScheduledEventExecutor.class - JACT (NotCovered, Total): 278, 465
+REGULAR CLASS: io/netty/util/concurrent/DefaultFutureListeners.class - JACT (NotCovered, Total): 74, 139
+REGULAR CLASS: io/netty/util/CharsetUtil.class - JACT (NotCovered, Total): 77, 164
+REGULAR CLASS: io/netty/util/NetUtilInitializations.class - JACT (NotCovered, Total): 71, 269
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$4.class - JACT (NotCovered, Total): 8, 39
+REGULAR CLASS: io/netty/util/internal/CleanerJava9.class - JACT (NotCovered, Total): 50, 90
+REGULAR CLASS: io/netty/util/internal/logging/Log4JLoggerFactory.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$3.class - JACT (NotCovered, Total): 6, 22
+ABSTRACT CLASS: io/netty/util/ConstantPool.class - JACT (NotCovered, Total): 52, 119
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0.class - JACT (NotCovered, Total): 1038, 1655
+REGULAR CLASS: io/netty/util/concurrent/DefaultEventExecutorChooserFactory.class - JACT (NotCovered, Total): 0, 29
+REGULAR CLASS: io/netty/util/Signal.class - JACT (NotCovered, Total): 55, 78
+REGULAR CLASS: io/netty/util/NetUtil$SoMaxConnAction.class - JACT (NotCovered, Total): 66, 100
+REGULAR CLASS: io/netty/util/internal/ThreadExecutorMap$1.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/netty/util/internal/UnpaddedInternalThreadLocalMap.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/netty/util/internal/MathUtil.class - JACT (NotCovered, Total): 36, 79
+REGULAR CLASS: io/netty/util/NettyRuntime.class - JACT (NotCovered, Total): 4, 12
+ABSTRACT CLASS: io/netty/util/AbstractConstant.class - JACT (NotCovered, Total): 48, 72
+REGULAR CLASS: io/netty/util/concurrent/DefaultThreadFactory.class - JACT (NotCovered, Total): 57, 199
+REGULAR CLASS: io/netty/util/concurrent/RejectedExecutionHandlers.class - JACT (NotCovered, Total): 14, 21
+REGULAR CLASS: io/netty/util/concurrent/AbstractScheduledEventExecutor$1.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: io/netty/util/DefaultAttributeMap$DefaultAttribute.class - JACT (NotCovered, Total): 71, 94
+REGULAR CLASS: io/netty/util/Signal$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/util/internal/ThreadExecutorMap$3.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/netty/util/internal/TypeParameterMatcher$ReflectiveMatcher.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: io/netty/util/internal/PromiseNotificationUtil.class - JACT (NotCovered, Total): 78, 83
+REGULAR CLASS: io/netty/util/internal/logging/Log4J2LoggerFactory.class - JACT (NotCovered, Total): 6, 14
+ABSTRACT CLASS: io/netty/util/internal/ReferenceCountUpdater.class - JACT (NotCovered, Total): 208, 355
+REGULAR CLASS: io/netty/util/Recycler$1.class - JACT (NotCovered, Total): 2, 6
+ABSTRACT CLASS: io/netty/util/concurrent/CompleteFuture.class - JACT (NotCovered, Total): 88, 94
+REGULAR CLASS: io/netty/util/concurrent/SingleThreadEventExecutor$4.class - JACT (NotCovered, Total): 55, 145
+REGULAR CLASS: io/netty/util/concurrent/ScheduledFutureTask.class - JACT (NotCovered, Total): 151, 326
+REGULAR CLASS: io/netty/util/concurrent/ThreadPerTaskExecutor.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/netty/util/NettyRuntime$AvailableProcessorsHolder.class - JACT (NotCovered, Total): 22, 50
+REGULAR CLASS: io/netty/util/AsciiString.class - JACT (NotCovered, Total): 2874, 3229
+REGULAR CLASS: io/netty/util/internal/SocketUtils$3.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: io/netty/util/internal/PlatformDependent0$2.class - JACT (NotCovered, Total): 6, 42
+REGULAR CLASS: io/netty/util/internal/logging/JdkLogger.class - JACT (NotCovered, Total): 471, 531
+REGULAR CLASS: io/netty/util/Signal$SignalConstant.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/netty/util/concurrent/RejectedExecutionHandlers$1.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: io/netty/util/concurrent/FastThreadLocalThread.class - JACT (NotCovered, Total): 92, 119
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueue.class - JACT (NotCovered, Total): 577, 756
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueueColdProducerFields.class - JACT (NotCovered, Total): 7, 24
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueueConsumerFields.class - JACT (NotCovered, Total): 0, 22
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueuePad1.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueuePad2.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueuePad3.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueueProducerFields.class - JACT (NotCovered, Total): 6, 24
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/ConcurrentCircularArrayQueue.class - JACT (NotCovered, Total): 34, 59
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/ConcurrentCircularArrayQueueL0Pad.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/queues/IndexedQueueSizeUtil.class - JACT (NotCovered, Total): 21, 62
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/queues/LinkedArrayQueueUtil.class - JACT (NotCovered, Total): 16, 26
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueue.class - JACT (NotCovered, Total): 445, 519
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueConsumerIndexField.class - JACT (NotCovered, Total): 0, 23
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueL1Pad.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueL2Pad.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueL3Pad.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueMidPad.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueProducerIndexField.class - JACT (NotCovered, Total): 0, 19
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscArrayQueueProducerLimitField.class - JACT (NotCovered, Total): 6, 22
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscChunkedArrayQueue.class - JACT (NotCovered, Total): 30, 35
+ABSTRACT CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscChunkedArrayQueueColdProducerFields.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/queues/MpscUnboundedArrayQueue.class - JACT (NotCovered, Total): 18, 22
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/util/Pow2.class - JACT (NotCovered, Total): 70, 86
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/util/RangeUtil.class - JACT (NotCovered, Total): 112, 122
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/util/UnsafeAccess.class - JACT (NotCovered, Total): 37, 105
+REGULAR CLASS: io/netty/util/internal/shaded/org/jctools/util/UnsafeRefArrayAccess.class - JACT (NotCovered, Total): 32, 77
+ABSTRACT CLASS: io/netty/bootstrap/AbstractBootstrap.class - JACT (NotCovered, Total): 295, 563
+REGULAR CLASS: io/netty/channel/ChannelOutboundBuffer$Entry$1.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/netty/channel/AbstractChannel$AbstractUnsafe$2.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: io/netty/channel/ChannelFutureListener$1.class - JACT (NotCovered, Total): 5, 8
+ABSTRACT CLASS: io/netty/channel/AbstractChannel$AbstractUnsafe.class - JACT (NotCovered, Total): 515, 882
+REGULAR CLASS: io/netty/channel/DefaultChannelId.class - JACT (NotCovered, Total): 349, 664
+ABSTRACT CLASS: io/netty/channel/nio/AbstractNioMessageChannel.class - JACT (NotCovered, Total): 109, 130
+REGULAR CLASS: io/netty/channel/nio/AbstractNioChannel$AbstractNioUnsafe$2.class - JACT (NotCovered, Total): 24, 34
+ABSTRACT CLASS: io/netty/channel/ChannelInitializer.class - JACT (NotCovered, Total): 50, 110
+REGULAR CLASS: io/netty/channel/ServerChannelRecvByteBufAllocator$1.class - JACT (NotCovered, Total): 2, 9
+REGULAR CLASS: io/netty/channel/DefaultSelectStrategyFactory.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: io/netty/channel/DefaultMaxMessagesRecvByteBufAllocator$MaxMessageHandle$1.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/netty/channel/ChannelOutboundBuffer$Entry.class - JACT (NotCovered, Total): 41, 111
+ABSTRACT CLASS: io/netty/channel/nio/AbstractNioChannel.class - JACT (NotCovered, Total): 163, 323
+REGULAR CLASS: io/netty/channel/nio/NioEventLoop.class - JACT (NotCovered, Total): 650, 1111
+ABSTRACT CLASS: io/netty/channel/SingleThreadEventLoop.class - JACT (NotCovered, Total): 114, 172
+REGULAR CLASS: io/netty/channel/CombinedChannelDuplexHandler.class - JACT (NotCovered, Total): 376, 631
+REGULAR CLASS: io/netty/channel/AbstractChannel$CloseFuture.class - JACT (NotCovered, Total): 16, 23
+REGULAR CLASS: io/netty/channel/ChannelOutboundBuffer$1.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/netty/channel/nio/AbstractNioChannel$1.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor$1.class - JACT (NotCovered, Total): 7, 16
+REGULAR CLASS: io/netty/channel/WriteBufferWaterMark.class - JACT (NotCovered, Total): 49, 74
+REGULAR CLASS: io/netty/channel/nio/AbstractNioMessageChannel$NioMessageUnsafe.class - JACT (NotCovered, Total): 36, 134
+REGULAR CLASS: io/netty/channel/nio/NioEventLoopGroup.class - JACT (NotCovered, Total): 175, 253
+REGULAR CLASS: io/netty/channel/socket/DefaultSocketChannelConfig.class - JACT (NotCovered, Total): 358, 460
+REGULAR CLASS: io/netty/channel/socket/DefaultServerSocketChannelConfig.class - JACT (NotCovered, Total): 158, 227
+REGULAR CLASS: io/netty/channel/socket/nio/NioServerSocketChannel.class - JACT (NotCovered, Total): 55, 182
+REGULAR CLASS: io/netty/channel/socket/nio/NioSocketChannel.class - JACT (NotCovered, Total): 313, 554
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrapConfig.class - JACT (NotCovered, Total): 136, 140
+REGULAR CLASS: io/netty/channel/ChannelInboundHandlerAdapter.class - JACT (NotCovered, Total): 23, 42
+ABSTRACT CLASS: io/netty/channel/ChannelHandlerAdapter.class - JACT (NotCovered, Total): 21, 56
+REGULAR CLASS: io/netty/bootstrap/AbstractBootstrap$1.class - JACT (NotCovered, Total): 6, 42
+REGULAR CLASS: io/netty/channel/DefaultChannelConfig.class - JACT (NotCovered, Total): 469, 695
+REGULAR CLASS: io/netty/channel/ChannelOption.class - JACT (NotCovered, Total): 15, 135
+REGULAR CLASS: io/netty/channel/AdaptiveRecvByteBufAllocator.class - JACT (NotCovered, Total): 48, 211
+REGULAR CLASS: io/netty/channel/socket/nio/NioSocketChannel$NioSocketChannelConfig.class - JACT (NotCovered, Total): 50, 96
+ABSTRACT CLASS: io/netty/bootstrap/AbstractBootstrapConfig.class - JACT (NotCovered, Total): 131, 152
+REGULAR CLASS: io/netty/channel/nio/NioEventLoop$3.class - JACT (NotCovered, Total): 3, 14
+REGULAR CLASS: io/netty/channel/nio/NioEventLoop$SelectorTuple.class - JACT (NotCovered, Total): 9, 18
+REGULAR CLASS: io/netty/bootstrap/AbstractBootstrap$PendingRegistrationPromise.class - JACT (NotCovered, Total): 2, 16
+ABSTRACT CLASS: io/netty/channel/SimpleChannelInboundHandler.class - JACT (NotCovered, Total): 21, 64
+REGULAR CLASS: io/netty/channel/ChannelFutureListener$3.class - JACT (NotCovered, Total): 11, 14
+ABSTRACT CLASS: io/netty/channel/DefaultChannelPipeline$PendingHandlerCallback.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/netty/channel/DefaultMessageSizeEstimator$HandleImpl.class - JACT (NotCovered, Total): 16, 29
+REGULAR CLASS: io/netty/channel/DefaultChannelPipeline$TailContext.class - JACT (NotCovered, Total): 22, 51
+REGULAR CLASS: io/netty/channel/nio/AbstractNioByteChannel$1.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: io/netty/channel/nio/NioEventLoop$4.class - JACT (NotCovered, Total): 36, 94
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor$2.class - JACT (NotCovered, Total): 5, 18
+REGULAR CLASS: io/netty/channel/DefaultChannelPipeline$PendingHandlerAddedTask.class - JACT (NotCovered, Total): 41, 62
+REGULAR CLASS: io/netty/channel/ChannelOutboundHandlerAdapter.class - JACT (NotCovered, Total): 27, 45
+REGULAR CLASS: io/netty/channel/DefaultChannelPipeline$HeadContext.class - JACT (NotCovered, Total): 26, 130
+ABSTRACT CLASS: io/netty/channel/CompleteChannelFuture.class - JACT (NotCovered, Total): 50, 60
+REGULAR CLASS: io/netty/channel/AdaptiveRecvByteBufAllocator$HandleImpl.class - JACT (NotCovered, Total): 0, 101
+REGULAR CLASS: io/netty/channel/DefaultSelectStrategy.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: io/netty/channel/socket/nio/NioSocketChannel$NioSocketChannelUnsafe.class - JACT (NotCovered, Total): 6, 26
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$1$1.class - JACT (NotCovered, Total): 0, 39
+REGULAR CLASS: io/netty/channel/ChannelDuplexHandler.class - JACT (NotCovered, Total): 38, 45
+REGULAR CLASS: io/netty/channel/nio/SelectedSelectionKeySet.class - JACT (NotCovered, Total): 31, 78
+REGULAR CLASS: io/netty/channel/nio/AbstractNioChannel$AbstractNioUnsafe$1.class - JACT (NotCovered, Total): 32, 41
+ABSTRACT CLASS: io/netty/channel/DefaultMaxMessagesRecvByteBufAllocator.class - JACT (NotCovered, Total): 8, 42
+REGULAR CLASS: io/netty/channel/ReflectiveChannelFactory.class - JACT (NotCovered, Total): 50, 71
+REGULAR CLASS: io/netty/channel/ChannelOutboundBuffer.class - JACT (NotCovered, Total): 521, 1040
+REGULAR CLASS: io/netty/channel/AbstractChannel$AbstractUnsafe$1.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/netty/channel/StacklessClosedChannelException.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/channel/nio/SelectedSelectionKeySetSelector.class - JACT (NotCovered, Total): 12, 55
+ABSTRACT CLASS: io/netty/channel/nio/AbstractNioByteChannel.class - JACT (NotCovered, Total): 174, 280
+REGULAR CLASS: io/netty/channel/SucceededChannelFuture.class - JACT (NotCovered, Total): 4, 9
+REGULAR CLASS: io/netty/channel/ChannelHandlerMask$1.class - JACT (NotCovered, Total): 0, 8
+ABSTRACT CLASS: io/netty/channel/AbstractChannel.class - JACT (NotCovered, Total): 295, 463
+REGULAR CLASS: io/netty/channel/ChannelHandlerMask$2.class - JACT (NotCovered, Total): 26, 52
+REGULAR CLASS: io/netty/channel/DefaultMessageSizeEstimator.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: io/netty/channel/DefaultChannelPipeline.class - JACT (NotCovered, Total): 1213, 1816
+ABSTRACT CLASS: io/netty/channel/nio/AbstractNioChannel$AbstractNioUnsafe.class - JACT (NotCovered, Total): 61, 235
+REGULAR CLASS: io/netty/channel/socket/nio/SelectorProviderUtil.class - JACT (NotCovered, Total): 44, 57
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$1.class - JACT (NotCovered, Total): 0, 47
+REGULAR CLASS: io/netty/channel/VoidChannelPromise$1.class - JACT (NotCovered, Total): 10, 16
+ABSTRACT CLASS: io/netty/channel/AbstractChannelHandlerContext.class - JACT (NotCovered, Total): 883, 1804
+REGULAR CLASS: io/netty/channel/ChannelMetadata.class - JACT (NotCovered, Total): 8, 24
+REGULAR CLASS: io/netty/bootstrap/AbstractBootstrap$2.class - JACT (NotCovered, Total): 7, 38
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap.class - JACT (NotCovered, Total): 143, 246
+REGULAR CLASS: io/netty/channel/DefaultChannelHandlerContext.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: io/netty/channel/AbstractChannel$AbstractUnsafe$7.class - JACT (NotCovered, Total): 5, 53
+REGULAR CLASS: io/netty/channel/DefaultChannelPipeline$1.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: io/netty/channel/nio/AbstractNioByteChannel$NioByteUnsafe.class - JACT (NotCovered, Total): 73, 188
+REGULAR CLASS: io/netty/channel/VoidChannelPromise.class - JACT (NotCovered, Total): 111, 135
+REGULAR CLASS: io/netty/channel/ServerChannelRecvByteBufAllocator.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/channel/CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.class - JACT (NotCovered, Total): 163, 277
+REGULAR CLASS: io/netty/channel/ChannelOption$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/channel/ChannelFutureListener$2.class - JACT (NotCovered, Total): 4, 11
+INTERFACE: io/netty/channel/ChannelFutureListener.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: io/netty/channel/ChannelHandlerMask.class - JACT (NotCovered, Total): 3, 355
+ABSTRACT CLASS: io/netty/channel/DefaultMaxMessagesRecvByteBufAllocator$MaxMessageHandle.class - JACT (NotCovered, Total): 5, 106
+REGULAR CLASS: io/netty/channel/socket/nio/NioServerSocketChannel$NioServerSocketChannelConfig.class - JACT (NotCovered, Total): 36, 65
+REGULAR CLASS: io/netty/bootstrap/ServerBootstrap$ServerBootstrapAcceptor.class - JACT (NotCovered, Total): 38, 96
+REGULAR CLASS: io/netty/channel/AbstractChannelHandlerContext$11.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: io/netty/channel/CombinedChannelDuplexHandler$1.class - JACT (NotCovered, Total): 40, 48
+ABSTRACT CLASS: io/netty/channel/MultithreadEventLoopGroup.class - JACT (NotCovered, Total): 39, 78
+REGULAR CLASS: io/netty/channel/DefaultChannelPromise.class - JACT (NotCovered, Total): 66, 117
+REGULAR CLASS: io/netty/channel/nio/NioEventLoop$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils.class - JACT (NotCovered, Total): 61, 93
+REGULAR CLASS: io/netty/handler/codec/DefaultHeaders.class - JACT (NotCovered, Total): 1953, 2411
+ABSTRACT CLASS: io/netty/handler/codec/ByteToMessageDecoder.class - JACT (NotCovered, Total): 276, 551
+ABSTRACT CLASS: io/netty/handler/codec/HeadersUtils$DelegatingStringSet.class - JACT (NotCovered, Total): 19, 39
+REGULAR CLASS: io/netty/handler/codec/CharSequenceValueConverter.class - JACT (NotCovered, Total): 141, 154
+REGULAR CLASS: io/netty/handler/codec/CodecOutputList$CodecOutputLists.class - JACT (NotCovered, Total): 11, 113
+REGULAR CLASS: io/netty/handler/codec/DefaultHeaders$HeaderEntry.class - JACT (NotCovered, Total): 98, 163
+REGULAR CLASS: io/netty/handler/codec/CodecOutputList$2.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: io/netty/handler/codec/DefaultHeaders$HeaderIterator.class - JACT (NotCovered, Total): 9, 45
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils$1.class - JACT (NotCovered, Total): 1, 22
+REGULAR CLASS: io/netty/handler/codec/CodecOutputList$1.class - JACT (NotCovered, Total): 1, 4
+ABSTRACT CLASS: io/netty/handler/codec/MessageToMessageDecoder.class - JACT (NotCovered, Total): 20, 70
+REGULAR CLASS: io/netty/handler/codec/ByteToMessageDecoder$1.class - JACT (NotCovered, Total): 49, 66
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils$StringEntry.class - JACT (NotCovered, Total): 14, 50
+REGULAR CLASS: io/netty/handler/codec/compression/Brotli.class - JACT (NotCovered, Total): 23, 47
+REGULAR CLASS: io/netty/handler/codec/ByteToMessageDecoder$2.class - JACT (NotCovered, Total): 70, 73
+REGULAR CLASS: io/netty/handler/codec/DecoderResult.class - JACT (NotCovered, Total): 67, 101
+REGULAR CLASS: io/netty/handler/codec/DefaultHeadersImpl.class - JACT (NotCovered, Total): 6, 14
+REGULAR CLASS: io/netty/handler/codec/CodecOutputList.class - JACT (NotCovered, Total): 170, 260
+ABSTRACT CLASS: io/netty/handler/codec/MessageToMessageEncoder.class - JACT (NotCovered, Total): 145, 154
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils$StringIterator.class - JACT (NotCovered, Total): 5, 25
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils$StringEntryIterator.class - JACT (NotCovered, Total): 4, 22
+REGULAR CLASS: io/netty/handler/codec/HeadersUtils$CharSequenceDelegatingStringSet.class - JACT (NotCovered, Total): 10, 14
+REGULAR CLASS: io/netty/handler/codec/DefaultHeaders$ValueIterator.class - JACT (NotCovered, Total): 32, 108
+ENUM: io/netty/handler/ssl/ClientAuth.class - JACT (NotCovered, Total): 0, 34
+ENUM: io/netty/handler/logging/ByteBufFormat.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/netty/handler/logging/LoggingHandler.class - JACT (NotCovered, Total): 677, 832
+ENUM: io/netty/handler/logging/LogLevel.class - JACT (NotCovered, Total): 0, 70
+INTERFACE: io/smallrye/openapi/api/OpenApiConfig.class - JACT (NotCovered, Total): 179, 199
+REGULAR CLASS: io/smallrye/openapi/api/util/FilterUtil.class - JACT (NotCovered, Total): 502, 781
+REGULAR CLASS: io/smallrye/openapi/api/util/MergeUtil.class - JACT (NotCovered, Total): 505, 725
+REGULAR CLASS: io/smallrye/openapi/api/util/ConfigUtil.class - JACT (NotCovered, Total): 126, 322
+REGULAR CLASS: io/smallrye/openapi/api/OpenApiDocument.class - JACT (NotCovered, Total): 71, 298
+REGULAR CLASS: io/smallrye/openapi/api/models/tags/TagImpl.class - JACT (NotCovered, Total): 9, 24
+REGULAR CLASS: io/smallrye/openapi/api/models/PathItemImpl.class - JACT (NotCovered, Total): 113, 232
+REGULAR CLASS: io/smallrye/openapi/api/models/media/MediaTypeImpl.class - JACT (NotCovered, Total): 46, 67
+REGULAR CLASS: io/smallrye/openapi/api/models/media/SchemaImpl.class - JACT (NotCovered, Total): 279, 521
+REGULAR CLASS: io/smallrye/openapi/api/models/media/XMLImpl.class - JACT (NotCovered, Total): 27, 38
+REGULAR CLASS: io/smallrye/openapi/api/models/media/ContentImpl.class - JACT (NotCovered, Total): 39, 59
+REGULAR CLASS: io/smallrye/openapi/api/models/ComponentsImpl.class - JACT (NotCovered, Total): 171, 228
+ABSTRACT CLASS: io/smallrye/openapi/api/models/ExtensibleImpl.class - JACT (NotCovered, Total): 5, 28
+REGULAR CLASS: io/smallrye/openapi/api/models/servers/ServerImpl.class - JACT (NotCovered, Total): 42, 62
+REGULAR CLASS: io/smallrye/openapi/api/models/ExternalDocumentationImpl.class - JACT (NotCovered, Total): 6, 17
+REGULAR CLASS: io/smallrye/openapi/api/models/info/LicenseImpl.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: io/smallrye/openapi/api/models/info/InfoImpl.class - JACT (NotCovered, Total): 0, 45
+REGULAR CLASS: io/smallrye/openapi/api/models/info/ContactImpl.class - JACT (NotCovered, Total): 17, 24
+REGULAR CLASS: io/smallrye/openapi/api/models/headers/HeaderImpl.class - JACT (NotCovered, Total): 67, 116
+REGULAR CLASS: io/smallrye/openapi/api/models/PathsImpl.class - JACT (NotCovered, Total): 24, 59
+INTERFACE: io/smallrye/openapi/api/models/MapModel.class - JACT (NotCovered, Total): 87, 125
+REGULAR CLASS: io/smallrye/openapi/api/models/security/SecuritySchemeImpl.class - JACT (NotCovered, Total): 62, 81
+REGULAR CLASS: io/smallrye/openapi/api/models/security/OAuthFlowsImpl.class - JACT (NotCovered, Total): 24, 31
+REGULAR CLASS: io/smallrye/openapi/api/models/security/OAuthFlowImpl.class - JACT (NotCovered, Total): 58, 69
+REGULAR CLASS: io/smallrye/openapi/api/models/security/SecurityRequirementImpl.class - JACT (NotCovered, Total): 48, 51
+REGULAR CLASS: io/smallrye/openapi/api/models/security/ScopesImpl.class - JACT (NotCovered, Total): 78, 81
+REGULAR CLASS: io/smallrye/openapi/api/models/responses/APIResponseImpl.class - JACT (NotCovered, Total): 65, 96
+REGULAR CLASS: io/smallrye/openapi/api/models/responses/APIResponsesImpl.class - JACT (NotCovered, Total): 51, 75
+REGULAR CLASS: io/smallrye/openapi/api/models/OperationImpl.class - JACT (NotCovered, Total): 87, 172
+REGULAR CLASS: io/smallrye/openapi/api/models/OpenAPIImpl.class - JACT (NotCovered, Total): 83, 160
+REGULAR CLASS: io/smallrye/openapi/api/models/parameters/RequestBodyImpl.class - JACT (NotCovered, Total): 12, 46
+REGULAR CLASS: io/smallrye/openapi/api/models/parameters/ParameterImpl.class - JACT (NotCovered, Total): 107, 181
+REGULAR CLASS: io/smallrye/openapi/runtime/OpenApiProcessor.class - JACT (NotCovered, Total): 210, 253
+ENUM: io/smallrye/openapi/runtime/io/Format.class - JACT (NotCovered, Total): 3, 37
+REGULAR CLASS: io/smallrye/openapi/runtime/util/ModelUtil.class - JACT (NotCovered, Total): 469, 539
+REGULAR CLASS: io/smallrye/openapi/runtime/OpenApiStaticFile.class - JACT (NotCovered, Total): 18, 33
+REGULAR CLASS: io/helidon/media/jsonp/JsonpBodyReader.class - JACT (NotCovered, Total): 16, 25
+REGULAR CLASS: io/helidon/media/jsonp/JsonpEsBodyStreamWriter.class - JACT (NotCovered, Total): 85, 105
+REGULAR CLASS: io/helidon/media/jsonp/JsonpBodyWriter.class - JACT (NotCovered, Total): 18, 28
+REGULAR CLASS: io/helidon/media/jsonp/JsonpSupport$Builder.class - JACT (NotCovered, Total): 75, 81
+REGULAR CLASS: io/helidon/media/jsonp/JsonpBodyStreamWriter.class - JACT (NotCovered, Total): 67, 86
+REGULAR CLASS: io/helidon/media/jsonp/JsonpNdBodyStreamWriter.class - JACT (NotCovered, Total): 98, 111
+REGULAR CLASS: io/helidon/media/jsonp/JsonpSupport.class - JACT (NotCovered, Total): 74, 139
+REGULAR CLASS: io/helidon/common/serviceloader/HelidonServiceLoader$Builder$ServiceWithPriority.class - JACT (NotCovered, Total): 13, 53
+REGULAR CLASS: io/helidon/common/serviceloader/HelidonServiceLoader.class - JACT (NotCovered, Total): 6, 41
+REGULAR CLASS: io/helidon/common/serviceloader/Priorities.class - JACT (NotCovered, Total): 43, 68
+REGULAR CLASS: io/helidon/common/serviceloader/HelidonServiceLoader$Builder.class - JACT (NotCovered, Total): 98, 262
+ENUM: org/yaml/snakeyaml/DumperOptions$FlowStyle.class - JACT (NotCovered, Total): 26, 71
+ENUM: org/yaml/snakeyaml/DumperOptions$LineBreak.class - JACT (NotCovered, Total): 38, 86
+ENUM: org/yaml/snakeyaml/DumperOptions$NonPrintableStyle.class - JACT (NotCovered, Total): 0, 24
+ENUM: org/yaml/snakeyaml/DumperOptions$ScalarStyle.class - JACT (NotCovered, Total): 33, 113
+REGULAR CLASS: org/yaml/snakeyaml/DumperOptions.class - JACT (NotCovered, Total): 106, 279
+REGULAR CLASS: org/yaml/snakeyaml/LoaderOptions.class - JACT (NotCovered, Total): 42, 84
+REGULAR CLASS: org/yaml/snakeyaml/TypeDescription.class - JACT (NotCovered, Total): 274, 560
+REGULAR CLASS: org/yaml/snakeyaml/Yaml.class - JACT (NotCovered, Total): 406, 656
+REGULAR CLASS: org/yaml/snakeyaml/comments/CommentEventsCollector$1.class - JACT (NotCovered, Total): 16, 29
+REGULAR CLASS: org/yaml/snakeyaml/comments/CommentEventsCollector.class - JACT (NotCovered, Total): 54, 140
+ENUM: org/yaml/snakeyaml/comments/CommentType.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/yaml/snakeyaml/composer/Composer.class - JACT (NotCovered, Total): 247, 728
+ABSTRACT CLASS: org/yaml/snakeyaml/constructor/AbstractConstruct.class - JACT (NotCovered, Total): 29, 32
+ABSTRACT CLASS: org/yaml/snakeyaml/constructor/BaseConstructor.class - JACT (NotCovered, Total): 504, 1014
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructMapping.class - JACT (NotCovered, Total): 167, 392
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructScalar.class - JACT (NotCovered, Total): 490, 603
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructSequence.class - JACT (NotCovered, Total): 325, 352
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructYamlObject.class - JACT (NotCovered, Total): 59, 89
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor.class - JACT (NotCovered, Total): 103, 220
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructUndefined.class - JACT (NotCovered, Total): 17, 20
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlBinary.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlBool.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlFloat.class - JACT (NotCovered, Total): 74, 130
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlInt.class - JACT (NotCovered, Total): 98, 158
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlMap.class - JACT (NotCovered, Total): 31, 48
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlNull.class - JACT (NotCovered, Total): 10, 16
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlOmap.class - JACT (NotCovered, Total): 121, 127
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlPairs.class - JACT (NotCovered, Total): 132, 138
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlSeq.class - JACT (NotCovered, Total): 29, 46
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlSet.class - JACT (NotCovered, Total): 53, 59
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlStr.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlTimestamp.class - JACT (NotCovered, Total): 85, 229
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor.class - JACT (NotCovered, Total): 310, 695
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectBlockMappingKey.class - JACT (NotCovered, Total): 23, 98
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectBlockMappingSimpleValue.class - JACT (NotCovered, Total): 37, 114
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectBlockSequenceItem.class - JACT (NotCovered, Total): 70, 166
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectDocumentEnd.class - JACT (NotCovered, Total): 24, 73
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectDocumentRoot.class - JACT (NotCovered, Total): 16, 55
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectDocumentStart.class - JACT (NotCovered, Total): 124, 220
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFirstBlockMappingKey.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFirstBlockSequenceItem.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFirstDocumentStart.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFirstFlowMappingKey.class - JACT (NotCovered, Total): 66, 138
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFirstFlowSequenceItem.class - JACT (NotCovered, Total): 55, 123
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFlowMappingKey.class - JACT (NotCovered, Total): 33, 168
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFlowMappingSimpleValue.class - JACT (NotCovered, Total): 0, 57
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectFlowSequenceItem.class - JACT (NotCovered, Total): 27, 164
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectNothing.class - JACT (NotCovered, Total): 14, 20
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter$ExpectStreamStart.class - JACT (NotCovered, Total): 14, 40
+REGULAR CLASS: org/yaml/snakeyaml/emitter/Emitter.class - JACT (NotCovered, Total): 1422, 3288
+REGULAR CLASS: org/yaml/snakeyaml/emitter/ScalarAnalysis.class - JACT (NotCovered, Total): 3, 45
+REGULAR CLASS: org/yaml/snakeyaml/error/Mark.class - JACT (NotCovered, Total): 78, 266
+REGULAR CLASS: org/yaml/snakeyaml/error/YAMLException.class - JACT (NotCovered, Total): 9, 13
+ABSTRACT CLASS: org/yaml/snakeyaml/events/CollectionEndEvent.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: org/yaml/snakeyaml/events/CollectionStartEvent.class - JACT (NotCovered, Total): 33, 67
+REGULAR CLASS: org/yaml/snakeyaml/events/DocumentEndEvent.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/yaml/snakeyaml/events/DocumentStartEvent.class - JACT (NotCovered, Total): 0, 25
+ENUM: org/yaml/snakeyaml/events/Event$ID.class - JACT (NotCovered, Total): 0, 114
+ABSTRACT CLASS: org/yaml/snakeyaml/events/Event.class - JACT (NotCovered, Total): 35, 58
+REGULAR CLASS: org/yaml/snakeyaml/events/ImplicitTuple.class - JACT (NotCovered, Total): 27, 42
+REGULAR CLASS: org/yaml/snakeyaml/events/MappingEndEvent.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/events/MappingStartEvent.class - JACT (NotCovered, Total): 10, 21
+ABSTRACT CLASS: org/yaml/snakeyaml/events/NodeEvent.class - JACT (NotCovered, Total): 10, 21
+REGULAR CLASS: org/yaml/snakeyaml/events/ScalarEvent.class - JACT (NotCovered, Total): 48, 92
+REGULAR CLASS: org/yaml/snakeyaml/events/SequenceEndEvent.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/events/SequenceStartEvent.class - JACT (NotCovered, Total): 10, 21
+REGULAR CLASS: org/yaml/snakeyaml/events/StreamEndEvent.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/events/StreamStartEvent.class - JACT (NotCovered, Total): 2, 7
+REGULAR CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/PercentEscaper.class - JACT (NotCovered, Total): 364, 506
+REGULAR CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/UnicodeEscaper$2.class - JACT (NotCovered, Total): 3, 6
+ABSTRACT CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/UnicodeEscaper.class - JACT (NotCovered, Total): 294, 302
+ENUM: org/yaml/snakeyaml/introspector/BeanAccess.class - JACT (NotCovered, Total): 0, 34
+ABSTRACT CLASS: org/yaml/snakeyaml/introspector/GenericProperty.class - JACT (NotCovered, Total): 118, 159
+REGULAR CLASS: org/yaml/snakeyaml/introspector/MethodProperty.class - JACT (NotCovered, Total): 119, 189
+ABSTRACT CLASS: org/yaml/snakeyaml/introspector/Property.class - JACT (NotCovered, Total): 18, 70
+REGULAR CLASS: org/yaml/snakeyaml/introspector/PropertySubstitute.class - JACT (NotCovered, Total): 304, 641
+REGULAR CLASS: org/yaml/snakeyaml/introspector/PropertyUtils.class - JACT (NotCovered, Total): 148, 403
+REGULAR CLASS: org/yaml/snakeyaml/nodes/AnchorNode.class - JACT (NotCovered, Total): 5, 17
+ABSTRACT CLASS: org/yaml/snakeyaml/nodes/CollectionNode.class - JACT (NotCovered, Total): 18, 40
+REGULAR CLASS: org/yaml/snakeyaml/nodes/MappingNode.class - JACT (NotCovered, Total): 116, 176
+ABSTRACT CLASS: org/yaml/snakeyaml/nodes/Node.class - JACT (NotCovered, Total): 24, 146
+ENUM: org/yaml/snakeyaml/nodes/NodeId.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/yaml/snakeyaml/nodes/NodeTuple.class - JACT (NotCovered, Total): 22, 41
+REGULAR CLASS: org/yaml/snakeyaml/nodes/ScalarNode.class - JACT (NotCovered, Total): 56, 100
+REGULAR CLASS: org/yaml/snakeyaml/nodes/SequenceNode.class - JACT (NotCovered, Total): 45, 90
+REGULAR CLASS: org/yaml/snakeyaml/nodes/Tag.class - JACT (NotCovered, Total): 63, 315
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingFirstKey.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingKey.class - JACT (NotCovered, Total): 62, 168
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingValue.class - JACT (NotCovered, Total): 77, 143
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockNode.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockSequenceEntryKey.class - JACT (NotCovered, Total): 46, 128
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockSequenceEntryValue.class - JACT (NotCovered, Total): 37, 90
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockSequenceFirstEntry.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseDocumentContent.class - JACT (NotCovered, Total): 38, 86
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseDocumentEnd.class - JACT (NotCovered, Total): 10, 58
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseDocumentStart.class - JACT (NotCovered, Total): 65, 210
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowMappingFirstKey.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowMappingKey.class - JACT (NotCovered, Total): 116, 267
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowMappingValue.class - JACT (NotCovered, Total): 37, 88
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowSequenceEntry.class - JACT (NotCovered, Total): 104, 242
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowSequenceFirstEntry.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseImplicitDocumentStart.class - JACT (NotCovered, Total): 18, 103
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseIndentlessSequenceEntryKey.class - JACT (NotCovered, Total): 18, 84
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseIndentlessSequenceEntryValue.class - JACT (NotCovered, Total): 37, 98
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseStreamStart.class - JACT (NotCovered, Total): 0, 32
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl.class - JACT (NotCovered, Total): 388, 873
+REGULAR CLASS: org/yaml/snakeyaml/parser/VersionTagsTuple.class - JACT (NotCovered, Total): 15, 30
+REGULAR CLASS: org/yaml/snakeyaml/reader/StreamReader.class - JACT (NotCovered, Total): 59, 424
+REGULAR CLASS: org/yaml/snakeyaml/representer/BaseRepresenter$1.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: org/yaml/snakeyaml/representer/BaseRepresenter.class - JACT (NotCovered, Total): 46, 368
+REGULAR CLASS: org/yaml/snakeyaml/representer/Representer$RepresentJavaBean.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: org/yaml/snakeyaml/representer/Representer.class - JACT (NotCovered, Total): 140, 463
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentArray.class - JACT (NotCovered, Total): 14, 20
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentBoolean.class - JACT (NotCovered, Total): 0, 21
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentByteArray.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentDate.class - JACT (NotCovered, Total): 88, 256
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentEnum.class - JACT (NotCovered, Total): 19, 25
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentIterator.class - JACT (NotCovered, Total): 18, 24
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentList.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentMap.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentNull.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentNumber.class - JACT (NotCovered, Total): 9, 70
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentPrimitiveArray.class - JACT (NotCovered, Total): 331, 337
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentSet.class - JACT (NotCovered, Total): 34, 40
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentString.class - JACT (NotCovered, Total): 31, 69
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentUuid.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter.class - JACT (NotCovered, Total): 20, 240
+REGULAR CLASS: org/yaml/snakeyaml/resolver/Resolver.class - JACT (NotCovered, Total): 20, 278
+REGULAR CLASS: org/yaml/snakeyaml/resolver/ResolverTuple.class - JACT (NotCovered, Total): 20, 41
+REGULAR CLASS: org/yaml/snakeyaml/scanner/Constant.class - JACT (NotCovered, Total): 12, 140
+REGULAR CLASS: org/yaml/snakeyaml/scanner/ScannerImpl.class - JACT (NotCovered, Total): 2648, 4110
+REGULAR CLASS: org/yaml/snakeyaml/scanner/SimpleKey.class - JACT (NotCovered, Total): 30, 69
+REGULAR CLASS: org/yaml/snakeyaml/serializer/NumberAnchorGenerator.class - JACT (NotCovered, Total): 32, 41
+REGULAR CLASS: org/yaml/snakeyaml/serializer/Serializer.class - JACT (NotCovered, Total): 110, 561
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockEntryToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockMappingStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockSequenceStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/CommentToken.class - JACT (NotCovered, Total): 8, 25
+REGULAR CLASS: org/yaml/snakeyaml/tokens/DocumentStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowEntryToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowMappingEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowMappingStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowSequenceEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowSequenceStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/KeyToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/ScalarToken.class - JACT (NotCovered, Total): 5, 40
+REGULAR CLASS: org/yaml/snakeyaml/tokens/StreamEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/StreamStartToken.class - JACT (NotCovered, Total): 2, 7
+ENUM: org/yaml/snakeyaml/tokens/Token$ID.class - JACT (NotCovered, Total): 3, 268
+ABSTRACT CLASS: org/yaml/snakeyaml/tokens/Token.class - JACT (NotCovered, Total): 5, 24
+REGULAR CLASS: org/yaml/snakeyaml/tokens/ValueToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/util/ArrayStack.class - JACT (NotCovered, Total): 4, 32
+REGULAR CLASS: org/yaml/snakeyaml/util/PlatformFeatureDetector.class - JACT (NotCovered, Total): 2, 28
+ABSTRACT CLASS: org/yaml/snakeyaml/util/UriEncoder.class - JACT (NotCovered, Total): 16, 36
+REGULAR CLASS: io/helidon/config/ConfigThreadFactory.class - JACT (NotCovered, Total): 31, 63
+REGULAR CLASS: io/helidon/config/BuilderImpl.class - JACT (NotCovered, Total): 282, 684
+REGULAR CLASS: io/helidon/config/MissingValueException.class - JACT (NotCovered, Total): 15, 18
+REGULAR CLASS: io/helidon/config/spi/SpiHelper$EmptyObjectNodeHolder.class - JACT (NotCovered, Total): 7, 11
+INTERFACE: io/helidon/config/spi/MergingStrategy.class - JACT (NotCovered, Total): 0, 4
+INTERFACE: io/helidon/config/spi/ConfigMapperProvider.class - JACT (NotCovered, Total): 0, 6
+INTERFACE: io/helidon/config/spi/ConfigNode$ObjectNode.class - JACT (NotCovered, Total): 6, 12
+INTERFACE: io/helidon/config/spi/ConfigNode$ValueNode.class - JACT (NotCovered, Total): 0, 5
+INTERFACE: io/helidon/config/spi/Source.class - JACT (NotCovered, Total): 4, 25
+INTERFACE: io/helidon/config/Config$Builder.class - JACT (NotCovered, Total): 29, 36
+REGULAR CLASS: io/helidon/config/ConfigMapperManager$MapperProviders.class - JACT (NotCovered, Total): 9, 74
+INTERFACE: io/helidon/config/ConfigMapperManager$Mapper.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: io/helidon/config/ClasspathConfigSource$Builder.class - JACT (NotCovered, Total): 31, 53
+REGULAR CLASS: io/helidon/config/ConfigMissingImpl.class - JACT (NotCovered, Total): 45, 71
+REGULAR CLASS: io/helidon/config/BuilderImpl$ConfigContextImpl.class - JACT (NotCovered, Total): 24, 70
+REGULAR CLASS: io/helidon/config/ConfigObjectImpl.class - JACT (NotCovered, Total): 8, 43
+ABSTRACT CLASS: io/helidon/config/MapConfigSource$MapBuilder.class - JACT (NotCovered, Total): 5, 40
+REGULAR CLASS: io/helidon/config/InMemoryConfigSource.class - JACT (NotCovered, Total): 14, 28
+REGULAR CLASS: io/helidon/config/ConfigMapperManager.class - JACT (NotCovered, Total): 97, 206
+REGULAR CLASS: io/helidon/config/OverrideSources$OverridingSourceHolder.class - JACT (NotCovered, Total): 7, 12
+ABSTRACT CLASS: io/helidon/config/ConfigValues$ConfigValueBase.class - JACT (NotCovered, Total): 19, 25
+REGULAR CLASS: io/helidon/config/ConfigFilters.class - JACT (NotCovered, Total): 7, 11
+REGULAR CLASS: io/helidon/config/ConfigListImpl.class - JACT (NotCovered, Total): 8, 45
+INTERFACE: io/helidon/config/ConfigValue.class - JACT (NotCovered, Total): 70, 91
+REGULAR CLASS: io/helidon/config/ListNodeImpl.class - JACT (NotCovered, Total): 177, 219
+REGULAR CLASS: io/helidon/config/BuilderImpl$InternalMapperProvider.class - JACT (NotCovered, Total): 4, 16
+REGULAR CLASS: io/helidon/config/BuilderImpl$HelidonMapperWrapper.class - JACT (NotCovered, Total): 6, 36
+REGULAR CLASS: io/helidon/config/InMemoryConfigSource$ParsableInMemory.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/helidon/config/InMemoryConfigSource$InMemory.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: io/helidon/config/ConfigFilters$ValueResolvingBuilder.class - JACT (NotCovered, Total): 23, 41
+REGULAR CLASS: io/helidon/config/OverrideSourceRuntime$OverrideReloader.class - JACT (NotCovered, Total): 10, 33
+REGULAR CLASS: io/helidon/config/FileConfigSource.class - JACT (NotCovered, Total): 67, 145
+REGULAR CLASS: io/helidon/config/FileConfigSource$Builder.class - JACT (NotCovered, Total): 38, 52
+REGULAR CLASS: io/helidon/config/ConfigValues$GenericConfigValueImpl.class - JACT (NotCovered, Total): 78, 97
+REGULAR CLASS: io/helidon/config/EnumMapperProvider.class - JACT (NotCovered, Total): 130, 140
+REGULAR CLASS: io/helidon/config/ConfigMappers.class - JACT (NotCovered, Total): 340, 675
+REGULAR CLASS: io/helidon/config/ValueResolvingFilter.class - JACT (NotCovered, Total): 82, 167
+REGULAR CLASS: io/helidon/config/ConfigKeyImpl.class - JACT (NotCovered, Total): 46, 217
+REGULAR CLASS: io/helidon/config/ConfigFactory.class - JACT (NotCovered, Total): 19, 193
+REGULAR CLASS: io/helidon/config/AbstractSource.class - JACT (NotCovered, Total): 7, 56
+REGULAR CLASS: io/helidon/config/FileSourceHelper.class - JACT (NotCovered, Total): 248, 315
+REGULAR CLASS: io/helidon/config/ConfigFactory$PrefixedKey.class - JACT (NotCovered, Total): 5, 56
+REGULAR CLASS: io/helidon/config/OverrideSources.class - JACT (NotCovered, Total): 26, 28
+REGULAR CLASS: io/helidon/config/ConfigSourceRuntimeImpl$NodeConfigSourceReloader.class - JACT (NotCovered, Total): 0, 26
+REGULAR CLASS: io/helidon/config/spi/ConfigContent$NodeContent$Builder.class - JACT (NotCovered, Total): 0, 16
+ENUM: io/helidon/config/spi/ConfigNode$NodeType.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/helidon/config/spi/ConfigContent$Builder.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: io/helidon/config/spi/ConfigParser$Content$Builder.class - JACT (NotCovered, Total): 20, 62
+INTERFACE: io/helidon/config/spi/ConfigParser$Content.class - JACT (NotCovered, Total): 10, 14
+INTERFACE: io/helidon/config/spi/OverrideSource.class - JACT (NotCovered, Total): 0, 2
+INTERFACE: io/helidon/config/spi/ConfigNode$ListNode$Builder.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/helidon/config/ConfigSources$EmptyConfigSourceHolder.class - JACT (NotCovered, Total): 7, 12
+INTERFACE: io/helidon/config/Config$Key.class - JACT (NotCovered, Total): 59, 67
+REGULAR CLASS: io/helidon/config/ConfigSourcesRuntime$RuntimeWithData.class - JACT (NotCovered, Total): 8, 23
+ABSTRACT CLASS: io/helidon/config/AbstractConfigSourceBuilder.class - JACT (NotCovered, Total): 67, 89
+REGULAR CLASS: io/helidon/config/ConfigLeafImpl.class - JACT (NotCovered, Total): 243, 268
+REGULAR CLASS: io/helidon/config/DeprecatedConfig.class - JACT (NotCovered, Total): 21, 39
+REGULAR CLASS: io/helidon/config/OverrideSources$EmptyOverrideSource.class - JACT (NotCovered, Total): 2, 6
+REGULAR CLASS: io/helidon/config/ConfigSources$SystemPropertiesConfigSource$Builder.class - JACT (NotCovered, Total): 2, 11
+REGULAR CLASS: io/helidon/config/MapConfigSource.class - JACT (NotCovered, Total): 27, 64
+ABSTRACT CLASS: io/helidon/config/ConfigExistingImpl.class - JACT (NotCovered, Total): 16, 68
+REGULAR CLASS: io/helidon/config/ConfigSources.class - JACT (NotCovered, Total): 97, 147
+INTERFACE: io/helidon/config/Config.class - JACT (NotCovered, Total): 28, 97
+REGULAR CLASS: io/helidon/config/OverrideSourceRuntime.class - JACT (NotCovered, Total): 166, 291
+ABSTRACT CLASS: io/helidon/config/AbstractNodeBuilderImpl.class - JACT (NotCovered, Total): 75, 206
+ABSTRACT CLASS: io/helidon/config/AbstractConfigImpl.class - JACT (NotCovered, Total): 70, 142
+REGULAR CLASS: io/helidon/config/ConfigSources$EnvironmentVariablesConfigSource.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/helidon/config/EnvironmentVariables.class - JACT (NotCovered, Total): 0, 81
+REGULAR CLASS: io/helidon/config/ConfigSources$EmptyConfigSourceHolder$1.class - JACT (NotCovered, Total): 4, 11
+REGULAR CLASS: io/helidon/config/BuilderImpl$EmptyConfigHolder.class - JACT (NotCovered, Total): 8, 24
+REGULAR CLASS: io/helidon/config/ConfigSourceRuntimeImpl.class - JACT (NotCovered, Total): 208, 440
+REGULAR CLASS: io/helidon/config/ProviderImpl.class - JACT (NotCovered, Total): 200, 417
+ABSTRACT CLASS: io/helidon/config/AbstractConfigSource.class - JACT (NotCovered, Total): 191, 233
+ABSTRACT CLASS: io/helidon/config/spi/ContentImpl.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: io/helidon/config/spi/ContentImpl$NodeContentImpl.class - JACT (NotCovered, Total): 0, 11
+INTERFACE: io/helidon/config/spi/ConfigSource.class - JACT (NotCovered, Total): 0, 3
+INTERFACE: io/helidon/config/spi/ConfigContent$NodeContent.class - JACT (NotCovered, Total): 0, 4
+INTERFACE: io/helidon/config/spi/ConfigParser.class - JACT (NotCovered, Total): 2, 6
+REGULAR CLASS: io/helidon/config/spi/ContentImpl$ParsableContentImpl.class - JACT (NotCovered, Total): 11, 37
+INTERFACE: io/helidon/config/spi/ParsableSource.class - JACT (NotCovered, Total): 2, 4
+REGULAR CLASS: io/helidon/config/spi/FallbackMergingStrategy.class - JACT (NotCovered, Total): 8, 64
+INTERFACE: io/helidon/config/spi/ConfigNode$ListNode.class - JACT (NotCovered, Total): 0, 6
+INTERFACE: io/helidon/config/spi/ConfigNode$ObjectNode$Builder.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: io/helidon/config/AbstractConfigImpl$NodeContextImpl.class - JACT (NotCovered, Total): 24, 30
+REGULAR CLASS: io/helidon/config/ClasspathConfigSource.class - JACT (NotCovered, Total): 168, 239
+REGULAR CLASS: io/helidon/config/AbstractNodeBuilderImpl$MergingKey.class - JACT (NotCovered, Total): 12, 69
+REGULAR CLASS: io/helidon/config/EnvironmentVariableAliases.class - JACT (NotCovered, Total): 6, 89
+REGULAR CLASS: io/helidon/config/ConfigUtils.class - JACT (NotCovered, Total): 58, 105
+REGULAR CLASS: io/helidon/config/PropertiesConfigParser.class - JACT (NotCovered, Total): 9, 32
+REGULAR CLASS: io/helidon/config/ConfigHelper.class - JACT (NotCovered, Total): 12, 143
+REGULAR CLASS: io/helidon/config/ConfigValues.class - JACT (NotCovered, Total): 100, 171
+REGULAR CLASS: io/helidon/config/MapConfigSource$Builder.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/helidon/config/ConfigSourceRuntimeImpl$ParsableConfigSourceReloader.class - JACT (NotCovered, Total): 28, 93
+ABSTRACT CLASS: io/helidon/config/ConfigComplexImpl.class - JACT (NotCovered, Total): 88, 109
+REGULAR CLASS: io/helidon/config/ListNodeBuilderImpl.class - JACT (NotCovered, Total): 124, 161
+REGULAR CLASS: io/helidon/config/ConfigSources$SystemPropertiesConfigSource.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: io/helidon/config/AbstractSourceBuilder.class - JACT (NotCovered, Total): 87, 111
+REGULAR CLASS: io/helidon/config/ConfigMapperManager$ProviderWrapper.class - JACT (NotCovered, Total): 18, 73
+REGULAR CLASS: io/helidon/config/ProviderImpl$ChainConfigFilter.class - JACT (NotCovered, Total): 10, 96
+REGULAR CLASS: io/helidon/config/ValueNodeImpl.class - JACT (NotCovered, Total): 100, 140
+REGULAR CLASS: io/helidon/config/FileSourceHelper$DataAndDigest.class - JACT (NotCovered, Total): 0, 41
+REGULAR CLASS: io/helidon/config/ObjectNodeImpl.class - JACT (NotCovered, Total): 98, 238
+ENUM: io/helidon/config/Config$Type.class - JACT (NotCovered, Total): 3, 69
+REGULAR CLASS: io/helidon/config/ObjectNodeBuilderImpl.class - JACT (NotCovered, Total): 20, 176
+REGULAR CLASS: io/helidon/config/ConfigSourcesRuntime.class - JACT (NotCovered, Total): 217, 350
+INTERFACE: io/helidon/common/media/type/spi/MediaTypeDetector.class - JACT (NotCovered, Total): 9, 45
+REGULAR CLASS: io/helidon/common/media/type/MediaTypes.class - JACT (NotCovered, Total): 46, 97
+REGULAR CLASS: io/helidon/common/media/type/BuiltInsDetector.class - JACT (NotCovered, Total): 10, 63
+REGULAR CLASS: io/helidon/common/media/type/CustomDetector.class - JACT (NotCovered, Total): 47, 76
+INTERFACE: org/eclipse/microprofile/openapi/models/responses/APIResponses.class - JACT (NotCovered, Total): 26, 36
+ENUM: org/eclipse/microprofile/openapi/models/security/SecurityScheme$Type.class - JACT (NotCovered, Total): 0, 60
+ENUM: org/eclipse/microprofile/openapi/models/security/SecurityScheme$In.class - JACT (NotCovered, Total): 0, 49
+ENUM: org/eclipse/microprofile/openapi/models/media/Schema$SchemaType.class - JACT (NotCovered, Total): 0, 82
+INTERFACE: org/eclipse/microprofile/openapi/models/media/Schema.class - JACT (NotCovered, Total): 196, 206
+INTERFACE: org/eclipse/microprofile/openapi/models/media/Content.class - JACT (NotCovered, Total): 13, 23
+ENUM: org/eclipse/microprofile/openapi/models/headers/Header$Style.class - JACT (NotCovered, Total): 0, 27
+ENUM: org/eclipse/microprofile/openapi/models/parameters/Parameter$In.class - JACT (NotCovered, Total): 0, 60
+INTERFACE: org/eclipse/microprofile/openapi/models/OpenAPI.class - JACT (NotCovered, Total): 25, 40
+INTERFACE: org/eclipse/microprofile/openapi/models/Paths.class - JACT (NotCovered, Total): 13, 23
+ENUM: org/eclipse/microprofile/openapi/models/PathItem$HttpMethod.class - JACT (NotCovered, Total): 0, 84
+INTERFACE: org/eclipse/microprofile/openapi/models/PathItem.class - JACT (NotCovered, Total): 66, 71
+INTERFACE: org/eclipse/microprofile/openapi/models/Operation.class - JACT (NotCovered, Total): 50, 60
+INTERFACE: org/eclipse/microprofile/openapi/OASFilter.class - JACT (NotCovered, Total): 20, 25
+REGULAR CLASS: org/eclipse/microprofile/openapi/OASFactory.class - JACT (NotCovered, Total): 112, 132
+ENUM: io/helidon/webserver/cors/CorsSupportHelper$CompareState.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/helidon/webserver/cors/RequestAdapterSe.class - JACT (NotCovered, Total): 31, 62
+REGULAR CLASS: io/helidon/webserver/cors/Loader$Basic.class - JACT (NotCovered, Total): 33, 119
+REGULAR CLASS: io/helidon/webserver/cors/CrossOriginConfig.class - JACT (NotCovered, Total): 49, 198
+REGULAR CLASS: io/helidon/webserver/cors/CorsSupport.class - JACT (NotCovered, Total): 47, 96
+ENUM: io/helidon/webserver/cors/CorsSupportHelper$RequestType.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: io/helidon/webserver/cors/LogHelper.class - JACT (NotCovered, Total): 264, 283
+REGULAR CLASS: io/helidon/webserver/cors/CorsSupportHelper.class - JACT (NotCovered, Total): 660, 1165
+REGULAR CLASS: io/helidon/webserver/cors/Aggregator$FixedCrossOriginConfigMatchable.class - JACT (NotCovered, Total): 15, 25
+ABSTRACT CLASS: io/helidon/webserver/cors/CorsSupportBase$Builder.class - JACT (NotCovered, Total): 118, 163
+REGULAR CLASS: io/helidon/webserver/cors/Aggregator$Builder.class - JACT (NotCovered, Total): 159, 204
+REGULAR CLASS: io/helidon/webserver/cors/CorsEnabledServiceHelper.class - JACT (NotCovered, Total): 16, 106
+REGULAR CLASS: io/helidon/webserver/cors/CorsSupport$Builder.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: io/helidon/webserver/cors/Aggregator.class - JACT (NotCovered, Total): 20, 108
+ABSTRACT CLASS: io/helidon/webserver/cors/CorsSupportBase.class - JACT (NotCovered, Total): 19, 52
+ABSTRACT CLASS: io/helidon/webserver/cors/Aggregator$CrossOriginConfigMatchable.class - JACT (NotCovered, Total): 4, 25
+REGULAR CLASS: io/helidon/webserver/cors/CrossOriginConfig$Builder.class - JACT (NotCovered, Total): 88, 139
+REGULAR CLASS: io/helidon/webserver/cors/LogHelper$MatcherChecks.class - JACT (NotCovered, Total): 62, 98
+REGULAR CLASS: io/helidon/webserver/cors/LogHelper$Headers.class - JACT (NotCovered, Total): 31, 77
+REGULAR CLASS: io/helidon/webserver/cors/CorsSupportHelper$Builder.class - JACT (NotCovered, Total): 30, 87
+REGULAR CLASS: io/helidon/webserver/cors/ResponseAdapterSe.class - JACT (NotCovered, Total): 23, 60
+REGULAR CLASS: io/helidon/common/context/Context$Builder.class - JACT (NotCovered, Total): 24, 100
+REGULAR CLASS: io/helidon/common/context/ListContext.class - JACT (NotCovered, Total): 46, 156
+REGULAR CLASS: io/helidon/common/context/Contexts.class - JACT (NotCovered, Total): 36, 104
+REGULAR CLASS: io/helidon/common/context/ListContext$RegisteredInstance.class - JACT (NotCovered, Total): 4, 17
+INTERFACE: io/helidon/common/context/Context.class - JACT (NotCovered, Total): 3, 12
+REGULAR CLASS: io/helidon/common/context/ListContext$ClassifiedRegistry.class - JACT (NotCovered, Total): 22, 124
+REGULAR CLASS: io/helidon/common/context/ContextAwareExecutorImpl.class - JACT (NotCovered, Total): 180, 222
+INTERFACE: io/netty/buffer/ByteBufAllocator.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: io/netty/buffer/AbstractPooledDerivedByteBuf.class - JACT (NotCovered, Total): 104, 143
+REGULAR CLASS: io/netty/buffer/PoolSubpage.class - JACT (NotCovered, Total): 229, 586
+REGULAR CLASS: io/netty/buffer/PoolThreadCache.class - JACT (NotCovered, Total): 150, 496
+REGULAR CLASS: io/netty/buffer/PoolChunk.class - JACT (NotCovered, Total): 481, 1093
+ENUM: io/netty/buffer/PoolArena$SizeClass.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: io/netty/buffer/LongPriorityQueue.class - JACT (NotCovered, Total): 135, 230
+REGULAR CLASS: io/netty/buffer/UnsafeByteBufUtil.class - JACT (NotCovered, Total): 2136, 2215
+REGULAR CLASS: io/netty/buffer/UnpooledByteBufAllocator.class - JACT (NotCovered, Total): 96, 157
+REGULAR CLASS: io/netty/buffer/PooledSlicedByteBuf.class - JACT (NotCovered, Total): 677, 736
+REGULAR CLASS: io/netty/buffer/ByteBufUtil.class - JACT (NotCovered, Total): 3169, 3397
+REGULAR CLASS: io/netty/buffer/ReadOnlyByteBuf.class - JACT (NotCovered, Total): 319, 372
+REGULAR CLASS: io/netty/buffer/PoolThreadCache$MemoryRegionCache$Entry.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: io/netty/buffer/PooledUnsafeDirectByteBuf.class - JACT (NotCovered, Total): 206, 309
+ABSTRACT CLASS: io/netty/buffer/ByteBuf.class - JACT (NotCovered, Total): 54, 57
+REGULAR CLASS: io/netty/buffer/PoolArena$HeapArena.class - JACT (NotCovered, Total): 47, 55
+REGULAR CLASS: io/netty/buffer/PooledByteBufAllocator.class - JACT (NotCovered, Total): 623, 1001
+REGULAR CLASS: io/netty/buffer/UnpooledHeapByteBuf.class - JACT (NotCovered, Total): 720, 783
+REGULAR CLASS: io/netty/buffer/PooledByteBufAllocator$PoolThreadLocalCache.class - JACT (NotCovered, Total): 23, 118
+ABSTRACT CLASS: io/netty/buffer/SizeClasses.class - JACT (NotCovered, Total): 244, 792
+ABSTRACT CLASS: io/netty/buffer/PooledByteBuf.class - JACT (NotCovered, Total): 157, 431
+REGULAR CLASS: io/netty/buffer/UnpooledByteBufAllocator$UnpooledByteBufAllocatorMetric.class - JACT (NotCovered, Total): 28, 37
+REGULAR CLASS: io/netty/buffer/ByteBufUtil$1.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: io/netty/buffer/UnreleasableByteBuf.class - JACT (NotCovered, Total): 75, 104
+REGULAR CLASS: io/netty/buffer/PooledByteBufAllocator$1.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: io/netty/buffer/ByteBufUtil$2.class - JACT (NotCovered, Total): 6, 9
+REGULAR CLASS: io/netty/buffer/PoolThreadCache$SubPageMemoryRegionCache.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: io/netty/buffer/CompositeByteBuf$2.class - JACT (NotCovered, Total): 2, 13
+REGULAR CLASS: io/netty/buffer/PoolThreadCache$NormalMemoryRegionCache.class - JACT (NotCovered, Total): 8, 13
+REGULAR CLASS: io/netty/buffer/SimpleLeakAwareByteBuf.class - JACT (NotCovered, Total): 142, 184
+REGULAR CLASS: io/netty/buffer/UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeDirectByteBuf.class - JACT (NotCovered, Total): 12, 30
+REGULAR CLASS: io/netty/buffer/PooledByteBufAllocatorMetric.class - JACT (NotCovered, Total): 99, 105
+REGULAR CLASS: io/netty/buffer/PoolThreadCache$MemoryRegionCache$1.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: io/netty/buffer/UnpooledUnsafeDirectByteBuf.class - JACT (NotCovered, Total): 319, 357
+ABSTRACT CLASS: io/netty/buffer/PoolArena.class - JACT (NotCovered, Total): 637, 1149
+ABSTRACT CLASS: io/netty/buffer/AbstractByteBuf.class - JACT (NotCovered, Total): 2035, 2544
+ABSTRACT CLASS: io/netty/buffer/PoolThreadCache$MemoryRegionCache.class - JACT (NotCovered, Total): 21, 158
+REGULAR CLASS: io/netty/buffer/PoolArena$DirectArena.class - JACT (NotCovered, Total): 97, 156
+REGULAR CLASS: io/netty/buffer/LongLongHashMap.class - JACT (NotCovered, Total): 116, 309
+REGULAR CLASS: io/netty/buffer/PooledUnsafeDirectByteBuf$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: io/netty/buffer/EmptyByteBuf.class - JACT (NotCovered, Total): 812, 876
+ABSTRACT CLASS: io/netty/buffer/AbstractReferenceCountedByteBuf.class - JACT (NotCovered, Total): 24, 71
+REGULAR CLASS: io/netty/buffer/CompositeByteBuf.class - JACT (NotCovered, Total): 4597, 4612
+ABSTRACT CLASS: io/netty/buffer/AbstractDerivedByteBuf.class - JACT (NotCovered, Total): 57, 93
+ABSTRACT CLASS: io/netty/buffer/AbstractByteBufAllocator.class - JACT (NotCovered, Total): 251, 370
+REGULAR CLASS: io/netty/buffer/PooledSlicedByteBuf$1.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: io/netty/buffer/CompositeByteBuf$1.class - JACT (NotCovered, Total): 10, 13
+REGULAR CLASS: io/netty/buffer/Unpooled.class - JACT (NotCovered, Total): 1115, 1227
+ABSTRACT CLASS: io/netty/buffer/AbstractUnpooledSlicedByteBuf.class - JACT (NotCovered, Total): 732, 801
+REGULAR CLASS: io/netty/buffer/UnpooledDirectByteBuf.class - JACT (NotCovered, Total): 1095, 1167
+REGULAR CLASS: io/netty/buffer/WrappedByteBuf.class - JACT (NotCovered, Total): 1052, 1121
+REGULAR CLASS: io/netty/buffer/AbstractReferenceCountedByteBuf$1.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: io/netty/buffer/ByteBufUtil$HexUtil.class - JACT (NotCovered, Total): 308, 562
+REGULAR CLASS: io/netty/buffer/PoolChunkList.class - JACT (NotCovered, Total): 198, 382
+REGULAR CLASS: io/netty/buffer/UnpooledSlicedByteBuf.class - JACT (NotCovered, Total): 135, 148
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 56
+Abstract classes found: 109
+Enums found: 44
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 728

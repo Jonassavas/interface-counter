@@ -1,0 +1,147 @@
+REGULAR CLASS: org/apache/commons/lang3/math/NumberUtils.class - JACT (NotCovered, Total): 1651, 1715
+REGULAR CLASS: org/apache/commons/lang3/ArrayUtils.class - JACT (NotCovered, Total): 7291, 7427
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils.class - JACT (NotCovered, Total): 1138, 1363
+REGULAR CLASS: org/apache/commons/lang3/tuple/ImmutablePair.class - JACT (NotCovered, Total): 10, 25
+REGULAR CLASS: org/apache/commons/lang3/StringUtils.class - JACT (NotCovered, Total): 6130, 6576
+ABSTRACT CLASS: org/apache/commons/lang3/tuple/Pair.class - JACT (NotCovered, Total): 100, 109
+REGULAR CLASS: org/yaml/snakeyaml/tokens/KeyToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/representer/Representer.class - JACT (NotCovered, Total): 432, 447
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentNull.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentString.class - JACT (NotCovered, Total): 65, 71
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentNumber.class - JACT (NotCovered, Total): 64, 70
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentByteArray.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentList.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: org/yaml/snakeyaml/composer/Composer.class - JACT (NotCovered, Total): 93, 436
+ENUM: org/yaml/snakeyaml/introspector/BeanAccess.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/yaml/snakeyaml/introspector/PropertyUtils.class - JACT (NotCovered, Total): 237, 276
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowSequenceEntry.class - JACT (NotCovered, Total): 55, 163
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlInt.class - JACT (NotCovered, Total): 88, 146
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructYamlObject.class - JACT (NotCovered, Total): 59, 89
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructScalar.class - JACT (NotCovered, Total): 592, 598
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlBinary.class - JACT (NotCovered, Total): 16, 22
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlBool.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor.class - JACT (NotCovered, Total): 75, 181
+ABSTRACT CLASS: org/yaml/snakeyaml/constructor/AbstractConstruct.class - JACT (NotCovered, Total): 29, 32
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructUndefined.class - JACT (NotCovered, Total): 17, 20
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlTimestamp.class - JACT (NotCovered, Total): 226, 229
+REGULAR CLASS: org/yaml/snakeyaml/TypeDescription.class - JACT (NotCovered, Total): 517, 571
+ENUM: org/yaml/snakeyaml/nodes/NodeId.class - JACT (NotCovered, Total): 0, 44
+ABSTRACT CLASS: org/yaml/snakeyaml/nodes/Node.class - JACT (NotCovered, Total): 35, 113
+REGULAR CLASS: org/yaml/snakeyaml/events/SequenceStartEvent.class - JACT (NotCovered, Total): 10, 26
+ENUM: org/yaml/snakeyaml/events/Event$ID.class - JACT (NotCovered, Total): 0, 104
+REGULAR CLASS: org/yaml/snakeyaml/events/DocumentEndEvent.class - JACT (NotCovered, Total): 10, 18
+REGULAR CLASS: org/yaml/snakeyaml/events/ImplicitTuple.class - JACT (NotCovered, Total): 30, 42
+REGULAR CLASS: org/yaml/snakeyaml/events/ScalarEvent.class - JACT (NotCovered, Total): 56, 97
+REGULAR CLASS: org/yaml/snakeyaml/events/AliasEvent.class - JACT (NotCovered, Total): 5, 19
+REGULAR CLASS: org/yaml/snakeyaml/events/SequenceEndEvent.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: org/yaml/snakeyaml/events/MappingStartEvent.class - JACT (NotCovered, Total): 12, 26
+REGULAR CLASS: org/yaml/snakeyaml/events/MappingEndEvent.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: org/yaml/snakeyaml/events/DocumentStartEvent.class - JACT (NotCovered, Total): 11, 30
+ABSTRACT CLASS: org/yaml/snakeyaml/events/CollectionEndEvent.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: org/yaml/snakeyaml/events/CollectionStartEvent.class - JACT (NotCovered, Total): 41, 67
+REGULAR CLASS: org/yaml/snakeyaml/events/StreamEndEvent.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: org/yaml/snakeyaml/representer/Representer$RepresentJavaBean.class - JACT (NotCovered, Total): 10, 16
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentArray.class - JACT (NotCovered, Total): 14, 20
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentDate.class - JACT (NotCovered, Total): 271, 277
+REGULAR CLASS: org/yaml/snakeyaml/representer/BaseRepresenter$1.class - JACT (NotCovered, Total): 9, 15
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentSet.class - JACT (NotCovered, Total): 34, 40
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter.class - JACT (NotCovered, Total): 30, 230
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentMap.class - JACT (NotCovered, Total): 13, 19
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentEnum.class - JACT (NotCovered, Total): 19, 25
+ABSTRACT CLASS: org/yaml/snakeyaml/representer/BaseRepresenter.class - JACT (NotCovered, Total): 321, 368
+ABSTRACT CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/UnicodeEscaper.class - JACT (NotCovered, Total): 294, 302
+REGULAR CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/PercentEscaper.class - JACT (NotCovered, Total): 364, 506
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockNode.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl.class - JACT (NotCovered, Total): 365, 795
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseStreamStart.class - JACT (NotCovered, Total): 0, 32
+REGULAR CLASS: org/yaml/snakeyaml/parser/VersionTagsTuple.class - JACT (NotCovered, Total): 21, 30
+REGULAR CLASS: org/yaml/snakeyaml/scanner/SimpleKey.class - JACT (NotCovered, Total): 30, 69
+REGULAR CLASS: org/yaml/snakeyaml/scanner/ScannerImpl.class - JACT (NotCovered, Total): 2283, 3802
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructMapping.class - JACT (NotCovered, Total): 371, 393
+REGULAR CLASS: org/yaml/snakeyaml/tokens/StreamEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockEntryToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowEntryToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/AliasToken.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/yaml/snakeyaml/tokens/ValueToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/ScalarToken.class - JACT (NotCovered, Total): 5, 40
+ABSTRACT CLASS: org/yaml/snakeyaml/tokens/Token.class - JACT (NotCovered, Total): 5, 24
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowSequenceStartToken.class - JACT (NotCovered, Total): 0, 7
+ENUM: org/yaml/snakeyaml/tokens/Token$ID.class - JACT (NotCovered, Total): 3, 268
+REGULAR CLASS: org/yaml/snakeyaml/tokens/AnchorToken.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockMappingStartToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/FlowSequenceEndToken.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/yaml/snakeyaml/tokens/BlockSequenceStartToken.class - JACT (NotCovered, Total): 0, 7
+ENUM: org/yaml/snakeyaml/DumperOptions$LineBreak.class - JACT (NotCovered, Total): 41, 86
+REGULAR CLASS: org/yaml/snakeyaml/error/Mark.class - JACT (NotCovered, Total): 258, 279
+REGULAR CLASS: org/yaml/snakeyaml/DumperOptions.class - JACT (NotCovered, Total): 155, 231
+ENUM: org/yaml/snakeyaml/DumperOptions$FlowStyle.class - JACT (NotCovered, Total): 26, 71
+ABSTRACT CLASS: org/yaml/snakeyaml/nodes/CollectionNode.class - JACT (NotCovered, Total): 16, 35
+REGULAR CLASS: org/yaml/snakeyaml/nodes/Tag.class - JACT (NotCovered, Total): 75, 306
+REGULAR CLASS: org/yaml/snakeyaml/nodes/NodeTuple.class - JACT (NotCovered, Total): 24, 43
+REGULAR CLASS: org/yaml/snakeyaml/nodes/MappingNode.class - JACT (NotCovered, Total): 151, 177
+REGULAR CLASS: org/yaml/snakeyaml/nodes/ScalarNode.class - JACT (NotCovered, Total): 78, 100
+REGULAR CLASS: org/yaml/snakeyaml/nodes/SequenceNode.class - JACT (NotCovered, Total): 72, 90
+ENUM: org/yaml/snakeyaml/DumperOptions$ScalarStyle.class - JACT (NotCovered, Total): 33, 113
+ABSTRACT CLASS: org/yaml/snakeyaml/events/Event.class - JACT (NotCovered, Total): 35, 50
+ABSTRACT CLASS: org/yaml/snakeyaml/events/NodeEvent.class - JACT (NotCovered, Total): 10, 21
+REGULAR CLASS: org/yaml/snakeyaml/events/StreamStartEvent.class - JACT (NotCovered, Total): 7, 12
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentUuid.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentBoolean.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentPrimitiveArray.class - JACT (NotCovered, Total): 331, 337
+REGULAR CLASS: org/yaml/snakeyaml/representer/SafeRepresenter$RepresentIterator.class - JACT (NotCovered, Total): 18, 24
+REGULAR CLASS: org/yaml/snakeyaml/serializer/NumberAnchorGenerator.class - JACT (NotCovered, Total): 32, 41
+REGULAR CLASS: org/yaml/snakeyaml/resolver/ResolverTuple.class - JACT (NotCovered, Total): 15, 30
+REGULAR CLASS: org/yaml/snakeyaml/resolver/Resolver.class - JACT (NotCovered, Total): 20, 253
+REGULAR CLASS: org/yaml/snakeyaml/reader/UnicodeReader.class - JACT (NotCovered, Total): 51, 141
+ABSTRACT CLASS: org/yaml/snakeyaml/util/UriEncoder.class - JACT (NotCovered, Total): 16, 37
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockSequenceFirstEntry.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseImplicitDocumentStart.class - JACT (NotCovered, Total): 10, 85
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlPairs.class - JACT (NotCovered, Total): 132, 138
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor.class - JACT (NotCovered, Total): 231, 498
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlFloat.class - JACT (NotCovered, Total): 112, 118
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlOmap.class - JACT (NotCovered, Total): 121, 127
+ABSTRACT CLASS: org/yaml/snakeyaml/constructor/BaseConstructor.class - JACT (NotCovered, Total): 494, 940
+REGULAR CLASS: org/yaml/snakeyaml/Yaml.class - JACT (NotCovered, Total): 474, 586
+REGULAR CLASS: org/yaml/snakeyaml/tokens/StreamStartToken.class - JACT (NotCovered, Total): 2, 7
+REGULAR CLASS: org/yaml/snakeyaml/external/com/google/gdata/util/common/base/UnicodeEscaper$2.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: org/yaml/snakeyaml/LoaderOptions.class - JACT (NotCovered, Total): 4, 13
+REGULAR CLASS: org/yaml/snakeyaml/reader/StreamReader.class - JACT (NotCovered, Total): 77, 424
+REGULAR CLASS: org/yaml/snakeyaml/util/ArrayStack.class - JACT (NotCovered, Total): 4, 32
+REGULAR CLASS: org/yaml/snakeyaml/util/PlatformFeatureDetector.class - JACT (NotCovered, Total): 2, 28
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingValue.class - JACT (NotCovered, Total): 37, 92
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseFlowSequenceFirstEntry.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseDocumentEnd.class - JACT (NotCovered, Total): 10, 58
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingFirstKey.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockSequenceEntry.class - JACT (NotCovered, Total): 43, 138
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseIndentlessSequenceEntry.class - JACT (NotCovered, Total): 15, 101
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseDocumentStart.class - JACT (NotCovered, Total): 122, 181
+REGULAR CLASS: org/yaml/snakeyaml/parser/ParserImpl$ParseBlockMappingKey.class - JACT (NotCovered, Total): 44, 139
+REGULAR CLASS: org/yaml/snakeyaml/scanner/Constant.class - JACT (NotCovered, Total): 2, 147
+REGULAR CLASS: org/yaml/snakeyaml/constructor/Constructor$ConstructSequence.class - JACT (NotCovered, Total): 347, 353
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlNull.class - JACT (NotCovered, Total): 8, 14
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlStr.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlSeq.class - JACT (NotCovered, Total): 29, 46
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlSet.class - JACT (NotCovered, Total): 53, 59
+REGULAR CLASS: org/yaml/snakeyaml/constructor/SafeConstructor$ConstructYamlMap.class - JACT (NotCovered, Total): 31, 48
+REGULAR CLASS: com/mifmif/common/regex/Generex.class - JACT (NotCovered, Total): 469, 714
+REGULAR CLASS: dk/brics/automaton/Automaton.class - JACT (NotCovered, Total): 522, 1386
+REGULAR CLASS: dk/brics/automaton/BasicAutomata.class - JACT (NotCovered, Total): 1223, 1287
+REGULAR CLASS: dk/brics/automaton/BasicOperations.class - JACT (NotCovered, Total): 1257, 1878
+REGULAR CLASS: dk/brics/automaton/MinimizationOperations$IntPair.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: dk/brics/automaton/MinimizationOperations$StateList.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: dk/brics/automaton/MinimizationOperations$StateListNode.class - JACT (NotCovered, Total): 0, 75
+REGULAR CLASS: dk/brics/automaton/MinimizationOperations.class - JACT (NotCovered, Total): 576, 1339
+ENUM: dk/brics/automaton/RegExp$Kind.class - JACT (NotCovered, Total): 0, 164
+REGULAR CLASS: dk/brics/automaton/RegExp.class - JACT (NotCovered, Total): 892, 1719
+REGULAR CLASS: dk/brics/automaton/State.class - JACT (NotCovered, Total): 95, 195
+REGULAR CLASS: dk/brics/automaton/Transition.class - JACT (NotCovered, Total): 143, 212
+REGULAR CLASS: dk/brics/automaton/TransitionComparator.class - JACT (NotCovered, Total): 56, 108
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 0
+Abstract classes found: 13
+Enums found: 8
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 118

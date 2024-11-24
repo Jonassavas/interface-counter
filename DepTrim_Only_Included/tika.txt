@@ -1,0 +1,64 @@
+INTERFACE: org/slf4j/ILoggerFactory.class
+INTERFACE: org/slf4j/IMarkerFactory.class
+INTERFACE: org/slf4j/Logger.class
+INTERFACE: org/slf4j/Marker.class
+REGULAR CLASS: org/slf4j/event/DefaultLoggingEvent.class
+REGULAR CLASS: org/slf4j/event/EventConstants.class
+REGULAR CLASS: org/slf4j/event/EventRecordingLogger.class
+REGULAR CLASS: org/slf4j/event/KeyValuePair.class
+ENUM: org/slf4j/event/Level.class
+INTERFACE: org/slf4j/event/LoggingEvent.class
+REGULAR CLASS: org/slf4j/event/SubstituteLoggingEvent.class
+ABSTRACT CLASS: org/slf4j/helpers/AbstractLogger.class
+REGULAR CLASS: org/slf4j/helpers/BasicMarker.class
+ANNOTATION: org/slf4j/helpers/CheckReturnValue.class
+REGULAR CLASS: org/slf4j/helpers/FormattingTuple.class
+ABSTRACT CLASS: org/slf4j/helpers/LegacyAbstractLogger.class
+REGULAR CLASS: org/slf4j/helpers/MessageFormatter.class
+REGULAR CLASS: org/slf4j/helpers/NOPLogger.class
+ABSTRACT CLASS: org/slf4j/helpers/NamedLoggerBase.class
+REGULAR CLASS: org/slf4j/helpers/NormalizedParameters.class
+REGULAR CLASS: org/slf4j/helpers/SubstituteLogger.class
+SYNTHETIC CLASS: org/slf4j/helpers/Util$1.class
+REGULAR CLASS: org/slf4j/helpers/Util$ClassContextSecurityManager.class
+INTERFACE: org/slf4j/spi/CallerBoundaryAware.class
+SYNTHETIC CLASS: org/slf4j/spi/DefaultLoggingEventBuilder$1.class
+REGULAR CLASS: org/slf4j/spi/DefaultLoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/LocationAwareLogger.class
+INTERFACE: org/slf4j/spi/LoggingEventAware.class
+INTERFACE: org/slf4j/spi/LoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/MDCAdapter.class
+REGULAR CLASS: org/slf4j/spi/NOPLoggingEventBuilder.class
+INTERFACE: org/slf4j/spi/SLF4JServiceProvider.class
+REGULAR CLASS: org/apache/commons/io/Charsets.class
+REGULAR CLASS: org/apache/commons/io/IOExceptionWithCause.class
+REGULAR CLASS: org/apache/commons/io/IOUtils.class
+REGULAR CLASS: org/apache/commons/io/LineIterator.class
+ENUM: org/apache/commons/io/StandardLineSeparator.class
+REGULAR CLASS: org/apache/commons/io/TaggedIOException.class
+INTERFACE: org/apache/commons/io/function/IOConsumer.class
+INTERFACE: org/apache/commons/io/function/IOFunction.class
+INTERFACE: org/apache/commons/io/function/IOSupplier.class
+REGULAR CLASS: org/apache/commons/io/input/CloseShieldInputStream.class
+REGULAR CLASS: org/apache/commons/io/input/ClosedInputStream.class
+REGULAR CLASS: org/apache/commons/io/input/NullInputStream.class
+ABSTRACT CLASS: org/apache/commons/io/input/ProxyInputStream.class
+REGULAR CLASS: org/apache/commons/io/input/TaggedInputStream.class
+REGULAR CLASS: org/apache/commons/io/input/UnsynchronizedByteArrayInputStream.class
+INTERFACE: org/apache/commons/io/output/AbstractByteArrayOutputStream$InputStreamConstructor.class
+ABSTRACT CLASS: org/apache/commons/io/output/AbstractByteArrayOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/AppendableWriter.class
+REGULAR CLASS: org/apache/commons/io/output/ByteArrayOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/NullOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/StringBuilderWriter.class
+REGULAR CLASS: org/apache/commons/io/output/ThresholdingOutputStream.class
+REGULAR CLASS: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.class
+
+Total number of class files only in DepTrim: 55
+Total number of class files in DepTrim: 66
+Interfaces found: 15
+Abstract classes found: 5
+Enums found: 2
+Annotations found: 1
+Synthetic classes found: 2
+Regular classes found: 30

@@ -1,0 +1,188 @@
+ENUM: javax/annotation/meta/When.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/objectweb/asm/ClassReader.class - JACT (NotCovered, Total): 4016, 6042
+ABSTRACT CLASS: org/objectweb/asm/ClassVisitor.class - JACT (NotCovered, Total): 227, 277
+REGULAR CLASS: org/objectweb/asm/Context.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/objectweb/asm/Handle.class - JACT (NotCovered, Total): 122, 143
+REGULAR CLASS: org/objectweb/asm/Label.class - JACT (NotCovered, Total): 456, 492
+ABSTRACT CLASS: org/objectweb/asm/MethodVisitor.class - JACT (NotCovered, Total): 485, 505
+REGULAR CLASS: org/objectweb/asm/Type.class - JACT (NotCovered, Total): 757, 1135
+ABSTRACT CLASS: org/objectweb/asm/tree/AbstractInsnNode.class - JACT (NotCovered, Total): 184, 199
+REGULAR CLASS: org/objectweb/asm/tree/FrameNode.class - JACT (NotCovered, Total): 220, 230
+REGULAR CLASS: org/objectweb/asm/tree/InsnList$InsnListIterator.class - JACT (NotCovered, Total): 188, 244
+REGULAR CLASS: org/objectweb/asm/tree/InsnList.class - JACT (NotCovered, Total): 544, 597
+REGULAR CLASS: org/objectweb/asm/tree/InsnNode.class - JACT (NotCovered, Total): 18, 22
+REGULAR CLASS: org/objectweb/asm/tree/IntInsnNode.class - JACT (NotCovered, Total): 26, 33
+REGULAR CLASS: org/objectweb/asm/tree/InvokeDynamicInsnNode.class - JACT (NotCovered, Total): 30, 46
+REGULAR CLASS: org/objectweb/asm/tree/JumpInsnNode.class - JACT (NotCovered, Total): 29, 36
+REGULAR CLASS: org/objectweb/asm/tree/LabelNode.class - JACT (NotCovered, Total): 34, 38
+REGULAR CLASS: org/objectweb/asm/tree/LdcInsnNode.class - JACT (NotCovered, Total): 18, 25
+REGULAR CLASS: org/objectweb/asm/tree/LineNumberNode.class - JACT (NotCovered, Total): 20, 30
+REGULAR CLASS: org/objectweb/asm/tree/LocalVariableNode.class - JACT (NotCovered, Total): 17, 38
+REGULAR CLASS: org/objectweb/asm/tree/MethodInsnNode.class - JACT (NotCovered, Total): 51, 67
+REGULAR CLASS: org/objectweb/asm/tree/MethodNode.class - JACT (NotCovered, Total): 1037, 1283
+REGULAR CLASS: org/objectweb/asm/tree/TypeInsnNode.class - JACT (NotCovered, Total): 26, 33
+REGULAR CLASS: org/objectweb/asm/tree/Util.class - JACT (NotCovered, Total): 327, 367
+REGULAR CLASS: org/objectweb/asm/tree/VarInsnNode.class - JACT (NotCovered, Total): 26, 33
+REGULAR CLASS: org/apache/commons/io/IOUtils.class - JACT (NotCovered, Total): 2028, 2130
+ENUM: org/apache/commons/io/StandardLineSeparator.class - JACT (NotCovered, Total): 5, 56
+INTERFACE: org/apache/commons/io/function/IOConsumer.class - JACT (NotCovered, Total): 18, 21
+ABSTRACT CLASS: org/apache/commons/io/output/AbstractByteArrayOutputStream.class - JACT (NotCovered, Total): 269, 430
+REGULAR CLASS: org/apache/commons/io/output/ThresholdingOutputStream.class - JACT (NotCovered, Total): 82, 149
+REGULAR CLASS: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.class - JACT (NotCovered, Total): 73, 114
+REGULAR CLASS: com/typesafe/config/ConfigFactory.class - JACT (NotCovered, Total): 470, 529
+REGULAR CLASS: com/typesafe/config/ConfigMemorySize.class - JACT (NotCovered, Total): 64, 87
+REGULAR CLASS: com/typesafe/config/ConfigParseOptions.class - JACT (NotCovered, Total): 80, 225
+REGULAR CLASS: com/typesafe/config/ConfigResolveOptions$1.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/typesafe/config/ConfigResolveOptions.class - JACT (NotCovered, Total): 56, 80
+ENUM: com/typesafe/config/ConfigSyntax.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: com/typesafe/config/ConfigValueFactory.class - JACT (NotCovered, Total): 18, 26
+ENUM: com/typesafe/config/ConfigValueType.class - JACT (NotCovered, Total): 0, 64
+ABSTRACT CLASS: com/typesafe/config/impl/AbstractConfigNode.class - JACT (NotCovered, Total): 44, 47
+ABSTRACT CLASS: com/typesafe/config/impl/AbstractConfigNodeValue.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: com/typesafe/config/impl/AbstractConfigObject.class - JACT (NotCovered, Total): 60, 167
+ABSTRACT CLASS: com/typesafe/config/impl/AbstractConfigValue.class - JACT (NotCovered, Total): 446, 529
+REGULAR CLASS: com/typesafe/config/impl/BadMap$Entry.class - JACT (NotCovered, Total): 18, 33
+REGULAR CLASS: com/typesafe/config/impl/BadMap.class - JACT (NotCovered, Total): 96, 913
+REGULAR CLASS: com/typesafe/config/impl/ConfigBoolean.class - JACT (NotCovered, Total): 19, 32
+REGULAR CLASS: com/typesafe/config/impl/ConfigDocumentParser$ParseContext.class - JACT (NotCovered, Total): 1027, 1686
+REGULAR CLASS: com/typesafe/config/impl/ConfigDocumentParser.class - JACT (NotCovered, Total): 23, 39
+REGULAR CLASS: com/typesafe/config/impl/ConfigImpl$DebugHolder.class - JACT (NotCovered, Total): 56, 102
+REGULAR CLASS: com/typesafe/config/impl/ConfigImpl$DefaultIncluderHolder.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: com/typesafe/config/impl/ConfigImpl$EnvVariablesHolder.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/typesafe/config/impl/ConfigImpl.class - JACT (NotCovered, Total): 406, 609
+REGULAR CLASS: com/typesafe/config/impl/ConfigImplUtil.class - JACT (NotCovered, Total): 426, 529
+REGULAR CLASS: com/typesafe/config/impl/ConfigInt.class - JACT (NotCovered, Total): 16, 47
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeArray.class - JACT (NotCovered, Total): 5, 9
+ABSTRACT CLASS: com/typesafe/config/impl/ConfigNodeComplexValue.class - JACT (NotCovered, Total): 95, 107
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeField.class - JACT (NotCovered, Total): 77, 177
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeObject.class - JACT (NotCovered, Total): 924, 928
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodePath.class - JACT (NotCovered, Total): 100, 115
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeRoot.class - JACT (NotCovered, Total): 145, 152
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeSimpleValue.class - JACT (NotCovered, Total): 47, 71
+REGULAR CLASS: com/typesafe/config/impl/ConfigNodeSingleToken.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/typesafe/config/impl/ConfigNull.class - JACT (NotCovered, Total): 21, 25
+ABSTRACT CLASS: com/typesafe/config/impl/ConfigNumber.class - JACT (NotCovered, Total): 113, 163
+REGULAR CLASS: com/typesafe/config/impl/ConfigParser$ParseContext.class - JACT (NotCovered, Total): 559, 943
+REGULAR CLASS: com/typesafe/config/impl/ConfigParser.class - JACT (NotCovered, Total): 3, 18
+REGULAR CLASS: com/typesafe/config/impl/ConfigString$Quoted.class - JACT (NotCovered, Total): 12, 17
+REGULAR CLASS: com/typesafe/config/impl/ConfigString$Unquoted.class - JACT (NotCovered, Total): 5, 17
+ABSTRACT CLASS: com/typesafe/config/impl/ConfigString.class - JACT (NotCovered, Total): 23, 35
+REGULAR CLASS: com/typesafe/config/impl/DefaultTransformer.class - JACT (NotCovered, Total): 164, 204
+ENUM: com/typesafe/config/impl/FromMapMode.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: com/typesafe/config/impl/MemoKey.class - JACT (NotCovered, Total): 69, 87
+ENUM: com/typesafe/config/impl/OriginType.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: com/typesafe/config/impl/Parseable$1.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/typesafe/config/impl/Parseable$ParseableFile.class - JACT (NotCovered, Total): 80, 110
+REGULAR CLASS: com/typesafe/config/impl/Parseable$ParseableProperties.class - JACT (NotCovered, Total): 35, 53
+REGULAR CLASS: com/typesafe/config/impl/Parseable$ParseableResourceURL.class - JACT (NotCovered, Total): 5, 24
+REGULAR CLASS: com/typesafe/config/impl/Parseable$ParseableResources.class - JACT (NotCovered, Total): 114, 188
+REGULAR CLASS: com/typesafe/config/impl/Parseable$ParseableURL.class - JACT (NotCovered, Total): 131, 217
+ABSTRACT CLASS: com/typesafe/config/impl/Parseable.class - JACT (NotCovered, Total): 463, 684
+REGULAR CLASS: com/typesafe/config/impl/Path.class - JACT (NotCovered, Total): 184, 406
+REGULAR CLASS: com/typesafe/config/impl/PathBuilder.class - JACT (NotCovered, Total): 12, 75
+REGULAR CLASS: com/typesafe/config/impl/PathParser$Element.class - JACT (NotCovered, Total): 18, 30
+REGULAR CLASS: com/typesafe/config/impl/PathParser.class - JACT (NotCovered, Total): 148, 528
+REGULAR CLASS: com/typesafe/config/impl/PropertiesParser$1.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: com/typesafe/config/impl/PropertiesParser.class - JACT (NotCovered, Total): 37, 388
+REGULAR CLASS: com/typesafe/config/impl/ResolveContext.class - JACT (NotCovered, Total): 435, 636
+REGULAR CLASS: com/typesafe/config/impl/ResolveMemos.class - JACT (NotCovered, Total): 0, 27
+REGULAR CLASS: com/typesafe/config/impl/ResolveResult.class - JACT (NotCovered, Total): 39, 61
+REGULAR CLASS: com/typesafe/config/impl/ResolveSource.class - JACT (NotCovered, Total): 710, 719
+ENUM: com/typesafe/config/impl/ResolveStatus.class - JACT (NotCovered, Total): 3, 49
+REGULAR CLASS: com/typesafe/config/impl/SimpleConfig.class - JACT (NotCovered, Total): 1752, 2280
+REGULAR CLASS: com/typesafe/config/impl/SimpleConfigList$2.class - JACT (NotCovered, Total): 3, 21
+REGULAR CLASS: com/typesafe/config/impl/SimpleConfigList.class - JACT (NotCovered, Total): 561, 629
+REGULAR CLASS: com/typesafe/config/impl/SimpleConfigObject.class - JACT (NotCovered, Total): 838, 1248
+REGULAR CLASS: com/typesafe/config/impl/SimpleConfigOrigin.class - JACT (NotCovered, Total): 963, 1292
+REGULAR CLASS: com/typesafe/config/impl/SimpleIncludeContext.class - JACT (NotCovered, Total): 60, 71
+REGULAR CLASS: com/typesafe/config/impl/SimpleIncluder.class - JACT (NotCovered, Total): 400, 420
+REGULAR CLASS: com/typesafe/config/impl/Token.class - JACT (NotCovered, Total): 54, 105
+ENUM: com/typesafe/config/impl/TokenType.class - JACT (NotCovered, Total): 0, 174
+REGULAR CLASS: com/typesafe/config/impl/Tokenizer$TokenIterator$WhitespaceSaver.class - JACT (NotCovered, Total): 9, 83
+REGULAR CLASS: com/typesafe/config/impl/Tokenizer$TokenIterator.class - JACT (NotCovered, Total): 742, 1073
+REGULAR CLASS: com/typesafe/config/impl/Tokenizer.class - JACT (NotCovered, Total): 60, 71
+REGULAR CLASS: com/typesafe/config/impl/Tokens$IgnoredWhitespace.class - JACT (NotCovered, Total): 44, 52
+REGULAR CLASS: com/typesafe/config/impl/Tokens$Line.class - JACT (NotCovered, Total): 39, 44
+REGULAR CLASS: com/typesafe/config/impl/Tokens$UnquotedText.class - JACT (NotCovered, Total): 41, 55
+REGULAR CLASS: com/typesafe/config/impl/Tokens.class - JACT (NotCovered, Total): 268, 366
+REGULAR CLASS: kotlin/jvm/internal/Intrinsics.class - JACT (NotCovered, Total): 479, 494
+REGULAR CLASS: kotlin/jvm/internal/Ref$BooleanRef.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: kotlin/jvm/internal/TypeIntrinsics.class - JACT (NotCovered, Total): 520, 545
+REGULAR CLASS: kotlin/LazyKt__LazyJVMKt.class - JACT (NotCovered, Total): 44, 56
+REGULAR CLASS: kotlin/Result.class - JACT (NotCovered, Total): 44, 49
+REGULAR CLASS: kotlin/ResultKt.class - JACT (NotCovered, Total): 232, 236
+REGULAR CLASS: kotlin/SynchronizedLazyImpl.class - JACT (NotCovered, Total): 27, 96
+ENUM: kotlin/annotation/AnnotationRetention.class - JACT (NotCovered, Total): 0, 21
+ENUM: kotlin/annotation/AnnotationTarget.class - JACT (NotCovered, Total): 0, 93
+ABSTRACT CLASS: kotlin/coroutines/AbstractCoroutineContextElement.class - JACT (NotCovered, Total): 0, 29
+ABSTRACT CLASS: kotlin/coroutines/AbstractCoroutineContextKey.class - JACT (NotCovered, Total): 23, 45
+REGULAR CLASS: kotlin/coroutines/CombinedContext.class - JACT (NotCovered, Total): 147, 252
+REGULAR CLASS: kotlin/coroutines/ContinuationInterceptor$DefaultImpls.class - JACT (NotCovered, Total): 60, 89
+REGULAR CLASS: kotlin/coroutines/CoroutineContext$DefaultImpls.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: kotlin/coroutines/CoroutineContext$Element$DefaultImpls.class - JACT (NotCovered, Total): 3, 42
+REGULAR CLASS: kotlin/coroutines/CoroutineContext$plus$1.class - JACT (NotCovered, Total): 3, 60
+ENUM: kotlin/coroutines/intrinsics/CoroutineSingletons.class - JACT (NotCovered, Total): 0, 21
+REGULAR CLASS: kotlin/coroutines/intrinsics/IntrinsicsKt__IntrinsicsKt.class - JACT (NotCovered, Total): 6, 8
+ABSTRACT CLASS: kotlin/jvm/internal/Lambda.class - JACT (NotCovered, Total): 9, 15
+REGULAR CLASS: kotlin/ranges/RangesKt___RangesKt.class - JACT (NotCovered, Total): 1710, 1715
+REGULAR CLASS: kotlin/text/StringsKt__StringsKt.class - JACT (NotCovered, Total): 3880, 3922
+REGULAR CLASS: kotlinx/coroutines/ChildHandleNode.class - JACT (NotCovered, Total): 16, 22
+REGULAR CLASS: kotlinx/coroutines/CoroutineContextKt$hasCopyableElements$1.class - JACT (NotCovered, Total): 2, 10
+REGULAR CLASS: kotlinx/coroutines/DebugKt.class - JACT (NotCovered, Total): 40, 79
+ABSTRACT CLASS: kotlinx/coroutines/CompletionHandlerBase.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: kotlinx/coroutines/StandaloneCoroutine.class - JACT (NotCovered, Total): 6, 12
+ABSTRACT CLASS: kotlinx/coroutines/CoroutineDispatcher.class - JACT (NotCovered, Total): 35, 57
+REGULAR CLASS: kotlinx/coroutines/JobSupportKt.class - JACT (NotCovered, Total): 12, 62
+REGULAR CLASS: kotlinx/coroutines/BuildersKt.class - JACT (NotCovered, Total): 42, 48
+REGULAR CLASS: kotlinx/coroutines/JobSupport.class - JACT (NotCovered, Total): 2086, 2376
+REGULAR CLASS: kotlinx/coroutines/CoroutineContextKt.class - JACT (NotCovered, Total): 208, 259
+ABSTRACT CLASS: kotlinx/coroutines/EventLoopImplBase.class - JACT (NotCovered, Total): 583, 595
+REGULAR CLASS: kotlinx/coroutines/ExecutorsKt.class - JACT (NotCovered, Total): 32, 45
+REGULAR CLASS: kotlinx/coroutines/DefaultExecutor.class - JACT (NotCovered, Total): 303, 329
+ABSTRACT CLASS: kotlinx/coroutines/EventLoopImplPlatform.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: kotlinx/coroutines/internal/LockFreeLinkedListNode.class - JACT (NotCovered, Total): 544, 556
+REGULAR CLASS: kotlinx/coroutines/internal/LockFreeTaskQueue.class - JACT (NotCovered, Total): 80, 90
+REGULAR CLASS: kotlinx/coroutines/internal/Symbol.class - JACT (NotCovered, Total): 21, 27
+REGULAR CLASS: kotlinx/coroutines/internal/LockFreeTaskQueueCore.class - JACT (NotCovered, Total): 517, 583
+REGULAR CLASS: kotlinx/coroutines/internal/ConcurrentKt.class - JACT (NotCovered, Total): 65, 92
+REGULAR CLASS: kotlinx/coroutines/internal/ScopeCoroutine.class - JACT (NotCovered, Total): 44, 53
+REGULAR CLASS: kotlinx/coroutines/internal/ThreadContextKt.class - JACT (NotCovered, Total): 19, 83
+REGULAR CLASS: kotlinx/coroutines/internal/ThreadContextKt$countAll$1.class - JACT (NotCovered, Total): 7, 28
+REGULAR CLASS: kotlinx/coroutines/internal/ResizableAtomicArray.class - JACT (NotCovered, Total): 63, 72
+REGULAR CLASS: kotlinx/coroutines/internal/ThreadContextKt$findOne$1.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: kotlinx/coroutines/internal/SystemPropsKt.class - JACT (NotCovered, Total): 0, 37
+REGULAR CLASS: kotlinx/coroutines/internal/LimitedDispatcherKt.class - JACT (NotCovered, Total): 16, 23
+REGULAR CLASS: kotlinx/coroutines/internal/LimitedDispatcher.class - JACT (NotCovered, Total): 172, 202
+REGULAR CLASS: kotlinx/coroutines/intrinsics/UndispatchedKt.class - JACT (NotCovered, Total): 196, 234
+REGULAR CLASS: kotlinx/coroutines/ExecutorCoroutineDispatcherImpl.class - JACT (NotCovered, Total): 176, 191
+REGULAR CLASS: kotlinx/coroutines/ExecutorCoroutineDispatcher$Key.class - JACT (NotCovered, Total): 0, 7
+ABSTRACT CLASS: kotlinx/coroutines/JobCancellingNode.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: kotlinx/coroutines/AbstractCoroutine.class - JACT (NotCovered, Total): 53, 114
+ENUM: kotlinx/coroutines/CoroutineStart.class - JACT (NotCovered, Total): 36, 80
+ABSTRACT CLASS: kotlinx/coroutines/ExecutorCoroutineDispatcher.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: kotlinx/coroutines/CoroutineDispatcher$Key.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: kotlinx/coroutines/CompletionStateKt.class - JACT (NotCovered, Total): 62, 87
+REGULAR CLASS: kotlinx/coroutines/Job$DefaultImpls.class - JACT (NotCovered, Total): 32, 57
+ABSTRACT CLASS: kotlinx/coroutines/scheduling/SchedulerTimeSource.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: kotlinx/coroutines/scheduling/DefaultIoScheduler.class - JACT (NotCovered, Total): 31, 48
+REGULAR CLASS: kotlinx/coroutines/scheduling/CoroutineScheduler.class - JACT (NotCovered, Total): 1152, 1254
+REGULAR CLASS: kotlinx/coroutines/scheduling/DefaultScheduler.class - JACT (NotCovered, Total): 10, 17
+REGULAR CLASS: kotlinx/coroutines/scheduling/TaskContextImpl.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: kotlinx/coroutines/scheduling/GlobalQueue.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: kotlinx/coroutines/scheduling/TasksKt.class - JACT (NotCovered, Total): 11, 63
+REGULAR CLASS: kotlinx/coroutines/scheduling/SchedulerCoroutineDispatcher.class - JACT (NotCovered, Total): 77, 108
+ABSTRACT CLASS: kotlinx/coroutines/JobNode.class - JACT (NotCovered, Total): 30, 47
+REGULAR CLASS: kotlinx/coroutines/Empty.class - JACT (NotCovered, Total): 16, 27
+REGULAR CLASS: kotlinx/coroutines/CoroutineId.class - JACT (NotCovered, Total): 18, 116
+REGULAR CLASS: kotlinx/coroutines/NonDisposableHandle.class - JACT (NotCovered, Total): 6, 7
+REGULAR CLASS: kotlinx/coroutines/Dispatchers.class - JACT (NotCovered, Total): 11, 27
+ABSTRACT CLASS: kotlinx/coroutines/EventLoop.class - JACT (NotCovered, Total): 149, 179
+REGULAR CLASS: kotlinx/coroutines/DefaultExecutorKt.class - JACT (NotCovered, Total): 14, 28
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 1
+Abstract classes found: 25
+Enums found: 12
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 142

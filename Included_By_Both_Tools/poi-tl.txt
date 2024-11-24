@@ -1,0 +1,1113 @@
+REGULAR CLASS: org/slf4j/helpers/FormattingTuple.class - JACT (NotCovered, Total): 6, 33
+REGULAR CLASS: org/slf4j/helpers/MessageFormatter.class - JACT (NotCovered, Total): 577, 713
+REGULAR CLASS: org/slf4j/helpers/NOPLoggerFactory.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: org/slf4j/helpers/SubstituteLoggerFactory.class - JACT (NotCovered, Total): 32, 69
+REGULAR CLASS: org/slf4j/helpers/Util.class - JACT (NotCovered, Total): 101, 121
+REGULAR CLASS: org/slf4j/LoggerFactory.class - JACT (NotCovered, Total): 302, 514
+REGULAR CLASS: org/slf4j/MDC.class - JACT (NotCovered, Total): 126, 136
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils.class - JACT (NotCovered, Total): 1012, 1235
+REGULAR CLASS: org/apache/commons/lang3/StringUtils.class - JACT (NotCovered, Total): 5734, 5800
+ENUM: org/apache/commons/lang3/time/StopWatch$SplitState.class - JACT (NotCovered, Total): 0, 24
+ENUM: org/apache/commons/lang3/time/StopWatch$State$1.class - JACT (NotCovered, Total): 6, 12
+ENUM: org/apache/commons/lang3/time/StopWatch$State$2.class - JACT (NotCovered, Total): 6, 12
+ENUM: org/apache/commons/lang3/time/StopWatch$State$3.class - JACT (NotCovered, Total): 6, 12
+ENUM: org/apache/commons/lang3/time/StopWatch$State$4.class - JACT (NotCovered, Total): 6, 12
+ABSTRACT CLASS: org/apache/commons/lang3/time/StopWatch$State.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/apache/commons/lang3/time/StopWatch.class - JACT (NotCovered, Total): 174, 226
+REGULAR CLASS: org/apache/commons/lang3/tuple/ImmutablePair.class - JACT (NotCovered, Total): 4, 25
+ABSTRACT CLASS: org/apache/commons/lang3/tuple/Pair.class - JACT (NotCovered, Total): 94, 109
+REGULAR CLASS: org/apache/poi/openxml4j/opc/StreamHelper.class - JACT (NotCovered, Total): 12, 46
+REGULAR CLASS: org/apache/poi/openxml4j/opc/PackagingURIHelper.class - JACT (NotCovered, Total): 451, 1052
+ENUM: org/apache/poi/openxml4j/opc/PackageAccess.class - JACT (NotCovered, Total): 0, 34
+ABSTRACT CLASS: org/apache/poi/openxml4j/opc/OPCPackage.class - JACT (NotCovered, Total): 1167, 1725
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/marshallers/PackagePropertiesMarshaller$NamespaceImpl.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/marshallers/ZipPartMarshaller.class - JACT (NotCovered, Total): 35, 194
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/marshallers/ZipPackagePropertiesMarshaller.class - JACT (NotCovered, Total): 13, 48
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/marshallers/PackagePropertiesMarshaller.class - JACT (NotCovered, Total): 7, 358
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/marshallers/DefaultMarshaller.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/unmarshallers/UnmarshallContext.class - JACT (NotCovered, Total): 15, 30
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/unmarshallers/PackagePropertiesUnmarshaller.class - JACT (NotCovered, Total): 109, 429
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/ZipContentTypeManager.class - JACT (NotCovered, Total): 13, 45
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/ZipHelper.class - JACT (NotCovered, Total): 83, 156
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/PackagePropertiesPart.class - JACT (NotCovered, Total): 153, 517
+ABSTRACT CLASS: org/apache/poi/openxml4j/opc/internal/ContentTypeManager.class - JACT (NotCovered, Total): 95, 500
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/ContentType.class - JACT (NotCovered, Total): 107, 280
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/MemoryPackagePartOutputStream.class - JACT (NotCovered, Total): 5, 88
+REGULAR CLASS: org/apache/poi/openxml4j/opc/internal/MemoryPackagePart.class - JACT (NotCovered, Total): 33, 82
+REGULAR CLASS: org/apache/poi/openxml4j/opc/ZipPackage$EntryTriple.class - JACT (NotCovered, Total): 48, 148
+REGULAR CLASS: org/apache/poi/openxml4j/opc/PackageRelationship.class - JACT (NotCovered, Total): 159, 236
+ENUM: org/apache/poi/openxml4j/opc/TargetMode.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: org/apache/poi/openxml4j/opc/StreamHelper$1.class - JACT (NotCovered, Total): 4, 15
+REGULAR CLASS: org/apache/poi/openxml4j/opc/ZipPackage.class - JACT (NotCovered, Total): 410, 705
+REGULAR CLASS: org/apache/poi/openxml4j/opc/PackagePartName.class - JACT (NotCovered, Total): 311, 656
+REGULAR CLASS: org/apache/poi/openxml4j/opc/PackageRelationshipCollection.class - JACT (NotCovered, Total): 235, 605
+REGULAR CLASS: org/apache/poi/openxml4j/opc/PackagePartCollection.class - JACT (NotCovered, Total): 65, 174
+REGULAR CLASS: org/apache/poi/openxml4j/opc/ZipPackagePart.class - JACT (NotCovered, Total): 28, 60
+ABSTRACT CLASS: org/apache/poi/openxml4j/opc/PackagePart.class - JACT (NotCovered, Total): 289, 540
+REGULAR CLASS: org/apache/poi/openxml4j/util/ZipArchiveThresholdInputStream.class - JACT (NotCovered, Total): 135, 212
+REGULAR CLASS: org/apache/poi/openxml4j/util/ZipInputStreamZipEntrySource.class - JACT (NotCovered, Total): 37, 127
+REGULAR CLASS: org/apache/poi/openxml4j/util/ZipSecureFile.class - JACT (NotCovered, Total): 101, 111
+REGULAR CLASS: org/apache/poi/openxml4j/util/ZipArchiveFakeEntry.class - JACT (NotCovered, Total): 127, 195
+REGULAR CLASS: org/apache/poi/xssf/usermodel/extensions/XSSFCellFill.class - JACT (NotCovered, Total): 165, 177
+REGULAR CLASS: org/apache/poi/xssf/usermodel/extensions/XSSFCellBorder.class - JACT (NotCovered, Total): 311, 342
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFFont.class - JACT (NotCovered, Total): 792, 900
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFWorkbook.class - JACT (NotCovered, Total): 2852, 3346
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFDataValidationHelper.class - JACT (NotCovered, Total): 208, 211
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFRichTextString.class - JACT (NotCovered, Total): 1225, 1305
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFCell.class - JACT (NotCovered, Total): 1356, 1595
+REGULAR CLASS: org/apache/poi/xssf/usermodel/helpers/ColumnHelper.class - JACT (NotCovered, Total): 572, 770
+ENUM: org/apache/poi/xssf/usermodel/XSSFWorkbookType.class - JACT (NotCovered, Total): 3, 47
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFTable.class - JACT (NotCovered, Total): 1129, 1314
+REGULAR CLASS: org/apache/poi/xssf/usermodel/DefaultIndexedColorMap.class - JACT (NotCovered, Total): 40, 43
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFRow.class - JACT (NotCovered, Total): 733, 1125
+REGULAR CLASS: org/apache/poi/xssf/usermodel/CustomIndexedColorMap.class - JACT (NotCovered, Total): 56, 60
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFSheet.class - JACT (NotCovered, Total): 7442, 7879
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFFactory.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/apache/poi/xssf/usermodel/XSSFRelation.class - JACT (NotCovered, Total): 0, 442
+REGULAR CLASS: org/apache/poi/xssf/util/CTColComparator$1.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/apache/poi/xssf/util/NumericRanges.class - JACT (NotCovered, Total): 68, 98
+REGULAR CLASS: org/apache/poi/xssf/util/CTColComparator$2.class - JACT (NotCovered, Total): 2, 26
+REGULAR CLASS: org/apache/poi/xssf/util/CTColComparator.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/poi/xssf/model/StylesTable.class - JACT (NotCovered, Total): 796, 1566
+REGULAR CLASS: org/apache/poi/xssf/model/ThemesTable.class - JACT (NotCovered, Total): 140, 183
+REGULAR CLASS: org/apache/poi/xssf/model/SharedStringsTable.class - JACT (NotCovered, Total): 45, 289
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFRunProperties.class - JACT (NotCovered, Total): 847, 924
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFTextRun.class - JACT (NotCovered, Total): 799, 841
+ENUM: org/apache/poi/xddf/usermodel/text/AnchorType.class - JACT (NotCovered, Total): 5, 98
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFParagraphProperties.class - JACT (NotCovered, Total): 438, 480
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFParagraphBulletProperties.class - JACT (NotCovered, Total): 391, 397
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFBodyProperties.class - JACT (NotCovered, Total): 354, 376
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFTextBody.class - JACT (NotCovered, Total): 765, 861
+ENUM: org/apache/poi/xddf/usermodel/text/TextAlignment.class - JACT (NotCovered, Total): 5, 120
+REGULAR CLASS: org/apache/poi/xddf/usermodel/text/XDDFTextParagraph.class - JACT (NotCovered, Total): 849, 1068
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$2.class - JACT (NotCovered, Total): 21, 35
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFPieChartData.class - JACT (NotCovered, Total): 122, 154
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$StringArrayDataSource.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$NumericalArrayDataSource.class - JACT (NotCovered, Total): 5, 18
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFLineChartData.class - JACT (NotCovered, Total): 93, 178
+ENUM: org/apache/poi/xddf/usermodel/chart/ChartTypes.class - JACT (NotCovered, Total): 0, 134
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFAreaChartData$Series.class - JACT (NotCovered, Total): 84, 130
+ENUM: org/apache/poi/xddf/usermodel/chart/AxisPosition.class - JACT (NotCovered, Total): 0, 87
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFPieChartData$Series.class - JACT (NotCovered, Total): 140, 170
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFTitle.class - JACT (NotCovered, Total): 77, 150
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFScatterChartData.class - JACT (NotCovered, Total): 142, 190
+INTERFACE: org/apache/poi/xddf/usermodel/chart/XDDFDataSource.class - JACT (NotCovered, Total): 15, 129
+ABSTRACT CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$AbstractArrayDataSource.class - JACT (NotCovered, Total): 22, 72
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFScatterChartData$Series.class - JACT (NotCovered, Total): 230, 260
+ABSTRACT CLASS: org/apache/poi/xddf/usermodel/chart/XDDFChartData$Series.class - JACT (NotCovered, Total): 215, 437
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFRadarChartData.class - JACT (NotCovered, Total): 90, 175
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFBar3DChartData.class - JACT (NotCovered, Total): 289, 340
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFLineChartData$Series.class - JACT (NotCovered, Total): 229, 275
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDoughnutChartData$Series.class - JACT (NotCovered, Total): 140, 170
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFBarChartData$Series.class - JACT (NotCovered, Total): 162, 204
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFValueAxis.class - JACT (NotCovered, Total): 315, 349
+ABSTRACT CLASS: org/apache/poi/xddf/usermodel/chart/XDDFChartData.class - JACT (NotCovered, Total): 24, 128
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$1.class - JACT (NotCovered, Total): 50, 74
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFAreaChartData.class - JACT (NotCovered, Total): 109, 194
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDoughnutChartData.class - JACT (NotCovered, Total): 174, 206
+ABSTRACT CLASS: org/apache/poi/xddf/usermodel/chart/XDDFChart.class - JACT (NotCovered, Total): 1197, 1864
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory$5.class - JACT (NotCovered, Total): 31, 58
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFCategoryAxis.class - JACT (NotCovered, Total): 277, 283
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFBarChartData.class - JACT (NotCovered, Total): 216, 312
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFRadarChartData$Series.class - JACT (NotCovered, Total): 84, 130
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFBar3DChartData$Series.class - JACT (NotCovered, Total): 174, 204
+ABSTRACT CLASS: org/apache/poi/xddf/usermodel/chart/XDDFChartAxis.class - JACT (NotCovered, Total): 313, 321
+REGULAR CLASS: org/apache/poi/xddf/usermodel/chart/XDDFDataSourcesFactory.class - JACT (NotCovered, Total): 66, 120
+ABSTRACT CLASS: org/apache/poi/ooxml/POIXMLDocument.class - JACT (NotCovered, Total): 72, 156
+ABSTRACT CLASS: org/apache/poi/ooxml/POIXMLRelation.class - JACT (NotCovered, Total): 50, 117
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLProperties$CoreProperties.class - JACT (NotCovered, Total): 176, 197
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLProperties.class - JACT (NotCovered, Total): 143, 392
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLProperties$ExtendedProperties.class - JACT (NotCovered, Total): 324, 334
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLTypeLoader.class - JACT (NotCovered, Total): 3, 108
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLDocumentPart.class - JACT (NotCovered, Total): 246, 731
+REGULAR CLASS: org/apache/poi/ooxml/util/POIXMLUnits.class - JACT (NotCovered, Total): 148, 237
+REGULAR CLASS: org/apache/poi/ooxml/util/DocumentHelper.class - JACT (NotCovered, Total): 7, 36
+REGULAR CLASS: org/apache/poi/ooxml/util/PackageHelper.class - JACT (NotCovered, Total): 242, 253
+REGULAR CLASS: org/apache/poi/ooxml/util/IdentifierManager$Segment.class - JACT (NotCovered, Total): 17, 26
+REGULAR CLASS: org/apache/poi/ooxml/util/IdentifierManager.class - JACT (NotCovered, Total): 353, 563
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLProperties$CustomProperties.class - JACT (NotCovered, Total): 155, 164
+ABSTRACT CLASS: org/apache/poi/ooxml/POIXMLFactory.class - JACT (NotCovered, Total): 26, 118
+REGULAR CLASS: org/apache/poi/ooxml/POIXMLDocumentPart$RelationPart.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFComments.class - JACT (NotCovered, Total): 139, 361
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFFooter.class - JACT (NotCovered, Total): 89, 197
+ENUM: org/apache/poi/xwpf/usermodel/XWPFTable$XWPFBorderType.class - JACT (NotCovered, Total): 0, 274
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFSDT.class - JACT (NotCovered, Total): 3, 33
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFNumbering.class - JACT (NotCovered, Total): 202, 458
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFComment.class - JACT (NotCovered, Total): 307, 689
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFHeader.class - JACT (NotCovered, Total): 88, 187
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/FootnoteEndnoteIdManager.class - JACT (NotCovered, Total): 59, 65
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFRelation.class - JACT (NotCovered, Total): 0, 321
+ABSTRACT CLASS: org/apache/poi/xwpf/usermodel/XWPFAbstractFootnoteEndnote.class - JACT (NotCovered, Total): 631, 729
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFChart.class - JACT (NotCovered, Total): 105, 140
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFEndnote.class - JACT (NotCovered, Total): 61, 66
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFRun.class - JACT (NotCovered, Total): 1138, 2479
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFAbstractNum.class - JACT (NotCovered, Total): 20, 41
+ENUM: org/apache/poi/xwpf/usermodel/TableWidthType.class - JACT (NotCovered, Total): 3, 62
+ENUM: org/apache/poi/xwpf/usermodel/UnderlinePatterns.class - JACT (NotCovered, Total): 22, 262
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFStyles.class - JACT (NotCovered, Total): 263, 464
+ENUM: org/apache/poi/xwpf/usermodel/XWPFTable$Border.class - JACT (NotCovered, Total): 0, 64
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFSDTContent.class - JACT (NotCovered, Total): 211, 309
+ENUM: org/apache/poi/xwpf/usermodel/XWPFTableCell$XWPFVertAlign.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFSettings.class - JACT (NotCovered, Total): 441, 507
+ENUM: org/apache/poi/xwpf/usermodel/BreakType.class - JACT (NotCovered, Total): 22, 97
+ENUM: org/apache/poi/xwpf/usermodel/BodyElementType.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFLatentStyles.class - JACT (NotCovered, Total): 39, 48
+ENUM: org/apache/poi/xwpf/usermodel/TableRowAlign.class - JACT (NotCovered, Total): 22, 97
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFParagraph.class - JACT (NotCovered, Total): 2014, 2671
+ABSTRACT CLASS: org/apache/poi/xwpf/usermodel/XWPFAbstractSDT.class - JACT (NotCovered, Total): 18, 50
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFStyle.class - JACT (NotCovered, Total): 79, 100
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFNum.class - JACT (NotCovered, Total): 38, 50
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFPictureData.class - JACT (NotCovered, Total): 62, 248
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFPicture.class - JACT (NotCovered, Total): 61, 79
+ENUM: org/apache/poi/xwpf/usermodel/ParagraphAlignment.class - JACT (NotCovered, Total): 12, 196
+ABSTRACT CLASS: org/apache/poi/xwpf/usermodel/XWPFHeaderFooter.class - JACT (NotCovered, Total): 392, 1020
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFHyperlinkRun.class - JACT (NotCovered, Total): 24, 35
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFTable.class - JACT (NotCovered, Total): 746, 1763
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFDefaultParagraphStyle.class - JACT (NotCovered, Total): 17, 23
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFFactory.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFTableRow.class - JACT (NotCovered, Total): 278, 426
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFHyperlink.class - JACT (NotCovered, Total): 6, 15
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFEndnotes.class - JACT (NotCovered, Total): 105, 206
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFDefaultRunStyle.class - JACT (NotCovered, Total): 49, 55
+ABSTRACT CLASS: org/apache/poi/xwpf/usermodel/XWPFAbstractFootnotesEndnotes.class - JACT (NotCovered, Total): 49, 89
+ENUM: org/apache/poi/xwpf/usermodel/LineSpacingRule.class - JACT (NotCovered, Total): 22, 97
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFTableCell.class - JACT (NotCovered, Total): 385, 989
+ENUM: org/apache/poi/xwpf/usermodel/BodyType.class - JACT (NotCovered, Total): 0, 74
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFFootnotes.class - JACT (NotCovered, Total): 85, 181
+ENUM: org/apache/poi/xwpf/usermodel/XWPFRun$FontCharRange.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFDocument.class - JACT (NotCovered, Total): 1183, 2451
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFFieldRun.class - JACT (NotCovered, Total): 4, 20
+REGULAR CLASS: org/apache/poi/xwpf/usermodel/XWPFFootnote.class - JACT (NotCovered, Total): 58, 63
+REGULAR CLASS: org/apache/poi/xwpf/model/XWPFHeaderFooterPolicy.class - JACT (NotCovered, Total): 467, 727
+ENUM: org/apache/poi/wp/usermodel/HeaderFooterType.class - JACT (NotCovered, Total): 34, 82
+ENUM: org/apache/poi/sl/usermodel/PictureData$PictureType.class - JACT (NotCovered, Total): 54, 313
+ENUM: org/apache/poi/ss/SpreadsheetVersion.class - JACT (NotCovered, Total): 12, 91
+INTERFACE: org/apache/poi/ss/usermodel/Table.class - JACT (NotCovered, Total): 19, 23
+ENUM: org/apache/poi/ss/usermodel/Row$MissingCellPolicy.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/apache/poi/ss/usermodel/DataFormatter$ZipPlusFourFormat.class - JACT (NotCovered, Total): 32, 40
+ENUM: org/apache/poi/ss/usermodel/IndexedColors.class - JACT (NotCovered, Total): 38, 705
+ENUM: org/apache/poi/ss/usermodel/FontFamily.class - JACT (NotCovered, Total): 4, 109
+REGULAR CLASS: org/apache/poi/ss/usermodel/DataFormatter$SSNFormat.class - JACT (NotCovered, Total): 39, 47
+REGULAR CLASS: org/apache/poi/ss/usermodel/DataFormatter$PhoneFormat.class - JACT (NotCovered, Total): 87, 95
+ABSTRACT CLASS: org/apache/poi/ss/usermodel/CellBase.class - JACT (NotCovered, Total): 200, 230
+REGULAR CLASS: org/apache/poi/ss/usermodel/ExcelGeneralNumberFormat.class - JACT (NotCovered, Total): 82, 129
+REGULAR CLASS: org/apache/poi/ss/usermodel/DataFormatter.class - JACT (NotCovered, Total): 1443, 1705
+ENUM: org/apache/poi/ss/usermodel/FontScheme.class - JACT (NotCovered, Total): 4, 71
+ENUM: org/apache/poi/ss/usermodel/CellType.class - JACT (NotCovered, Total): 37, 126
+REGULAR CLASS: org/apache/poi/ss/formula/functions/FactDouble.class - JACT (NotCovered, Total): 69, 81
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Dec2Bin.class - JACT (NotCovered, Total): 137, 145
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Fixed1ArgFunction.class - JACT (NotCovered, Total): 14, 17
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$3.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/poi/ss/formula/functions/EOMonth.class - JACT (NotCovered, Total): 85, 93
+REGULAR CLASS: org/apache/poi/ss/formula/functions/NormSInv.class - JACT (NotCovered, Total): 61, 66
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Delta.class - JACT (NotCovered, Total): 60, 78
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Maxifs.class - JACT (NotCovered, Total): 7, 15
+REGULAR CLASS: org/apache/poi/ss/formula/functions/NormSDist.class - JACT (NotCovered, Total): 57, 62
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Hex2Dec.class - JACT (NotCovered, Total): 43, 51
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Countifs.class - JACT (NotCovered, Total): 7, 15
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TDistRt.class - JACT (NotCovered, Total): 68, 76
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$10.class - JACT (NotCovered, Total): 29, 32
+REGULAR CLASS: org/apache/poi/ss/formula/functions/NormDist.class - JACT (NotCovered, Total): 111, 116
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$8.class - JACT (NotCovered, Total): 59, 62
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Sumifs.class - JACT (NotCovered, Total): 7, 15
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Complex.class - JACT (NotCovered, Total): 197, 205
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Fixed2ArgFunction.class - JACT (NotCovered, Total): 17, 20
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$7.class - JACT (NotCovered, Total): 42, 45
+REGULAR CLASS: org/apache/poi/ss/formula/functions/NormInv.class - JACT (NotCovered, Total): 104, 109
+REGULAR CLASS: org/apache/poi/ss/formula/functions/DollarFr.class - JACT (NotCovered, Total): 134, 142
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/TextFunction$SingleArgTextFunc.class - JACT (NotCovered, Total): 14, 17
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Baseifs.class - JACT (NotCovered, Total): 272, 275
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Quotient.class - JACT (NotCovered, Total): 58, 66
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Averageifs.class - JACT (NotCovered, Total): 7, 15
+REGULAR CLASS: org/apache/poi/ss/formula/functions/BesselJ.class - JACT (NotCovered, Total): 70, 78
+REGULAR CLASS: org/apache/poi/ss/formula/functions/WeekNum.class - JACT (NotCovered, Total): 167, 272
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$LeftRight.class - JACT (NotCovered, Total): 52, 64
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Var2or3ArgFunction.class - JACT (NotCovered, Total): 30, 33
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Var1or2ArgFunction.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: org/apache/poi/ss/formula/functions/DollarDe.class - JACT (NotCovered, Total): 136, 144
+REGULAR CLASS: org/apache/poi/ss/formula/functions/EDate.class - JACT (NotCovered, Total): 95, 103
+REGULAR CLASS: org/apache/poi/ss/formula/functions/NumberValueFunction.class - JACT (NotCovered, Total): 266, 271
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$SearchFind.class - JACT (NotCovered, Total): 82, 88
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Oct2Dec.class - JACT (NotCovered, Total): 30, 38
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/TextFunction.class - JACT (NotCovered, Total): 152, 221
+REGULAR CLASS: org/apache/poi/ss/formula/functions/ImReal.class - JACT (NotCovered, Total): 85, 93
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$2.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$9.class - JACT (NotCovered, Total): 20, 23
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Fixed4ArgFunction.class - JACT (NotCovered, Total): 23, 26
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$6.class - JACT (NotCovered, Total): 9, 12
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Single.class - JACT (NotCovered, Total): 80, 85
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TDist2t.class - JACT (NotCovered, Total): 76, 84
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Minifs.class - JACT (NotCovered, Total): 7, 15
+ABSTRACT CLASS: org/apache/poi/ss/formula/functions/Fixed3ArgFunction.class - JACT (NotCovered, Total): 20, 23
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Bin2Dec.class - JACT (NotCovered, Total): 166, 174
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$4.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Dec2Hex.class - JACT (NotCovered, Total): 162, 176
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TDistLt.class - JACT (NotCovered, Total): 122, 130
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$1.class - JACT (NotCovered, Total): 27, 30
+REGULAR CLASS: org/apache/poi/ss/formula/functions/TextFunction$5.class - JACT (NotCovered, Total): 53, 56
+REGULAR CLASS: org/apache/poi/ss/formula/functions/Imaginary.class - JACT (NotCovered, Total): 116, 127
+REGULAR CLASS: org/apache/poi/ss/formula/SheetNameFormatter.class - JACT (NotCovered, Total): 151, 290
+REGULAR CLASS: org/apache/poi/ss/formula/atp/MRound.class - JACT (NotCovered, Total): 63, 68
+REGULAR CLASS: org/apache/poi/ss/formula/atp/AnalysisToolPak.class - JACT (NotCovered, Total): 164, 714
+REGULAR CLASS: org/apache/poi/ss/formula/atp/YearFrac.class - JACT (NotCovered, Total): 90, 95
+REGULAR CLASS: org/apache/poi/ss/formula/atp/WorkdayFunction.class - JACT (NotCovered, Total): 66, 78
+REGULAR CLASS: org/apache/poi/ss/formula/atp/XLookupFunction.class - JACT (NotCovered, Total): 221, 233
+REGULAR CLASS: org/apache/poi/ss/formula/atp/IfNa.class - JACT (NotCovered, Total): 37, 42
+REGULAR CLASS: org/apache/poi/ss/formula/atp/NetworkdaysFunction.class - JACT (NotCovered, Total): 70, 82
+REGULAR CLASS: org/apache/poi/ss/formula/atp/WorkdayIntlFunction.class - JACT (NotCovered, Total): 96, 108
+REGULAR CLASS: org/apache/poi/ss/formula/atp/ParityFunction.class - JACT (NotCovered, Total): 54, 71
+REGULAR CLASS: org/apache/poi/ss/formula/atp/TextJoinFunction.class - JACT (NotCovered, Total): 238, 250
+REGULAR CLASS: org/apache/poi/ss/formula/atp/ArgumentsEvaluator.class - JACT (NotCovered, Total): 127, 132
+REGULAR CLASS: org/apache/poi/ss/formula/atp/PercentRankIncFunction.class - JACT (NotCovered, Total): 8, 20
+REGULAR CLASS: org/apache/poi/ss/formula/atp/Ifs.class - JACT (NotCovered, Total): 34, 39
+REGULAR CLASS: org/apache/poi/ss/formula/atp/PercentRankExcFunction.class - JACT (NotCovered, Total): 285, 297
+REGULAR CLASS: org/apache/poi/ss/formula/atp/AnalysisToolPak$NotImplemented.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: org/apache/poi/ss/formula/atp/RandBetween.class - JACT (NotCovered, Total): 63, 68
+REGULAR CLASS: org/apache/poi/ss/formula/atp/IfError.class - JACT (NotCovered, Total): 37, 42
+REGULAR CLASS: org/apache/poi/ss/formula/atp/XMatchFunction.class - JACT (NotCovered, Total): 123, 135
+REGULAR CLASS: org/apache/poi/ss/formula/atp/Switch.class - JACT (NotCovered, Total): 96, 101
+REGULAR CLASS: org/apache/poi/ss/formula/eval/NumberEval.class - JACT (NotCovered, Total): 75, 87
+REGULAR CLASS: org/apache/poi/ss/formula/udf/AggregatingUDFFinder.class - JACT (NotCovered, Total): 28, 55
+REGULAR CLASS: org/apache/poi/ss/formula/udf/IndexedUDFFinder.class - JACT (NotCovered, Total): 29, 38
+REGULAR CLASS: org/apache/poi/ss/util/CellRangeAddress.class - JACT (NotCovered, Total): 130, 204
+REGULAR CLASS: org/apache/poi/ss/util/CellReference.class - JACT (NotCovered, Total): 584, 932
+REGULAR CLASS: org/apache/poi/ss/util/CellReference$CellRefParts.class - JACT (NotCovered, Total): 2, 20
+ABSTRACT CLASS: org/apache/poi/ss/util/CellRangeAddressBase.class - JACT (NotCovered, Total): 427, 454
+ENUM: org/apache/poi/poifs/filesystem/FileMagic.class - JACT (NotCovered, Total): 40, 1146
+REGULAR CLASS: org/apache/poi/util/StringUtil.class - JACT (NotCovered, Total): 613, 1413
+REGULAR CLASS: org/apache/poi/util/IOUtils.class - JACT (NotCovered, Total): 421, 713
+REGULAR CLASS: org/apache/poi/util/LittleEndian.class - JACT (NotCovered, Total): 713, 806
+REGULAR CLASS: org/apache/poi/util/LocaleUtil.class - JACT (NotCovered, Total): 65, 103
+REGULAR CLASS: org/apache/poi/util/XMLHelper.class - JACT (NotCovered, Total): 271, 562
+REGULAR CLASS: org/apache/poi/util/Units.class - JACT (NotCovered, Total): 203, 249
+ENUM: org/apache/commons/codec/CodecPolicy.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: org/apache/commons/codec/binary/Base64.class - JACT (NotCovered, Total): 636, 1968
+REGULAR CLASS: org/apache/commons/codec/binary/BaseNCodec$Context.class - JACT (NotCovered, Total): 59, 62
+ABSTRACT CLASS: org/apache/commons/codec/binary/BaseNCodec.class - JACT (NotCovered, Total): 270, 514
+REGULAR CLASS: org/apache/commons/codec/binary/StringUtils.class - JACT (NotCovered, Total): 153, 163
+REGULAR CLASS: org/apache/poi/schemas/ooxml/system/ooxml/TypeSystemHolder.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHdrFtr$Enum.class - JACT (NotCovered, Total): 4, 50
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/NumberingDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTHdrFtr.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STNumberFormat.class - JACT (NotCovered, Total): 0, 199
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/EndnotesDocument.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/impl/CTRImpl.class - JACT (NotCovered, Total): 5169, 6006
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/impl/CTPImpl.class - JACT (NotCovered, Total): 5939, 6492
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTStyles.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/FtrDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STFldCharType.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STUnderline$Enum.class - JACT (NotCovered, Total): 9, 170
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STTblLayoutType$Enum.class - JACT (NotCovered, Total): 9, 42
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHeightRule$Enum.class - JACT (NotCovered, Total): 9, 50
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CommentsDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STShd.class - JACT (NotCovered, Total): 0, 124
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTBody.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STBorder.class - JACT (NotCovered, Total): 0, 589
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTDocument1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STBorder$Enum.class - JACT (NotCovered, Total): 4, 1570
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STStyleType.class - JACT (NotCovered, Total): 0, 22
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTTbl.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STJc.class - JACT (NotCovered, Total): 0, 46
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STPageOrientation$Enum.class - JACT (NotCovered, Total): 14, 42
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STLineSpacingRule$Enum.class - JACT (NotCovered, Total): 9, 50
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STVerticalJc$Enum.class - JACT (NotCovered, Total): 9, 58
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHighlightColor$Enum.class - JACT (NotCovered, Total): 9, 162
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STNumberFormat$Enum.class - JACT (NotCovered, Total): 4, 530
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTSettings.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/FootnotesDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTAbstractNum.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STJc$Enum.class - JACT (NotCovered, Total): 4, 122
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/DocumentDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STMerge.class - JACT (NotCovered, Total): 0, 16
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTFootnotes.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STStyleType$Enum.class - JACT (NotCovered, Total): 9, 58
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTComments.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTDrawing.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STShd$Enum.class - JACT (NotCovered, Total): 4, 330
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STTblLayoutType.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STFldCharType$Enum.class - JACT (NotCovered, Total): 9, 50
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTEndnotes.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STMerge$Enum.class - JACT (NotCovered, Total): 9, 42
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHint$Enum.class - JACT (NotCovered, Total): 9, 42
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STJcTable$Enum.class - JACT (NotCovered, Total): 9, 66
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTP.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STTblWidth.class - JACT (NotCovered, Total): 0, 22
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTR.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STTblWidth$Enum.class - JACT (NotCovered, Total): 9, 58
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHint.class - JACT (NotCovered, Total): 0, 16
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTNumbering.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STBrType$Enum.class - JACT (NotCovered, Total): 9, 50
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/SettingsDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHeightRule.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHexColorAuto$Enum.class - JACT (NotCovered, Total): 9, 34
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/HdrDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/CTTxbxContent.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHdrFtr.class - JACT (NotCovered, Total): 0, 19
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/STHexColorAuto.class - JACT (NotCovered, Total): 0, 13
+INTERFACE: org/openxmlformats/schemas/wordprocessingml/x2006/main/StylesDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/officeDocument/x2006/extendedProperties/PropertiesDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/officeDocument/x2006/customProperties/PropertiesDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/officeDocument/x2006/sharedTypes/STOnOff1.class - JACT (NotCovered, Total): 0, 16
+INTERFACE: org/openxmlformats/schemas/officeDocument/x2006/sharedTypes/STVerticalAlignRun.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/openxmlformats/schemas/officeDocument/x2006/sharedTypes/STOnOff1$Enum.class - JACT (NotCovered, Total): 9, 42
+REGULAR CLASS: org/openxmlformats/schemas/officeDocument/x2006/sharedTypes/STVerticalAlignRun$Enum.class - JACT (NotCovered, Total): 9, 50
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTWorkbook.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTXf.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/spreadsheetml/x2006/main/STCellType$Enum.class - JACT (NotCovered, Total): 9, 74
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/WorkbookDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTNumFmts.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTCols.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/spreadsheetml/x2006/main/STPatternType$Enum.class - JACT (NotCovered, Total): 9, 178
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTBorder.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/spreadsheetml/x2006/main/STFontScheme$Enum.class - JACT (NotCovered, Total): 9, 50
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/WorksheetDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/TableDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/StyleSheetDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTRst.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/STPatternType.class - JACT (NotCovered, Total): 0, 67
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/STCellType.class - JACT (NotCovered, Total): 0, 28
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTFont.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/SstDocument.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTFill.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/spreadsheetml/x2006/main/CTWorksheet.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/main/STShapeType.class - JACT (NotCovered, Total): 0, 571
+REGULAR CLASS: org/openxmlformats/schemas/drawingml/x2006/main/STTextAlignType$Enum.class - JACT (NotCovered, Total): 9, 82
+REGULAR CLASS: org/openxmlformats/schemas/drawingml/x2006/main/impl/CTNonVisualDrawingPropsImpl.class - JACT (NotCovered, Total): 871, 1102
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/main/CTGraphicalObject.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/main/ThemeDocument.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/drawingml/x2006/main/STTextAnchoringType$Enum.class - JACT (NotCovered, Total): 9, 66
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/main/STTextAnchoringType.class - JACT (NotCovered, Total): 0, 25
+REGULAR CLASS: org/openxmlformats/schemas/drawingml/x2006/main/STShapeType$Enum.class - JACT (NotCovered, Total): 9, 1522
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/main/STTextAlignType.class - JACT (NotCovered, Total): 0, 31
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/chart/STAxPos.class - JACT (NotCovered, Total): 0, 22
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/chart/CTChartSpace.class - JACT (NotCovered, Total): 0, 10
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/chart/ChartSpaceDocument.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/openxmlformats/schemas/drawingml/x2006/chart/STAxPos$Enum.class - JACT (NotCovered, Total): 9, 58
+INTERFACE: org/openxmlformats/schemas/drawingml/x2006/picture/CTPicture.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/apache/xmlbeans/GDate.class - JACT (NotCovered, Total): 1089, 2709
+REGULAR CLASS: org/apache/xmlbeans/GDateBuilder.class - JACT (NotCovered, Total): 2286, 2569
+REGULAR CLASS: org/apache/xmlbeans/QNameCache.class - JACT (NotCovered, Total): 20, 249
+REGULAR CLASS: org/apache/xmlbeans/QNameSet.class - JACT (NotCovered, Total): 367, 599
+REGULAR CLASS: org/apache/xmlbeans/QNameSetBuilder.class - JACT (NotCovered, Total): 989, 1270
+REGULAR CLASS: org/apache/xmlbeans/SchemaAttributeGroup$Ref.class - JACT (NotCovered, Total): 10, 15
+ABSTRACT CLASS: org/apache/xmlbeans/SchemaComponent$Ref.class - JACT (NotCovered, Total): 7, 58
+REGULAR CLASS: org/apache/xmlbeans/SchemaGlobalAttribute$Ref.class - JACT (NotCovered, Total): 6, 15
+REGULAR CLASS: org/apache/xmlbeans/SchemaGlobalElement$Ref.class - JACT (NotCovered, Total): 2, 15
+REGULAR CLASS: org/apache/xmlbeans/SchemaIdentityConstraint$Ref.class - JACT (NotCovered, Total): 10, 15
+REGULAR CLASS: org/apache/xmlbeans/SchemaModelGroup$Ref.class - JACT (NotCovered, Total): 10, 15
+REGULAR CLASS: org/apache/xmlbeans/SchemaType$Ref.class - JACT (NotCovered, Total): 2, 15
+REGULAR CLASS: org/apache/xmlbeans/StringEnumAbstractBase$Table.class - JACT (NotCovered, Total): 8, 89
+REGULAR CLASS: org/apache/xmlbeans/StringEnumAbstractBase.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: org/apache/xmlbeans/SystemProperties.class - JACT (NotCovered, Total): 15, 32
+REGULAR CLASS: org/apache/xmlbeans/XmlBeans$1.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: org/apache/xmlbeans/XmlBeans.class - JACT (NotCovered, Total): 287, 339
+REGULAR CLASS: org/apache/xmlbeans/XmlCursor$TokenType.class - JACT (NotCovered, Total): 99, 176
+REGULAR CLASS: org/apache/xmlbeans/XmlError.class - JACT (NotCovered, Total): 633, 650
+REGULAR CLASS: org/apache/xmlbeans/XmlFactoryHook$ThreadContext.class - JACT (NotCovered, Total): 13, 27
+INTERFACE: org/apache/xmlbeans/XmlID.class - JACT (NotCovered, Total): 0, 9
+INTERFACE: org/apache/xmlbeans/XmlNonNegativeInteger.class - JACT (NotCovered, Total): 0, 9
+INTERFACE: org/apache/xmlbeans/XmlObject.class - JACT (NotCovered, Total): 0, 9
+ENUM: org/apache/xmlbeans/XmlOptions$XmlOptionsKeys.class - JACT (NotCovered, Total): 0, 694
+REGULAR CLASS: org/apache/xmlbeans/XmlOptions.class - JACT (NotCovered, Total): 549, 976
+INTERFACE: org/apache/xmlbeans/XmlToken.class - JACT (NotCovered, Total): 0, 9
+INTERFACE: org/apache/xmlbeans/XmlUnsignedInt.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/xmlbeans/impl/common/EncodingMap.class - JACT (NotCovered, Total): 39, 1487
+REGULAR CLASS: org/apache/xmlbeans/impl/common/GlobalLock.class - JACT (NotCovered, Total): 7, 18
+ABSTRACT CLASS: org/apache/xmlbeans/impl/common/IdentityConstraint$ConstraintState.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: org/apache/xmlbeans/impl/common/IdentityConstraint$IdState.class - JACT (NotCovered, Total): 42, 83
+REGULAR CLASS: org/apache/xmlbeans/impl/common/IdentityConstraint.class - JACT (NotCovered, Total): 203, 365
+REGULAR CLASS: org/apache/xmlbeans/impl/common/Mutex.class - JACT (NotCovered, Total): 22, 64
+REGULAR CLASS: org/apache/xmlbeans/impl/common/QNameHelper.class - JACT (NotCovered, Total): 466, 895
+REGULAR CLASS: org/apache/xmlbeans/impl/common/ResolverUtil.class - JACT (NotCovered, Total): 82, 93
+REGULAR CLASS: org/apache/xmlbeans/impl/common/SAXHelper.class - JACT (NotCovered, Total): 120, 214
+REGULAR CLASS: org/apache/xmlbeans/impl/common/SystemCache.class - JACT (NotCovered, Total): 97, 132
+REGULAR CLASS: org/apache/xmlbeans/impl/common/XBeanDebug.class - JACT (NotCovered, Total): 3, 7
+REGULAR CLASS: org/apache/xmlbeans/impl/common/XMLChar.class - JACT (NotCovered, Total): 363, 3185
+REGULAR CLASS: org/apache/xmlbeans/impl/common/XmlWhitespace.class - JACT (NotCovered, Total): 181, 239
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/ParserForXMLSchema.class - JACT (NotCovered, Total): 409, 803
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/REUtil.class - JACT (NotCovered, Total): 802, 847
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/RangeToken.class - JACT (NotCovered, Total): 1241, 2033
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/RegexParser.class - JACT (NotCovered, Total): 2237, 2737
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/RegularExpression.class - JACT (NotCovered, Total): 3149, 3238
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/SchemaRegularExpression$1.class - JACT (NotCovered, Total): 3, 8
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/SchemaRegularExpression$2.class - JACT (NotCovered, Total): 3, 8
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/SchemaRegularExpression$3.class - JACT (NotCovered, Total): 3, 8
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/SchemaRegularExpression.class - JACT (NotCovered, Total): 0, 53
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$CharToken.class - JACT (NotCovered, Total): 135, 145
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$ClosureToken.class - JACT (NotCovered, Total): 243, 264
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$ConcatToken.class - JACT (NotCovered, Total): 67, 87
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$ParenToken.class - JACT (NotCovered, Total): 122, 132
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$StringToken.class - JACT (NotCovered, Total): 24, 34
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token$UnionToken.class - JACT (NotCovered, Total): 247, 387
+REGULAR CLASS: org/apache/xmlbeans/impl/regex/Token.class - JACT (NotCovered, Total): 1592, 2409
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/AbstractDocumentFactory.class - JACT (NotCovered, Total): 96, 117
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/BuiltinSchemaTypeSystem.class - JACT (NotCovered, Total): 176, 2491
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/ClassLoaderResourceLoader.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/DocumentFactory.class - JACT (NotCovered, Total): 7, 19
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/ElementFactory.class - JACT (NotCovered, Total): 7, 32
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaAnnotationImpl.class - JACT (NotCovered, Total): 256, 271
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaAttributeModelImpl.class - JACT (NotCovered, Total): 64, 115
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaContainer.class - JACT (NotCovered, Total): 147, 292
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaGlobalAttributeImpl.class - JACT (NotCovered, Total): 42, 58
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaGlobalElementImpl.class - JACT (NotCovered, Total): 72, 110
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaLocalAttributeImpl.class - JACT (NotCovered, Total): 91, 166
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaLocalElementImpl.class - JACT (NotCovered, Total): 42, 102
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaParticleImpl.class - JACT (NotCovered, Total): 230, 430
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaPropertyImpl.class - JACT (NotCovered, Total): 76, 243
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaStringEnumEntryImpl.class - JACT (NotCovered, Total): 3, 21
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeImpl.class - JACT (NotCovered, Total): 2419, 4140
+ABSTRACT CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeLoaderBase.class - JACT (NotCovered, Total): 589, 867
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeLoaderImpl$SchemaTypeLoaderCache.class - JACT (NotCovered, Total): 54, 125
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeLoaderImpl$SubLoaderList.class - JACT (NotCovered, Total): 41, 82
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeLoaderImpl.class - JACT (NotCovered, Total): 969, 1425
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypePool.class - JACT (NotCovered, Total): 508, 612
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeSystemImpl$StringPool.class - JACT (NotCovered, Total): 71, 166
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeSystemImpl.class - JACT (NotCovered, Total): 2080, 2628
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeVisitorImpl$VisitorState.class - JACT (NotCovered, Total): 20, 77
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SchemaTypeVisitorImpl.class - JACT (NotCovered, Total): 349, 672
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/SimpleTypeFactory.class - JACT (NotCovered, Total): 5, 10
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/StscComplexTypeResolver$CodeForNameEntry.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/StscComplexTypeResolver$WildcardResult.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/StscComplexTypeResolver.class - JACT (NotCovered, Total): 4161, 4360
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/StscState.class - JACT (NotCovered, Total): 2775, 2881
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/XmlObjectFactory.class - JACT (NotCovered, Total): 128, 158
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/XmlValueRef.class - JACT (NotCovered, Total): 35, 75
+REGULAR CLASS: org/apache/xmlbeans/impl/schema/XsbReader.class - JACT (NotCovered, Total): 3209, 4979
+REGULAR CLASS: org/apache/xmlbeans/impl/store/AttrXobj.class - JACT (NotCovered, Total): 25, 41
+REGULAR CLASS: org/apache/xmlbeans/impl/store/CharUtil$CharIterator.class - JACT (NotCovered, Total): 263, 267
+REGULAR CLASS: org/apache/xmlbeans/impl/store/CharUtil$CharJoin.class - JACT (NotCovered, Total): 100, 270
+REGULAR CLASS: org/apache/xmlbeans/impl/store/CharUtil.class - JACT (NotCovered, Total): 836, 1392
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Cur$CurLoadContext.class - JACT (NotCovered, Total): 480, 1040
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Cur$Locations.class - JACT (NotCovered, Total): 105, 817
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Cur.class - JACT (NotCovered, Total): 3151, 5899
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Cursor.class - JACT (NotCovered, Total): 3468, 4530
+REGULAR CLASS: org/apache/xmlbeans/impl/store/DocumentFragXobj.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: org/apache/xmlbeans/impl/store/DocumentXobj.class - JACT (NotCovered, Total): 186, 197
+REGULAR CLASS: org/apache/xmlbeans/impl/store/DomImpl.class - JACT (NotCovered, Total): 5742, 5786
+REGULAR CLASS: org/apache/xmlbeans/impl/store/ElementXobj.class - JACT (NotCovered, Total): 103, 119
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$DefaultQNameFactory.class - JACT (NotCovered, Total): 39, 59
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Locale$LoadContext.class - JACT (NotCovered, Total): 75, 83
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$Ref.class - JACT (NotCovered, Total): 0, 10
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Locale$SaxHandler.class - JACT (NotCovered, Total): 201, 425
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Locale$SaxLoader.class - JACT (NotCovered, Total): 79, 155
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$ScrubBuffer.class - JACT (NotCovered, Total): 59, 167
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$XmlReaderSaxLoader.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$domNthCache.class - JACT (NotCovered, Total): 242, 249
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale$nthCache.class - JACT (NotCovered, Total): 47, 250
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Locale.class - JACT (NotCovered, Total): 1832, 3406
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/NamedNodeXobj.class - JACT (NotCovered, Total): 0, 12
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/NodeXobj.class - JACT (NotCovered, Total): 136, 150
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$DocSaveCur.class - JACT (NotCovered, Total): 12, 118
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$FragSaveCur.class - JACT (NotCovered, Total): 85, 518
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$InputStreamSaver$OutputStreamImpl.class - JACT (NotCovered, Total): 131, 418
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$InputStreamSaver.class - JACT (NotCovered, Total): 110, 249
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$PrettySaveCur.class - JACT (NotCovered, Total): 158, 558
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Saver$SaveCur.class - JACT (NotCovered, Total): 31, 74
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$SynthNamespaceSaver.class - JACT (NotCovered, Total): 3, 30
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Saver$TextSaver.class - JACT (NotCovered, Total): 1960, 3363
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Saver.class - JACT (NotCovered, Total): 345, 1589
+REGULAR CLASS: org/apache/xmlbeans/impl/store/Validate.class - JACT (NotCovered, Total): 265, 523
+ABSTRACT CLASS: org/apache/xmlbeans/impl/store/Xobj.class - JACT (NotCovered, Total): 2004, 4630
+REGULAR CLASS: org/apache/xmlbeans/impl/util/HexBin.class - JACT (NotCovered, Total): 66, 281
+REGULAR CLASS: org/apache/xmlbeans/impl/util/LongUTFDataInputStream.class - JACT (NotCovered, Total): 119, 254
+REGULAR CLASS: org/apache/xmlbeans/impl/util/XsTypeConverter.class - JACT (NotCovered, Total): 1128, 1330
+REGULAR CLASS: org/apache/xmlbeans/impl/validator/Validator$State.class - JACT (NotCovered, Total): 18, 49
+REGULAR CLASS: org/apache/xmlbeans/impl/validator/Validator$ValidatorVC.class - JACT (NotCovered, Total): 22, 28
+REGULAR CLASS: org/apache/xmlbeans/impl/validator/Validator.class - JACT (NotCovered, Total): 2307, 3137
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaBooleanHolder.class - JACT (NotCovered, Total): 44, 89
+REGULAR CLASS: org/apache/xmlbeans/impl/values/JavaDecimalHolder.class - JACT (NotCovered, Total): 204, 257
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaDecimalHolderEx.class - JACT (NotCovered, Total): 351, 427
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaDoubleHolder.class - JACT (NotCovered, Total): 111, 150
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaGDateHolderEx.class - JACT (NotCovered, Total): 603, 647
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaHexBinaryHolder.class - JACT (NotCovered, Total): 138, 200
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaHexBinaryHolderEx.class - JACT (NotCovered, Total): 177, 256
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaIntHolder.class - JACT (NotCovered, Total): 129, 148
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaIntHolderEx.class - JACT (NotCovered, Total): 346, 363
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaIntegerHolder.class - JACT (NotCovered, Total): 89, 144
+REGULAR CLASS: org/apache/xmlbeans/impl/values/JavaIntegerHolderEx.class - JACT (NotCovered, Total): 255, 373
+REGULAR CLASS: org/apache/xmlbeans/impl/values/JavaListXmlObject.class - JACT (NotCovered, Total): 67, 104
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaLongHolder.class - JACT (NotCovered, Total): 100, 131
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaLongHolderEx.class - JACT (NotCovered, Total): 283, 376
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaStringEnumerationHolderEx.class - JACT (NotCovered, Total): 10, 79
+REGULAR CLASS: org/apache/xmlbeans/impl/values/JavaStringHolder.class - JACT (NotCovered, Total): 19, 31
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/JavaStringHolderEx.class - JACT (NotCovered, Total): 159, 238
+REGULAR CLASS: org/apache/xmlbeans/impl/values/NamespaceContext$NamespaceContextStack.class - JACT (NotCovered, Total): 0, 39
+REGULAR CLASS: org/apache/xmlbeans/impl/values/NamespaceContext.class - JACT (NotCovered, Total): 127, 173
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlAnyTypeImpl.class - JACT (NotCovered, Total): 4, 8
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlBooleanImpl.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlComplexContentImpl.class - JACT (NotCovered, Total): 870, 1095
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlDoubleImpl.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlIntegerImpl.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlListImpl.class - JACT (NotCovered, Total): 595, 647
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlLongImpl.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlNonNegativeIntegerImpl.class - JACT (NotCovered, Total): 5, 10
+ABSTRACT CLASS: org/apache/xmlbeans/impl/values/XmlObjectBase.class - JACT (NotCovered, Total): 3746, 5289
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlStringImpl.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlTokenImpl.class - JACT (NotCovered, Total): 5, 10
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlUnionImpl.class - JACT (NotCovered, Total): 679, 910
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlUnsignedIntImpl.class - JACT (NotCovered, Total): 5, 10
+REGULAR CLASS: org/apache/xmlbeans/impl/values/XmlValueOutOfRangeException.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPath$Selector.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPath.class - JACT (NotCovered, Total): 15, 35
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPathCompilationContext.class - JACT (NotCovered, Total): 336, 1313
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPathExecutionContext$PathContext.class - JACT (NotCovered, Total): 50, 236
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPathExecutionContext.class - JACT (NotCovered, Total): 31, 178
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPathFactory.class - JACT (NotCovered, Total): 167, 299
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/XPathStep.class - JACT (NotCovered, Total): 10, 103
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/xmlbeans/XmlbeansXPath.class - JACT (NotCovered, Total): 12, 41
+REGULAR CLASS: org/apache/xmlbeans/impl/xpath/xmlbeans/XmlbeansXPathEngine.class - JACT (NotCovered, Total): 49, 202
+REGULAR CLASS: org/apache/xmlbeans/metadata/system/sXMLLANG/TypeSystemHolder.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/xmlbeans/metadata/system/sXMLSCHEMA/TypeSystemHolder.class - JACT (NotCovered, Total): 0, 9
+ABSTRACT CLASS: org/apache/commons/compress/archivers/ArchiveInputStream.class - JACT (NotCovered, Total): 25, 58
+ABSTRACT CLASS: org/apache/commons/compress/archivers/ArchiveOutputStream.class - JACT (NotCovered, Total): 35, 53
+ABSTRACT CLASS: org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField.class - JACT (NotCovered, Total): 230, 233
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/AsiExtraField.class - JACT (NotCovered, Total): 352, 371
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ExtraFieldUtils$UnparseableExtraField.class - JACT (NotCovered, Total): 64, 86
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ExtraFieldUtils.class - JACT (NotCovered, Total): 224, 516
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/GeneralPurposeBit.class - JACT (NotCovered, Total): 116, 231
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/JarMarker.class - JACT (NotCovered, Total): 24, 44
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/NioZipEncoding.class - JACT (NotCovered, Total): 193, 389
+ABSTRACT CLASS: org/apache/commons/compress/archivers/zip/PKWareExtraHeader.class - JACT (NotCovered, Total): 99, 108
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ResourceAlignmentExtraField.class - JACT (NotCovered, Total): 151, 162
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/StreamCompressor$OutputStreamCompressor.class - JACT (NotCovered, Total): 0, 14
+ABSTRACT CLASS: org/apache/commons/compress/archivers/zip/StreamCompressor.class - JACT (NotCovered, Total): 114, 280
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/UnicodeCommentExtraField.class - JACT (NotCovered, Total): 12, 23
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/UnicodePathExtraField.class - JACT (NotCovered, Total): 12, 23
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/UnrecognizedExtraField.class - JACT (NotCovered, Total): 46, 85
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X000A_NTFS.class - JACT (NotCovered, Total): 377, 407
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X0014_X509Certificates.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X0015_CertificateIdForFile.class - JACT (NotCovered, Total): 29, 36
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X0016_CertificateIdForCentralDirectory.class - JACT (NotCovered, Total): 24, 31
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.class - JACT (NotCovered, Total): 576, 583
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X0019_EncryptionRecipientCertificateList.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.class - JACT (NotCovered, Total): 624, 635
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/X7875_NewUnix.class - JACT (NotCovered, Total): 388, 419
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.class - JACT (NotCovered, Total): 399, 410
+ENUM: org/apache/commons/compress/archivers/zip/Zip64Mode.class - JACT (NotCovered, Total): 0, 44
+ENUM: org/apache/commons/compress/archivers/zip/ZipArchiveEntry$CommentSource.class - JACT (NotCovered, Total): 0, 24
+ENUM: org/apache/commons/compress/archivers/zip/ZipArchiveEntry$ExtraFieldParsingMode$1.class - JACT (NotCovered, Total): 0, 14
+ENUM: org/apache/commons/compress/archivers/zip/ZipArchiveEntry$ExtraFieldParsingMode$2.class - JACT (NotCovered, Total): 7, 14
+ENUM: org/apache/commons/compress/archivers/zip/ZipArchiveEntry$ExtraFieldParsingMode.class - JACT (NotCovered, Total): 46, 123
+ENUM: org/apache/commons/compress/archivers/zip/ZipArchiveEntry$NameSource.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveEntry.class - JACT (NotCovered, Total): 1034, 1298
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveInputStream$CurrentEntry.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.class - JACT (NotCovered, Total): 1013, 2353
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$CurrentEntry.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$EntryMetaData.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$UnicodeExtraFieldPolicy.class - JACT (NotCovered, Total): 3, 25
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.class - JACT (NotCovered, Total): 1723, 2999
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipEightByteInteger.class - JACT (NotCovered, Total): 281, 298
+ABSTRACT CLASS: org/apache/commons/compress/archivers/zip/ZipEncodingHelper.class - JACT (NotCovered, Total): 47, 78
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipFile.class - JACT (NotCovered, Total): 1757, 1764
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipLong.class - JACT (NotCovered, Total): 42, 137
+ENUM: org/apache/commons/compress/archivers/zip/ZipMethod.class - JACT (NotCovered, Total): 0, 265
+REGULAR CLASS: org/apache/commons/compress/archivers/zip/ZipShort.class - JACT (NotCovered, Total): 28, 103
+ABSTRACT CLASS: org/apache/commons/compress/archivers/zip/ZipUtil.class - JACT (NotCovered, Total): 282, 482
+REGULAR CLASS: org/apache/commons/compress/utils/ByteUtils.class - JACT (NotCovered, Total): 164, 224
+REGULAR CLASS: org/apache/commons/compress/utils/IOUtils.class - JACT (NotCovered, Total): 205, 325
+REGULAR CLASS: org/apache/commons/io/IOUtils.class - JACT (NotCovered, Total): 2107, 2130
+ENUM: org/apache/commons/io/StandardLineSeparator.class - JACT (NotCovered, Total): 5, 56
+REGULAR CLASS: org/apache/commons/io/input/BoundedInputStream.class - JACT (NotCovered, Total): 125, 188
+REGULAR CLASS: org/apache/commons/io/input/UnsynchronizedByteArrayInputStream.class - JACT (NotCovered, Total): 135, 247
+ABSTRACT CLASS: org/apache/commons/io/output/AbstractByteArrayOutputStream.class - JACT (NotCovered, Total): 222, 430
+REGULAR CLASS: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.class - JACT (NotCovered, Total): 66, 114
+REGULAR CLASS: org/apache/logging/log4j/util/LoaderUtil.class - JACT (NotCovered, Total): 121, 284
+ABSTRACT CLASS: org/apache/logging/log4j/message/AbstractMessageFactory.class - JACT (NotCovered, Total): 290, 298
+REGULAR CLASS: org/apache/logging/log4j/simple/SimpleLoggerContext.class - JACT (NotCovered, Total): 41, 167
+REGULAR CLASS: org/apache/logging/log4j/simple/SimpleLoggerContextFactory.class - JACT (NotCovered, Total): 5, 15
+ABSTRACT CLASS: org/apache/logging/log4j/spi/AbstractLogger.class - JACT (NotCovered, Total): 5080, 5360
+REGULAR CLASS: org/apache/logging/log4j/util/PropertySource$Util.class - JACT (NotCovered, Total): 0, 91
+REGULAR CLASS: org/apache/logging/log4j/Level.class - JACT (NotCovered, Total): 190, 287
+REGULAR CLASS: org/apache/logging/log4j/util/Strings.class - JACT (NotCovered, Total): 225, 252
+REGULAR CLASS: org/apache/logging/log4j/util/Constants.class - JACT (NotCovered, Total): 19, 84
+REGULAR CLASS: org/apache/logging/log4j/message/ParameterizedNoReferenceMessageFactory.class - JACT (NotCovered, Total): 21, 29
+REGULAR CLASS: org/apache/logging/log4j/spi/LoggerRegistry$ConcurrentMapFactory.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: org/apache/logging/log4j/util/PropertiesPropertySource.class - JACT (NotCovered, Total): 25, 40
+REGULAR CLASS: org/apache/logging/log4j/spi/LoggerRegistry.class - JACT (NotCovered, Total): 63, 129
+REGULAR CLASS: org/apache/logging/log4j/util/PropertySource$Comparator.class - JACT (NotCovered, Total): 0, 13
+INTERFACE: org/apache/logging/log4j/util/PropertySource.class - JACT (NotCovered, Total): 5, 7
+REGULAR CLASS: org/apache/logging/log4j/MarkerManager.class - JACT (NotCovered, Total): 47, 77
+REGULAR CLASS: org/apache/logging/log4j/message/ReusableMessageFactory.class - JACT (NotCovered, Total): 178, 202
+REGULAR CLASS: org/apache/logging/log4j/util/PropertiesUtil.class - JACT (NotCovered, Total): 586, 648
+REGULAR CLASS: org/apache/logging/log4j/status/StatusData.class - JACT (NotCovered, Total): 126, 147
+REGULAR CLASS: org/apache/logging/log4j/MarkerManager$Log4jMarker.class - JACT (NotCovered, Total): 533, 566
+REGULAR CLASS: org/apache/logging/log4j/LogBuilder$1.class - JACT (NotCovered, Total): 0, 3
+ENUM: org/apache/logging/log4j/spi/StandardLevel.class - JACT (NotCovered, Total): 0, 128
+REGULAR CLASS: org/apache/logging/log4j/message/DefaultFlowMessageFactory.class - JACT (NotCovered, Total): 49, 63
+REGULAR CLASS: org/apache/logging/log4j/util/LoaderUtil$ThreadContextClassLoaderGetter.class - JACT (NotCovered, Total): 11, 18
+REGULAR CLASS: org/apache/logging/log4j/internal/LogManagerStatus.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: org/apache/logging/log4j/status/StatusLogger.class - JACT (NotCovered, Total): 266, 466
+REGULAR CLASS: org/apache/logging/log4j/util/PropertyFilePropertySource.class - JACT (NotCovered, Total): 25, 45
+REGULAR CLASS: org/apache/logging/log4j/util/ProviderUtil.class - JACT (NotCovered, Total): 125, 203
+REGULAR CLASS: org/apache/logging/log4j/message/SimpleMessage.class - JACT (NotCovered, Total): 110, 130
+REGULAR CLASS: org/apache/logging/log4j/simple/SimpleLogger.class - JACT (NotCovered, Total): 259, 384
+REGULAR CLASS: org/apache/logging/log4j/util/PropertiesUtil$Environment.class - JACT (NotCovered, Total): 59, 240
+REGULAR CLASS: org/apache/logging/log4j/LogManager.class - JACT (NotCovered, Total): 553, 603
+REGULAR CLASS: org/apache/logging/log4j/status/StatusLogger$BoundedQueue.class - JACT (NotCovered, Total): 7, 33
+INTERFACE: org/apache/logging/log4j/spi/LoggerContext.class - JACT (NotCovered, Total): 27, 41
+INTERFACE: org/apache/logging/log4j/LogBuilder.class - JACT (NotCovered, Total): 23, 31
+REGULAR CLASS: org/apache/logging/log4j/spi/AbstractLogger$LocalLogBuilder.class - JACT (NotCovered, Total): 6, 15
+REGULAR CLASS: org/apache/commons/collections4/CollectionUtils.class - JACT (NotCovered, Total): 1445, 1464
+ABSTRACT CLASS: org/apache/commons/collections4/multimap/AbstractListValuedMap.class - JACT (NotCovered, Total): 23, 27
+ABSTRACT CLASS: org/apache/commons/collections4/multimap/AbstractMultiValuedMap.class - JACT (NotCovered, Total): 426, 434
+REGULAR CLASS: org/apache/commons/collections4/multimap/ArrayListValuedHashMap.class - JACT (NotCovered, Total): 67, 82
+ABSTRACT CLASS: org/apache/batik/transcoder/SVGAbstractTranscoder.class - JACT (NotCovered, Total): 308, 692
+REGULAR CLASS: org/apache/batik/transcoder/TranscoderInput.class - JACT (NotCovered, Total): 53, 68
+REGULAR CLASS: org/apache/batik/transcoder/SVGAbstractTranscoder$SVGAbstractTranscoderUserAgent.class - JACT (NotCovered, Total): 229, 307
+REGULAR CLASS: org/apache/batik/transcoder/TranscoderSupport.class - JACT (NotCovered, Total): 25, 51
+REGULAR CLASS: org/apache/batik/transcoder/TranscodingHints.class - JACT (NotCovered, Total): 39, 83
+REGULAR CLASS: org/apache/batik/transcoder/DefaultErrorHandler.class - JACT (NotCovered, Total): 26, 29
+REGULAR CLASS: org/apache/batik/transcoder/TranscoderOutput.class - JACT (NotCovered, Total): 59, 68
+ABSTRACT CLASS: org/apache/batik/transcoder/AbstractTranscoder.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/batik/transcoder/keys/LengthKey.class - JACT (NotCovered, Total): 13, 16
+REGULAR CLASS: org/apache/batik/transcoder/keys/DOMImplementationKey.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: org/apache/batik/transcoder/keys/BooleanKey.class - JACT (NotCovered, Total): 1, 12
+REGULAR CLASS: org/apache/batik/transcoder/keys/FloatKey.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: org/apache/batik/transcoder/keys/Rectangle2DKey.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: org/apache/batik/transcoder/keys/PaintKey.class - JACT (NotCovered, Total): 3, 6
+REGULAR CLASS: org/apache/batik/transcoder/keys/StringKey.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: org/apache/batik/transcoder/keys/IntegerKey.class - JACT (NotCovered, Total): 3, 6
+ABSTRACT CLASS: org/apache/batik/transcoder/TranscodingHints$Key.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/batik/transcoder/image/PNGTranscoder.class - JACT (NotCovered, Total): 39, 151
+ABSTRACT CLASS: org/apache/batik/transcoder/image/ImageTranscoder.class - JACT (NotCovered, Total): 168, 277
+ABSTRACT CLASS: org/apache/batik/transcoder/XMLAbstractTranscoder.class - JACT (NotCovered, Total): 93, 209
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeGaussianBlurElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeFuncBElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontFaceFormatElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeFloodElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPathData$BaseSVGPathSegList.class - JACT (NotCovered, Total): 74, 136
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeDiffuseLightingElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/AbstractSVGLength$DefaultContext.class - JACT (NotCovered, Total): 33, 39
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$MissingGlyphElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$DefsElementFactory.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$TextPathElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$EllipseElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$CursorElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ScriptElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontFaceUriElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$GlyphElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$GlyphRefElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedBoolean.class - JACT (NotCovered, Total): 144, 153
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AltGlyphElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontFaceElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$TspanElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FilterElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeDistantLightElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMDefsElement.class - JACT (NotCovered, Total): 7, 14
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeMorphologyElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$PatternElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGStylableElement$OverrideStyleDeclaration.class - JACT (NotCovered, Total): 29, 41
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontFaceSrcElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$VkernElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$SwitchElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/AbstractSVGAnimatedValue.class - JACT (NotCovered, Total): 12, 88
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeDisplacementMapElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/TraitInformation.class - JACT (NotCovered, Total): 9, 33
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeSpecularLightingElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AltGlyphItemElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/SVGOMElement.class - JACT (NotCovered, Total): 798, 1106
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$SymbolElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$DescElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedLength.class - JACT (NotCovered, Total): 3, 14
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AnimateTransformElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AnimateElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontFaceNameElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeMergeNodeElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/AbstractElement$ExtendedNamedNodeHashMap.class - JACT (NotCovered, Total): 71, 97
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeFuncGElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$MetadataElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/AbstractSVGAnimatedLength.class - JACT (NotCovered, Total): 159, 226
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPreserveAspectRatio.class - JACT (NotCovered, Total): 123, 153
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$RadialGradientElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$RectElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$DefinitionSrcElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMPathElement.class - JACT (NotCovered, Total): 199, 247
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedRect$BaseSVGRect.class - JACT (NotCovered, Total): 74, 162
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeMergeElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/AbstractSVGLength.class - JACT (NotCovered, Total): 89, 191
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation.class - JACT (NotCovered, Total): 77, 774
+ABSTRACT CLASS: org/apache/batik/anim/dom/SVGStylableElement.class - JACT (NotCovered, Total): 264, 325
+REGULAR CLASS: org/apache/batik/anim/dom/SAXSVGDocumentFactory.class - JACT (NotCovered, Total): 370, 451
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$TextElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$TitleElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedRect$AnimSVGRect.class - JACT (NotCovered, Total): 57, 99
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPathData$AnimSVGPathSegList.class - JACT (NotCovered, Total): 928, 963
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$PolygonElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ImageElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ForeignObjectElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$HkernElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$MarkerElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$UseElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedTransformList.class - JACT (NotCovered, Total): 180, 189
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$MaskElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ColorProfileElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$SetElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedString.class - JACT (NotCovered, Total): 71, 85
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FontElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$TrefElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ViewElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AltGlyphDefElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$CircleElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeFuncRElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$LinearGradientElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeTurbulenceElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$GElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedRect$BaseSVGRect$1.class - JACT (NotCovered, Total): 38, 76
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPathData.class - JACT (NotCovered, Total): 147, 215
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$StopElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMSVGElement.class - JACT (NotCovered, Total): 454, 661
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeOffsetElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMStyleElement$DOMCharacterDataModifiedListener.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMStyleElement.class - JACT (NotCovered, Total): 84, 173
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeCompositeElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPreserveAspectRatio$BaseSVGPARValue.class - JACT (NotCovered, Total): 27, 46
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedRect.class - JACT (NotCovered, Total): 88, 135
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$StyleElementFactory.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeImageElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$SvgElementFactory.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AnimateMotionElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$AnimateColorElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeComponentTransferElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/SVGGraphicsElement.class - JACT (NotCovered, Total): 114, 170
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeBlendElementFactory.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: org/apache/batik/anim/dom/AbstractElement.class - JACT (NotCovered, Total): 139, 254
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeFuncAElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeTileElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMDocument$AnimAttrListener.class - JACT (NotCovered, Total): 31, 46
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FePointLightElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMDocument.class - JACT (NotCovered, Total): 528, 654
+REGULAR CLASS: org/apache/batik/anim/dom/AttributeInitializer.class - JACT (NotCovered, Total): 17, 140
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$PolylineElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGOMAnimatedPreserveAspectRatio$AnimSVGPARValue.class - JACT (NotCovered, Total): 38, 62
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$LineElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/AbstractSVGAnimatedLength$BaseSVGLength.class - JACT (NotCovered, Total): 45, 82
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeSpotLightElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeConvolveMatrixElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$ClipPathElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$MpathElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$FeColorMatrixElementFactory.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: org/apache/batik/anim/dom/SVGDOMImplementation$PathElementFactory.class - JACT (NotCovered, Total): 0, 10
+ABSTRACT CLASS: org/apache/batik/css/parser/CSSLexicalUnit.class - JACT (NotCovered, Total): 99, 153
+REGULAR CLASS: org/apache/batik/css/parser/CSSLexicalUnit$PredefinedFunctionLexicalUnit.class - JACT (NotCovered, Total): 14, 25
+REGULAR CLASS: org/apache/batik/css/parser/CSSLexicalUnit$SimpleLexicalUnit.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/css/parser/CSSLexicalUnit$IntegerLexicalUnit.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: org/apache/batik/css/parser/ExtendedParserWrapper.class - JACT (NotCovered, Total): 154, 160
+REGULAR CLASS: org/apache/batik/css/parser/CSSSACMediaList.class - JACT (NotCovered, Total): 38, 66
+REGULAR CLASS: org/apache/batik/css/parser/CSSLexicalUnit$StringLexicalUnit.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: org/apache/batik/css/parser/CSSLexicalUnit$FloatLexicalUnit.class - JACT (NotCovered, Total): 3, 11
+REGULAR CLASS: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration.class - JACT (NotCovered, Total): 52, 60
+REGULAR CLASS: org/apache/batik/css/dom/CSSOMStyleDeclaration.class - JACT (NotCovered, Total): 153, 166
+ABSTRACT CLASS: org/apache/batik/css/dom/CSSOMStoredStyleDeclaration.class - JACT (NotCovered, Total): 76, 91
+REGULAR CLASS: org/apache/batik/css/engine/StringIntMap.class - JACT (NotCovered, Total): 15, 178
+REGULAR CLASS: org/apache/batik/css/engine/CSSEngine$DocumentAdapter.class - JACT (NotCovered, Total): 47, 51
+REGULAR CLASS: org/apache/batik/css/engine/StyleSheet.class - JACT (NotCovered, Total): 71, 114
+REGULAR CLASS: org/apache/batik/css/engine/StyleMap.class - JACT (NotCovered, Total): 319, 455
+REGULAR CLASS: org/apache/batik/css/engine/StyleDeclaration.class - JACT (NotCovered, Total): 197, 267
+REGULAR CLASS: org/apache/batik/css/engine/StringIntMap$Entry.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: org/apache/batik/css/engine/CSSEngine.class - JACT (NotCovered, Total): 2525, 3582
+REGULAR CLASS: org/apache/batik/css/engine/CSSEngine$StyleSheetDocumentHandler.class - JACT (NotCovered, Total): 163, 228
+REGULAR CLASS: org/apache/batik/css/engine/CSSEngine$StyleDeclarationBuilder.class - JACT (NotCovered, Total): 46, 52
+REGULAR CLASS: org/apache/batik/css/engine/SVGCSSEngine.class - JACT (NotCovered, Total): 44, 517
+REGULAR CLASS: org/apache/batik/css/engine/CSSEngine$1.class - JACT (NotCovered, Total): 21, 60
+REGULAR CLASS: org/apache/batik/css/engine/sac/CSSSelectorFactory.class - JACT (NotCovered, Total): 66, 80
+REGULAR CLASS: org/apache/batik/css/engine/sac/CSSElementSelector.class - JACT (NotCovered, Total): 18, 44
+REGULAR CLASS: org/apache/batik/css/engine/sac/CSSConditionFactory.class - JACT (NotCovered, Total): 89, 104
+ABSTRACT CLASS: org/apache/batik/css/engine/sac/AbstractElementSelector.class - JACT (NotCovered, Total): 32, 44
+REGULAR CLASS: org/apache/batik/css/engine/CSSEngine$StyleDeclarationDocumentHandler.class - JACT (NotCovered, Total): 49, 55
+ABSTRACT CLASS: org/apache/batik/css/engine/value/AbstractColorManager.class - JACT (NotCovered, Total): 82, 458
+ABSTRACT CLASS: org/apache/batik/css/engine/value/AbstractValueManager.class - JACT (NotCovered, Total): 14, 27
+ABSTRACT CLASS: org/apache/batik/css/engine/value/RectManager.class - JACT (NotCovered, Total): 270, 283
+REGULAR CLASS: org/apache/batik/css/engine/value/RGBColorValue.class - JACT (NotCovered, Total): 28, 51
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontFamilyManager.class - JACT (NotCovered, Total): 154, 214
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontStyleManager.class - JACT (NotCovered, Total): 12, 42
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontStretchManager.class - JACT (NotCovered, Total): 138, 208
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/ClipManager.class - JACT (NotCovered, Total): 42, 49
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/TextDecorationManager.class - JACT (NotCovered, Total): 86, 116
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontShorthandManager.class - JACT (NotCovered, Total): 364, 438
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/VisibilityManager.class - JACT (NotCovered, Total): 8, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontVariantManager.class - JACT (NotCovered, Total): 12, 32
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/OverflowManager.class - JACT (NotCovered, Total): 10, 42
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontWeightManager.class - JACT (NotCovered, Total): 183, 218
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontSizeManager.class - JACT (NotCovered, Total): 315, 375
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/FontSizeAdjustManager.class - JACT (NotCovered, Total): 77, 82
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/DirectionManager.class - JACT (NotCovered, Total): 12, 32
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/DisplayManager.class - JACT (NotCovered, Total): 8, 107
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/UnicodeBidiManager.class - JACT (NotCovered, Total): 12, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/CursorManager.class - JACT (NotCovered, Total): 154, 244
+REGULAR CLASS: org/apache/batik/css/engine/value/css2/SrcManager.class - JACT (NotCovered, Total): 159, 174
+REGULAR CLASS: org/apache/batik/css/engine/value/StringMap$Entry.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: org/apache/batik/css/engine/value/AbstractValue.class - JACT (NotCovered, Total): 64, 69
+ABSTRACT CLASS: org/apache/batik/css/engine/value/AbstractValueFactory.class - JACT (NotCovered, Total): 157, 160
+REGULAR CLASS: org/apache/batik/css/engine/value/StringValue.class - JACT (NotCovered, Total): 67, 82
+REGULAR CLASS: org/apache/batik/css/engine/value/FloatValue.class - JACT (NotCovered, Total): 49, 140
+REGULAR CLASS: org/apache/batik/css/engine/value/InheritValue.class - JACT (NotCovered, Total): 7, 15
+ABSTRACT CLASS: org/apache/batik/css/engine/value/LengthManager.class - JACT (NotCovered, Total): 317, 333
+REGULAR CLASS: org/apache/batik/css/engine/value/StringMap.class - JACT (NotCovered, Total): 77, 246
+INTERFACE: org/apache/batik/css/engine/value/ValueConstants.class - JACT (NotCovered, Total): 0, 949
+ABSTRACT CLASS: org/apache/batik/css/engine/value/IdentifierManager.class - JACT (NotCovered, Total): 35, 56
+REGULAR CLASS: org/apache/batik/css/engine/value/ListValue.class - JACT (NotCovered, Total): 89, 117
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/WritingModeManager.class - JACT (NotCovered, Total): 12, 52
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ColorManager.class - JACT (NotCovered, Total): 10, 1418
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/OpacityManager.class - JACT (NotCovered, Total): 44, 61
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/FilterManager.class - JACT (NotCovered, Total): 68, 77
+ABSTRACT CLASS: org/apache/batik/css/engine/value/svg/GlyphOrientationManager.class - JACT (NotCovered, Total): 70, 73
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ColorProfileManager.class - JACT (NotCovered, Total): 89, 94
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/BaselineShiftManager.class - JACT (NotCovered, Total): 111, 136
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/PointerEventsManager.class - JACT (NotCovered, Total): 8, 77
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/MaskManager.class - JACT (NotCovered, Total): 55, 64
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/MarkerManager.class - JACT (NotCovered, Total): 55, 68
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeDasharrayManager.class - JACT (NotCovered, Total): 100, 114
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ClipPathManager.class - JACT (NotCovered, Total): 55, 64
+INTERFACE: org/apache/batik/css/engine/value/svg/SVGValueConstants.class - JACT (NotCovered, Total): 0, 2784
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/TextAnchorManager.class - JACT (NotCovered, Total): 12, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ShapeRenderingManager.class - JACT (NotCovered, Total): 8, 42
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/AlignmentBaselineManager.class - JACT (NotCovered, Total): 12, 77
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/FillRuleManager.class - JACT (NotCovered, Total): 8, 32
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/MarkerShorthandManager.class - JACT (NotCovered, Total): 20, 25
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/DominantBaselineManager.class - JACT (NotCovered, Total): 12, 92
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/GlyphOrientationVerticalManager.class - JACT (NotCovered, Total): 40, 45
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ImageRenderingManager.class - JACT (NotCovered, Total): 12, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/GlyphOrientationHorizontalManager.class - JACT (NotCovered, Total): 2, 7
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/EnableBackgroundManager.class - JACT (NotCovered, Total): 209, 222
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ClipRuleManager.class - JACT (NotCovered, Total): 12, 32
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeWidthManager.class - JACT (NotCovered, Total): 19, 28
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/TextRenderingManager.class - JACT (NotCovered, Total): 12, 42
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ColorRenderingManager.class - JACT (NotCovered, Total): 8, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/SpacingManager.class - JACT (NotCovered, Total): 51, 60
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/KerningManager.class - JACT (NotCovered, Total): 51, 56
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeLinejoinManager.class - JACT (NotCovered, Total): 8, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/SVGColorManager.class - JACT (NotCovered, Total): 444, 496
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/SVGPaintManager.class - JACT (NotCovered, Total): 147, 184
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ColorInterpolationFiltersManager.class - JACT (NotCovered, Total): 2, 7
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeDashoffsetManager.class - JACT (NotCovered, Total): 23, 28
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeLinecapManager.class - JACT (NotCovered, Total): 8, 37
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/StrokeMiterlimitManager.class - JACT (NotCovered, Total): 44, 53
+REGULAR CLASS: org/apache/batik/css/engine/value/svg/ColorInterpolationManager.class - JACT (NotCovered, Total): 12, 37
+REGULAR CLASS: org/apache/batik/css/engine/StyleRule.class - JACT (NotCovered, Total): 55, 74
+REGULAR CLASS: org/apache/batik/ext/awt/ColorSpaceHintKey.class - JACT (NotCovered, Total): 32, 61
+REGULAR CLASS: org/apache/batik/ext/awt/TranscodingHintKey.class - JACT (NotCovered, Total): 11, 15
+REGULAR CLASS: org/apache/batik/ext/awt/BufferedImageHintKey.class - JACT (NotCovered, Total): 8, 30
+REGULAR CLASS: org/apache/batik/ext/awt/color/NamedProfileCache.class - JACT (NotCovered, Total): 24, 33
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/spi/BrokenLinkProvider.class - JACT (NotCovered, Total): 15, 18
+REGULAR CLASS: org/apache/batik/ext/awt/image/spi/DefaultBrokenLinkProvider.class - JACT (NotCovered, Total): 102, 116
+REGULAR CLASS: org/apache/batik/ext/awt/image/spi/ImageTagRegistry.class - JACT (NotCovered, Total): 528, 540
+REGULAR CLASS: org/apache/batik/ext/awt/image/PadMode.class - JACT (NotCovered, Total): 17, 39
+REGULAR CLASS: org/apache/batik/ext/awt/image/GraphicsUtil.class - JACT (NotCovered, Total): 2696, 3068
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/PadRed.class - JACT (NotCovered, Total): 529, 836
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/LRUCache$LRUNode.class - JACT (NotCovered, Total): 6, 26
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileCacheRed.class - JACT (NotCovered, Total): 143, 159
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileMap$TileMapLRUMember$RasterSoftRef.class - JACT (NotCovered, Total): 16, 23
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileCache.class - JACT (NotCovered, Total): 31, 43
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/LRUCache.class - JACT (NotCovered, Total): 158, 218
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TranslateRed.class - JACT (NotCovered, Total): 81, 151
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/rendered/AbstractRed.class - JACT (NotCovered, Total): 628, 1009
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/PadRed$ZeroRecter_INT_PACK.class - JACT (NotCovered, Total): 43, 148
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/rendered/AbstractTiledRed.class - JACT (NotCovered, Total): 620, 1103
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileMap$TileMapLRUMember.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileBlock.class - JACT (NotCovered, Total): 470, 710
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/PadRed$ZeroRecter.class - JACT (NotCovered, Total): 59, 83
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileLRUMember.class - JACT (NotCovered, Total): 71, 93
+REGULAR CLASS: org/apache/batik/ext/awt/image/rendered/TileMap.class - JACT (NotCovered, Total): 93, 162
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/renderable/AbstractRable.class - JACT (NotCovered, Total): 366, 426
+REGULAR CLASS: org/apache/batik/ext/awt/image/renderable/ClipRable8Bit.class - JACT (NotCovered, Total): 168, 197
+REGULAR CLASS: org/apache/batik/ext/awt/RenderingHintsKeyExt.class - JACT (NotCovered, Total): 10, 80
+REGULAR CLASS: org/apache/batik/ext/awt/geom/RectListManager$RectXComparator.class - JACT (NotCovered, Total): 8, 11
+REGULAR CLASS: org/apache/batik/ext/awt/geom/RectListManager.class - JACT (NotCovered, Total): 2234, 2303
+REGULAR CLASS: org/apache/batik/ext/awt/geom/ExtendedGeneralPath.class - JACT (NotCovered, Total): 1125, 1525
+REGULAR CLASS: org/apache/batik/ext/awt/AreaOfInterestHintKey.class - JACT (NotCovered, Total): 2, 15
+REGULAR CLASS: org/apache/batik/ext/awt/AvoidTilingHintKey.class - JACT (NotCovered, Total): 17, 21
+REGULAR CLASS: org/apache/batik/bridge/SVGFeImageElementBridge.class - JACT (NotCovered, Total): 293, 298
+REGULAR CLASS: org/apache/batik/bridge/SVGFeFloodElementBridge.class - JACT (NotCovered, Total): 27, 32
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractSVGFilterPrimitiveElementBridge.class - JACT (NotCovered, Total): 281, 293
+REGULAR CLASS: org/apache/batik/bridge/SVGHKernElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGVKernElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGFontFaceElementBridge.class - JACT (NotCovered, Total): 564, 569
+REGULAR CLASS: org/apache/batik/bridge/SVGFeMergeElementBridge$SVGFeMergeNodeElementBridge.class - JACT (NotCovered, Total): 8, 13
+ABSTRACT CLASS: org/apache/batik/bridge/AnimatableGenericSVGBridge.class - JACT (NotCovered, Total): 60, 63
+REGULAR CLASS: org/apache/batik/bridge/SVGPolygonElementBridge.class - JACT (NotCovered, Total): 110, 120
+REGULAR CLASS: org/apache/batik/bridge/SVGFeTurbulenceElementBridge.class - JACT (NotCovered, Total): 283, 288
+REGULAR CLASS: org/apache/batik/bridge/SVGSVGElementBridge$1.class - JACT (NotCovered, Total): 7, 33
+ABSTRACT CLASS: org/apache/batik/bridge/SVGKernElementBridge.class - JACT (NotCovered, Total): 454, 457
+REGULAR CLASS: org/apache/batik/bridge/SVGFeGaussianBlurElementBridge.class - JACT (NotCovered, Total): 200, 205
+REGULAR CLASS: org/apache/batik/bridge/SVGSVGElementBridge$SVGSVGElementViewport.class - JACT (NotCovered, Total): 6, 15
+REGULAR CLASS: org/apache/batik/bridge/SVGFeConvolveMatrixElementBridge.class - JACT (NotCovered, Total): 737, 742
+REGULAR CLASS: org/apache/batik/bridge/SVGFeDisplacementMapElementBridge.class - JACT (NotCovered, Total): 155, 160
+ABSTRACT CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge$SVGFeFuncElementBridge.class - JACT (NotCovered, Total): 212, 215
+REGULAR CLASS: org/apache/batik/bridge/AbstractSVGLightingElementBridge$SVGFePointLightElementBridge.class - JACT (NotCovered, Total): 29, 34
+ABSTRACT CLASS: org/apache/batik/bridge/PaintServer.class - JACT (NotCovered, Total): 665, 950
+REGULAR CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge$SVGFeFuncRElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGTextElementBridge.class - JACT (NotCovered, Total): 4213, 4248
+REGULAR CLASS: org/apache/batik/bridge/SVGAnimateElementBridge.class - JACT (NotCovered, Total): 624, 629
+REGULAR CLASS: org/apache/batik/bridge/SVGAElementBridge.class - JACT (NotCovered, Total): 141, 146
+REGULAR CLASS: org/apache/batik/bridge/SVGTextPathElementBridge.class - JACT (NotCovered, Total): 192, 197
+REGULAR CLASS: org/apache/batik/bridge/SVGDescElementBridge.class - JACT (NotCovered, Total): 4, 9
+REGULAR CLASS: org/apache/batik/bridge/SVGLineElementBridge.class - JACT (NotCovered, Total): 96, 101
+REGULAR CLASS: org/apache/batik/bridge/SVGFeDiffuseLightingElementBridge.class - JACT (NotCovered, Total): 64, 69
+ABSTRACT CLASS: org/apache/batik/bridge/SVGUtilities.class - JACT (NotCovered, Total): 1776, 1793
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractSVGGradientElementBridge.class - JACT (NotCovered, Total): 279, 282
+REGULAR CLASS: org/apache/batik/bridge/SVGBrokenLinkProvider.class - JACT (NotCovered, Total): 24, 27
+REGULAR CLASS: org/apache/batik/bridge/SVGMaskElementBridge.class - JACT (NotCovered, Total): 122, 127
+REGULAR CLASS: org/apache/batik/bridge/SVGRectElementBridge.class - JACT (NotCovered, Total): 182, 187
+ABSTRACT CLASS: org/apache/batik/bridge/CSSUtilities.class - JACT (NotCovered, Total): 783, 994
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractSVGLightingElementBridge.class - JACT (NotCovered, Total): 138, 141
+REGULAR CLASS: org/apache/batik/bridge/SVGFeSpecularLightingElementBridge.class - JACT (NotCovered, Total): 133, 138
+ABSTRACT CLASS: org/apache/batik/bridge/UnitProcessor.class - JACT (NotCovered, Total): 208, 214
+ABSTRACT CLASS: org/apache/batik/bridge/AnimatableSVGBridge.class - JACT (NotCovered, Total): 75, 78
+REGULAR CLASS: org/apache/batik/bridge/SVGClipPathElementBridge.class - JACT (NotCovered, Total): 216, 221
+REGULAR CLASS: org/apache/batik/bridge/SVGFeMergeElementBridge.class - JACT (NotCovered, Total): 121, 126
+REGULAR CLASS: org/apache/batik/bridge/SVGGElementBridge.class - JACT (NotCovered, Total): 129, 134
+REGULAR CLASS: org/apache/batik/bridge/SVGGlyphElementBridge.class - JACT (NotCovered, Total): 528, 533
+REGULAR CLASS: org/apache/batik/bridge/UserAgentAdapter.class - JACT (NotCovered, Total): 220, 252
+ABSTRACT CLASS: org/apache/batik/bridge/SVGDescriptiveElementBridge.class - JACT (NotCovered, Total): 118, 121
+REGULAR CLASS: org/apache/batik/bridge/SVGPolylineElementBridge.class - JACT (NotCovered, Total): 110, 120
+REGULAR CLASS: org/apache/batik/bridge/AbstractSVGLightingElementBridge$SVGFeSpotLightElementBridge.class - JACT (NotCovered, Total): 69, 74
+REGULAR CLASS: org/apache/batik/bridge/UserAgentViewport.class - JACT (NotCovered, Total): 12, 18
+REGULAR CLASS: org/apache/batik/bridge/SVGAnimateMotionElementBridge.class - JACT (NotCovered, Total): 612, 617
+REGULAR CLASS: org/apache/batik/bridge/SVGLinearGradientElementBridge.class - JACT (NotCovered, Total): 145, 150
+REGULAR CLASS: org/apache/batik/bridge/SVGColorProfileElementBridge.class - JACT (NotCovered, Total): 236, 246
+REGULAR CLASS: org/apache/batik/bridge/SVGFeBlendElementBridge.class - JACT (NotCovered, Total): 138, 143
+REGULAR CLASS: org/apache/batik/bridge/SVGUseElementBridge.class - JACT (NotCovered, Total): 615, 620
+ABSTRACT CLASS: org/apache/batik/bridge/SVGShapeElementBridge.class - JACT (NotCovered, Total): 86, 148
+REGULAR CLASS: org/apache/batik/bridge/GVTBuilder.class - JACT (NotCovered, Total): 147, 322
+REGULAR CLASS: org/apache/batik/bridge/SVGFeOffsetElementBridge.class - JACT (NotCovered, Total): 70, 75
+REGULAR CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge$SVGFeFuncBElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGCircleElementBridge.class - JACT (NotCovered, Total): 114, 119
+REGULAR CLASS: org/apache/batik/bridge/BridgeContext$CSSEngineUserAgentWrapper.class - JACT (NotCovered, Total): 10, 16
+REGULAR CLASS: org/apache/batik/bridge/UnitProcessor$DefaultContext.class - JACT (NotCovered, Total): 33, 42
+REGULAR CLASS: org/apache/batik/bridge/SVGAltGlyphElementBridge.class - JACT (NotCovered, Total): 468, 476
+ABSTRACT CLASS: org/apache/batik/bridge/ViewBox.class - JACT (NotCovered, Total): 537, 759
+REGULAR CLASS: org/apache/batik/bridge/SVGAnimateTransformElementBridge.class - JACT (NotCovered, Total): 509, 514
+REGULAR CLASS: org/apache/batik/bridge/SVGPathElementBridge.class - JACT (NotCovered, Total): 94, 131
+REGULAR CLASS: org/apache/batik/bridge/SVGSVGElementBridge.class - JACT (NotCovered, Total): 1333, 1580
+REGULAR CLASS: org/apache/batik/bridge/SVGMissingGlyphElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGAnimateColorElementBridge.class - JACT (NotCovered, Total): 63, 68
+REGULAR CLASS: org/apache/batik/bridge/DocumentLoader.class - JACT (NotCovered, Total): 179, 203
+REGULAR CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge$SVGFeFuncAElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge.class - JACT (NotCovered, Total): 114, 119
+REGULAR CLASS: org/apache/batik/bridge/SVGSetElementBridge.class - JACT (NotCovered, Total): 20, 25
+REGULAR CLASS: org/apache/batik/bridge/SVGFilterElementBridge.class - JACT (NotCovered, Total): 208, 220
+REGULAR CLASS: org/apache/batik/bridge/ViewBox$ViewHandler.class - JACT (NotCovered, Total): 99, 118
+ABSTRACT CLASS: org/apache/batik/bridge/SVGDecoratedShapeElementBridge.class - JACT (NotCovered, Total): 45, 80
+REGULAR CLASS: org/apache/batik/bridge/BridgeContext.class - JACT (NotCovered, Total): 1494, 2017
+REGULAR CLASS: org/apache/batik/bridge/SVGFeTileElementBridge.class - JACT (NotCovered, Total): 40, 45
+REGULAR CLASS: org/apache/batik/bridge/CursorManager$CursorCache.class - JACT (NotCovered, Total): 14, 17
+REGULAR CLASS: org/apache/batik/bridge/SVGRadialGradientElementBridge.class - JACT (NotCovered, Total): 155, 160
+REGULAR CLASS: org/apache/batik/bridge/SVGFeColorMatrixElementBridge.class - JACT (NotCovered, Total): 336, 341
+REGULAR CLASS: org/apache/batik/bridge/SVGFeCompositeElementBridge.class - JACT (NotCovered, Total): 172, 177
+REGULAR CLASS: org/apache/batik/bridge/SVGSwitchElementBridge.class - JACT (NotCovered, Total): 191, 196
+REGULAR CLASS: org/apache/batik/bridge/AbstractSVGLightingElementBridge$SVGFeDistantLightElementBridge.class - JACT (NotCovered, Total): 21, 26
+REGULAR CLASS: org/apache/batik/bridge/SVGImageElementBridge.class - JACT (NotCovered, Total): 1500, 1521
+ABSTRACT CLASS: org/apache/batik/bridge/SVGAnimationElementBridge.class - JACT (NotCovered, Total): 548, 551
+REGULAR CLASS: org/apache/batik/bridge/SVGTitleElementBridge.class - JACT (NotCovered, Total): 4, 9
+REGULAR CLASS: org/apache/batik/bridge/SVGFeComponentTransferElementBridge$SVGFeFuncGElementBridge.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/bridge/SVGMarkerElementBridge.class - JACT (NotCovered, Total): 331, 336
+REGULAR CLASS: org/apache/batik/bridge/SVGFeMorphologyElementBridge.class - JACT (NotCovered, Total): 229, 234
+REGULAR CLASS: org/apache/batik/bridge/SVGDocumentBridge.class - JACT (NotCovered, Total): 87, 113
+REGULAR CLASS: org/apache/batik/bridge/SVGFontElementBridge.class - JACT (NotCovered, Total): 185, 190
+REGULAR CLASS: org/apache/batik/bridge/AbstractSVGGradientElementBridge$SVGStopElementBridge.class - JACT (NotCovered, Total): 59, 64
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractSVGLightingElementBridge$AbstractSVGLightElementBridge.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/apache/batik/bridge/SVGBridgeExtension.class - JACT (NotCovered, Total): 36, 355
+REGULAR CLASS: org/apache/batik/bridge/CursorManager.class - JACT (NotCovered, Total): 741, 878
+REGULAR CLASS: org/apache/batik/bridge/SVGPatternElementBridge.class - JACT (NotCovered, Total): 310, 315
+REGULAR CLASS: org/apache/batik/bridge/SVGEllipseElementBridge.class - JACT (NotCovered, Total): 121, 126
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractSVGBridge.class - JACT (NotCovered, Total): 2, 7
+ABSTRACT CLASS: org/apache/batik/bridge/AbstractGraphicsNodeBridge.class - JACT (NotCovered, Total): 484, 665
+REGULAR CLASS: org/apache/batik/script/InterpreterPool.class - JACT (NotCovered, Total): 67, 123
+REGULAR CLASS: org/apache/batik/dom/GenericDocumentType.class - JACT (NotCovered, Total): 31, 45
+REGULAR CLASS: org/apache/batik/dom/AbstractParentNode$ChildNodes.class - JACT (NotCovered, Total): 517, 585
+ABSTRACT CLASS: org/apache/batik/dom/AbstractAttrNS.class - JACT (NotCovered, Total): 104, 154
+ABSTRACT CLASS: org/apache/batik/dom/AbstractDOMImplementation.class - JACT (NotCovered, Total): 97, 229
+ABSTRACT CLASS: org/apache/batik/dom/AbstractAttr.class - JACT (NotCovered, Total): 207, 331
+ABSTRACT CLASS: org/apache/batik/dom/AbstractText.class - JACT (NotCovered, Total): 393, 396
+REGULAR CLASS: org/apache/batik/dom/events/EventListenerList$Entry.class - JACT (NotCovered, Total): 9, 24
+REGULAR CLASS: org/apache/batik/dom/events/EventListenerList.class - JACT (NotCovered, Total): 222, 270
+REGULAR CLASS: org/apache/batik/dom/events/EventSupport.class - JACT (NotCovered, Total): 501, 542
+REGULAR CLASS: org/apache/batik/dom/AbstractElement$NamedNodeHashMap.class - JACT (NotCovered, Total): 228, 540
+ABSTRACT CLASS: org/apache/batik/dom/AbstractChildNode.class - JACT (NotCovered, Total): 7, 24
+REGULAR CLASS: org/apache/batik/dom/GenericAttrNS.class - JACT (NotCovered, Total): 11, 23
+REGULAR CLASS: org/apache/batik/dom/GenericText.class - JACT (NotCovered, Total): 18, 32
+REGULAR CLASS: org/apache/batik/dom/util/DOMUtilities.class - JACT (NotCovered, Total): 1660, 1954
+REGULAR CLASS: org/apache/batik/dom/util/IntTable$Entry.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: org/apache/batik/dom/util/IntTable.class - JACT (NotCovered, Total): 497, 557
+REGULAR CLASS: org/apache/batik/dom/util/SAXDocumentFactory.class - JACT (NotCovered, Total): 505, 1002
+REGULAR CLASS: org/apache/batik/dom/util/HashTableStack$Link.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: org/apache/batik/dom/util/HashTableStack.class - JACT (NotCovered, Total): 2, 93
+ABSTRACT CLASS: org/apache/batik/dom/AbstractStylableDocument.class - JACT (NotCovered, Total): 41, 53
+ABSTRACT CLASS: org/apache/batik/dom/ExtensibleDOMImplementation.class - JACT (NotCovered, Total): 286, 375
+REGULAR CLASS: org/apache/batik/dom/AbstractNode$1.class - JACT (NotCovered, Total): 4, 7
+ABSTRACT CLASS: org/apache/batik/dom/AbstractCharacterData.class - JACT (NotCovered, Total): 342, 371
+ABSTRACT CLASS: org/apache/batik/dom/AbstractParentNode.class - JACT (NotCovered, Total): 665, 789
+ABSTRACT CLASS: org/apache/batik/dom/AbstractNode.class - JACT (NotCovered, Total): 1590, 1703
+REGULAR CLASS: org/apache/batik/dom/xbl/GenericXBLManager.class - JACT (NotCovered, Total): 89, 101
+ABSTRACT CLASS: org/apache/batik/dom/AbstractParentChildNode.class - JACT (NotCovered, Total): 3, 24
+ABSTRACT CLASS: org/apache/batik/dom/AbstractElement.class - JACT (NotCovered, Total): 824, 1047
+ABSTRACT CLASS: org/apache/batik/dom/AbstractDocument.class - JACT (NotCovered, Total): 2732, 2873
+REGULAR CLASS: org/apache/batik/dom/AbstractElement$Entry.class - JACT (NotCovered, Total): 4, 37
+REGULAR CLASS: org/apache/batik/dom/GenericAttr.class - JACT (NotCovered, Total): 11, 22
+REGULAR CLASS: org/apache/batik/gvt/RootGraphicsNode.class - JACT (NotCovered, Total): 12, 31
+REGULAR CLASS: org/apache/batik/gvt/StrokeShapePainter.class - JACT (NotCovered, Total): 104, 145
+REGULAR CLASS: org/apache/batik/gvt/CompositeGraphicsNode.class - JACT (NotCovered, Total): 1014, 1357
+REGULAR CLASS: org/apache/batik/gvt/CanvasGraphicsNode.class - JACT (NotCovered, Total): 121, 167
+REGULAR CLASS: org/apache/batik/gvt/event/GraphicsNodeChangeEvent.class - JACT (NotCovered, Total): 3, 12
+REGULAR CLASS: org/apache/batik/gvt/event/GraphicsNodeEvent.class - JACT (NotCovered, Total): 14, 24
+REGULAR CLASS: org/apache/batik/gvt/FillShapePainter.class - JACT (NotCovered, Total): 63, 100
+REGULAR CLASS: org/apache/batik/gvt/ShapeNode.class - JACT (NotCovered, Total): 380, 489
+REGULAR CLASS: org/apache/batik/gvt/filter/GraphicsNodeRable8Bit.class - JACT (NotCovered, Total): 291, 388
+REGULAR CLASS: org/apache/batik/gvt/filter/GraphicsNodeRed8Bit.class - JACT (NotCovered, Total): 30, 194
+REGULAR CLASS: org/apache/batik/gvt/CompositeShapePainter.class - JACT (NotCovered, Total): 221, 313
+REGULAR CLASS: org/apache/batik/gvt/text/GVTAttributedCharacterIterator$TextAttribute.class - JACT (NotCovered, Total): 0, 240
+ABSTRACT CLASS: org/apache/batik/gvt/AbstractGraphicsNode.class - JACT (NotCovered, Total): 603, 1130
+INTERFACE: org/apache/batik/gvt/GraphicsNode.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/gvt/renderer/StaticRenderer.class - JACT (NotCovered, Total): 377, 819
+REGULAR CLASS: org/apache/batik/gvt/renderer/ConcreteImageRendererFactory.class - JACT (NotCovered, Total): 17, 26
+REGULAR CLASS: org/apache/batik/util/io/StreamNormalizingReader$ASCIIDecoderFactory.class - JACT (NotCovered, Total): 5, 8
+REGULAR CLASS: org/apache/batik/util/io/ISO_8859_1Decoder.class - JACT (NotCovered, Total): 0, 30
+REGULAR CLASS: org/apache/batik/util/io/StreamNormalizingReader$ISO_8859_1DecoderFactory.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: org/apache/batik/util/io/StreamNormalizingReader$UTF8DecoderFactory.class - JACT (NotCovered, Total): 5, 8
+REGULAR CLASS: org/apache/batik/util/SoftReferenceCache.class - JACT (NotCovered, Total): 143, 158
+REGULAR CLASS: org/apache/batik/util/ParsedURL.class - JACT (NotCovered, Total): 348, 531
+REGULAR CLASS: org/apache/batik/util/DoublyIndexedTable.class - JACT (NotCovered, Total): 154, 401
+REGULAR CLASS: org/apache/batik/util/Service.class - JACT (NotCovered, Total): 23, 167
+REGULAR CLASS: org/apache/batik/util/ParsedURLDataProtocolHandler.class - JACT (NotCovered, Total): 216, 220
+ABSTRACT CLASS: org/apache/batik/util/io/AbstractCharDecoder.class - JACT (NotCovered, Total): 24, 54
+REGULAR CLASS: org/apache/batik/util/ParsedURLJarProtocolHandler.class - JACT (NotCovered, Total): 39, 43
+REGULAR CLASS: org/apache/batik/util/DoublyLinkedList.class - JACT (NotCovered, Total): 120, 185
+REGULAR CLASS: org/apache/batik/util/DoublyLinkedList$Node.class - JACT (NotCovered, Total): 3, 82
+ABSTRACT CLASS: org/apache/batik/util/CleanerThread$SoftReferenceCleared.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: org/apache/batik/util/DoublyIndexedTable$Entry.class - JACT (NotCovered, Total): 19, 55
+REGULAR CLASS: org/apache/batik/util/ParsedURLDefaultProtocolHandler.class - JACT (NotCovered, Total): 537, 571
+REGULAR CLASS: org/apache/batik/util/ParsedURLData.class - JACT (NotCovered, Total): 945, 1168
+REGULAR CLASS: org/apache/batik/util/HaltingThread.class - JACT (NotCovered, Total): 73, 81
+REGULAR CLASS: org/apache/batik/util/XMLResourceDescriptor.class - JACT (NotCovered, Total): 18, 57
+REGULAR CLASS: org/apache/batik/util/CleanerThread.class - JACT (NotCovered, Total): 22, 55
+REGULAR CLASS: org/apache/batik/util/io/GenericDecoder.class - JACT (NotCovered, Total): 17, 44
+ABSTRACT CLASS: org/apache/batik/util/AbstractParsedURLProtocolHandler.class - JACT (NotCovered, Total): 0, 9
+REGULAR CLASS: org/apache/batik/util/io/StreamNormalizingReader.class - JACT (NotCovered, Total): 80, 197
+REGULAR CLASS: org/apache/batik/util/SVGFeatureStrings.class - JACT (NotCovered, Total): 3, 204
+ABSTRACT CLASS: org/apache/batik/util/io/NormalizingReader.class - JACT (NotCovered, Total): 33, 36
+REGULAR CLASS: org/apache/batik/util/io/StreamNormalizingReader$UTF16DecoderFactory.class - JACT (NotCovered, Total): 5, 8
+REGULAR CLASS: org/apache/batik/util/io/StringNormalizingReader.class - JACT (NotCovered, Total): 48, 90
+ABSTRACT CLASS: org/apache/batik/util/Platform.class - JACT (NotCovered, Total): 10, 16
+REGULAR CLASS: org/apache/batik/Version.class - JACT (NotCovered, Total): 75, 105
+REGULAR CLASS: org/apache/batik/i18n/LocaleGroup.class - JACT (NotCovered, Total): 7, 15
+REGULAR CLASS: org/apache/batik/i18n/LocalizableSupport.class - JACT (NotCovered, Total): 351, 368
+REGULAR CLASS: org/apache/batik/xml/XMLUtilities.class - JACT (NotCovered, Total): 632, 704
+REGULAR CLASS: org/apache/batik/xml/XMLCharacters.class - JACT (NotCovered, Total): 3, 41036
+REGULAR CLASS: org/w3c/css/sac/InputSource.class - JACT (NotCovered, Total): 30, 62
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/codec/util/ImageEncoderImpl.class - JACT (NotCovered, Total): 20, 29
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/ChunkStream.class - JACT (NotCovered, Total): 52, 188
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/CRC.class - JACT (NotCovered, Total): 3, 70
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/PNGTranscoderInternalCodecWriteAdapter.class - JACT (NotCovered, Total): 47, 122
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/IDATOutputStream.class - JACT (NotCovered, Total): 27, 179
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/PNGEncodeParam$RGB.class - JACT (NotCovered, Total): 54, 80
+ABSTRACT CLASS: org/apache/batik/ext/awt/image/codec/png/PNGEncodeParam.class - JACT (NotCovered, Total): 496, 1003
+REGULAR CLASS: org/apache/batik/ext/awt/image/codec/png/PNGImageEncoder.class - JACT (NotCovered, Total): 1146, 1981
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 79
+Abstract classes found: 134
+Enums found: 44
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 848

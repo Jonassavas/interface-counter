@@ -1,0 +1,75 @@
+REGULAR CLASS: io/opentracing/noop/NoopTracerFactory.class - JACT (NotCovered, Total): 0, 2
+REGULAR CLASS: io/opentracing/noop/NoopScopeManagerImpl.class - JACT (NotCovered, Total): 4, 7
+INTERFACE: io/opentracing/noop/NoopScopeManager.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: io/opentracing/noop/NoopTracerImpl.class - JACT (NotCovered, Total): 13, 23
+REGULAR CLASS: io/netty/handler/codec/http/HttpContentDecompressor.class - JACT (NotCovered, Total): 84, 114
+REGULAR CLASS: io/netty/bootstrap/BootstrapConfig.class - JACT (NotCovered, Total): 45, 49
+REGULAR CLASS: io/netty/bootstrap/Bootstrap.class - JACT (NotCovered, Total): 170, 322
+REGULAR CLASS: io/netty/bootstrap/Bootstrap$1.class - JACT (NotCovered, Total): 6, 45
+REGULAR CLASS: io/netty/bootstrap/Bootstrap$3.class - JACT (NotCovered, Total): 10, 43
+REGULAR CLASS: io/netty/handler/timeout/IdleStateHandler$ReaderIdleTimeoutTask.class - JACT (NotCovered, Total): 74, 81
+REGULAR CLASS: io/netty/handler/timeout/IdleStateHandler$1.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: io/netty/handler/timeout/ReadTimeoutHandler.class - JACT (NotCovered, Total): 33, 41
+REGULAR CLASS: io/netty/handler/timeout/IdleStateHandler.class - JACT (NotCovered, Total): 195, 484
+ABSTRACT CLASS: io/netty/handler/timeout/IdleStateHandler$AbstractIdleTask.class - JACT (NotCovered, Total): 11, 17
+REGULAR CLASS: io/netty/handler/timeout/IdleStateHandler$AllIdleTimeoutTask.class - JACT (NotCovered, Total): 85, 92
+ABSTRACT CLASS: io/netty/resolver/InetNameResolver.class - JACT (NotCovered, Total): 0, 33
+ABSTRACT CLASS: io/netty/resolver/AbstractAddressResolver.class - JACT (NotCovered, Total): 167, 221
+REGULAR CLASS: io/netty/resolver/InetSocketAddressResolver$1.class - JACT (NotCovered, Total): 6, 36
+REGULAR CLASS: io/netty/resolver/AddressResolverGroup$1.class - JACT (NotCovered, Total): 27, 39
+ABSTRACT CLASS: io/netty/resolver/AddressResolverGroup.class - JACT (NotCovered, Total): 93, 166
+REGULAR CLASS: io/netty/resolver/DefaultNameResolver.class - JACT (NotCovered, Total): 18, 29
+REGULAR CLASS: io/netty/resolver/DefaultAddressResolverGroup.class - JACT (NotCovered, Total): 0, 11
+ABSTRACT CLASS: io/netty/resolver/SimpleNameResolver.class - JACT (NotCovered, Total): 30, 61
+REGULAR CLASS: io/netty/resolver/InetSocketAddressResolver.class - JACT (NotCovered, Total): 20, 47
+REGULAR CLASS: io/smallrye/openapi/spi/OASFactoryResolverImpl.class - JACT (NotCovered, Total): 15, 201
+REGULAR CLASS: org/glassfish/json/BufferPoolImpl.class - JACT (NotCovered, Total): 0, 46
+REGULAR CLASS: org/glassfish/json/JsonArrayBuilderImpl$JsonArrayImpl.class - JACT (NotCovered, Total): 101, 124
+REGULAR CLASS: org/glassfish/json/JsonArrayBuilderImpl.class - JACT (NotCovered, Total): 447, 495
+REGULAR CLASS: org/glassfish/json/JsonGeneratorImpl$Context.class - JACT (NotCovered, Total): 0, 9
+ENUM: org/glassfish/json/JsonGeneratorImpl$Scope.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: org/glassfish/json/JsonGeneratorImpl.class - JACT (NotCovered, Total): 915, 2185
+REGULAR CLASS: org/glassfish/json/JsonMessages.class - JACT (NotCovered, Total): 461, 486
+REGULAR CLASS: org/glassfish/json/JsonNumberImpl$JsonBigDecimalNumber.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: org/glassfish/json/JsonNumberImpl$JsonIntNumber.class - JACT (NotCovered, Total): 40, 50
+ABSTRACT CLASS: org/glassfish/json/JsonNumberImpl.class - JACT (NotCovered, Total): 82, 97
+REGULAR CLASS: org/glassfish/json/JsonObjectBuilderImpl$JsonObjectImpl.class - JACT (NotCovered, Total): 85, 130
+REGULAR CLASS: org/glassfish/json/JsonObjectBuilderImpl.class - JACT (NotCovered, Total): 250, 306
+REGULAR CLASS: org/glassfish/json/JsonParserImpl$ArrayContext.class - JACT (NotCovered, Total): 73, 148
+ABSTRACT CLASS: org/glassfish/json/JsonParserImpl$Context.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: org/glassfish/json/JsonParserImpl$NoneContext.class - JACT (NotCovered, Total): 35, 70
+REGULAR CLASS: org/glassfish/json/JsonParserImpl$ObjectContext.class - JACT (NotCovered, Total): 70, 184
+REGULAR CLASS: org/glassfish/json/JsonParserImpl$Stack.class - JACT (NotCovered, Total): 7, 35
+REGULAR CLASS: org/glassfish/json/JsonParserImpl.class - JACT (NotCovered, Total): 292, 521
+REGULAR CLASS: org/glassfish/json/JsonPointerImpl.class - JACT (NotCovered, Total): 203, 369
+REGULAR CLASS: org/glassfish/json/JsonProviderImpl.class - JACT (NotCovered, Total): 298, 347
+REGULAR CLASS: org/glassfish/json/JsonReaderFactoryImpl.class - JACT (NotCovered, Total): 11, 34
+REGULAR CLASS: org/glassfish/json/JsonReaderImpl.class - JACT (NotCovered, Total): 157, 214
+REGULAR CLASS: org/glassfish/json/JsonStringImpl.class - JACT (NotCovered, Total): 103, 160
+ENUM: org/glassfish/json/JsonTokenizer$JsonToken.class - JACT (NotCovered, Total): 0, 165
+REGULAR CLASS: org/glassfish/json/JsonTokenizer.class - JACT (NotCovered, Total): 649, 1257
+REGULAR CLASS: org/glassfish/json/JsonWriterFactoryImpl.class - JACT (NotCovered, Total): 31, 43
+REGULAR CLASS: org/glassfish/json/JsonWriterImpl.class - JACT (NotCovered, Total): 148, 227
+REGULAR CLASS: org/glassfish/json/NodeReference$ObjectReference.class - JACT (NotCovered, Total): 49, 80
+ABSTRACT CLASS: org/glassfish/json/NodeReference.class - JACT (NotCovered, Total): 11, 20
+REGULAR CLASS: org/glassfish/json/UnicodeDetectingInputStream.class - JACT (NotCovered, Total): 207, 395
+REGULAR CLASS: javax/json/EmptyArray.class - JACT (NotCovered, Total): 74, 77
+REGULAR CLASS: javax/json/EmptyObject.class - JACT (NotCovered, Total): 50, 53
+REGULAR CLASS: javax/json/Json.class - JACT (NotCovered, Total): 131, 143
+REGULAR CLASS: javax/json/JsonException.class - JACT (NotCovered, Total): 5, 9
+INTERFACE: javax/json/JsonStructure.class - JACT (NotCovered, Total): 0, 5
+ENUM: javax/json/JsonValue$ValueType.class - JACT (NotCovered, Total): 0, 74
+INTERFACE: javax/json/JsonValue.class - JACT (NotCovered, Total): 10, 34
+REGULAR CLASS: javax/json/JsonValueImpl.class - JACT (NotCovered, Total): 26, 35
+ABSTRACT CLASS: javax/json/spi/JsonProvider.class - JACT (NotCovered, Total): 96, 112
+ENUM: javax/json/stream/JsonParser$Event.class - JACT (NotCovered, Total): 0, 104
+REGULAR CLASS: org/eclipse/microprofile/openapi/spi/OASFactoryResolver$1.class - JACT (NotCovered, Total): 0, 6
+ABSTRACT CLASS: org/eclipse/microprofile/openapi/spi/OASFactoryResolver.class - JACT (NotCovered, Total): 37, 96
+
+Summary for Class Files Only In JACT:
+Interfaces found: 3
+Abstract classes found: 10
+Enums found: 4
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 50

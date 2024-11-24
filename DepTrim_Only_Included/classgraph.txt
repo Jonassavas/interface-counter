@@ -1,0 +1,170 @@
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$2.class
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$4.class
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$6.class
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$7.class
+REGULAR CLASS: io/github/toolfactory/narcissus/Narcissus$8.class
+SYNTHETIC CLASS: io/github/toolfactory/narcissus/Narcissus$9.class
+INTERFACE: io/github/toolfactory/narcissus/Narcissus$Getter.class
+INTERFACE: io/github/toolfactory/narcissus/Narcissus$MethodIterator.class
+REGULAR CLASS: io/github/toolfactory/jvm/Driver$Factory$FactoryException.class
+REGULAR CLASS: io/github/toolfactory/jvm/Driver$Factory.class
+REGULAR CLASS: io/github/toolfactory/jvm/Driver$InitializeException.class
+REGULAR CLASS: io/github/toolfactory/jvm/Driver$InstantiateException.class
+INTERFACE: io/github/toolfactory/jvm/Driver.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/InitializeException.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/AllocateInstanceFunction$Native$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/AllocateInstanceFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/AllocateInstanceFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/BuiltinClassLoaderClassSupplier$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/BuiltinClassLoaderClassSupplier.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ClassLoaderDelegateClassSupplier$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ClassLoaderDelegateClassSupplier$ForJava17.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ClassLoaderDelegateClassSupplier$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ClassLoaderDelegateClassSupplier$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ClassLoaderDelegateClassSupplier.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/ConstructorInvokeFunction$Abst.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConstructorInvokeFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConstructorInvokeFunction$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConstructorInvokeFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava14$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava14.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava17$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava17.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$ForJava9$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Hybrid$ForJava17$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Hybrid$ForJava17.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Hybrid.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$Abst.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava14$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava14.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava17.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava9$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplier.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$ForJava17.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$ForJava7$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Hybrid$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Hybrid$ForJava17.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Hybrid.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Native$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Native$ForJava17.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConsulterSupplyFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConvertToBuiltinClassLoaderFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/ConvertToBuiltinClassLoaderFunction$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ConvertToBuiltinClassLoaderFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava14$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava14.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava17$ForSemeru$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava17$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava17.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava7$ForSemeru$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava9$ForSemeru$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction$ForJava9$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/DeepConsulterSupplyFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/DefineHookClassFunction$ForJava17.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/DefineHookClassFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetClassByNameFunction$ForJava7$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetClassByNameFunction.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredConstructorsFunction$Abst.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredConstructorsFunction$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredConstructorsFunction$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetDeclaredConstructorsFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldsFunction$ForJava7$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetDeclaredFieldsFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodFunction$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodsFunction$ForJava7$ForSemeru.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetDeclaredMethodsFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetFieldValueFunction$Native$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetFieldValueFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetFieldValueFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7$ForSemeru$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7$ForSemeru$2.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7$ForSemeru$ClassNameBasedLockSupplier.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$Native$ForJava7$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$Native$ForJava7$ForSemeru$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$Native$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$Native$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetLoadedClassesRetrieverFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedPackagesFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetLoadedPackagesFunction$Native$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetLoadedPackagesFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetLoadedPackagesFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetPackageFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/GetPackageFunction$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetPackageFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/GetResourcesFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/MethodInvokeFunction$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/MethodInvokeFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/PrivateLookupInMethodHandleSupplier$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/PrivateLookupInMethodHandleSupplier.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$ForJava7$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Native$ForJava7$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Native$ForJava7.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Native$ForJava9$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Native$ForJava9.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/SetAccessibleFunction.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/SetFieldValueFunction$Native$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/SetFieldValueFunction$Native.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/SetFieldValueFunction.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/StopThreadFunction$Abst.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/StopThreadFunction$ForJava20.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/StopThreadFunction$ForJava7$ForSemeru.class
+REGULAR CLASS: io/github/toolfactory/jvm/function/catalog/StopThreadFunction$ForJava7.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/StopThreadFunction.class
+ABSTRACT CLASS: io/github/toolfactory/jvm/function/catalog/ThrowExceptionFunction$Abst.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/ThrowExceptionFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/catalog/UnsafeSupplier.class
+INTERFACE: io/github/toolfactory/jvm/function/template/BiFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/template/Consumer.class
+INTERFACE: io/github/toolfactory/jvm/function/template/Function.class
+INTERFACE: io/github/toolfactory/jvm/function/template/Supplier.class
+INTERFACE: io/github/toolfactory/jvm/function/template/ThrowingBiConsumer.class
+INTERFACE: io/github/toolfactory/jvm/function/template/ThrowingBiFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/template/ThrowingFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/template/ThrowingQuadFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/template/ThrowingTriFunction.class
+INTERFACE: io/github/toolfactory/jvm/function/template/TriConsumer.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/BufferHandler.class
+SYNTHETIC CLASS: io/github/toolfactory/jvm/util/Classes$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File$Reader$1.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File$Reader$2.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File$Reader.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File$Symbol$Tag.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File$Symbol.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$File.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Classes$RawInfo.class
+INTERFACE: io/github/toolfactory/jvm/util/CleanableSupplier.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/JavaClass.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/ObjectProvider$BuildingException.class
+INTERFACE: io/github/toolfactory/jvm/util/ObjectProvider$ExceptionHandler.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/ObjectProvider$InitializationMarkViaExceptionHandler.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Properties.class
+REGULAR CLASS: io/github/toolfactory/jvm/util/Resources.class
+
+Total number of class files only in DepTrim: 161
+Total number of class files in DepTrim: 214
+Interfaces found: 61
+Abstract classes found: 6
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 2
+Regular classes found: 92

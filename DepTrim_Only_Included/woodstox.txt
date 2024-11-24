@@ -1,0 +1,332 @@
+INTERFACE: org/codehaus/stax2/AttributeInfo.class
+INTERFACE: org/codehaus/stax2/DTDInfo.class
+INTERFACE: org/codehaus/stax2/LocationInfo.class
+INTERFACE: org/codehaus/stax2/XMLEventReader2.class
+INTERFACE: org/codehaus/stax2/XMLReporter2.class
+INTERFACE: org/codehaus/stax2/XMLStreamProperties.class
+INTERFACE: org/codehaus/stax2/XMLStreamReader2.class
+INTERFACE: org/codehaus/stax2/XMLStreamWriter2.class
+INTERFACE: org/codehaus/stax2/evt/DTD2.class
+INTERFACE: org/codehaus/stax2/evt/NotationDeclaration2.class
+INTERFACE: org/codehaus/stax2/evt/XMLEvent2.class
+INTERFACE: org/codehaus/stax2/io/EscapingWriterFactory.class
+INTERFACE: org/codehaus/stax2/osgi/Stax2InputFactoryProvider.class
+INTERFACE: org/codehaus/stax2/osgi/Stax2OutputFactoryProvider.class
+INTERFACE: org/codehaus/stax2/osgi/Stax2ValidationSchemaFactoryProvider.class
+REGULAR CLASS: org/codehaus/stax2/ri/EmptyIterator.class
+REGULAR CLASS: org/codehaus/stax2/ri/EmptyNamespaceContext.class
+REGULAR CLASS: org/codehaus/stax2/ri/evt/EntityDeclarationEventImpl.class
+REGULAR CLASS: org/codehaus/stax2/ri/evt/MergedNsContext.class
+REGULAR CLASS: org/codehaus/stax2/ri/evt/StartElementEventImpl.class
+INTERFACE: org/codehaus/stax2/typed/TypedXMLStreamReader.class
+INTERFACE: org/codehaus/stax2/typed/TypedXMLStreamWriter.class
+INTERFACE: org/codehaus/stax2/validation/DTDValidationSchema.class
+INTERFACE: org/codehaus/stax2/validation/Validatable.class
+INTERFACE: org/codehaus/stax2/validation/ValidationContext.class
+INTERFACE: org/codehaus/stax2/validation/ValidationProblemHandler.class
+INTERFACE: org/codehaus/stax2/validation/XMLValidationSchema.class
+INTERFACE: com/sun/msv/reader/xmlschema/AnyAttributeOwner.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader$2.class
+INTERFACE: com/sun/msv/reader/xmlschema/XMLSchemaReader$RefResolver.class
+INTERFACE: com/sun/msv/reader/xmlschema/XMLSchemaReader$Type.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader$3.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/XMLSchemaReader$4.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeWildcardComputer$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeWildcardComputer$2.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/DOMLSInputImpl.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ComplexContentBodyState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ImportState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/GroupState$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentRestrictionState$BaseContentTypeRenderer$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentRestrictionState$BaseContentTypeRenderer.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentRestrictionState$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentRestrictionState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/GroupState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeState$1.class
+ABSTRACT CLASS: com/sun/msv/reader/xmlschema/AnyState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AnyAttributeState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeGroupState$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AttributeGroupState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/ComplexContentState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentExtensionState$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/SimpleContentExtensionState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/IncludeState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/RedefineState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AnyElementState$1$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AnyElementState$1.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/AnyElementState.class
+REGULAR CLASS: com/sun/msv/reader/xmlschema/IdentityConstraintState$1.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/DataParamState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/DefineState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader$AbortException.class
+SYNTHETIC CLASS: com/sun/msv/reader/trex/ng/RELAXNGReader$1.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/GrammarState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/IncludeMergeState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/StartState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/ListState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/NGNameState$AnyNameState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/NGNameState$NsNameState.class
+ABSTRACT CLASS: com/sun/msv/reader/trex/ng/NGNameState.class
+REGULAR CLASS: com/sun/msv/reader/trex/ng/RefState.class
+INTERFACE: com/sun/msv/reader/trex/NameClassOwner.class
+REGULAR CLASS: com/sun/msv/reader/trex/IncludeMergeState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassNsNameState.class
+ABSTRACT CLASS: com/sun/msv/reader/trex/NameClassWithoutChildState.class
+ABSTRACT CLASS: com/sun/msv/reader/trex/NameClassState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassAnyNameState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassNotState.class
+REGULAR CLASS: com/sun/msv/reader/trex/IncludePatternState.class
+ABSTRACT CLASS: com/sun/msv/reader/trex/NameClassWithChildState.class
+ABSTRACT CLASS: com/sun/msv/reader/trex/DefineState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassNameState.class
+REGULAR CLASS: com/sun/msv/reader/trex/DivInGrammarState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassDifferenceState.class
+REGULAR CLASS: com/sun/msv/reader/trex/MixedState.class
+REGULAR CLASS: com/sun/msv/reader/trex/GrammarState.class
+REGULAR CLASS: com/sun/msv/reader/trex/RootMergedGrammarState.class
+REGULAR CLASS: com/sun/msv/reader/trex/RefState.class
+REGULAR CLASS: com/sun/msv/reader/trex/StartState.class
+REGULAR CLASS: com/sun/msv/reader/trex/NameClassChoiceState.class
+INTERFACE: com/sun/msv/reader/GrammarReader$PrefixResolver.class
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$2$1.class
+REGULAR CLASS: com/sun/msv/reader/GrammarReader$2.class
+INTERFACE: com/sun/msv/reader/GrammarReader$BackPatch.class
+INTERFACE: com/sun/msv/reader/GrammarReaderController2.class
+INTERFACE: com/sun/msv/reader/GrammarReaderController.class
+REGULAR CLASS: com/sun/msv/reader/AbortException.class
+INTERFACE: com/sun/msv/reader/datatype/xsd/XSTypeIncubator.class
+INTERFACE: com/sun/msv/reader/datatype/xsd/XSTypeOwner.class
+INTERFACE: com/sun/msv/reader/datatype/xsd/XSDatatypeResolver.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDVocabulary.class
+INTERFACE: com/sun/msv/reader/datatype/xsd/FacetStateParent.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/LazyTypeIncubator$1.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/LazyTypeIncubator$Facet.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/LazyTypeIncubator.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$2.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$3.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$4.class
+INTERFACE: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$Renderer.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/XSDatatypeExp$RenderingContext.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/ListState.class
+REGULAR CLASS: com/sun/msv/reader/datatype/xsd/UnionState.class
+INTERFACE: com/sun/msv/reader/datatype/DataTypeVocabulary.class
+INTERFACE: com/sun/msv/reader/datatype/TypeOwner.class
+INTERFACE: com/sun/msv/reader/ExpressionOwner.class
+INTERFACE: com/sun/msv/reader/DOMLSInput.class
+REGULAR CLASS: com/sun/msv/reader/IgnoreState.class
+REGULAR CLASS: com/sun/msv/grammar/relaxng/datatype/CompatibilityDatatypeLibrary.class
+REGULAR CLASS: com/sun/msv/grammar/relaxng/datatype/DatatypeBuilderImpl.class
+INTERFACE: com/sun/msv/grammar/IDContextProvider2.class
+INTERFACE: com/sun/msv/grammar/IDContextProvider.class
+INTERFACE: com/sun/msv/grammar/Grammar.class
+INTERFACE: com/sun/msv/grammar/ExpressionVisitor.class
+INTERFACE: com/sun/msv/grammar/relax/RELAXExpressionVisitor.class
+INTERFACE: com/sun/msv/grammar/relax/RELAXExpressionVisitorExpression.class
+INTERFACE: com/sun/msv/grammar/relax/RELAXExpressionVisitorBoolean.class
+INTERFACE: com/sun/msv/grammar/relax/RELAXExpressionVisitorVoid.class
+REGULAR CLASS: com/sun/msv/grammar/relax/AttPoolClause.class
+INTERFACE: com/sun/msv/grammar/relax/Exportable.class
+REGULAR CLASS: com/sun/msv/grammar/relax/TagClause.class
+REGULAR CLASS: com/sun/msv/grammar/relax/ElementRules.class
+REGULAR CLASS: com/sun/msv/grammar/relax/HedgeRules.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule$ElementRulesContainer.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule$HedgeRulesContainer.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule$TagContainer.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule$AttPoolContainer.class
+REGULAR CLASS: com/sun/msv/grammar/relax/RELAXModule$DatatypeContainer.class
+REGULAR CLASS: com/sun/msv/grammar/relax/ElementRule.class
+REGULAR CLASS: com/sun/msv/grammar/relax/EmptyStringType.class
+REGULAR CLASS: com/sun/msv/grammar/util/PossibleNamesCollector.class
+REGULAR CLASS: com/sun/msv/grammar/util/NameClassSimplifier.class
+REGULAR CLASS: com/sun/msv/grammar/util/IDContextProviderWrapper.class
+REGULAR CLASS: com/sun/msv/grammar/util/ExpressionPrinter.class
+INTERFACE: com/sun/msv/grammar/ExpressionVisitorExpression.class
+INTERFACE: com/sun/msv/grammar/ExpressionVisitorBoolean.class
+INTERFACE: com/sun/msv/grammar/ExpressionVisitorVoid.class
+INTERFACE: com/sun/msv/grammar/DataOrValueExp.class
+INTERFACE: com/sun/msv/grammar/NameClassAndExpression.class
+REGULAR CLASS: com/sun/msv/grammar/BinaryExp$1.class
+REGULAR CLASS: com/sun/msv/grammar/ConcurExp.class
+INTERFACE: com/sun/msv/grammar/NameClassVisitor.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/AttributeWildcard.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/AttributeGroupExp.class
+INTERFACE: com/sun/msv/grammar/xmlschema/AttWildcardExp.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/AttributeDeclExp.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/GroupDeclExp.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/KeyConstraint.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/KeyRefConstraint.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/ElementDeclExp$1.class
+REGULAR CLASS: com/sun/msv/grammar/xmlschema/LaxDefaultNameClass.class
+REGULAR CLASS: com/sun/msv/grammar/NameClass$1.class
+REGULAR CLASS: com/sun/msv/grammar/NameClass$2.class
+REGULAR CLASS: com/sun/msv/grammar/ListExp.class
+REGULAR CLASS: com/sun/msv/grammar/ChoiceNameClass.class
+REGULAR CLASS: com/sun/msv/grammar/DifferenceNameClass.class
+ABSTRACT CLASS: com/sun/msv/verifier/identity/Matcher.class
+REGULAR CLASS: com/sun/msv/verifier/identity/KeyValue.class
+REGULAR CLASS: com/sun/msv/verifier/identity/FieldsMatcher.class
+REGULAR CLASS: com/sun/msv/verifier/identity/MatcherBundle.class
+REGULAR CLASS: com/sun/msv/verifier/identity/SelectorMatcher.class
+REGULAR CLASS: com/sun/msv/verifier/identity/PathMatcher$SinglePathMatcher.class
+ABSTRACT CLASS: com/sun/msv/verifier/identity/PathMatcher.class
+REGULAR CLASS: com/sun/msv/verifier/identity/IDConstraintChecker.class
+REGULAR CLASS: com/sun/msv/verifier/identity/FieldMatcher.class
+ABSTRACT CLASS: com/sun/msv/verifier/regexp/ComplexAcceptorBaseImpl.class
+REGULAR CLASS: com/sun/msv/verifier/regexp/ComplexAcceptor.class
+INTERFACE: com/sun/msv/verifier/DocumentDeclaration.class
+INTERFACE: com/sun/msv/verifier/Acceptor.class
+ABSTRACT CLASS: com/sun/msv/verifier/AbstractVerifier.class
+INTERFACE: com/sun/msv/verifier/IVerifier.class
+ABSTRACT CLASS: com/sun/msv/verifier/ErrorInfo$ElementErrorInfo.class
+REGULAR CLASS: com/sun/msv/verifier/ErrorInfo$BadText.class
+REGULAR CLASS: com/sun/msv/verifier/ErrorInfo$BadTagName.class
+REGULAR CLASS: com/sun/msv/verifier/ErrorInfo$BadAttribute.class
+REGULAR CLASS: com/sun/msv/verifier/ErrorInfo$MissingAttribute.class
+REGULAR CLASS: com/sun/msv/verifier/ErrorInfo$IncompleteContentModel.class
+ABSTRACT CLASS: com/sun/msv/verifier/ErrorInfo.class
+REGULAR CLASS: com/sun/msv/verifier/ValidityViolation.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/FactoryImpl$WrapperException.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/FactoryImpl$ThrowController.class
+SYNTHETIC CLASS: com/sun/msv/verifier/jarv/FactoryImpl$1.class
+ABSTRACT CLASS: com/sun/msv/verifier/jarv/FactoryImpl.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/RELAXNGFactoryImpl.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/VerifierImpl.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/SchemaImpl.class
+REGULAR CLASS: com/sun/msv/verifier/jarv/XSFactoryImpl.class
+REGULAR CLASS: com/sun/msv/verifier/ValidationUnrecoverableException.class
+REGULAR CLASS: com/sun/msv/verifier/util/ErrorHandlerImpl.class
+REGULAR CLASS: com/sun/msv/verifier/Verifier$Context.class
+REGULAR CLASS: com/sun/msv/verifier/Verifier.class
+REGULAR CLASS: com/sun/msv/util/DatatypeRef.class
+REGULAR CLASS: com/sun/msv/util/Uri.class
+INTERFACE: org/iso_relax/verifier/VerifierFactoryLoader.class
+INTERFACE: org/iso_relax/verifier/VerifierFilter.class
+ABSTRACT CLASS: org/iso_relax/verifier/VerifierFactory.class
+INTERFACE: org/iso_relax/verifier/VerifierHandler.class
+REGULAR CLASS: org/iso_relax/verifier/impl/SAXEventGenerator.class
+ABSTRACT CLASS: org/iso_relax/verifier/impl/VerifierImpl.class
+REGULAR CLASS: org/iso_relax/verifier/impl/VerifierImpl$1.class
+REGULAR CLASS: org/iso_relax/verifier/impl/VerifierFilterImpl.class
+INTERFACE: org/iso_relax/verifier/Schema.class
+REGULAR CLASS: org/iso_relax/verifier/VerifierConfigurationException.class
+INTERFACE: org/iso_relax/verifier/Verifier.class
+REGULAR CLASS: jp/gr/xml/relax/dom/XMLMaker.class
+REGULAR CLASS: jp/gr/xml/relax/dom/UDOM.class
+REGULAR CLASS: jp/gr/xml/relax/dom/UDOMVisitor.class
+INTERFACE: jp/gr/xml/relax/dom/IDOMVisitor.class
+REGULAR CLASS: jp/gr/xml/relax/dom/DOMVisitorException.class
+REGULAR CLASS: jp/gr/xml/relax/xml/UXML.class
+REGULAR CLASS: jp/gr/xml/relax/sax/LexicalHandlerBase.class
+REGULAR CLASS: jp/gr/xml/relax/sax/DeclHandlerBase.class
+INTERFACE: com/sun/msv/datatype/xsd/XSDatatype.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceProcessor$Replace.class
+INTERFACE: com/sun/msv/datatype/xsd/Comparator.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/BigDateTimeValueType.class
+INTERFACE: com/sun/msv/datatype/xsd/datetime/IDateTimeValueType.class
+INTERFACE: com/sun/msv/datatype/xsd/datetime/ITimeDurationValueType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/BigTimeDurationValueType.class
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/datetime/AbstractCalendarFormatter.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/TimeZone$ZeroTimeZone.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/TimeZone$JavaZeroTimeZone.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/TimeZone$JavaMissingTimeZone.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/TimeZone.class
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/datetime/AbstractCalendarParser.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/CalendarFormatter.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/PreciseCalendarFormatter.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/PreciseCalendarParser.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/Util.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/datetime/CalendarParser.class
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/regex/RegExpFactory.class
+INTERFACE: com/sun/msv/datatype/xsd/regex/RegExp.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/regex/JDKImpl$1.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/regex/JDKImpl.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/regex/XercesImpl$1.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/regex/XercesImpl.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/EntityType.class
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/DateTimeBaseType.class
+INTERFACE: com/sun/msv/datatype/xsd/Discrete.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/FinalComponent.class
+ABSTRACT CLASS: com/sun/msv/datatype/xsd/BinaryBaseType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/HexBinaryType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/DateType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/TimeType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/GMonthDayType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/AnyURIType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/DurationType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnionType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/GMonthType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/BinaryValueType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/DateTimeType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/QnameValueType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/GYearType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/DoubleType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/Base64BinaryType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/GYearMonthType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/ErrorType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/WhiteSpaceFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnsignedLongType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnsignedShortType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/GDayType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/LanguageType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/MinExclusiveFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnsignedIntType.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/TotalDigitsFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/MaxExclusiveFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/LengthFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/PatternFacet.class
+REGULAR CLASS: com/sun/msv/datatype/xsd/UnsignedByteType.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/ParseException.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/BMPattern.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/REUtil.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/RegularExpression$Context.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/RegularExpression.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$FixedStringContainer.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$StringToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$ConcatToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$CharToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$ClosureToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$ParenToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$ConditionToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$ModifierToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token$UnionToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Token.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$CharOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$UnionOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$ChildOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$ModifierOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$RangeOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$StringOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op$ConditionOp.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Op.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/Match.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/RangeToken.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/RegexParser$ReferencePosition.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/RegexParser.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/InternalImpl$1.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/InternalImpl.class
+REGULAR CLASS: com/sun/msv/datatype/regexp/ParserForXMLSchema.class
+INTERFACE: com/sun/msv/datatype/DatabindableDatatype.class
+INTERFACE: com/sun/msv/datatype/SerializationContext.class
+REGULAR CLASS: com/sun/msv/datatype/ErrorDatatypeLibrary.class
+INTERFACE: org/relaxng/datatype/Datatype.class
+INTERFACE: org/relaxng/datatype/DatatypeBuilder.class
+INTERFACE: org/relaxng/datatype/DatatypeLibrary.class
+INTERFACE: org/relaxng/datatype/DatatypeLibraryFactory.class
+INTERFACE: org/relaxng/datatype/DatatypeStreamingValidator.class
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$1.class
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$Loader.class
+REGULAR CLASS: org/relaxng/datatype/helpers/DatatypeLibraryLoader$Service$Singleton.class
+REGULAR CLASS: org/relaxng/datatype/helpers/StreamingValidatorImpl.class
+INTERFACE: org/relaxng/datatype/ValidationContext.class
+
+Total number of class files only in DepTrim: 323
+Total number of class files in DepTrim: 642
+Interfaces found: 78
+Abstract classes found: 20
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 2
+Regular classes found: 223

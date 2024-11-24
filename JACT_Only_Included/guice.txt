@@ -1,0 +1,20 @@
+ENUM: com/google/common/base/StandardSystemProperty.class - JACT (NotCovered, Total): 30, 241
+REGULAR CLASS: com/google/common/collect/MoreCollectors$ToOptionalState.class - JACT (NotCovered, Total): 143, 172
+REGULAR CLASS: com/google/common/collect/MoreCollectors.class - JACT (NotCovered, Total): 6, 51
+REGULAR CLASS: com/google/common/io/ByteSource$AsCharSource.class - JACT (NotCovered, Total): 52, 72
+ABSTRACT CLASS: com/google/common/io/ByteSource.class - JACT (NotCovered, Total): 311, 343
+REGULAR CLASS: com/google/common/io/ByteStreams$1.class - JACT (NotCovered, Total): 11, 14
+REGULAR CLASS: com/google/common/io/ByteStreams.class - JACT (NotCovered, Total): 516, 612
+ABSTRACT CLASS: com/google/common/io/CharSource.class - JACT (NotCovered, Total): 324, 327
+REGULAR CLASS: com/google/common/io/Closer$SuppressingSuppressor.class - JACT (NotCovered, Total): 26, 51
+REGULAR CLASS: com/google/common/io/Closer.class - JACT (NotCovered, Total): 70, 125
+REGULAR CLASS: com/google/common/io/Resources$UrlByteSource.class - JACT (NotCovered, Total): 21, 33
+ABSTRACT CLASS: com/google/common/util/concurrent/internal/InternalFutureFailureAccess.class - JACT (NotCovered, Total): 0, 3
+
+Summary for Class Files Only In JACT:
+Interfaces found: 0
+Abstract classes found: 3
+Enums found: 1
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 8

@@ -1,0 +1,129 @@
+INTERFACE: com/google/gson/JsonDeserializer.class
+INTERFACE: com/google/gson/FieldNamingStrategy.class
+REGULAR CLASS: com/google/gson/Gson$3.class
+INTERFACE: com/google/gson/JsonSerializer.class
+INTERFACE: com/google/gson/InstanceCreator.class
+INTERFACE: com/google/gson/JsonSerializationContext.class
+REGULAR CLASS: com/google/gson/stream/MalformedJsonException.class
+REGULAR CLASS: com/google/gson/stream/JsonScope.class
+REGULAR CLASS: com/google/gson/JsonIOException.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$1.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$3.class
+REGULAR CLASS: com/google/gson/internal/Streams$AppendableWriter$CurrentWrite.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$7.class
+REGULAR CLASS: com/google/gson/internal/Excluder$1.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$5.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$2.class
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$KeySet.class
+REGULAR CLASS: com/google/gson/internal/GsonBuildConfig.class
+REGULAR CLASS: com/google/gson/internal/reflect/PreJava9ReflectionAccessor.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$4.class
+INTERFACE: com/google/gson/internal/ObjectConstructor.class
+REGULAR CLASS: com/google/gson/internal/PreJava9DateFormatProvider.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$12.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$10.class
+REGULAR CLASS: com/google/gson/internal/UnsafeAllocator$4.class
+REGULAR CLASS: com/google/gson/internal/UnsafeAllocator$2.class
+REGULAR CLASS: com/google/gson/internal/LinkedTreeMap$KeySet$1.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$11.class
+REGULAR CLASS: com/google/gson/internal/$Gson$Types$GenericArrayTypeImpl.class
+REGULAR CLASS: com/google/gson/internal/ConstructorConstructor$9.class
+REGULAR CLASS: com/google/gson/internal/$Gson$Types$WildcardTypeImpl.class
+REGULAR CLASS: com/google/gson/internal/bind/TreeTypeAdapter.class
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$31.class
+REGULAR CLASS: com/google/gson/internal/bind/util/ISO8601Utils.class
+REGULAR CLASS: com/google/gson/internal/bind/TreeTypeAdapter$GsonContextImpl.class
+SYNTHETIC CLASS: com/google/gson/internal/bind/TypeAdapters$36.class
+REGULAR CLASS: com/google/gson/internal/bind/TreeTypeAdapter$SingleTypeFactory.class
+REGULAR CLASS: com/google/gson/internal/bind/TypeAdapters$26$1.class
+SYNTHETIC CLASS: com/google/gson/internal/bind/ObjectTypeAdapter$2.class
+SYNTHETIC CLASS: com/google/gson/internal/bind/TreeTypeAdapter$1.class
+REGULAR CLASS: com/google/gson/internal/UnsafeAllocator$3.class
+REGULAR CLASS: com/google/gson/internal/Streams$AppendableWriter.class
+ANNOTATION: com/google/gson/annotations/SerializedName.class
+ANNOTATION: com/google/gson/annotations/Expose.class
+ANNOTATION: com/google/gson/annotations/JsonAdapter.class
+ANNOTATION: com/google/gson/annotations/Until.class
+ANNOTATION: com/google/gson/annotations/Since.class
+INTERFACE: com/google/gson/TypeAdapterFactory.class
+REGULAR CLASS: com/google/gson/DefaultDateTypeAdapter.class
+REGULAR CLASS: com/google/gson/JsonSyntaxException.class
+REGULAR CLASS: com/google/gson/FieldAttributes.class
+INTERFACE: com/google/gson/JsonDeserializationContext.class
+INTERFACE: com/google/gson/ExclusionStrategy.class
+ANNOTATION: javax/ws/rs/ConstrainedTo.class
+ANNOTATION: javax/ws/rs/Consumes.class
+ANNOTATION: javax/ws/rs/Encoded.class
+ANNOTATION: javax/ws/rs/GET.class
+REGULAR CLASS: javax/ws/rs/InternalServerErrorException.class
+ANNOTATION: javax/ws/rs/POST.class
+ANNOTATION: javax/ws/rs/Path.class
+ANNOTATION: javax/ws/rs/Produces.class
+REGULAR CLASS: javax/ws/rs/ServerErrorException.class
+INTERFACE: javax/ws/rs/client/AsyncInvoker.class
+INTERFACE: javax/ws/rs/client/Client.class
+INTERFACE: javax/ws/rs/client/ClientRequestContext.class
+INTERFACE: javax/ws/rs/client/ClientRequestFilter.class
+INTERFACE: javax/ws/rs/client/ClientResponseContext.class
+INTERFACE: javax/ws/rs/client/ClientResponseFilter.class
+INTERFACE: javax/ws/rs/client/Invocation$Builder.class
+INTERFACE: javax/ws/rs/client/Invocation.class
+INTERFACE: javax/ws/rs/client/InvocationCallback.class
+INTERFACE: javax/ws/rs/client/SyncInvoker.class
+INTERFACE: javax/ws/rs/client/WebTarget.class
+INTERFACE: javax/ws/rs/container/ContainerRequestContext.class
+INTERFACE: javax/ws/rs/container/ContainerRequestFilter.class
+INTERFACE: javax/ws/rs/container/ContainerResponseContext.class
+INTERFACE: javax/ws/rs/container/ContainerResponseFilter.class
+INTERFACE: javax/ws/rs/container/DynamicFeature.class
+INTERFACE: javax/ws/rs/container/ResourceInfo.class
+REGULAR CLASS: javax/ws/rs/core/CacheControl.class
+INTERFACE: javax/ws/rs/core/Configurable.class
+INTERFACE: javax/ws/rs/core/Configuration.class
+ANNOTATION: javax/ws/rs/core/Context.class
+REGULAR CLASS: javax/ws/rs/core/Cookie.class
+REGULAR CLASS: javax/ws/rs/core/EntityTag.class
+INTERFACE: javax/ws/rs/core/Feature.class
+INTERFACE: javax/ws/rs/core/FeatureContext.class
+REGULAR CLASS: javax/ws/rs/core/Form$1.class
+REGULAR CLASS: javax/ws/rs/core/Form.class
+REGULAR CLASS: javax/ws/rs/core/GenericEntity.class
+INTERFACE: javax/ws/rs/core/Link$Builder.class
+REGULAR CLASS: javax/ws/rs/core/Link$JaxbAdapter.class
+REGULAR CLASS: javax/ws/rs/core/Link$JaxbLink.class
+ABSTRACT CLASS: javax/ws/rs/core/Link.class
+INTERFACE: javax/ws/rs/core/MultivaluedMap.class
+REGULAR CLASS: javax/ws/rs/core/NewCookie.class
+REGULAR CLASS: javax/ws/rs/core/NoContentException.class
+INTERFACE: javax/ws/rs/core/PathSegment.class
+INTERFACE: javax/ws/rs/core/Request.class
+INTERFACE: javax/ws/rs/core/Response$StatusType.class
+INTERFACE: javax/ws/rs/core/SecurityContext.class
+INTERFACE: javax/ws/rs/core/StreamingOutput.class
+REGULAR CLASS: javax/ws/rs/core/UriBuilderException.class
+INTERFACE: javax/ws/rs/core/UriInfo.class
+ABSTRACT CLASS: javax/ws/rs/core/Variant$VariantListBuilder.class
+INTERFACE: javax/ws/rs/ext/ContextResolver.class
+INTERFACE: javax/ws/rs/ext/ExceptionMapper.class
+INTERFACE: javax/ws/rs/ext/InterceptorContext.class
+INTERFACE: javax/ws/rs/ext/MessageBodyReader.class
+INTERFACE: javax/ws/rs/ext/MessageBodyWriter.class
+ANNOTATION: javax/ws/rs/ext/ParamConverter$Lazy.class
+INTERFACE: javax/ws/rs/ext/ParamConverter.class
+INTERFACE: javax/ws/rs/ext/ParamConverterProvider.class
+ANNOTATION: javax/ws/rs/ext/Provider.class
+INTERFACE: javax/ws/rs/ext/Providers.class
+INTERFACE: javax/ws/rs/ext/ReaderInterceptor.class
+INTERFACE: javax/ws/rs/ext/ReaderInterceptorContext.class
+INTERFACE: javax/ws/rs/ext/RuntimeDelegate$HeaderDelegate.class
+INTERFACE: javax/ws/rs/ext/WriterInterceptor.class
+INTERFACE: javax/ws/rs/ext/WriterInterceptorContext.class
+
+Total number of class files only in DepTrim: 120
+Total number of class files in DepTrim: 259
+Interfaces found: 51
+Abstract classes found: 2
+Enums found: 0
+Annotations found: 15
+Synthetic classes found: 3
+Regular classes found: 49

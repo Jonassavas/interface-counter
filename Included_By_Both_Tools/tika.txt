@@ -1,0 +1,19 @@
+REGULAR CLASS: org/slf4j/LoggerFactory.class - JACT (NotCovered, Total): 314, 522
+REGULAR CLASS: org/slf4j/helpers/BasicMDCAdapter$1.class - JACT (NotCovered, Total): 9, 15
+REGULAR CLASS: org/slf4j/helpers/BasicMDCAdapter.class - JACT (NotCovered, Total): 130, 144
+REGULAR CLASS: org/slf4j/helpers/BasicMarkerFactory.class - JACT (NotCovered, Total): 60, 68
+REGULAR CLASS: org/slf4j/helpers/NOPLoggerFactory.class - JACT (NotCovered, Total): 2, 5
+REGULAR CLASS: org/slf4j/helpers/NOPMDCAdapter.class - JACT (NotCovered, Total): 14, 17
+REGULAR CLASS: org/slf4j/helpers/NOP_FallbackServiceProvider.class - JACT (NotCovered, Total): 12, 33
+REGULAR CLASS: org/slf4j/helpers/SubstituteLoggerFactory.class - JACT (NotCovered, Total): 32, 69
+REGULAR CLASS: org/slf4j/helpers/SubstituteServiceProvider.class - JACT (NotCovered, Total): 14, 35
+REGULAR CLASS: org/slf4j/helpers/ThreadLocalMapOfStacks.class - JACT (NotCovered, Total): 113, 121
+REGULAR CLASS: org/slf4j/helpers/Util.class - JACT (NotCovered, Total): 101, 121
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 0
+Abstract classes found: 0
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 11

@@ -1,0 +1,72 @@
+SYNTHETIC CLASS: org/apache/commons/beanutils/WeakFastHashMap$1.class
+REGULAR CLASS: org/apache/commons/beanutils/DynaProperty.class
+REGULAR CLASS: org/apache/commons/beanutils/WrapDynaClass$1.class
+REGULAR CLASS: org/apache/commons/beanutils/WrapDynaClass$2.class
+ABSTRACT CLASS: org/apache/commons/beanutils/WeakFastHashMap$CollectionView.class
+REGULAR CLASS: org/apache/commons/beanutils/ConversionException.class
+INTERFACE: org/apache/commons/beanutils/BeanIntrospector.class
+INTERFACE: org/apache/commons/beanutils/DynaClass.class
+REGULAR CLASS: org/apache/commons/beanutils/WeakFastHashMap$EntrySet.class
+INTERFACE: org/apache/commons/beanutils/Converter.class
+INTERFACE: org/apache/commons/beanutils/IntrospectionContext.class
+REGULAR CLASS: org/apache/commons/beanutils/MappedPropertyDescriptor.class
+REGULAR CLASS: org/apache/commons/beanutils/WrapDynaBean.class
+INTERFACE: org/apache/commons/beanutils/DynaBean.class
+REGULAR CLASS: org/apache/commons/beanutils/WeakFastHashMap$CollectionView$CollectionViewIterator.class
+REGULAR CLASS: org/apache/commons/beanutils/NestedNullException.class
+REGULAR CLASS: org/apache/commons/beanutils/WeakFastHashMap$Values.class
+REGULAR CLASS: org/apache/commons/beanutils/WrapDynaClass$CacheKey.class
+REGULAR CLASS: org/apache/commons/beanutils/BeanAccessLanguageException.class
+REGULAR CLASS: org/apache/commons/beanutils/WrapDynaClass.class
+REGULAR CLASS: org/apache/commons/beanutils/WeakFastHashMap$KeySet.class
+INTERFACE: org/apache/commons/beanutils/expression/Resolver.class
+REGULAR CLASS: org/apache/commons/beanutils/MappedPropertyDescriptor$MappedMethodReference.class
+REGULAR CLASS: org/apache/commons/digester/BeanPropertySetterRule.class
+REGULAR CLASS: org/apache/commons/digester/NodeCreateRule$NodeBuilder.class
+REGULAR CLASS: org/apache/commons/digester/NodeCreateRule.class
+INTERFACE: org/apache/commons/digester/ObjectCreationFactory.class
+REGULAR CLASS: org/apache/commons/digester/ObjectParamRule.class
+REGULAR CLASS: org/apache/commons/digester/parser/GenericParser.class
+REGULAR CLASS: org/apache/commons/digester/parser/XercesParser.class
+REGULAR CLASS: org/apache/commons/digester/ParserFeatureSetterFactory.class
+REGULAR CLASS: org/apache/commons/digester/PathCallParamRule.class
+INTERFACE: org/apache/commons/digester/Rules.class
+INTERFACE: org/apache/commons/digester/RuleSet.class
+REGULAR CLASS: org/apache/commons/digester/SetNestedPropertiesRule$1.class
+REGULAR CLASS: org/apache/commons/digester/SetNestedPropertiesRule$AnyChildRule.class
+REGULAR CLASS: org/apache/commons/digester/SetNestedPropertiesRule$AnyChildRules.class
+REGULAR CLASS: org/apache/commons/digester/SetNestedPropertiesRule.class
+REGULAR CLASS: org/apache/commons/digester/SetPropertyRule.class
+REGULAR CLASS: org/apache/commons/digester/SetRootRule.class
+REGULAR CLASS: org/apache/commons/digester/SetTopRule.class
+INTERFACE: org/apache/commons/digester/StackAction.class
+ABSTRACT CLASS: org/apache/commons/digester/Substitutor.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/CircularIncludeException.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/DigesterLoadingException.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/DigesterRuleParser$1.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/DigesterRuleParser$RulesPrefixAdapter.class
+INTERFACE: org/apache/commons/digester/xmlrules/DigesterRulesSource.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/FromXmlRuleSet$1.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/FromXmlRuleSet$InputSourceXMLRulesLoader.class
+ABSTRACT CLASS: org/apache/commons/digester/xmlrules/FromXmlRuleSet$XMLRulesLoader.class
+REGULAR CLASS: org/apache/commons/digester/xmlrules/XmlLoadException.class
+REGULAR CLASS: org/apache/commons/logging/impl/SimpleLog.class
+REGULAR CLASS: org/apache/commons/logging/impl/Log4JLogger.class
+REGULAR CLASS: org/apache/commons/logging/impl/WeakHashtable$1.class
+REGULAR CLASS: org/apache/commons/logging/impl/LogFactoryImpl$3.class
+REGULAR CLASS: org/apache/commons/logging/impl/SimpleLog$1.class
+REGULAR CLASS: org/apache/commons/logging/impl/Jdk13LumberjackLogger.class
+REGULAR CLASS: org/apache/commons/logging/impl/WeakHashtable$Entry.class
+REGULAR CLASS: org/apache/commons/logging/LogConfigurationException.class
+REGULAR CLASS: org/apache/commons/logging/LogFactory$5.class
+INTERFACE: org/apache/commons/logging/Log.class
+REGULAR CLASS: org/apache/commons/collections/FastHashMap$1.class
+
+Total number of class files only in DepTrim: 63
+Total number of class files in DepTrim: 155
+Interfaces found: 12
+Abstract classes found: 3
+Enums found: 0
+Annotations found: 0
+Synthetic classes found: 1
+Regular classes found: 47

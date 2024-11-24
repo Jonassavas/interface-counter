@@ -1,0 +1,308 @@
+REGULAR CLASS: com/google/common/base/Absent.class - JACT (NotCovered, Total): 38, 49
+ENUM: com/google/common/base/AbstractIterator$State.class - JACT (NotCovered, Total): 0, 27
+ABSTRACT CLASS: com/google/common/base/AbstractIterator.class - JACT (NotCovered, Total): 11, 72
+REGULAR CLASS: com/google/common/base/Ascii.class - JACT (NotCovered, Total): 223, 282
+ENUM: com/google/common/base/CaseFormat$1.class - JACT (NotCovered, Total): 25, 33
+ENUM: com/google/common/base/CaseFormat$2.class - JACT (NotCovered, Total): 22, 30
+ENUM: com/google/common/base/CaseFormat$3.class - JACT (NotCovered, Total): 6, 14
+ENUM: com/google/common/base/CaseFormat$4.class - JACT (NotCovered, Total): 0, 11
+ENUM: com/google/common/base/CaseFormat$5.class - JACT (NotCovered, Total): 12, 31
+ABSTRACT CLASS: com/google/common/base/CaseFormat.class - JACT (NotCovered, Total): 14, 193
+ABSTRACT CLASS: com/google/common/base/CharMatcher$FastMatcher.class - JACT (NotCovered, Total): 7, 10
+REGULAR CLASS: com/google/common/base/CharMatcher$InRange.class - JACT (NotCovered, Total): 55, 70
+REGULAR CLASS: com/google/common/base/CharMatcher$Is.class - JACT (NotCovered, Total): 57, 71
+ABSTRACT CLASS: com/google/common/base/CharMatcher$NamedFastMatcher.class - JACT (NotCovered, Total): 3, 11
+REGULAR CLASS: com/google/common/base/CharMatcher$None.class - JACT (NotCovered, Total): 71, 82
+ABSTRACT CLASS: com/google/common/base/CharMatcher.class - JACT (NotCovered, Total): 804, 844
+REGULAR CLASS: com/google/common/base/Equivalence$Equals.class - JACT (NotCovered, Total): 2, 17
+REGULAR CLASS: com/google/common/base/Equivalence$Identity.class - JACT (NotCovered, Total): 4, 15
+REGULAR CLASS: com/google/common/base/Equivalence$Wrapper.class - JACT (NotCovered, Total): 38, 80
+ABSTRACT CLASS: com/google/common/base/Equivalence.class - JACT (NotCovered, Total): 24, 60
+REGULAR CLASS: com/google/common/base/Java8Usage.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: com/google/common/base/Joiner$MapJoiner.class - JACT (NotCovered, Total): 134, 145
+REGULAR CLASS: com/google/common/base/Joiner.class - JACT (NotCovered, Total): 96, 186
+REGULAR CLASS: com/google/common/base/MoreObjects$ToStringHelper.class - JACT (NotCovered, Total): 122, 257
+REGULAR CLASS: com/google/common/base/MoreObjects.class - JACT (NotCovered, Total): 19, 34
+REGULAR CLASS: com/google/common/base/Objects.class - JACT (NotCovered, Total): 0, 16
+ABSTRACT CLASS: com/google/common/base/Optional.class - JACT (NotCovered, Total): 21, 48
+REGULAR CLASS: com/google/common/base/Platform.class - JACT (NotCovered, Total): 104, 118
+REGULAR CLASS: com/google/common/base/Preconditions.class - JACT (NotCovered, Total): 1505, 1620
+INTERFACE: com/google/common/base/Predicate.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: com/google/common/base/Predicates$CompositionPredicate.class - JACT (NotCovered, Total): 63, 84
+REGULAR CLASS: com/google/common/base/Predicates$InstanceOfPredicate.class - JACT (NotCovered, Total): 42, 55
+REGULAR CLASS: com/google/common/base/Predicates.class - JACT (NotCovered, Total): 179, 192
+REGULAR CLASS: com/google/common/base/Present.class - JACT (NotCovered, Total): 64, 87
+REGULAR CLASS: com/google/common/base/Splitter$1$1.class - JACT (NotCovered, Total): 0, 20
+REGULAR CLASS: com/google/common/base/Splitter$1.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/base/Splitter$5.class - JACT (NotCovered, Total): 13, 28
+ABSTRACT CLASS: com/google/common/base/Splitter$SplittingIterator.class - JACT (NotCovered, Total): 49, 154
+REGULAR CLASS: com/google/common/base/Splitter.class - JACT (NotCovered, Total): 125, 217
+REGULAR CLASS: com/google/common/base/Stopwatch.class - JACT (NotCovered, Total): 162, 233
+REGULAR CLASS: com/google/common/base/Strings.class - JACT (NotCovered, Total): 343, 503
+REGULAR CLASS: com/google/common/base/Suppliers$SupplierOfInstance.class - JACT (NotCovered, Total): 44, 53
+REGULAR CLASS: com/google/common/base/Suppliers.class - JACT (NotCovered, Total): 43, 48
+REGULAR CLASS: com/google/common/base/Throwables.class - JACT (NotCovered, Total): 282, 311
+REGULAR CLASS: com/google/common/base/Ticker$1.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: com/google/common/base/Ticker.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/common/cache/CacheBuilder$1.class - JACT (NotCovered, Total): 3, 10
+REGULAR CLASS: com/google/common/cache/CacheBuilder$2.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: com/google/common/cache/CacheBuilder$3.class - JACT (NotCovered, Total): 0, 5
+ENUM: com/google/common/cache/CacheBuilder$NullListener.class - JACT (NotCovered, Total): 1, 10
+ENUM: com/google/common/cache/CacheBuilder$OneWeigher.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: com/google/common/cache/CacheBuilder.class - JACT (NotCovered, Total): 537, 804
+REGULAR CLASS: com/google/common/cache/CacheLoader$FunctionToCacheLoader.class - JACT (NotCovered, Total): 0, 14
+ABSTRACT CLASS: com/google/common/cache/CacheLoader.class - JACT (NotCovered, Total): 32, 40
+REGULAR CLASS: com/google/common/cache/CacheStats.class - JACT (NotCovered, Total): 302, 365
+REGULAR CLASS: com/google/common/cache/LocalCache$1.class - JACT (NotCovered, Total): 10, 18
+REGULAR CLASS: com/google/common/cache/LocalCache$2.class - JACT (NotCovered, Total): 2, 14
+ABSTRACT CLASS: com/google/common/cache/LocalCache$AbstractCacheSet.class - JACT (NotCovered, Total): 12, 27
+ABSTRACT CLASS: com/google/common/cache/LocalCache$AbstractReferenceEntry.class - JACT (NotCovered, Total): 68, 71
+ENUM: com/google/common/cache/LocalCache$EntryFactory$1.class - JACT (NotCovered, Total): 0, 13
+ENUM: com/google/common/cache/LocalCache$EntryFactory$2.class - JACT (NotCovered, Total): 19, 25
+ENUM: com/google/common/cache/LocalCache$EntryFactory$3.class - JACT (NotCovered, Total): 19, 25
+ENUM: com/google/common/cache/LocalCache$EntryFactory$4.class - JACT (NotCovered, Total): 23, 29
+ENUM: com/google/common/cache/LocalCache$EntryFactory$5.class - JACT (NotCovered, Total): 0, 15
+ENUM: com/google/common/cache/LocalCache$EntryFactory$6.class - JACT (NotCovered, Total): 21, 27
+ENUM: com/google/common/cache/LocalCache$EntryFactory$7.class - JACT (NotCovered, Total): 21, 27
+ENUM: com/google/common/cache/LocalCache$EntryFactory$8.class - JACT (NotCovered, Total): 25, 31
+ABSTRACT CLASS: com/google/common/cache/LocalCache$EntryFactory.class - JACT (NotCovered, Total): 34, 148
+REGULAR CLASS: com/google/common/cache/LocalCache$EntryIterator.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: com/google/common/cache/LocalCache$EntrySet.class - JACT (NotCovered, Total): 73, 86
+ABSTRACT CLASS: com/google/common/cache/LocalCache$HashIterator.class - JACT (NotCovered, Total): 44, 199
+REGULAR CLASS: com/google/common/cache/LocalCache$LoadingValueReference.class - JACT (NotCovered, Total): 97, 166
+REGULAR CLASS: com/google/common/cache/LocalCache$LocalLoadingCache.class - JACT (NotCovered, Total): 27, 47
+REGULAR CLASS: com/google/common/cache/LocalCache$LocalManualCache.class - JACT (NotCovered, Total): 85, 118
+REGULAR CLASS: com/google/common/cache/LocalCache$Segment.class - JACT (NotCovered, Total): 1742, 3132
+REGULAR CLASS: com/google/common/cache/LocalCache$SoftValueReference.class - JACT (NotCovered, Total): 13, 28
+ENUM: com/google/common/cache/LocalCache$Strength$1.class - JACT (NotCovered, Total): 5, 22
+ENUM: com/google/common/cache/LocalCache$Strength$2.class - JACT (NotCovered, Total): 8, 28
+ENUM: com/google/common/cache/LocalCache$Strength$3.class - JACT (NotCovered, Total): 8, 28
+ABSTRACT CLASS: com/google/common/cache/LocalCache$Strength.class - JACT (NotCovered, Total): 0, 21
+REGULAR CLASS: com/google/common/cache/LocalCache$StrongEntry.class - JACT (NotCovered, Total): 0, 31
+REGULAR CLASS: com/google/common/cache/LocalCache$StrongValueReference.class - JACT (NotCovered, Total): 8, 23
+REGULAR CLASS: com/google/common/cache/LocalCache$WeakEntry.class - JACT (NotCovered, Total): 48, 78
+REGULAR CLASS: com/google/common/cache/LocalCache$WeakValueReference.class - JACT (NotCovered, Total): 11, 28
+REGULAR CLASS: com/google/common/cache/LocalCache$WriteThroughEntry.class - JACT (NotCovered, Total): 73, 91
+REGULAR CLASS: com/google/common/cache/LocalCache.class - JACT (NotCovered, Total): 1060, 1630
+ENUM: com/google/common/cache/RemovalCause$1.class - JACT (NotCovered, Total): 0, 8
+ENUM: com/google/common/cache/RemovalCause$2.class - JACT (NotCovered, Total): 2, 8
+ENUM: com/google/common/cache/RemovalCause$3.class - JACT (NotCovered, Total): 0, 8
+ENUM: com/google/common/cache/RemovalCause$4.class - JACT (NotCovered, Total): 2, 8
+ENUM: com/google/common/cache/RemovalCause$5.class - JACT (NotCovered, Total): 2, 8
+ABSTRACT CLASS: com/google/common/cache/RemovalCause.class - JACT (NotCovered, Total): 0, 33
+REGULAR CLASS: com/google/common/cache/RemovalNotification.class - JACT (NotCovered, Total): 4, 24
+ABSTRACT CLASS: com/google/common/collect/AbstractIndexedListIterator.class - JACT (NotCovered, Total): 36, 76
+ENUM: com/google/common/collect/AbstractIterator$State.class - JACT (NotCovered, Total): 0, 27
+ABSTRACT CLASS: com/google/common/collect/AbstractIterator.class - JACT (NotCovered, Total): 17, 78
+ABSTRACT CLASS: com/google/common/collect/AbstractListMultimap.class - JACT (NotCovered, Total): 21, 45
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapEntries.class - JACT (NotCovered, Total): 34, 49
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapIterator.class - JACT (NotCovered, Total): 25, 57
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$AsMap.class - JACT (NotCovered, Total): 75, 122
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$KeySet$1.class - JACT (NotCovered, Total): 28, 51
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$KeySet.class - JACT (NotCovered, Total): 59, 77
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$RandomAccessWrappedList.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedCollection$WrappedIterator.class - JACT (NotCovered, Total): 35, 73
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedCollection.class - JACT (NotCovered, Total): 124, 306
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedList.class - JACT (NotCovered, Total): 125, 146
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultimap$WrappedSet.class - JACT (NotCovered, Total): 31, 41
+ABSTRACT CLASS: com/google/common/collect/AbstractMapBasedMultimap.class - JACT (NotCovered, Total): 302, 483
+REGULAR CLASS: com/google/common/collect/AbstractMapBasedMultiset$1.class - JACT (NotCovered, Total): 25, 49
+ABSTRACT CLASS: com/google/common/collect/AbstractMapBasedMultiset.class - JACT (NotCovered, Total): 137, 282
+ABSTRACT CLASS: com/google/common/collect/AbstractMapEntry.class - JACT (NotCovered, Total): 26, 80
+REGULAR CLASS: com/google/common/collect/AbstractMultimap$Values.class - JACT (NotCovered, Total): 16, 27
+ABSTRACT CLASS: com/google/common/collect/AbstractMultimap.class - JACT (NotCovered, Total): 133, 249
+REGULAR CLASS: com/google/common/collect/AbstractMultiset$ElementSet.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/collect/AbstractMultiset$EntrySet.class - JACT (NotCovered, Total): 7, 17
+ABSTRACT CLASS: com/google/common/collect/AbstractMultiset.class - JACT (NotCovered, Total): 44, 110
+ABSTRACT CLASS: com/google/common/collect/AbstractSetMultimap.class - JACT (NotCovered, Total): 14, 50
+REGULAR CLASS: com/google/common/collect/ArrayListMultimap.class - JACT (NotCovered, Total): 72, 99
+ABSTRACT CLASS: com/google/common/collect/ArrayListMultimapGwtSerializationDependencies.class - JACT (NotCovered, Total): 0, 4
+ABSTRACT CLASS: com/google/common/collect/BaseImmutableMultimap.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: com/google/common/collect/CollectCollectors.class - JACT (NotCovered, Total): 510, 606
+REGULAR CLASS: com/google/common/collect/CollectPreconditions.class - JACT (NotCovered, Total): 120, 129
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$1.class - JACT (NotCovered, Total): 27, 60
+REGULAR CLASS: com/google/common/collect/CollectSpliterators$1Splitr.class - JACT (NotCovered, Total): 19, 70
+REGULAR CLASS: com/google/common/collect/CollectSpliterators.class - JACT (NotCovered, Total): 159, 183
+REGULAR CLASS: com/google/common/collect/Collections2$FilteredCollection.class - JACT (NotCovered, Total): 154, 206
+REGULAR CLASS: com/google/common/collect/ComparatorOrdering.class - JACT (NotCovered, Total): 27, 41
+REGULAR CLASS: com/google/common/collect/Count.class - JACT (NotCovered, Total): 40, 56
+REGULAR CLASS: com/google/common/collect/EmptyImmutableListMultimap.class - JACT (NotCovered, Total): 2, 12
+REGULAR CLASS: com/google/common/collect/FilteredKeyListMultimap.class - JACT (NotCovered, Total): 20, 25
+REGULAR CLASS: com/google/common/collect/FilteredKeyMultimap.class - JACT (NotCovered, Total): 98, 140
+REGULAR CLASS: com/google/common/collect/FluentIterable$2.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/collect/FluentIterable$3$1.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: com/google/common/collect/FluentIterable$3.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: com/google/common/collect/FluentIterable.class - JACT (NotCovered, Total): 330, 380
+ABSTRACT CLASS: com/google/common/collect/ForwardingCollection.class - JACT (NotCovered, Total): 124, 131
+ABSTRACT CLASS: com/google/common/collect/ForwardingMapEntry.class - JACT (NotCovered, Total): 87, 98
+ABSTRACT CLASS: com/google/common/collect/ForwardingObject.class - JACT (NotCovered, Total): 4, 7
+ABSTRACT CLASS: com/google/common/collect/ForwardingSet.class - JACT (NotCovered, Total): 29, 32
+REGULAR CLASS: com/google/common/collect/HashMultimap.class - JACT (NotCovered, Total): 51, 80
+ABSTRACT CLASS: com/google/common/collect/HashMultimapGwtSerializationDependencies.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: com/google/common/collect/Hashing.class - JACT (NotCovered, Total): 3, 61
+ABSTRACT CLASS: com/google/common/collect/ImmutableAsList.class - JACT (NotCovered, Total): 16, 31
+ABSTRACT CLASS: com/google/common/collect/ImmutableBiMap.class - JACT (NotCovered, Total): 171, 184
+ABSTRACT CLASS: com/google/common/collect/ImmutableBiMapFauxverideShim.class - JACT (NotCovered, Total): 8, 11
+ABSTRACT CLASS: com/google/common/collect/ImmutableCollection$Builder.class - JACT (NotCovered, Total): 18, 83
+ABSTRACT CLASS: com/google/common/collect/ImmutableCollection.class - JACT (NotCovered, Total): 76, 136
+REGULAR CLASS: com/google/common/collect/ImmutableEntry.class - JACT (NotCovered, Total): 4, 19
+REGULAR CLASS: com/google/common/collect/ImmutableList$1.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/collect/ImmutableList$Builder.class - JACT (NotCovered, Total): 48, 165
+REGULAR CLASS: com/google/common/collect/ImmutableList$ReverseImmutableList.class - JACT (NotCovered, Total): 59, 88
+REGULAR CLASS: com/google/common/collect/ImmutableList$SerializedForm.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/common/collect/ImmutableList$SubList.class - JACT (NotCovered, Total): 19, 47
+ABSTRACT CLASS: com/google/common/collect/ImmutableList.class - JACT (NotCovered, Total): 403, 740
+REGULAR CLASS: com/google/common/collect/ImmutableListMultimap.class - JACT (NotCovered, Total): 295, 377
+REGULAR CLASS: com/google/common/collect/ImmutableMap$Builder.class - JACT (NotCovered, Total): 101, 230
+ABSTRACT CLASS: com/google/common/collect/ImmutableMap.class - JACT (NotCovered, Total): 300, 450
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntry$NonTerminalImmutableMapEntry.class - JACT (NotCovered, Total): 2, 13
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntry.class - JACT (NotCovered, Total): 11, 24
+REGULAR CLASS: com/google/common/collect/ImmutableMapEntrySet$RegularEntrySet.class - JACT (NotCovered, Total): 22, 44
+ABSTRACT CLASS: com/google/common/collect/ImmutableMapEntrySet.class - JACT (NotCovered, Total): 17, 50
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$1.class - JACT (NotCovered, Total): 0, 57
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$2.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$Builder.class - JACT (NotCovered, Total): 177, 225
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$EntryCollection.class - JACT (NotCovered, Total): 24, 34
+REGULAR CLASS: com/google/common/collect/ImmutableMultimap$Values.class - JACT (NotCovered, Total): 28, 42
+ABSTRACT CLASS: com/google/common/collect/ImmutableMultimap.class - JACT (NotCovered, Total): 184, 231
+REGULAR CLASS: com/google/common/collect/ImmutableSet$Builder.class - JACT (NotCovered, Total): 42, 96
+REGULAR CLASS: com/google/common/collect/ImmutableSet$RegularSetBuilderImpl.class - JACT (NotCovered, Total): 60, 236
+REGULAR CLASS: com/google/common/collect/ImmutableSet$SerializedForm.class - JACT (NotCovered, Total): 0, 10
+ABSTRACT CLASS: com/google/common/collect/ImmutableSet$SetBuilderImpl.class - JACT (NotCovered, Total): 36, 82
+ABSTRACT CLASS: com/google/common/collect/ImmutableSet.class - JACT (NotCovered, Total): 103, 528
+REGULAR CLASS: com/google/common/collect/IndexedImmutableSet$1.class - JACT (NotCovered, Total): 7, 22
+ABSTRACT CLASS: com/google/common/collect/IndexedImmutableSet.class - JACT (NotCovered, Total): 26, 44
+REGULAR CLASS: com/google/common/collect/Iterables$10.class - JACT (NotCovered, Total): 0, 6
+REGULAR CLASS: com/google/common/collect/Iterables.class - JACT (NotCovered, Total): 463, 533
+REGULAR CLASS: com/google/common/collect/Iterators$5.class - JACT (NotCovered, Total): 0, 28
+REGULAR CLASS: com/google/common/collect/Iterators$6.class - JACT (NotCovered, Total): 0, 12
+REGULAR CLASS: com/google/common/collect/Iterators$9.class - JACT (NotCovered, Total): 4, 26
+REGULAR CLASS: com/google/common/collect/Iterators$ArrayItr.class - JACT (NotCovered, Total): 0, 29
+REGULAR CLASS: com/google/common/collect/Iterators$ConcatenatedIterator.class - JACT (NotCovered, Total): 30, 134
+REGULAR CLASS: com/google/common/collect/Iterators.class - JACT (NotCovered, Total): 695, 830
+REGULAR CLASS: com/google/common/collect/LexicographicalOrdering.class - JACT (NotCovered, Total): 46, 84
+REGULAR CLASS: com/google/common/collect/LinkedHashMultimap$ValueEntry.class - JACT (NotCovered, Total): 0, 52
+REGULAR CLASS: com/google/common/collect/LinkedHashMultimap$ValueSet$1.class - JACT (NotCovered, Total): 33, 86
+REGULAR CLASS: com/google/common/collect/LinkedHashMultimap$ValueSet.class - JACT (NotCovered, Total): 59, 324
+REGULAR CLASS: com/google/common/collect/LinkedHashMultimap.class - JACT (NotCovered, Total): 174, 249
+ABSTRACT CLASS: com/google/common/collect/LinkedHashMultimapGwtSerializationDependencies.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: com/google/common/collect/LinkedHashMultiset.class - JACT (NotCovered, Total): 41, 51
+REGULAR CLASS: com/google/common/collect/Lists$RandomAccessReverseList.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: com/google/common/collect/Lists$ReverseList$1.class - JACT (NotCovered, Total): 64, 87
+REGULAR CLASS: com/google/common/collect/Lists$ReverseList.class - JACT (NotCovered, Total): 52, 113
+REGULAR CLASS: com/google/common/collect/Lists$TransformingRandomAccessList$1.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/collect/Lists$TransformingRandomAccessList.class - JACT (NotCovered, Total): 41, 70
+REGULAR CLASS: com/google/common/collect/Lists.class - JACT (NotCovered, Total): 336, 464
+REGULAR CLASS: com/google/common/collect/MapMaker.class - JACT (NotCovered, Total): 160, 235
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$1.class - JACT (NotCovered, Total): 7, 10
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$AbstractWeakKeyEntry.class - JACT (NotCovered, Total): 0, 20
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$Segment.class - JACT (NotCovered, Total): 1081, 1452
+ENUM: com/google/common/collect/MapMakerInternalMap$Strength$1.class - JACT (NotCovered, Total): 2, 8
+ENUM: com/google/common/collect/MapMakerInternalMap$Strength$2.class - JACT (NotCovered, Total): 0, 8
+ABSTRACT CLASS: com/google/common/collect/MapMakerInternalMap$Strength.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueEntry$Helper.class - JACT (NotCovered, Total): 15, 45
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueEntry.class - JACT (NotCovered, Total): 16, 33
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueSegment.class - JACT (NotCovered, Total): 11, 29
+REGULAR CLASS: com/google/common/collect/MapMakerInternalMap.class - JACT (NotCovered, Total): 570, 786
+REGULAR CLASS: com/google/common/collect/Maps$12.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: com/google/common/collect/Maps$13.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: com/google/common/collect/Maps$2.class - JACT (NotCovered, Total): 0, 7
+REGULAR CLASS: com/google/common/collect/Maps$9.class - JACT (NotCovered, Total): 0, 11
+ABSTRACT CLASS: com/google/common/collect/Maps$AbstractFilteredMap.class - JACT (NotCovered, Total): 92, 110
+ENUM: com/google/common/collect/Maps$EntryFunction$1.class - JACT (NotCovered, Total): 0, 9
+ENUM: com/google/common/collect/Maps$EntryFunction$2.class - JACT (NotCovered, Total): 0, 9
+ABSTRACT CLASS: com/google/common/collect/Maps$EntryFunction.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: com/google/common/collect/Maps$EntrySet.class - JACT (NotCovered, Total): 103, 114
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet$1$1.class - JACT (NotCovered, Total): 13, 25
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet$1.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap$EntrySet.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: com/google/common/collect/Maps$FilteredEntryMap.class - JACT (NotCovered, Total): 63, 81
+REGULAR CLASS: com/google/common/collect/Maps$FilteredKeyMap.class - JACT (NotCovered, Total): 14, 36
+REGULAR CLASS: com/google/common/collect/Maps$FilteredMapValues.class - JACT (NotCovered, Total): 102, 112
+REGULAR CLASS: com/google/common/collect/Maps$IteratorBasedAbstractMap$1.class - JACT (NotCovered, Total): 12, 22
+ABSTRACT CLASS: com/google/common/collect/Maps$IteratorBasedAbstractMap.class - JACT (NotCovered, Total): 17, 25
+REGULAR CLASS: com/google/common/collect/Maps$KeySet.class - JACT (NotCovered, Total): 45, 60
+REGULAR CLASS: com/google/common/collect/Maps$TransformedEntriesMap.class - JACT (NotCovered, Total): 68, 113
+REGULAR CLASS: com/google/common/collect/Maps$Values.class - JACT (NotCovered, Total): 134, 156
+ABSTRACT CLASS: com/google/common/collect/Maps$ViewCachingAbstractMap.class - JACT (NotCovered, Total): 6, 52
+REGULAR CLASS: com/google/common/collect/Maps.class - JACT (NotCovered, Total): 899, 1073
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$2.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$ArrayListSupplier.class - JACT (NotCovered, Total): 0, 14
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$HashSetSupplier.class - JACT (NotCovered, Total): 0, 12
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$ListMultimapBuilder.class - JACT (NotCovered, Total): 5, 9
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$1.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys$3.class - JACT (NotCovered, Total): 0, 19
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$MultimapBuilderWithKeys.class - JACT (NotCovered, Total): 43, 74
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder$SetMultimapBuilder.class - JACT (NotCovered, Total): 5, 9
+ABSTRACT CLASS: com/google/common/collect/MultimapBuilder.class - JACT (NotCovered, Total): 28, 52
+REGULAR CLASS: com/google/common/collect/Multimaps$CustomListMultimap.class - JACT (NotCovered, Total): 26, 46
+REGULAR CLASS: com/google/common/collect/Multimaps$CustomSetMultimap.class - JACT (NotCovered, Total): 82, 96
+REGULAR CLASS: com/google/common/collect/Multimaps.class - JACT (NotCovered, Total): 431, 455
+ABSTRACT CLASS: com/google/common/collect/Multisets$ElementSet.class - JACT (NotCovered, Total): 23, 36
+ABSTRACT CLASS: com/google/common/collect/Multisets$EntrySet.class - JACT (NotCovered, Total): 56, 59
+REGULAR CLASS: com/google/common/collect/NaturalOrdering.class - JACT (NotCovered, Total): 40, 47
+REGULAR CLASS: com/google/common/collect/ObjectArrays.class - JACT (NotCovered, Total): 198, 226
+ABSTRACT CLASS: com/google/common/collect/Ordering.class - JACT (NotCovered, Total): 343, 371
+REGULAR CLASS: com/google/common/collect/Platform.class - JACT (NotCovered, Total): 47, 81
+REGULAR CLASS: com/google/common/collect/RegularImmutableAsList.class - JACT (NotCovered, Total): 20, 54
+REGULAR CLASS: com/google/common/collect/RegularImmutableList.class - JACT (NotCovered, Total): 0, 62
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$KeySet.class - JACT (NotCovered, Total): 2, 24
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap$Values.class - JACT (NotCovered, Total): 2, 19
+REGULAR CLASS: com/google/common/collect/RegularImmutableMap.class - JACT (NotCovered, Total): 53, 270
+REGULAR CLASS: com/google/common/collect/RegularImmutableSet.class - JACT (NotCovered, Total): 0, 114
+REGULAR CLASS: com/google/common/collect/ReverseNaturalOrdering.class - JACT (NotCovered, Total): 56, 71
+REGULAR CLASS: com/google/common/collect/Sets$3$1.class - JACT (NotCovered, Total): 0, 32
+REGULAR CLASS: com/google/common/collect/Sets$3.class - JACT (NotCovered, Total): 67, 88
+REGULAR CLASS: com/google/common/collect/Sets$FilteredSet.class - JACT (NotCovered, Total): 7, 12
+REGULAR CLASS: com/google/common/collect/Sets$FilteredSortedSet.class - JACT (NotCovered, Total): 65, 70
+ABSTRACT CLASS: com/google/common/collect/Sets$ImprovedAbstractSet.class - JACT (NotCovered, Total): 10, 13
+REGULAR CLASS: com/google/common/collect/Sets.class - JACT (NotCovered, Total): 526, 634
+REGULAR CLASS: com/google/common/collect/SingletonImmutableBiMap.class - JACT (NotCovered, Total): 26, 96
+REGULAR CLASS: com/google/common/collect/SingletonImmutableList.class - JACT (NotCovered, Total): 1, 59
+REGULAR CLASS: com/google/common/collect/SingletonImmutableSet.class - JACT (NotCovered, Total): 46, 84
+REGULAR CLASS: com/google/common/collect/Streams.class - JACT (NotCovered, Total): 827, 835
+ABSTRACT CLASS: com/google/common/collect/TransformedIterator.class - JACT (NotCovered, Total): 4, 22
+ABSTRACT CLASS: com/google/common/collect/TransformedListIterator.class - JACT (NotCovered, Total): 30, 34
+ABSTRACT CLASS: com/google/common/collect/UnmodifiableIterator.class - JACT (NotCovered, Total): 4, 7
+ABSTRACT CLASS: com/google/common/collect/UnmodifiableListIterator.class - JACT (NotCovered, Total): 8, 11
+REGULAR CLASS: com/google/common/io/Resources.class - JACT (NotCovered, Total): 61, 77
+REGULAR CLASS: com/google/common/math/IntMath.class - JACT (NotCovered, Total): 837, 1251
+REGULAR CLASS: com/google/common/math/MathPreconditions.class - JACT (NotCovered, Total): 291, 302
+REGULAR CLASS: com/google/common/primitives/Ints.class - JACT (NotCovered, Total): 572, 583
+REGULAR CLASS: com/google/common/primitives/Primitives.class - JACT (NotCovered, Total): 36, 112
+REGULAR CLASS: com/google/common/util/concurrent/AbstractFuture$Listener.class - JACT (NotCovered, Total): 0, 16
+ABSTRACT CLASS: com/google/common/util/concurrent/AbstractFuture$TrustedFuture.class - JACT (NotCovered, Total): 20, 26
+REGULAR CLASS: com/google/common/util/concurrent/AbstractFuture$UnsafeAtomicHelper$1.class - JACT (NotCovered, Total): 7, 43
+REGULAR CLASS: com/google/common/util/concurrent/AbstractFuture$UnsafeAtomicHelper.class - JACT (NotCovered, Total): 31, 102
+REGULAR CLASS: com/google/common/util/concurrent/AbstractFuture$Waiter.class - JACT (NotCovered, Total): 23, 32
+ABSTRACT CLASS: com/google/common/util/concurrent/AbstractFuture.class - JACT (NotCovered, Total): 1336, 1466
+REGULAR CLASS: com/google/common/util/concurrent/SettableFuture.class - JACT (NotCovered, Total): 8, 16
+REGULAR CLASS: com/google/common/util/concurrent/Uninterruptibles.class - JACT (NotCovered, Total): 358, 367
+ABSTRACT CLASS: org/objectweb/asm/AnnotationVisitor.class - JACT (NotCovered, Total): 67, 99
+REGULAR CLASS: org/objectweb/asm/AnnotationWriter.class - JACT (NotCovered, Total): 747, 935
+REGULAR CLASS: org/objectweb/asm/Attribute.class - JACT (NotCovered, Total): 197, 230
+REGULAR CLASS: org/objectweb/asm/ByteVector.class - JACT (NotCovered, Total): 299, 719
+REGULAR CLASS: org/objectweb/asm/ClassReader.class - JACT (NotCovered, Total): 3547, 6042
+ABSTRACT CLASS: org/objectweb/asm/ClassVisitor.class - JACT (NotCovered, Total): 245, 277
+REGULAR CLASS: org/objectweb/asm/ClassWriter.class - JACT (NotCovered, Total): 968, 1463
+REGULAR CLASS: org/objectweb/asm/Context.class - JACT (NotCovered, Total): 0, 3
+ABSTRACT CLASS: org/objectweb/asm/FieldVisitor.class - JACT (NotCovered, Total): 80, 100
+REGULAR CLASS: org/objectweb/asm/FieldWriter.class - JACT (NotCovered, Total): 124, 271
+REGULAR CLASS: org/objectweb/asm/Handle.class - JACT (NotCovered, Total): 110, 143
+REGULAR CLASS: org/objectweb/asm/Handler.class - JACT (NotCovered, Total): 141, 166
+REGULAR CLASS: org/objectweb/asm/Label.class - JACT (NotCovered, Total): 316, 492
+ABSTRACT CLASS: org/objectweb/asm/MethodVisitor.class - JACT (NotCovered, Total): 377, 505
+REGULAR CLASS: org/objectweb/asm/MethodWriter.class - JACT (NotCovered, Total): 3002, 5175
+ABSTRACT CLASS: org/objectweb/asm/Symbol.class - JACT (NotCovered, Total): 0, 32
+REGULAR CLASS: org/objectweb/asm/SymbolTable$Entry.class - JACT (NotCovered, Total): 24, 60
+REGULAR CLASS: org/objectweb/asm/SymbolTable.class - JACT (NotCovered, Total): 1376, 1994
+REGULAR CLASS: org/objectweb/asm/Type.class - JACT (NotCovered, Total): 633, 1127
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 1
+Abstract classes found: 73
+Enums found: 29
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 197

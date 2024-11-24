@@ -1,0 +1,675 @@
+ABSTRACT CLASS: com/fasterxml/jackson/databind/AbstractTypeResolver.class
+INTERFACE: com/fasterxml/jackson/databind/AnnotationIntrospector$XmlExtensions.class
+REGULAR CLASS: com/fasterxml/jackson/databind/BeanProperty$Bogus.class
+REGULAR CLASS: com/fasterxml/jackson/databind/BeanProperty$Std.class
+INTERFACE: com/fasterxml/jackson/databind/BeanProperty.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/DatabindException.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/DeserializationContext$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/InjectableValues$Std.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/InjectableValues.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonDeserializer$None.class
+REGULAR CLASS: com/fasterxml/jackson/databind/JsonMappingException$Reference.class
+REGULAR CLASS: com/fasterxml/jackson/databind/JsonMappingException.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/JsonNode$1.class
+INTERFACE: com/fasterxml/jackson/databind/JsonSerializable.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/JsonSerializer$None.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/KeyDeserializer$None.class
+REGULAR CLASS: com/fasterxml/jackson/databind/MappingIterator.class
+INTERFACE: com/fasterxml/jackson/databind/Module$SetupContext.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectMapper$2.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ObjectMapper$3.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectMapper$DefaultTypeResolverBuilder.class
+ENUM: com/fasterxml/jackson/databind/ObjectMapper$DefaultTyping.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectReader.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectWriter$GeneratorSettings.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectWriter$Prefetch.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ObjectWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyMetadata$MergeInfo.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$KebabCaseStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$LowerCaseStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$LowerCaseWithUnderscoresStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$LowerDotCaseStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$PascalCaseStrategy.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$PropertyNamingStrategyBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$SnakeCaseStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy$UpperCamelCaseStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/PropertyNamingStrategy.class
+REGULAR CLASS: com/fasterxml/jackson/databind/RuntimeJsonMappingException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/SequenceWriter.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JacksonStdImpl.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonAppend$Attr.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonAppend$Prop.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonAppend.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonDeserialize.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonNaming.class
+REGULAR CLASS: com/fasterxml/jackson/databind/annotation/JsonPOJOBuilder$Value.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonPOJOBuilder.class
+ENUM: com/fasterxml/jackson/databind/annotation/JsonSerialize$Inclusion.class
+ENUM: com/fasterxml/jackson/databind/annotation/JsonSerialize$Typing.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonSerialize.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonTypeIdResolver.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonTypeResolver.class
+ANNOTATION: com/fasterxml/jackson/databind/annotation/JsonValueInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/annotation/NoClass.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/cfg/CoercionConfigs$1.class
+INTERFACE: com/fasterxml/jackson/databind/cfg/ConfigFeature.class
+ENUM: com/fasterxml/jackson/databind/cfg/ConstructorDetector$SingleArgConstructor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/ConstructorDetector.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/HandlerInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/MapperBuilder$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/cfg/MapperBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/MutableConfigOverride.class
+REGULAR CLASS: com/fasterxml/jackson/databind/cfg/PackageVersion.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/AbstractDeserializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/BasicDeserializerFactory$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BasicDeserializerFactory$ContainerDefaultMappings.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BasicDeserializerFactory$CreatorCollectionState.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializer$BeanReferring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializerBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializerBuilder.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/BeanDeserializerModifier.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/BuilderBasedDeserializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/BuilderBasedDeserializer.class
+INTERFACE: com/fasterxml/jackson/databind/deser/ContextualDeserializer.class
+INTERFACE: com/fasterxml/jackson/databind/deser/ContextualKeyDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/CreatorProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/DataFormatReaders$AccessorForReader.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/DataFormatReaders$Match.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/DataFormatReaders.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/DeserializationProblemHandler.class
+INTERFACE: com/fasterxml/jackson/databind/deser/Deserializers.class
+INTERFACE: com/fasterxml/jackson/databind/deser/KeyDeserializers.class
+INTERFACE: com/fasterxml/jackson/databind/deser/NullValueProvider.class
+INTERFACE: com/fasterxml/jackson/databind/deser/ResolvableDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/SettableAnyProperty$AnySetterReferring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/SettableAnyProperty.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/SettableBeanProperty$Delegating.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/SettableBeanProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/UnresolvedForwardReference.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/UnresolvedId.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/ValueInstantiator$Base.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/ValueInstantiator$Delegating.class
+INTERFACE: com/fasterxml/jackson/databind/deser/ValueInstantiator$Gettable.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/ValueInstantiator.class
+INTERFACE: com/fasterxml/jackson/databind/deser/ValueInstantiators.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/BeanAsArrayBuilderDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/BeanAsArrayDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/BeanPropertyMap.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/CreatorCandidate$Param.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/CreatorCandidate.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/CreatorCollector.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ErrorThrowingDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler$Builder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler$ExtTypedProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ExternalTypeHandler.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/FailingDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/FieldProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/InnerClassProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/JDKValueInstantiators$ArrayListInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/JDKValueInstantiators$ConstantValueInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/JDKValueInstantiators$HashMapInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/JDKValueInstantiators$LinkedHashMapInstantiator.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/impl/JDKValueInstantiators.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/JavaUtilCollectionsDeserializers$JavaUtilCollectionsConverter.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/impl/JavaUtilCollectionsDeserializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ManagedReferenceProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/MergingSettableBeanProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/MethodProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/NullsAsEmptyProvider.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/NullsConstantProvider.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/NullsFailProvider.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ObjectIdReader.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ObjectIdReferenceProperty$PropertyReferring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ObjectIdReferenceProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyBasedCreator$CaseInsensitiveMap.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyBasedCreator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyBasedObjectIdGenerator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyValue$Any.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyValue$Map.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyValue$Regular.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyValue.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/PropertyValueBuffer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/impl/ReadableObjectId$Referring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ReadableObjectId.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/SetterlessProperty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/TypeWrappedDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/UnsupportedTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/impl/ValueInjector.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/ArrayBlockingQueueDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/AtomicBooleanDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/AtomicIntegerDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/AtomicLongDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/AtomicReferenceDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/ByteBufferDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/CollectionDeserializer$CollectionReferring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/CollectionDeserializer$CollectionReferringAccumulator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/CollectionDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/ContainerDeserializerBase.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$CalendarDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$DateBasedDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$DateDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$SqlDateDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers$TimestampDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/DateDeserializers.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/std/EnumDeserializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/EnumDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/EnumMapDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/EnumSetDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/FromStringDeserializer$Std.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/FromStringDeserializer$StringBuilderDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/JdkDeserializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/JsonLocationInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer$ArrayDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/JsonNodeDeserializer$ObjectDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/MapDeserializer$MapReferring.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/MapDeserializer$MapReferringAccumulator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/MapDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/MapEntryDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NullifyingDeserializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$BigDecimalDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$BigIntegerDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$BooleanDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$ByteDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$CharacterDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$DoubleDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$FloatDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$IntegerDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$LongDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$NumberDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$PrimitiveOrWrapperDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers$ShortDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/NumberDeserializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/ObjectArrayDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$BooleanDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$ByteDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$CharDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$DoubleDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$FloatDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$IntDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$LongDeser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$ShortDeser.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/deser/std/ReferenceTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StackTraceElementDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdDelegatingDeserializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/deser/std/StdDeserializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$DelegatingKD.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$EnumKD.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$StringCtorKeyDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$StringFactoryKeyDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$StringKD.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StdValueInstantiator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StringArrayDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StringCollectionDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/StringDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/ThrowableDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/TokenBufferDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/UUIDDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/UntypedObjectDeserializer$Vanilla.class
+REGULAR CLASS: com/fasterxml/jackson/databind/deser/std/UntypedObjectDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/IgnoredPropertyException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/InvalidDefinitionException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/InvalidFormatException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/InvalidNullException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/InvalidTypeIdException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/MismatchedInputException.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/exc/PropertyBindingException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/UnrecognizedPropertyException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/exc/ValueInstantiationException.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/CoreXMLDeserializers$Std.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/CoreXMLDeserializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/CoreXMLSerializers$XMLGregorianCalendarSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/CoreXMLSerializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/DOMDeserializer$DocumentDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/DOMDeserializer$NodeDeserializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ext/DOMDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/DOMSerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ext/Java7Handlers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/Java7HandlersImpl.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/NioPathDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/NioPathSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/OptionalHandlerFactory.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ext/SqlBlobSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AccessorNamingStrategy$Base.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedAndMetadata.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedConstructor$Serialization.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedField$Serialization.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotatedMethod$Serialization.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$NCollector.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$OneAnnotation.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationCollector$TwoAnnotations.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/AnnotationIntrospectorPair.class
+INTERFACE: com/fasterxml/jackson/databind/introspect/ClassIntrospector$MixInResolver.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/ConcreteBeanPropertyBase.class
+INTERFACE: com/fasterxml/jackson/databind/introspect/DefaultAccessorNamingStrategy$BaseNameValidator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/DefaultAccessorNamingStrategy$FirstCharBasedValidator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/DefaultAccessorNamingStrategy$RecordNaming.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/NopAnnotationIntrospector$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/introspect/NopAnnotationIntrospector.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/ObjectIdInfo.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$2.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$3.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$4.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$6.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$MemberIterator.class
+INTERFACE: com/fasterxml/jackson/databind/introspect/POJOPropertyBuilder$WithMember.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/TypeResolutionContext$Empty.class
+INTERFACE: com/fasterxml/jackson/databind/introspect/TypeResolutionContext.class
+REGULAR CLASS: com/fasterxml/jackson/databind/introspect/VirtualAnnotatedMember.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/introspect/VisibilityChecker$1.class
+INTERFACE: com/fasterxml/jackson/databind/introspect/VisibilityChecker.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jdk14/JDK14Util$CreatorLocator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jdk14/JDK14Util$RawTypeName.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jdk14/JDK14Util$RecordAccessor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jdk14/JDK14Util.class
+REGULAR CLASS: com/fasterxml/jackson/databind/json/JsonMapper$Builder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/json/JsonMapper.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonAnyFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonAnyFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonArrayFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonArrayFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonBooleanFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonBooleanFormatVisitor.class
+ENUM: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatTypes.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatVisitable.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatVisitorWithSerializerProvider.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatVisitorWrapper$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatVisitorWrapper.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonIntegerFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonIntegerFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonMapFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonMapFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonNullFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonNullFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonNumberFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonNumberFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonObjectFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonStringFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonStringFormatVisitor.class
+ENUM: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonValueFormat.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonValueFormatVisitor$Base.class
+INTERFACE: com/fasterxml/jackson/databind/jsonFormatVisitors/JsonValueFormatVisitor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsonschema/JsonSchema.class
+ANNOTATION: com/fasterxml/jackson/databind/jsonschema/JsonSerializableSchema.class
+INTERFACE: com/fasterxml/jackson/databind/jsonschema/SchemaAware.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/DefaultBaseTypeLimitingValidator$UnsafeBaseTypes.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/DefaultBaseTypeLimitingValidator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/NamedType.class
+ENUM: com/fasterxml/jackson/databind/jsontype/PolymorphicTypeValidator$Validity.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/jsontype/TypeDeserializer$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/TypeDeserializer.class
+INTERFACE: com/fasterxml/jackson/databind/jsontype/TypeIdResolver.class
+INTERFACE: com/fasterxml/jackson/databind/jsontype/TypeResolverBuilder.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/jsontype/TypeSerializer$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/TypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsArrayTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsArrayTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsDeductionTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsExistingPropertyTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsExternalTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsExternalTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsPropertyTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsPropertyTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsWrapperTypeDeserializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/AsWrapperTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/ClassNameIdResolver.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/MinimalClassNameIdResolver.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/SubTypeValidator.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/impl/TypeIdResolverBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/jsontype/impl/TypeNameIdResolver.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/jsontype/impl/TypeSerializerBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver.class
+REGULAR CLASS: com/fasterxml/jackson/databind/module/SimpleValueInstantiators.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/BigIntegerNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/BinaryNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/BooleanNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/DecimalNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/FloatNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/IntNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/InternalNodeMapper.class
+INTERFACE: com/fasterxml/jackson/databind/node/JsonNodeCreator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/MissingNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/NodeCursor$ArrayCursor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/NodeCursor$ObjectCursor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/NodeCursor$RootCursor.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/node/NodeCursor.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/NodeSerialization.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/NullNode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/POJONode.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/ShortNode.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/node/TreeTraversingParser$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/node/TreeTraversingParser.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/AnyGetterWriter.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/BasicSerializerFactory$1.class
+INTERFACE: com/fasterxml/jackson/databind/ser/BeanPropertyFilter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/BeanPropertyWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/BeanSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/BeanSerializerBuilder.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/BeanSerializerModifier.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/ContainerSerializer.class
+INTERFACE: com/fasterxml/jackson/databind/ser/ContextualSerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/FilterProvider.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/PropertyBuilder$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/PropertyBuilder.class
+INTERFACE: com/fasterxml/jackson/databind/ser/PropertyFilter.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/PropertyWriter.class
+INTERFACE: com/fasterxml/jackson/databind/ser/ResolvableSerializer.class
+INTERFACE: com/fasterxml/jackson/databind/ser/Serializers.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/VirtualBeanPropertyWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/AttributePropertyWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/FilteredBeanPropertyWriter$MultiView.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/FilteredBeanPropertyWriter$SingleView.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/impl/FilteredBeanPropertyWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/IndexedListSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/IndexedStringListSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/IteratorSerializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/impl/MapEntrySerializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/MapEntrySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/ObjectIdWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertyBasedObjectIdGenerator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$Double.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$Empty.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$Multi.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$SerializerAndMapResult.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$Single.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap$TypeAndSerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/SimpleBeanPropertyFilter$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/SimpleBeanPropertyFilter$FilterExceptFilter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/SimpleBeanPropertyFilter$SerializeExceptFilter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/SimpleBeanPropertyFilter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/StringArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/StringCollectionSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/TypeWrappedSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/UnsupportedTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/UnwrappingBeanPropertyWriter$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/UnwrappingBeanPropertyWriter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/UnwrappingBeanSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/impl/WritableObjectId.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/ArraySerializerBase.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/AsArraySerializerBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/AtomicReferenceSerializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/std/BeanSerializerBase$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/BooleanSerializer$AsNumber.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ByteArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ByteBufferSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ClassSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/CollectionSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/EnumSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/EnumSetSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/FileSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/InetAddressSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/InetSocketAddressSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/IterableSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/JsonValueSerializer$TypeSerializerRerouter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/JsonValueSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/MapProperty.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/std/MapSerializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/MapSerializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializer$BigDecimalAsStringSerializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/std/NumberSerializers$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/ObjectArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/RawSerializer.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/ser/std/ReferenceTypeSerializer$1.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/ReferenceTypeSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/SqlDateSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/SqlTimeSerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/StaticListSerializerBase.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$BooleanArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$CharArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$DoubleArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$FloatArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$IntArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$LongArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$ShortArraySerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers$TypedPrimitiveArraySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdArraySerializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdJdkSerializers$AtomicBooleanSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdJdkSerializers$AtomicIntegerSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdJdkSerializers$AtomicLongSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializers$Default.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializers$Dynamic.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializers$EnumKeySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializers$StringKeySerializer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/ser/std/StdKeySerializers.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/TimeZoneSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/ser/std/TokenBufferSerializer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/ArrayType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/CollectionLikeType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/CollectionType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/MapLikeType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/MapType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/PlaceholderForType.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/ReferenceType.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/type/TypeModifier.class
+REGULAR CLASS: com/fasterxml/jackson/databind/type/TypeParser$MyTokenizer.class
+ENUM: com/fasterxml/jackson/databind/util/AccessPattern.class
+INTERFACE: com/fasterxml/jackson/databind/util/Annotations.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$BooleanBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$ByteBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$DoubleBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$FloatBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$IntBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$LongBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ArrayBuilders$ShortBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/BeanUtil.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ByteBufferBackedInputStream.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ByteBufferBackedOutputStream.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ClassUtil$EnumTypeLocator.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/CompactStringObjectMap.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/util/Converter$None.class
+INTERFACE: com/fasterxml/jackson/databind/util/Converter.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/EnumResolver.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/EnumValues.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/IgnorePropertiesUtil$Checker.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/IgnorePropertiesUtil.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/LinkedNode.class
+INTERFACE: com/fasterxml/jackson/databind/util/LookupCache.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/NameTransformer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/NameTransformer$2.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/NameTransformer$3.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/NameTransformer$Chained.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/NameTransformer$NopTransformer.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/util/NameTransformer.class
+INTERFACE: com/fasterxml/jackson/databind/util/Named.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ObjectBuffer.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/PrimitiveArrayBuilder$Node.class
+ABSTRACT CLASS: com/fasterxml/jackson/databind/util/PrimitiveArrayBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/RawValue.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/SimpleBeanPropertyDefinition.class
+SYNTHETIC CLASS: com/fasterxml/jackson/databind/util/TokenBuffer$1.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ViewMatcher$Multi.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ViewMatcher$Single.class
+REGULAR CLASS: com/fasterxml/jackson/databind/util/ViewMatcher.class
+INTERFACE: com/fasterxml/jackson/core/FormatFeature.class
+INTERFACE: com/fasterxml/jackson/core/FormatSchema.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/JacksonException.class
+ENUM: com/fasterxml/jackson/core/JsonEncoding.class
+REGULAR CLASS: com/fasterxml/jackson/core/JsonFactoryBuilder.class
+REGULAR CLASS: com/fasterxml/jackson/core/JsonGenerationException.class
+SYNTHETIC CLASS: com/fasterxml/jackson/core/JsonGenerator$1.class
+REGULAR CLASS: com/fasterxml/jackson/core/JsonParseException.class
+REGULAR CLASS: com/fasterxml/jackson/core/JsonPointer.class
+REGULAR CLASS: com/fasterxml/jackson/core/JsonProcessingException.class
+INTERFACE: com/fasterxml/jackson/core/JsonTokenId.class
+INTERFACE: com/fasterxml/jackson/core/SerializableString.class
+ENUM: com/fasterxml/jackson/core/StreamReadFeature.class
+ENUM: com/fasterxml/jackson/core/StreamWriteFeature.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/TSFBuilder.class
+INTERFACE: com/fasterxml/jackson/core/TreeNode.class
+INTERFACE: com/fasterxml/jackson/core/Versioned.class
+INTERFACE: com/fasterxml/jackson/core/async/ByteArrayFeeder.class
+INTERFACE: com/fasterxml/jackson/core/async/NonBlockingInputFeeder.class
+REGULAR CLASS: com/fasterxml/jackson/core/exc/InputCoercionException.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/exc/StreamReadException.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/exc/StreamWriteException.class
+REGULAR CLASS: com/fasterxml/jackson/core/filter/FilteringParserDelegate.class
+REGULAR CLASS: com/fasterxml/jackson/core/filter/JsonPointerBasedFilter.class
+ENUM: com/fasterxml/jackson/core/filter/TokenFilter$Inclusion.class
+REGULAR CLASS: com/fasterxml/jackson/core/filter/TokenFilter.class
+REGULAR CLASS: com/fasterxml/jackson/core/filter/TokenFilterContext.class
+REGULAR CLASS: com/fasterxml/jackson/core/format/DataFormatMatcher.class
+REGULAR CLASS: com/fasterxml/jackson/core/format/InputAccessor$Std.class
+INTERFACE: com/fasterxml/jackson/core/format/InputAccessor.class
+ENUM: com/fasterxml/jackson/core/format/MatchStrength.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/BigDecimalParser.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/CharTypes$AltEscapes.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/io/CharacterEscapes.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/DataOutputAsStream.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/io/InputDecorator.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/JsonEOFException.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/MergedStream.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/io/OutputDecorator.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/UTF32Reader.class
+REGULAR CLASS: com/fasterxml/jackson/core/io/UTF8Writer.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/DupDetector.class
+ENUM: com/fasterxml/jackson/core/json/JsonReadFeature.class
+ENUM: com/fasterxml/jackson/core/json/JsonWriteFeature.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/PackageVersion.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/UTF8DataInputJsonParser.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/UTF8JsonGenerator.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/UTF8StreamJsonParser.class
+REGULAR CLASS: com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/json/async/NonBlockingJsonParserBase.class
+REGULAR CLASS: com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket.class
+ABSTRACT CLASS: com/fasterxml/jackson/core/type/TypeReference.class
+ENUM: com/fasterxml/jackson/core/type/WritableTypeId$Inclusion.class
+REGULAR CLASS: com/fasterxml/jackson/core/type/WritableTypeId.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/ByteArrayBuilder.class
+INTERFACE: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Indenter.class
+INTERFACE: com/fasterxml/jackson/core/util/Instantiatable.class
+INTERFACE: com/fasterxml/jackson/core/util/JacksonFeature.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/JsonParserDelegate.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/JsonParserSequence.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/MinimalPrettyPrinter.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/RequestPayload.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/ThreadLocalBufferManager$ThreadLocalBufferManagerHolder.class
+REGULAR CLASS: com/fasterxml/jackson/core/util/ThreadLocalBufferManager.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/DecimalUtils.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/InstantDeserializer$FromDecimalArguments.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/deser/InstantDeserializer$FromIntegerArguments.class
+SYNTHETIC CLASS: com/fasterxml/jackson/datatype/jsr310/deser/JSR310DeserializerBase$1.class
+SYNTHETIC CLASS: com/fasterxml/jackson/datatype/jsr310/ser/LocalDateSerializer$1.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/ser/key/Jsr310NullKeySerializer.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/util/DurationUnitConverter$DurationSerialization.class
+REGULAR CLASS: com/fasterxml/jackson/datatype/jsr310/util/DurationUnitConverter.class
+SYNTHETIC CLASS: com/github/wnameless/json/flattener/JsonFlattener$1.class
+INTERFACE: com/github/wnameless/json/flattener/KeyTransformer.class
+INTERFACE: com/github/wnameless/json/flattener/CharSequenceTranslatorFactory.class
+SYNTHETIC CLASS: com/github/wnameless/json/flattener/JsonifyLinkedHashMap$1.class
+REGULAR CLASS: com/github/wnameless/json/flattener/JsonifyArrayList.class
+SYNTHETIC CLASS: com/github/wnameless/json/flattener/JsonifyArrayList$1.class
+REGULAR CLASS: org/apache/commons/text/translate/CsvTranslators.class
+SYNTHETIC CLASS: org/apache/commons/text/StringEscapeUtils$1.class
+REGULAR CLASS: org/apache/commons/text/StringEscapeUtils$Builder.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils$CsvUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/CharSequenceUtils.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$2$1.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$2.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/translate/CodePointTranslator.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/NumericEntityUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$MultiLineToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$NoClassNameToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/mutable/MutableInt.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/LookupTranslator.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/translate/CharSequenceTranslator.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/AggregateTranslator.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$ShortPrefixToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$NoFieldNameToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/EqualsBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrTokenizer.class
+REGULAR CLASS: org/apache/commons/lang3/builder/CompareToBuilder.class
+ABSTRACT CLASS: org/apache/commons/lang3/builder/ToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$1.class
+INTERFACE: org/apache/commons/lang3/mutable/Mutable.class
+REGULAR CLASS: org/apache/commons/lang3/math/NumberUtils.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderReader.class
+ENUM: org/apache/commons/lang3/text/translate/NumericEntityUnescaper$OPTION.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderTokenizer.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$JsonToStringStyle.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$DefaultToStringStyle.class
+ANNOTATION: org/apache/commons/lang3/builder/EqualsExclude.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$TrimMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$StringMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/OctalUnescaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/NumericEntityEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$NoMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$CharSetMatcher.class
+INTERFACE: org/apache/commons/lang3/builder/Builder.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ReflectionToStringBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/mutable/MutableObject.class
+REGULAR CLASS: org/apache/commons/lang3/CharUtils.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils.class
+REGULAR CLASS: org/apache/commons/lang3/StringEscapeUtils$CsvEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrMatcher$CharMatcher.class
+ABSTRACT CLASS: org/apache/commons/lang3/text/StrMatcher.class
+REGULAR CLASS: org/apache/commons/lang3/exception/CloneFailedException.class
+REGULAR CLASS: org/apache/commons/lang3/ObjectUtils$Null.class
+REGULAR CLASS: org/apache/commons/lang3/ClassUtils$1$1.class
+REGULAR CLASS: org/apache/commons/lang3/tuple/ImmutablePair.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/JavaUnicodeEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/EntityArrays.class
+ANNOTATION: org/apache/commons/lang3/builder/ToStringExclude.class
+ANNOTATION: org/apache/commons/lang3/builder/HashCodeExclude.class
+REGULAR CLASS: org/apache/commons/lang3/builder/HashCodeBuilder.class
+REGULAR CLASS: org/apache/commons/lang3/builder/IDKey.class
+REGULAR CLASS: org/apache/commons/lang3/BooleanUtils.class
+REGULAR CLASS: org/apache/commons/lang3/RegExUtils.class
+ABSTRACT CLASS: org/apache/commons/lang3/tuple/Pair.class
+REGULAR CLASS: org/apache/commons/lang3/ArrayUtils$1.class
+ENUM: org/apache/commons/lang3/ClassUtils$Interfaces.class
+REGULAR CLASS: org/apache/commons/lang3/ObjectUtils.class
+REGULAR CLASS: org/apache/commons/lang3/text/translate/UnicodeEscaper.class
+REGULAR CLASS: org/apache/commons/lang3/text/StrBuilder$StrBuilderWriter.class
+ANNOTATION: org/apache/commons/lang3/builder/ToStringSummary.class
+REGULAR CLASS: org/apache/commons/lang3/builder/ToStringStyle$SimpleToStringStyle.class
+INTERFACE: com/github/wnameless/json/JsonValueBase.class
+REGULAR CLASS: com/github/wnameless/json/JacksonJsonObject$JacksonJsonEntryIterator.class
+REGULAR CLASS: com/github/wnameless/json/JacksonJsonValue.class
+REGULAR CLASS: com/github/wnameless/json/JacksonJsonObject.class
+REGULAR CLASS: com/github/wnameless/json/MinimalJsonArray.class
+REGULAR CLASS: com/github/wnameless/json/JacksonJsonArray.class
+REGULAR CLASS: com/github/wnameless/json/JacksonJsonArray$JacksonJsonValueIterator.class
+SYNTHETIC CLASS: com/github/wnameless/json/JacksonJsonArray$1.class
+SYNTHETIC CLASS: com/github/wnameless/json/MinimalJsonObject$1.class
+SYNTHETIC CLASS: com/github/wnameless/json/MinimalJsonArray$1.class
+INTERFACE: com/github/wnameless/json/JsonArrayBase.class
+SYNTHETIC CLASS: com/github/wnameless/json/JacksonJsonObject$1.class
+INTERFACE: com/github/wnameless/json/JsonObjectBase.class
+REGULAR CLASS: com/github/wnameless/json/MinimalJsonArray$MinimalJsonValueIterator.class
+
+Total number of class files only in DepTrim: 666
+Total number of class files in DepTrim: 973
+Interfaces found: 63
+Abstract classes found: 68
+Enums found: 18
+Annotations found: 16
+Synthetic classes found: 38
+Regular classes found: 463

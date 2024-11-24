@@ -1,0 +1,602 @@
+ABSTRACT CLASS: org/objectweb/asm/tree/AbstractInsnNode.class - JACT (NotCovered, Total): 187, 199
+REGULAR CLASS: org/objectweb/asm/tree/FieldInsnNode.class - JACT (NotCovered, Total): 34, 47
+REGULAR CLASS: org/objectweb/asm/tree/InsnNode.class - JACT (NotCovered, Total): 18, 22
+REGULAR CLASS: org/objectweb/asm/tree/MethodInsnNode.class - JACT (NotCovered, Total): 51, 67
+REGULAR CLASS: org/objectweb/asm/AnnotationWriter.class - JACT (NotCovered, Total): 914, 935
+REGULAR CLASS: org/objectweb/asm/Attribute.class - JACT (NotCovered, Total): 169, 230
+REGULAR CLASS: org/objectweb/asm/ByteVector.class - JACT (NotCovered, Total): 261, 733
+REGULAR CLASS: org/objectweb/asm/ClassReader.class - JACT (NotCovered, Total): 4706, 6042
+ABSTRACT CLASS: org/objectweb/asm/ClassVisitor.class - JACT (NotCovered, Total): 185, 280
+REGULAR CLASS: org/objectweb/asm/ClassWriter.class - JACT (NotCovered, Total): 971, 1476
+REGULAR CLASS: org/objectweb/asm/Context.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/objectweb/asm/Edge.class - JACT (NotCovered, Total): 0, 12
+ABSTRACT CLASS: org/objectweb/asm/FieldVisitor.class - JACT (NotCovered, Total): 76, 103
+REGULAR CLASS: org/objectweb/asm/FieldWriter.class - JACT (NotCovered, Total): 97, 271
+REGULAR CLASS: org/objectweb/asm/Frame.class - JACT (NotCovered, Total): 869, 2151
+REGULAR CLASS: org/objectweb/asm/Handler.class - JACT (NotCovered, Total): 137, 166
+REGULAR CLASS: org/objectweb/asm/Label.class - JACT (NotCovered, Total): 276, 492
+ABSTRACT CLASS: org/objectweb/asm/MethodVisitor.class - JACT (NotCovered, Total): 384, 508
+REGULAR CLASS: org/objectweb/asm/MethodWriter.class - JACT (NotCovered, Total): 2464, 5175
+ABSTRACT CLASS: org/objectweb/asm/Symbol.class - JACT (NotCovered, Total): 0, 32
+REGULAR CLASS: org/objectweb/asm/SymbolTable$Entry.class - JACT (NotCovered, Total): 0, 60
+REGULAR CLASS: org/objectweb/asm/SymbolTable.class - JACT (NotCovered, Total): 1183, 1994
+REGULAR CLASS: org/objectweb/asm/Type.class - JACT (NotCovered, Total): 294, 1135
+REGULAR CLASS: org/objectweb/asm/TypeReference.class - JACT (NotCovered, Total): 137, 182
+ABSTRACT CLASS: org/objectweb/asm/signature/SignatureVisitor.class - JACT (NotCovered, Total): 55, 64
+REGULAR CLASS: org/objectweb/asm/signature/SignatureWriter.class - JACT (NotCovered, Total): 113, 258
+REGULAR CLASS: org/objenesis/ObjenesisStd.class - JACT (NotCovered, Total): 0, 13
+REGULAR CLASS: org/objenesis/instantiator/sun/SunReflectionFactoryInstantiator.class - JACT (NotCovered, Total): 12, 37
+REGULAR CLASS: org/objenesis/instantiator/sun/SunReflectionFactoryHelper.class - JACT (NotCovered, Total): 27, 79
+REGULAR CLASS: org/objenesis/strategy/StdInstantiatorStrategy.class - JACT (NotCovered, Total): 70, 86
+ABSTRACT CLASS: org/objenesis/strategy/BaseInstantiatorStrategy.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: org/objenesis/strategy/PlatformDescription.class - JACT (NotCovered, Total): 157, 202
+REGULAR CLASS: org/objenesis/ObjenesisBase.class - JACT (NotCovered, Total): 41, 101
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$Empty.class - JACT (NotCovered, Total): 8, 17
+ABSTRACT CLASS: net/bytebuddy/description/method/ParameterList$AbstractBase.class - JACT (NotCovered, Total): 36, 111
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$ForLoadedConstructor.class - JACT (NotCovered, Total): 36, 171
+ABSTRACT CLASS: net/bytebuddy/description/method/MethodList$AbstractBase.class - JACT (NotCovered, Total): 79, 115
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$SignatureToken.class - JACT (NotCovered, Total): 98, 197
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$Latent$TypeInitializer.class - JACT (NotCovered, Total): 2, 33
+REGULAR CLASS: net/bytebuddy/description/method/MethodList$ForLoadedMethods.class - JACT (NotCovered, Total): 0, 58
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$TypeToken.class - JACT (NotCovered, Total): 37, 116
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$Token$TypeList.class - JACT (NotCovered, Total): 10, 20
+ABSTRACT CLASS: net/bytebuddy/description/method/MethodDescription$AbstractBase.class - JACT (NotCovered, Total): 989, 1565
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$ForLoadedExecutable$OfMethod.class - JACT (NotCovered, Total): 0, 15
+ABSTRACT CLASS: net/bytebuddy/description/method/MethodDescription$InDefinedShape$AbstractBase$ForLoadedExecutable.class - JACT (NotCovered, Total): 10, 53
+REGULAR CLASS: net/bytebuddy/description/method/MethodList$ForTokens.class - JACT (NotCovered, Total): 6, 30
+ABSTRACT CLASS: net/bytebuddy/description/method/MethodDescription$InDefinedShape$AbstractBase.class - JACT (NotCovered, Total): 4, 38
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$ForLoadedExecutable$OfConstructor.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$ForLoadedParameter$OfConstructor.class - JACT (NotCovered, Total): 31, 80
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$Token.class - JACT (NotCovered, Total): 252, 428
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$Latent.class - JACT (NotCovered, Total): 6, 110
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$TypeSubstituting.class - JACT (NotCovered, Total): 2, 100
+REGULAR CLASS: net/bytebuddy/description/method/MethodList$Explicit.class - JACT (NotCovered, Total): 5, 21
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$TypeSubstituting.class - JACT (NotCovered, Total): 0, 29
+ABSTRACT CLASS: net/bytebuddy/description/method/ParameterList$ForLoadedExecutable.class - JACT (NotCovered, Total): 34, 94
+ABSTRACT CLASS: net/bytebuddy/description/method/ParameterDescription$InDefinedShape$AbstractBase.class - JACT (NotCovered, Total): 2, 5
+ABSTRACT CLASS: net/bytebuddy/description/method/ParameterDescription$AbstractBase.class - JACT (NotCovered, Total): 108, 187
+REGULAR CLASS: net/bytebuddy/description/method/MethodList$TypeSubstituting.class - JACT (NotCovered, Total): 0, 29
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$Explicit$ForTypes.class - JACT (NotCovered, Total): 20, 58
+ABSTRACT CLASS: net/bytebuddy/description/method/ParameterDescription$ForLoadedParameter.class - JACT (NotCovered, Total): 22, 89
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$ForLoadedParameter$OfMethod.class - JACT (NotCovered, Total): 9, 47
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$Token.class - JACT (NotCovered, Total): 157, 221
+INTERFACE: net/bytebuddy/description/method/MethodDescription.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: net/bytebuddy/description/method/MethodDescription$ForLoadedMethod.class - JACT (NotCovered, Total): 53, 226
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$Latent.class - JACT (NotCovered, Total): 23, 103
+REGULAR CLASS: net/bytebuddy/description/method/ParameterDescription$TypeSubstituting.class - JACT (NotCovered, Total): 16, 56
+REGULAR CLASS: net/bytebuddy/description/method/ParameterList$ForTokens.class - JACT (NotCovered, Total): 2, 56
+INTERFACE: net/bytebuddy/description/NamedElement$WithDescriptor.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfWildcardType$Latent.class - JACT (NotCovered, Total): 41, 53
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfTypeVariable$ForLoadedType$TypeVariableBoundList.class - JACT (NotCovered, Total): 0, 23
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfGenericArray.class - JACT (NotCovered, Total): 200, 248
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor$ForTypeVariableBinding.class - JACT (NotCovered, Total): 37, 53
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$OfLoadedInterfaceTypes$TypeProjection.class - JACT (NotCovered, Total): 9, 75
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$ForDetachedTypes.class - JACT (NotCovered, Total): 14, 60
+ABSTRACT CLASS: net/bytebuddy/description/type/PackageDescription$AbstractBase.class - JACT (NotCovered, Total): 29, 48
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfNonGenericType$Latent.class - JACT (NotCovered, Total): 14, 51
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection.class - JACT (NotCovered, Total): 46, 135
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AbstractBase.class - JACT (NotCovered, Total): 0, 18
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor$WithoutTypeSubstitution.class - JACT (NotCovered, Total): 2, 7
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$AbstractBase.class - JACT (NotCovered, Total): 865, 1280
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$OfMethodExceptionTypes$TypeProjection.class - JACT (NotCovered, Total): 16, 75
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfGenericArray$ForLoadedType.class - JACT (NotCovered, Total): 21, 38
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfTypeVariable.class - JACT (NotCovered, Total): 194, 244
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedMethodReturnType.class - JACT (NotCovered, Total): 39, 62
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$ForDetachedTypes$OfTypeVariables.class - JACT (NotCovered, Total): 13, 29
+INTERFACE: net/bytebuddy/description/type/TypeDescription$Generic.class - JACT (NotCovered, Total): 0, 23
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Validator.class - JACT (NotCovered, Total): 12, 171
+ENUM: net/bytebuddy/description/type/TypeDefinition$Sort.class - JACT (NotCovered, Total): 52, 226
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfWildcardType$ForLoadedType$WildcardUpperBoundTypeList.class - JACT (NotCovered, Total): 0, 23
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$WithLazyNavigation$OfAnnotatedElement.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfTypeVariable$ForLoadedType.class - JACT (NotCovered, Total): 51, 84
+REGULAR CLASS: net/bytebuddy/description/type/RecordComponentList$ForTokens.class - JACT (NotCovered, Total): 17, 30
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Explicit.class - JACT (NotCovered, Total): 32, 48
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Validator$2.class - JACT (NotCovered, Total): 5, 27
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$ForRawType.class - JACT (NotCovered, Total): 14, 59
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType.class - JACT (NotCovered, Total): 174, 367
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Validator$3.class - JACT (NotCovered, Total): 33, 43
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfNonGenericType$ForReifiedErasure.class - JACT (NotCovered, Total): 48, 88
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$AbstractBase$OfSimpleType.class - JACT (NotCovered, Total): 72, 123
+REGULAR CLASS: net/bytebuddy/description/type/PackageDescription$ForLoadedPackage.class - JACT (NotCovered, Total): 7, 17
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Reifying.class - JACT (NotCovered, Total): 36, 73
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$Chained.class - JACT (NotCovered, Total): 37, 49
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfNonGenericType.class - JACT (NotCovered, Total): 136, 257
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Validator$1.class - JACT (NotCovered, Total): 9, 31
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$OfMethodParameter.class - JACT (NotCovered, Total): 6, 79
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedInterface.class - JACT (NotCovered, Total): 65, 74
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$ForSignatureVisitor.class - JACT (NotCovered, Total): 84, 169
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType$ForLoadedType.class - JACT (NotCovered, Total): 7, 59
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfNonGenericType$ForLoadedType.class - JACT (NotCovered, Total): 18, 245
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForWildcardLowerBoundType.class - JACT (NotCovered, Total): 56, 71
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor$ForAttachment.class - JACT (NotCovered, Total): 94, 146
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedExecutableExceptionType.class - JACT (NotCovered, Total): 52, 82
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$ArrayProjection.class - JACT (NotCovered, Total): 139, 255
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor$ForTypeVariableBinding$TypeVariableSubstitutor.class - JACT (NotCovered, Total): 64, 84
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedTypeVariable.class - JACT (NotCovered, Total): 53, 59
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$Explicit.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$ForLoadedSuperClass.class - JACT (NotCovered, Total): 20, 63
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeList$AbstractBase.class - JACT (NotCovered, Total): 3, 41
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForOwnerType.class - JACT (NotCovered, Total): 13, 23
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$ForDetachedTypes$WithResolvedErasure.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$OfMethodExceptionTypes.class - JACT (NotCovered, Total): 7, 28
+REGULAR CLASS: net/bytebuddy/description/field/FieldDescription$SignatureToken.class - JACT (NotCovered, Total): 29, 97
+ABSTRACT CLASS: net/bytebuddy/description/field/FieldDescription$AbstractBase.class - JACT (NotCovered, Total): 204, 297
+ABSTRACT CLASS: net/bytebuddy/description/field/FieldDescription$InDefinedShape$AbstractBase.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: net/bytebuddy/description/field/FieldList$ForTokens.class - JACT (NotCovered, Total): 6, 30
+REGULAR CLASS: net/bytebuddy/description/field/FieldDescription$Latent.class - JACT (NotCovered, Total): 0, 52
+INTERFACE: net/bytebuddy/description/field/FieldDescription.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: net/bytebuddy/description/field/FieldList$Explicit.class - JACT (NotCovered, Total): 5, 21
+REGULAR CLASS: net/bytebuddy/description/field/FieldDescription$Token.class - JACT (NotCovered, Total): 99, 167
+ABSTRACT CLASS: net/bytebuddy/description/field/FieldList$AbstractBase.class - JACT (NotCovered, Total): 55, 63
+ABSTRACT CLASS: net/bytebuddy/description/ModifierReviewable$AbstractBase.class - JACT (NotCovered, Total): 213, 288
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForConstant.class - JACT (NotCovered, Total): 319, 432
+ABSTRACT CLASS: net/bytebuddy/description/annotation/AnnotationList$AbstractBase.class - JACT (NotCovered, Total): 130, 180
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationList$ForLoadedAnnotations.class - JACT (NotCovered, Total): 31, 53
+INTERFACE: net/bytebuddy/description/annotation/AnnotationDescription.class - JACT (NotCovered, Total): 0, 3
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForEnumerationDescription.class - JACT (NotCovered, Total): 63, 104
+INTERFACE: net/bytebuddy/description/annotation/AnnotationValue.class - JACT (NotCovered, Total): 0, 3
+ENUM: net/bytebuddy/description/modifier/TypeManifestation.class - JACT (NotCovered, Total): 46, 118
+REGULAR CLASS: net/bytebuddy/description/modifier/ModifierContributor$Resolver.class - JACT (NotCovered, Total): 49, 92
+ENUM: net/bytebuddy/description/modifier/Ownership.class - JACT (NotCovered, Total): 14, 53
+ENUM: net/bytebuddy/description/modifier/FieldManifestation.class - JACT (NotCovered, Total): 35, 85
+ENUM: net/bytebuddy/description/modifier/SyntheticState.class - JACT (NotCovered, Total): 14, 53
+ENUM: net/bytebuddy/description/modifier/Visibility.class - JACT (NotCovered, Total): 63, 143
+ENUM: net/bytebuddy/description/modifier/SynchronizationState.class - JACT (NotCovered, Total): 14, 53
+REGULAR CLASS: net/bytebuddy/description/ByteCodeElement$Token$TokenList.class - JACT (NotCovered, Total): 5, 56
+REGULAR CLASS: net/bytebuddy/description/enumeration/EnumerationDescription$ForLoadedEnumeration.class - JACT (NotCovered, Total): 36, 60
+ABSTRACT CLASS: net/bytebuddy/description/enumeration/EnumerationDescription$AbstractBase.class - JACT (NotCovered, Total): 41, 74
+ABSTRACT CLASS: net/bytebuddy/description/TypeVariableSource$AbstractBase.class - JACT (NotCovered, Total): 25, 28
+ENUM: net/bytebuddy/utility/JavaType.class - JACT (NotCovered, Total): 15, 580
+REGULAR CLASS: net/bytebuddy/utility/RandomString.class - JACT (NotCovered, Total): 21, 188
+REGULAR CLASS: net/bytebuddy/utility/OpenedClassReader.class - JACT (NotCovered, Total): 91, 123
+REGULAR CLASS: net/bytebuddy/utility/privilege/GetMethodAction.class - JACT (NotCovered, Total): 70, 97
+REGULAR CLASS: net/bytebuddy/utility/privilege/GetSystemPropertyAction.class - JACT (NotCovered, Total): 37, 47
+REGULAR CLASS: net/bytebuddy/utility/CompoundList.class - JACT (NotCovered, Total): 33, 100
+REGULAR CLASS: net/bytebuddy/utility/JavaModule.class - JACT (NotCovered, Total): 112, 183
+ABSTRACT CLASS: net/bytebuddy/NamingStrategy$AbstractBase.class - JACT (NotCovered, Total): 6, 14
+ENUM: net/bytebuddy/NamingStrategy$Suffixing$BaseNameResolver$ForUnnamedType.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: net/bytebuddy/NamingStrategy$Suffixing$BaseNameResolver$ForFixedValue.class - JACT (NotCovered, Total): 37, 46
+REGULAR CLASS: net/bytebuddy/NamingStrategy$Suffixing.class - JACT (NotCovered, Total): 84, 134
+ENUM: net/bytebuddy/implementation/MethodCall$TargetHandler$ForSelfOrStaticInvocation$Factory.class - JACT (NotCovered, Total): 8, 22
+ENUM: net/bytebuddy/implementation/Implementation$Context$Default$Factory.class - JACT (NotCovered, Total): 0, 23
+ABSTRACT CLASS: net/bytebuddy/implementation/MethodCall$TerminationHandler$Simple.class - JACT (NotCovered, Total): 0, 38
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$WithoutSpecifiedTarget.class - JACT (NotCovered, Total): 180, 211
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$Context$Default$DelegationRecord.class - JACT (NotCovered, Total): 66, 105
+REGULAR CLASS: net/bytebuddy/implementation/auxiliary/AuxiliaryType$NamingStrategy$SuffixingRandom.class - JACT (NotCovered, Total): 37, 67
+INTERFACE: net/bytebuddy/implementation/auxiliary/AuxiliaryType.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: net/bytebuddy/implementation/InvocationHandlerAdapter$ForInstance$Appender.class - JACT (NotCovered, Total): 52, 83
+REGULAR CLASS: net/bytebuddy/implementation/LoadedTypeInitializer$Compound.class - JACT (NotCovered, Total): 64, 115
+REGULAR CLASS: net/bytebuddy/implementation/FieldAccessor$FieldLocation$Relative$Prepared.class - JACT (NotCovered, Total): 69, 92
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$TargetHandler$ForMethodParameter$Resolved.class - JACT (NotCovered, Total): 55, 95
+REGULAR CLASS: net/bytebuddy/implementation/FieldAccessor$ForImplicitProperty.class - JACT (NotCovered, Total): 317, 349
+ENUM: net/bytebuddy/implementation/Implementation$Target$AbstractBase$DefaultMethodInvocation$2.class - JACT (NotCovered, Total): 2, 8
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveTypeAwareAssigner.class - JACT (NotCovered, Total): 27, 83
+ENUM: net/bytebuddy/implementation/bytecode/assign/reference/GenericTypeAwareAssigner.class - JACT (NotCovered, Total): 42, 56
+ENUM: net/bytebuddy/implementation/bytecode/assign/reference/ReferenceTypeAwareAssigner.class - JACT (NotCovered, Total): 11, 45
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/TypeCreation.class - JACT (NotCovered, Total): 49, 81
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/ByteCodeAppender$Simple.class - JACT (NotCovered, Total): 37, 63
+ABSTRACT CLASS: net/bytebuddy/implementation/bytecode/StackManipulation$AbstractBase.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/StackManipulation$Size.class - JACT (NotCovered, Total): 51, 94
+ENUM: net/bytebuddy/implementation/bytecode/Duplication$3.class - JACT (NotCovered, Total): 22, 30
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/MethodInvocation$Invocation.class - JACT (NotCovered, Total): 136, 246
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/MethodVariableAccess$OffsetLoading.class - JACT (NotCovered, Total): 50, 71
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/FieldAccess$AccessDispatcher$FieldPutInstruction.class - JACT (NotCovered, Total): 37, 64
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/MethodVariableAccess$MethodLoading.class - JACT (NotCovered, Total): 54, 137
+ENUM: net/bytebuddy/implementation/bytecode/member/MethodReturn.class - JACT (NotCovered, Total): 4, 128
+ABSTRACT CLASS: net/bytebuddy/implementation/bytecode/member/FieldAccess$AccessDispatcher$AbstractFieldInstruction.class - JACT (NotCovered, Total): 0, 31
+ENUM: net/bytebuddy/implementation/bytecode/member/MethodInvocation.class - JACT (NotCovered, Total): 21, 208
+ENUM: net/bytebuddy/implementation/bytecode/member/FieldAccess.class - JACT (NotCovered, Total): 46, 128
+ENUM: net/bytebuddy/implementation/bytecode/member/MethodVariableAccess$MethodLoading$TypeCastingHandler$NoOp.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/MethodVariableAccess$MethodLoading$TypeCastingHandler$ForBridgeTarget.class - JACT (NotCovered, Total): 39, 61
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/FieldAccess$AccessDispatcher$FieldGetInstruction.class - JACT (NotCovered, Total): 37, 64
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/member/FieldAccess$AccessDispatcher.class - JACT (NotCovered, Total): 52, 71
+ENUM: net/bytebuddy/implementation/bytecode/member/MethodVariableAccess.class - JACT (NotCovered, Total): 49, 204
+INTERFACE: net/bytebuddy/implementation/bytecode/collection/ArrayFactory$ArrayCreator.class - JACT (NotCovered, Total): 0, 4
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/collection/ArrayFactory$ArrayStackManipulation.class - JACT (NotCovered, Total): 54, 152
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/collection/ArrayFactory.class - JACT (NotCovered, Total): 115, 154
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/collection/ArrayFactory$ArrayCreator$ForReferenceType.class - JACT (NotCovered, Total): 37, 53
+ENUM: net/bytebuddy/implementation/bytecode/StackSize.class - JACT (NotCovered, Total): 71, 151
+ENUM: net/bytebuddy/implementation/bytecode/constant/NullConstant.class - JACT (NotCovered, Total): 0, 25
+ENUM: net/bytebuddy/implementation/bytecode/constant/IntegerConstant.class - JACT (NotCovered, Total): 39, 151
+ENUM: net/bytebuddy/implementation/bytecode/constant/FloatConstant.class - JACT (NotCovered, Total): 31, 79
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/constant/MethodConstant$CachedMethod.class - JACT (NotCovered, Total): 27, 52
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/constant/TextConstant.class - JACT (NotCovered, Total): 37, 50
+ENUM: net/bytebuddy/implementation/bytecode/constant/DefaultValue.class - JACT (NotCovered, Total): 6, 119
+ENUM: net/bytebuddy/implementation/MethodCall$TerminationHandler$Simple$1.class - JACT (NotCovered, Total): 21, 57
+ENUM: net/bytebuddy/implementation/SuperMethodCall$Appender$TerminationHandler$1.class - JACT (NotCovered, Total): 0, 10
+ABSTRACT CLASS: net/bytebuddy/implementation/SuperMethodCall$Appender$TerminationHandler.class - JACT (NotCovered, Total): 0, 24
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$SpecialMethodInvocation$Simple.class - JACT (NotCovered, Total): 2, 51
+ENUM: net/bytebuddy/implementation/MethodAccessorFactory$AccessType.class - JACT (NotCovered, Total): 0, 37
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$Context$Default$AccessorMethodDelegation.class - JACT (NotCovered, Total): 55, 112
+ENUM: net/bytebuddy/implementation/SuperMethodCall.class - JACT (NotCovered, Total): 20, 42
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$Context$Default.class - JACT (NotCovered, Total): 102, 354
+REGULAR CLASS: net/bytebuddy/implementation/InvocationHandlerAdapter$ForInstance.class - JACT (NotCovered, Total): 146, 204
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$Context$Default$FieldCacheEntry.class - JACT (NotCovered, Total): 40, 85
+REGULAR CLASS: net/bytebuddy/implementation/SuperMethodCall$Appender.class - JACT (NotCovered, Total): 64, 119
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall.class - JACT (NotCovered, Total): 704, 878
+ENUM: net/bytebuddy/implementation/MethodCall$MethodInvoker$ForContextualInvocation$Factory.class - JACT (NotCovered, Total): 5, 19
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$Context$Default$AbstractPropertyAccessorMethod.class - JACT (NotCovered, Total): 2, 16
+ENUM: net/bytebuddy/implementation/FieldAccessor$FieldNameExtractor$ForBeanProperty.class - JACT (NotCovered, Total): 31, 80
+ABSTRACT CLASS: net/bytebuddy/implementation/FieldAccessor.class - JACT (NotCovered, Total): 59, 110
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$SpecialMethodInvocation$AbstractBase.class - JACT (NotCovered, Total): 31, 71
+REGULAR CLASS: net/bytebuddy/implementation/FieldAccessor$FieldNameExtractor$ForFixedValue.class - JACT (NotCovered, Total): 27, 46
+ABSTRACT CLASS: net/bytebuddy/pool/TypePool$AbstractBase.class - JACT (NotCovered, Total): 124, 214
+ABSTRACT CLASS: net/bytebuddy/pool/TypePool$AbstractBase$Hierarchical.class - JACT (NotCovered, Total): 62, 69
+REGULAR CLASS: net/bytebuddy/NamingStrategy$SuffixingRandom.class - JACT (NotCovered, Total): 40, 95
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ParameterDefinition$AbstractBase.class - JACT (NotCovered, Total): 37, 40
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Default$Unloaded.class - JACT (NotCovered, Total): 78, 117
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$AbstractBase$Adapter.class - JACT (NotCovered, Total): 67, 121
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$ForDefinedMethod$WithBody.class - JACT (NotCovered, Total): 106, 175
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor$Constraint$Compound.class - JACT (NotCovered, Total): 226, 330
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$ForDefinedMethod$OfVisibilityBridge$VisibilityBridge.class - JACT (NotCovered, Total): 2, 56
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$AccessBridgeWrapper.class - JACT (NotCovered, Total): 152, 333
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor$Constraint$ForClassFileVersion.class - JACT (NotCovered, Total): 349, 383
+ENUM: net/bytebuddy/dynamic/scaffold/TypeValidation.class - JACT (NotCovered, Total): 6, 43
+ENUM: net/bytebuddy/dynamic/scaffold/ClassWriterStrategy$Default$2.class - JACT (NotCovered, Total): 5, 11
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/ClassWriterStrategy$FrameComputingClassWriter.class - JACT (NotCovered, Total): 60, 67
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/RecordComponentRegistry$Default$Compiled.class - JACT (NotCovered, Total): 79, 88
+ENUM: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ClassDumpAction$Dispatcher$Disabled.class - JACT (NotCovered, Total): 0, 15
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default$Compiled$Entry.class - JACT (NotCovered, Total): 117, 166
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default$Prepared$Entry.class - JACT (NotCovered, Total): 110, 171
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldLocator$Resolution$Simple.class - JACT (NotCovered, Total): 37, 48
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default$Entry.class - JACT (NotCovered, Total): 95, 142
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeInitializer$Simple.class - JACT (NotCovered, Total): 46, 75
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store$Entry$Ambiguous.class - JACT (NotCovered, Total): 364, 391
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeInitializer$Drain$Default.class - JACT (NotCovered, Total): 67, 95
+INTERFACE: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler.class - JACT (NotCovered, Total): 0, 3
+ENUM: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Merger$Directional.class - JACT (NotCovered, Total): 7, 41
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store.class - JACT (NotCovered, Total): 145, 356
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key.class - JACT (NotCovered, Total): 5, 52
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Harmonizer$ForJavaMethod$Token.class - JACT (NotCovered, Total): 5, 38
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default$Prepared.class - JACT (NotCovered, Total): 138, 285
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default.class - JACT (NotCovered, Total): 48, 346
+ENUM: net/bytebuddy/dynamic/scaffold/InstrumentedType$Factory$Default$1.class - JACT (NotCovered, Total): 79, 85
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$AccessBridgeWrapper$AccessorBridge.class - JACT (NotCovered, Total): 6, 58
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$UnresolvedType.class - JACT (NotCovered, Total): 67, 101
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldRegistry$Default$Compiled$Entry.class - JACT (NotCovered, Total): 82, 116
+ENUM: net/bytebuddy/dynamic/scaffold/MethodGraph$Node$Unresolved.class - JACT (NotCovered, Total): 15, 31
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default.class - JACT (NotCovered, Total): 451, 603
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/ClassWriterStrategy$Default.class - JACT (NotCovered, Total): 0, 30
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor.class - JACT (NotCovered, Total): 221, 434
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store$Entry$Initial.class - JACT (NotCovered, Total): 87, 108
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Handler$ForImplementation.class - JACT (NotCovered, Total): 8, 56
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor$ValidatingFieldVisitor.class - JACT (NotCovered, Total): 9, 17
+ENUM: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$Sort.class - JACT (NotCovered, Total): 3, 57
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ForCreation.class - JACT (NotCovered, Total): 163, 420
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Node$Simple.class - JACT (NotCovered, Total): 39, 54
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$ForNonImplementedMethod.class - JACT (NotCovered, Total): 86, 130
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldRegistry$Default.class - JACT (NotCovered, Total): 37, 138
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$AbstractBase.class - JACT (NotCovered, Total): 10, 19
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/subclass/SubclassImplementationTarget.class - JACT (NotCovered, Total): 53, 126
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default$1.class - JACT (NotCovered, Total): 0, 10
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/subclass/SubclassImplementationTarget$OriginTypeResolver.class - JACT (NotCovered, Total): 0, 24
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default$5.class - JACT (NotCovered, Total): 4, 42
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default.class - JACT (NotCovered, Total): 14, 121
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default$2.class - JACT (NotCovered, Total): 59, 65
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/SubclassImplementationTarget$OriginTypeResolver$1.class - JACT (NotCovered, Total): 3, 9
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/SubclassImplementationTarget$OriginTypeResolver$2.class - JACT (NotCovered, Total): 2, 8
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default$3.class - JACT (NotCovered, Total): 34, 40
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/SubclassImplementationTarget$Factory.class - JACT (NotCovered, Total): 0, 44
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Handler$ForVisibilityBridge$Compiled.class - JACT (NotCovered, Total): 37, 49
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$ForDefinedMethod.class - JACT (NotCovered, Total): 11, 65
+ENUM: net/bytebuddy/dynamic/scaffold/MethodRegistry$Handler$ForVisibilityBridge.class - JACT (NotCovered, Total): 5, 25
+ENUM: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor$Constraint$ForClass.class - JACT (NotCovered, Total): 42, 82
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Handler$ForImplementation$Compiled.class - JACT (NotCovered, Total): 37, 52
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/FieldLocator$AbstractBase.class - JACT (NotCovered, Total): 63, 90
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Simple.class - JACT (NotCovered, Total): 78, 94
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$Compound.class - JACT (NotCovered, Total): 45, 99
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase.class - JACT (NotCovered, Total): 459, 612
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod$TransformedMethod$AttachmentVisitor.class - JACT (NotCovered, Total): 80, 86
+ENUM: net/bytebuddy/dynamic/Transformer$NoOp.class - JACT (NotCovered, Total): 0, 18
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod.class - JACT (NotCovered, Total): 37, 74
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ExceptionDefinition$AbstractBase.class - JACT (NotCovered, Total): 17, 20
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ParameterDefinition$Initial$AbstractBase.class - JACT (NotCovered, Total): 10, 44
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$MethodDefinitionAdapter$SimpleParameterAnnotationAdapter.class - JACT (NotCovered, Total): 78, 136
+ABSTRACT CLASS: net/bytebuddy/dynamic/VisibilityBridgeStrategy$Default.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$OptionalMethodMatchAdapter.class - JACT (NotCovered, Total): 67, 167
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ImplementationDefinition$AbstractBase.class - JACT (NotCovered, Total): 6, 9
+REGULAR CLASS: net/bytebuddy/dynamic/TargetType.class - JACT (NotCovered, Total): 11, 33
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod$TransformedMethod$TransformedParameterList.class - JACT (NotCovered, Total): 0, 26
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ParameterDefinition$Simple$AbstractBase.class - JACT (NotCovered, Total): 5, 8
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Default.class - JACT (NotCovered, Total): 523, 599
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ParameterDefinition$Simple$Annotatable$AbstractBase.class - JACT (NotCovered, Total): 17, 20
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$FieldDefinition$Optional$AbstractBase.class - JACT (NotCovered, Total): 17, 20
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Default$Loaded.class - JACT (NotCovered, Total): 61, 78
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$FieldDefinitionAdapter.class - JACT (NotCovered, Total): 89, 190
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$TypeVariableDefinition$AbstractBase.class - JACT (NotCovered, Total): 26, 29
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod$MethodModifierTransformer.class - JACT (NotCovered, Total): 37, 68
+ENUM: net/bytebuddy/dynamic/VisibilityBridgeStrategy$Default$2.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$MethodDefinitionAdapter$AnnotationAdapter.class - JACT (NotCovered, Total): 276, 382
+ENUM: net/bytebuddy/dynamic/TypeResolutionStrategy$Passive.class - JACT (NotCovered, Total): 0, 51
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$FieldDefinition$Optional$Valuable$AbstractBase.class - JACT (NotCovered, Total): 35, 43
+ENUM: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$PersistenceHandler$1.class - JACT (NotCovered, Total): 49, 56
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$PackageLookupStrategy$ForJava9CapableVm.class - JACT (NotCovered, Total): 50, 68
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$ClassDefinitionAction.class - JACT (NotCovered, Total): 83, 165
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassInjector$UsingUnsafe$Dispatcher$Enabled.class - JACT (NotCovered, Total): 91, 145
+ENUM: net/bytebuddy/dynamic/loading/PackageDefinitionStrategy$Definition$Undefined.class - JACT (NotCovered, Total): 40, 56
+INTERFACE: net/bytebuddy/dynamic/loading/ClassLoadingStrategy.class - JACT (NotCovered, Total): 0, 5
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassInjector$UsingReflection.class - JACT (NotCovered, Total): 220, 375
+ENUM: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$SynchronizationStrategy$CreationAction.class - JACT (NotCovered, Total): 28, 133
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ByteArrayClassLoader.class - JACT (NotCovered, Total): 239, 436
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassLoadingStrategy$Default$InjectionDispatcher.class - JACT (NotCovered, Total): 101, 141
+ENUM: net/bytebuddy/dynamic/loading/PackageDefinitionStrategy$Trivial.class - JACT (NotCovered, Total): 0, 16
+ENUM: net/bytebuddy/dynamic/loading/PackageDefinitionStrategy$Definition$Trivial.class - JACT (NotCovered, Total): 2, 36
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassLoadingStrategy$Default$WrappingDispatcher.class - JACT (NotCovered, Total): 196, 243
+ENUM: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$PersistenceHandler$2.class - JACT (NotCovered, Total): 7, 19
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassInjector$UsingLookup.class - JACT (NotCovered, Total): 132, 247
+ABSTRACT CLASS: net/bytebuddy/dynamic/loading/InjectionClassLoader.class - JACT (NotCovered, Total): 36, 65
+ENUM: net/bytebuddy/dynamic/loading/ClassInjector$UsingReflection$Dispatcher$CreationAction.class - JACT (NotCovered, Total): 18, 39
+ENUM: net/bytebuddy/dynamic/loading/ClassLoadingStrategy$Default.class - JACT (NotCovered, Total): 13, 109
+REGULAR CLASS: net/bytebuddy/ClassFileVersion.class - JACT (NotCovered, Total): 443, 617
+REGULAR CLASS: net/bytebuddy/NamingStrategy$SuffixingRandom$BaseNameResolver$ForFixedValue.class - JACT (NotCovered, Total): 27, 31
+REGULAR CLASS: net/bytebuddy/matcher/AnnotationTypeMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/FieldTypeMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$Disjunction.class - JACT (NotCovered, Total): 37, 70
+REGULAR CLASS: net/bytebuddy/matcher/SignatureTokenMatcher.class - JACT (NotCovered, Total): 49, 61
+ENUM: net/bytebuddy/matcher/MethodSortMatcher$Sort$3.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: net/bytebuddy/matcher/MethodSortMatcher.class - JACT (NotCovered, Total): 41, 55
+REGULAR CLASS: net/bytebuddy/matcher/SuperTypeMatcher.class - JACT (NotCovered, Total): 49, 60
+ABSTRACT CLASS: net/bytebuddy/matcher/FilterableList$AbstractBase.class - JACT (NotCovered, Total): 13, 66
+REGULAR CLASS: net/bytebuddy/matcher/MethodParametersMatcher.class - JACT (NotCovered, Total): 49, 61
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$6.class - JACT (NotCovered, Total): 6, 13
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$ForFieldToken.class - JACT (NotCovered, Total): 37, 51
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$4.class - JACT (NotCovered, Total): 6, 13
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$Resolved.class - JACT (NotCovered, Total): 37, 46
+REGULAR CLASS: net/bytebuddy/matcher/DeclaringTypeMatcher.class - JACT (NotCovered, Total): 49, 70
+ABSTRACT CLASS: net/bytebuddy/matcher/ElementMatcher$Junction$AbstractBase.class - JACT (NotCovered, Total): 0, 31
+ABSTRACT CLASS: net/bytebuddy/matcher/StringMatcher$Mode.class - JACT (NotCovered, Total): 3, 114
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$ForFieldToken$ResolvedMatcher.class - JACT (NotCovered, Total): 37, 49
+REGULAR CLASS: net/bytebuddy/matcher/CollectionErasureMatcher.class - JACT (NotCovered, Total): 49, 80
+REGULAR CLASS: net/bytebuddy/matcher/NegatingMatcher.class - JACT (NotCovered, Total): 49, 64
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$3.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: net/bytebuddy/matcher/FilterableList$Empty.class - JACT (NotCovered, Total): 57, 64
+ENUM: net/bytebuddy/matcher/MethodSortMatcher$Sort$5.class - JACT (NotCovered, Total): 3, 10
+REGULAR CLASS: net/bytebuddy/matcher/StringMatcher.class - JACT (NotCovered, Total): 68, 84
+ENUM: net/bytebuddy/matcher/MethodSortMatcher$Sort$2.class - JACT (NotCovered, Total): 0, 10
+ENUM: net/bytebuddy/matcher/ModifierMatcher$Mode.class - JACT (NotCovered, Total): 3, 246
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$1.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: net/bytebuddy/matcher/ModifierMatcher.class - JACT (NotCovered, Total): 41, 61
+REGULAR CLASS: net/bytebuddy/matcher/ElementMatcher$Junction$Conjunction.class - JACT (NotCovered, Total): 74, 136
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$ForMethodToken$ResolvedMatcher.class - JACT (NotCovered, Total): 37, 49
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$2.class - JACT (NotCovered, Total): 4, 11
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$8.class - JACT (NotCovered, Total): 6, 13
+ABSTRACT CLASS: net/bytebuddy/matcher/MethodSortMatcher$Sort.class - JACT (NotCovered, Total): 3, 79
+REGULAR CLASS: net/bytebuddy/matcher/ElementMatcher$Junction$Disjunction.class - JACT (NotCovered, Total): 74, 136
+REGULAR CLASS: net/bytebuddy/matcher/CollectionOneToOneMatcher.class - JACT (NotCovered, Total): 77, 118
+ENUM: net/bytebuddy/matcher/MethodSortMatcher$Sort$1.class - JACT (NotCovered, Total): 0, 10
+REGULAR CLASS: net/bytebuddy/matcher/NameMatcher.class - JACT (NotCovered, Total): 49, 61
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$7.class - JACT (NotCovered, Total): 4, 11
+REGULAR CLASS: net/bytebuddy/matcher/TypeSortMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/MethodParameterTypeMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/ByteBuddy.class - JACT (NotCovered, Total): 1150, 1479
+INTERFACE: net/bytebuddy/description/type/TypeList.class - JACT (NotCovered, Total): 0, 5
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator.class - JACT (NotCovered, Total): 15, 76
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor.class - JACT (NotCovered, Total): 10, 91
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfWildcardType$ForLoadedType.class - JACT (NotCovered, Total): 21, 48
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType$Latent.class - JACT (NotCovered, Total): 0, 31
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedSuperClass.class - JACT (NotCovered, Total): 48, 54
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$ForLoadedReturnType.class - JACT (NotCovered, Total): 0, 51
+INTERFACE: net/bytebuddy/description/type/TypeDescription.class - JACT (NotCovered, Total): 0, 42
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$ForLoadedTypes.class - JACT (NotCovered, Total): 39, 54
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForTypeArgument.class - JACT (NotCovered, Total): 45, 71
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$OfConstructorParameter.class - JACT (NotCovered, Total): 13, 79
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfWildcardType.class - JACT (NotCovered, Total): 331, 338
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfGenericArray$Latent.class - JACT (NotCovered, Total): 0, 16
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType$ForLoadedType$ParameterArgumentTypeList.class - JACT (NotCovered, Total): 0, 23
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeList$Generic$AbstractBase.class - JACT (NotCovered, Total): 11, 139
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$WithEagerNavigation.class - JACT (NotCovered, Total): 12, 15
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Empty.class - JACT (NotCovered, Total): 2, 7
+REGULAR CLASS: net/bytebuddy/description/type/TypeDefinition$SuperClassIterator.class - JACT (NotCovered, Total): 11, 36
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$OfLoadedInterfaceTypes.class - JACT (NotCovered, Total): 0, 29
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Substitutor$ForDetachment.class - JACT (NotCovered, Total): 52, 72
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForTypeVariableBoundType.class - JACT (NotCovered, Total): 56, 71
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$WithLazyNavigation.class - JACT (NotCovered, Total): 11, 14
+ABSTRACT CLASS: net/bytebuddy/description/type/RecordComponentList$AbstractBase.class - JACT (NotCovered, Total): 87, 90
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfWildcardType$ForLoadedType$WildcardLowerBoundTypeList.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Reducing.class - JACT (NotCovered, Total): 169, 190
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Latent.class - JACT (NotCovered, Total): 220, 238
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForComponentType.class - JACT (NotCovered, Total): 5, 23
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Reifying$2.class - JACT (NotCovered, Total): 0, 11
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$Simple.class - JACT (NotCovered, Total): 37, 46
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$NoOp.class - JACT (NotCovered, Total): 53, 73
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$ForLoadedType.class - JACT (NotCovered, Total): 474, 934
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedExecutableParameterType.class - JACT (NotCovered, Total): 52, 82
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$ForLoadedTypes.class - JACT (NotCovered, Total): 0, 22
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$AnnotationReader$ForWildcardUpperBoundType.class - JACT (NotCovered, Total): 63, 78
+ABSTRACT CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$WithEagerNavigation$OfAnnotatedElement.class - JACT (NotCovered, Total): 4, 7
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$ForLoadedTypes$OfTypeVariables.class - JACT (NotCovered, Total): 0, 34
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType$ForGenerifiedErasure.class - JACT (NotCovered, Total): 23, 45
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Validator$ForTypeAnnotations.class - JACT (NotCovered, Total): 121, 211
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$TypeErasing.class - JACT (NotCovered, Total): 12, 38
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfNonGenericType$ForErasure.class - JACT (NotCovered, Total): 22, 35
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$Empty.class - JACT (NotCovered, Total): 8, 21
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$OfParameterizedType$ForReifiedType.class - JACT (NotCovered, Total): 16, 71
+ENUM: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$Reifying$1.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: net/bytebuddy/description/type/PackageDescription$Simple.class - JACT (NotCovered, Total): 4, 13
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$Visitor$ForSignatureVisitor$OfTypeArgument.class - JACT (NotCovered, Total): 89, 106
+REGULAR CLASS: net/bytebuddy/description/type/TypeDescription$Generic$LazyProjection$WithResolvedErasure.class - JACT (NotCovered, Total): 4, 60
+REGULAR CLASS: net/bytebuddy/description/type/TypeList$Generic$OfConstructorExceptionTypes.class - JACT (NotCovered, Total): 18, 29
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationList$Explicit.class - JACT (NotCovered, Total): 31, 47
+ABSTRACT CLASS: net/bytebuddy/description/annotation/AnnotationDescription$AbstractBase.class - JACT (NotCovered, Total): 187, 315
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$State.class - JACT (NotCovered, Total): 14, 48
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$1.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForDescriptionArray$Loaded.class - JACT (NotCovered, Total): 207, 245
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$6.class - JACT (NotCovered, Total): 6, 12
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$9.class - JACT (NotCovered, Total): 5, 11
+ABSTRACT CLASS: net/bytebuddy/description/annotation/AnnotationValue$AbstractBase.class - JACT (NotCovered, Total): 0, 14
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$7.class - JACT (NotCovered, Total): 6, 12
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$4.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForEnumerationDescription$Loaded.class - JACT (NotCovered, Total): 42, 51
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$8.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationDescription$ForLoadedAnnotation.class - JACT (NotCovered, Total): 397, 574
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForDescriptionArray.class - JACT (NotCovered, Total): 271, 392
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$2.class - JACT (NotCovered, Total): 6, 12
+ENUM: net/bytebuddy/description/annotation/AnnotationSource$Empty.class - JACT (NotCovered, Total): 4, 18
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForTypeDescription.class - JACT (NotCovered, Total): 82, 172
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$5.class - JACT (NotCovered, Total): 6, 12
+ABSTRACT CLASS: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType.class - JACT (NotCovered, Total): 6, 103
+ENUM: net/bytebuddy/description/annotation/AnnotationValue$ForConstant$PropertyDelegate$ForNonArrayType$3.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: net/bytebuddy/description/annotation/AnnotationList$Empty.class - JACT (NotCovered, Total): 34, 39
+ABSTRACT CLASS: net/bytebuddy/description/annotation/AnnotationValue$Loaded$AbstractBase.class - JACT (NotCovered, Total): 0, 8
+ENUM: net/bytebuddy/utility/GraalImageCode.class - JACT (NotCovered, Total): 33, 152
+REGULAR CLASS: net/bytebuddy/utility/JavaType$LatentTypeWithSimpleName.class - JACT (NotCovered, Total): 22, 29
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$DynamicClassLoader.class - JACT (NotCovered, Total): 234, 475
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$Dispatcher$ForNonStaticMethod.class - JACT (NotCovered, Total): 140, 181
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$Dispatcher$ForStaticMethod.class - JACT (NotCovered, Total): 117, 130
+ENUM: net/bytebuddy/utility/dispatcher/JavaDispatcher$DynamicClassLoader$Resolver$CreationAction.class - JACT (NotCovered, Total): 3, 58
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$ProxiedInvocationHandler.class - JACT (NotCovered, Total): 171, 206
+ENUM: net/bytebuddy/utility/dispatcher/JavaDispatcher$Dispatcher$ForDefaultValue.class - JACT (NotCovered, Total): 51, 303
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$Dispatcher$ForDefaultValue$OfNonPrimitiveArray.class - JACT (NotCovered, Total): 54, 71
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher.class - JACT (NotCovered, Total): 737, 1163
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$InvokerCreationAction.class - JACT (NotCovered, Total): 22, 24
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$Dispatcher$ForInstanceCheck.class - JACT (NotCovered, Total): 52, 66
+REGULAR CLASS: net/bytebuddy/utility/dispatcher/JavaDispatcher$DynamicClassLoader$Resolver$ForModuleSystem.class - JACT (NotCovered, Total): 110, 153
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$Context$Default$CacheValueField.class - JACT (NotCovered, Total): 6, 47
+ENUM: net/bytebuddy/implementation/Implementation$Target$AbstractBase$DefaultMethodInvocation$1.class - JACT (NotCovered, Total): 0, 17
+ENUM: net/bytebuddy/implementation/MethodCall$MethodInvoker$ForVirtualInvocation$WithImplicitType.class - JACT (NotCovered, Total): 14, 41
+ENUM: net/bytebuddy/implementation/SuperMethodCall$Appender$TerminationHandler$2.class - JACT (NotCovered, Total): 4, 10
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$Appender.class - JACT (NotCovered, Total): 144, 360
+ENUM: net/bytebuddy/implementation/Implementation$SpecialMethodInvocation$Illegal.class - JACT (NotCovered, Total): 15, 33
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$Context$ExtractableView$AbstractBase.class - JACT (NotCovered, Total): 52, 67
+REGULAR CLASS: net/bytebuddy/implementation/Implementation$Context$Default$AccessorMethod.class - JACT (NotCovered, Total): 15, 86
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$TargetHandler$ForMethodParameter.class - JACT (NotCovered, Total): 41, 76
+REGULAR CLASS: net/bytebuddy/implementation/FieldAccessor$FieldLocation$Relative.class - JACT (NotCovered, Total): 43, 83
+ABSTRACT CLASS: net/bytebuddy/implementation/InvocationHandlerAdapter.class - JACT (NotCovered, Total): 93, 338
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$Target$OnType.class - JACT (NotCovered, Total): 52, 58
+REGULAR CLASS: net/bytebuddy/implementation/attribute/MethodAttributeAppender$Factory$Compound.class - JACT (NotCovered, Total): 27, 110
+ENUM: net/bytebuddy/implementation/attribute/FieldAttributeAppender$ForInstrumentedField.class - JACT (NotCovered, Total): 10, 50
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$Target$OnMethodParameter.class - JACT (NotCovered, Total): 67, 76
+ENUM: net/bytebuddy/implementation/attribute/TypeAttributeAppender$ForInstrumentedType.class - JACT (NotCovered, Total): 10, 82
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$Default.class - JACT (NotCovered, Total): 245, 251
+ENUM: net/bytebuddy/implementation/attribute/MethodAttributeAppender$ForInstrumentedMethod$1.class - JACT (NotCovered, Total): 2, 8
+ENUM: net/bytebuddy/implementation/attribute/MethodAttributeAppender$Explicit$Target$OnMethod.class - JACT (NotCovered, Total): 0, 19
+ENUM: net/bytebuddy/implementation/attribute/AnnotationRetention.class - JACT (NotCovered, Total): 9, 43
+REGULAR CLASS: net/bytebuddy/implementation/attribute/MethodAttributeAppender$Compound.class - JACT (NotCovered, Total): 50, 98
+ABSTRACT CLASS: net/bytebuddy/implementation/attribute/AnnotationValueFilter$Default.class - JACT (NotCovered, Total): 2, 32
+REGULAR CLASS: net/bytebuddy/implementation/attribute/MethodAttributeAppender$Explicit$Target$OnMethodParameter.class - JACT (NotCovered, Total): 45, 73
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$Target$OnMethod.class - JACT (NotCovered, Total): 52, 58
+ENUM: net/bytebuddy/implementation/attribute/MethodAttributeAppender$NoOp.class - JACT (NotCovered, Total): 0, 17
+ENUM: net/bytebuddy/implementation/attribute/MethodAttributeAppender$ForInstrumentedMethod$2.class - JACT (NotCovered, Total): 2, 20
+ENUM: net/bytebuddy/implementation/attribute/AnnotationValueFilter$Default$1.class - JACT (NotCovered, Total): 15, 21
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$ForTypeAnnotations.class - JACT (NotCovered, Total): 323, 498
+REGULAR CLASS: net/bytebuddy/implementation/attribute/AnnotationAppender$Target$OnField.class - JACT (NotCovered, Total): 52, 58
+REGULAR CLASS: net/bytebuddy/implementation/attribute/MethodAttributeAppender$Explicit.class - JACT (NotCovered, Total): 46, 160
+ENUM: net/bytebuddy/implementation/attribute/AnnotationValueFilter$Default$2.class - JACT (NotCovered, Total): 2, 8
+ABSTRACT CLASS: net/bytebuddy/implementation/attribute/MethodAttributeAppender$ForInstrumentedMethod.class - JACT (NotCovered, Total): 20, 151
+ENUM: net/bytebuddy/implementation/bytecode/Removal$1.class - JACT (NotCovered, Total): 2, 10
+ENUM: net/bytebuddy/implementation/bytecode/assign/Assigner$Typing.class - JACT (NotCovered, Total): 0, 43
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/TypeCasting.class - JACT (NotCovered, Total): 49, 73
+INTERFACE: net/bytebuddy/implementation/bytecode/assign/Assigner.class - JACT (NotCovered, Total): 0, 17
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveUnboxingDelegate$ImplicitlyTypedUnboxingResponsible.class - JACT (NotCovered, Total): 37, 66
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveWideningDelegate$WideningStackManipulation.class - JACT (NotCovered, Total): 57, 66
+ENUM: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveWideningDelegate.class - JACT (NotCovered, Total): 78, 380
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveBoxingDelegate$BoxingStackManipulation.class - JACT (NotCovered, Total): 0, 37
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/assign/primitive/VoidAwareAssigner.class - JACT (NotCovered, Total): 28, 79
+ENUM: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveUnboxingDelegate.class - JACT (NotCovered, Total): 58, 297
+ENUM: net/bytebuddy/implementation/bytecode/assign/primitive/PrimitiveBoxingDelegate.class - JACT (NotCovered, Total): 24, 207
+ENUM: net/bytebuddy/implementation/bytecode/constant/LongConstant.class - JACT (NotCovered, Total): 25, 62
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/constant/MethodConstant$ForMethod.class - JACT (NotCovered, Total): 7, 67
+ABSTRACT CLASS: net/bytebuddy/implementation/bytecode/constant/MethodConstant.class - JACT (NotCovered, Total): 69, 179
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/constant/ClassConstant$ForReferenceType.class - JACT (NotCovered, Total): 51, 77
+ENUM: net/bytebuddy/implementation/bytecode/constant/ClassConstant.class - JACT (NotCovered, Total): 16, 184
+ENUM: net/bytebuddy/implementation/bytecode/constant/DoubleConstant.class - JACT (NotCovered, Total): 25, 62
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/ByteCodeAppender$Compound.class - JACT (NotCovered, Total): 37, 106
+ENUM: net/bytebuddy/implementation/bytecode/Duplication$2.class - JACT (NotCovered, Total): 22, 30
+ENUM: net/bytebuddy/implementation/bytecode/StackManipulation$Illegal.class - JACT (NotCovered, Total): 5, 21
+ABSTRACT CLASS: net/bytebuddy/implementation/bytecode/Duplication.class - JACT (NotCovered, Total): 26, 85
+ENUM: net/bytebuddy/implementation/bytecode/StackManipulation$Trivial.class - JACT (NotCovered, Total): 0, 19
+ENUM: net/bytebuddy/implementation/bytecode/Removal.class - JACT (NotCovered, Total): 8, 77
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/StackManipulation$Compound.class - JACT (NotCovered, Total): 39, 122
+ENUM: net/bytebuddy/implementation/bytecode/Duplication$1.class - JACT (NotCovered, Total): 8, 16
+REGULAR CLASS: net/bytebuddy/implementation/bytecode/ByteCodeAppender$Size.class - JACT (NotCovered, Total): 48, 86
+ENUM: net/bytebuddy/implementation/MethodCall$TerminationHandler$Simple$3.class - JACT (NotCovered, Total): 2, 8
+REGULAR CLASS: net/bytebuddy/implementation/FieldAccessor$ForImplicitProperty$Appender.class - JACT (NotCovered, Total): 131, 276
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$MethodLocator$ForExplicitMethod.class - JACT (NotCovered, Total): 27, 48
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$ArgumentLoader$ForMethodParameter$Factory.class - JACT (NotCovered, Total): 49, 82
+REGULAR CLASS: net/bytebuddy/implementation/LoadedTypeInitializer$ForStaticField.class - JACT (NotCovered, Total): 127, 193
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$Target$AbstractBase.class - JACT (NotCovered, Total): 74, 142
+ENUM: net/bytebuddy/implementation/MethodCall$TerminationHandler$Simple$2.class - JACT (NotCovered, Total): 10, 16
+REGULAR CLASS: net/bytebuddy/implementation/MethodCall$ArgumentLoader$ForMethodParameter.class - JACT (NotCovered, Total): 71, 114
+ENUM: net/bytebuddy/implementation/LoadedTypeInitializer$NoOp.class - JACT (NotCovered, Total): 2, 17
+ABSTRACT CLASS: net/bytebuddy/implementation/Implementation$Target$AbstractBase$DefaultMethodInvocation.class - JACT (NotCovered, Total): 1, 32
+REGULAR CLASS: net/bytebuddy/ClassFileVersion$VersionLocator$Resolved.class - JACT (NotCovered, Total): 37, 46
+REGULAR CLASS: net/bytebuddy/pool/TypePool$ClassLoading.class - JACT (NotCovered, Total): 65, 94
+ENUM: net/bytebuddy/pool/TypePool$Empty.class - JACT (NotCovered, Total): 6, 20
+REGULAR CLASS: net/bytebuddy/pool/TypePool$CacheProvider$Simple.class - JACT (NotCovered, Total): 41, 53
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$AbstractBase.class - JACT (NotCovered, Total): 37, 40
+ENUM: net/bytebuddy/dynamic/VisibilityBridgeStrategy$Default$1.class - JACT (NotCovered, Total): 0, 8
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$MethodMatchAdapter$AnnotationAdapter.class - JACT (NotCovered, Total): 130, 238
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ReceiverTypeDefinition$AbstractBase.class - JACT (NotCovered, Total): 5, 8
+ABSTRACT CLASS: net/bytebuddy/dynamic/scaffold/InstrumentedType$Factory$Default.class - JACT (NotCovered, Total): 0, 50
+ENUM: net/bytebuddy/dynamic/scaffold/TypeInitializer$None.class - JACT (NotCovered, Total): 4, 25
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/RecordComponentRegistry$Default.class - JACT (NotCovered, Total): 101, 135
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldLocator$ForClassHierarchy.class - JACT (NotCovered, Total): 47, 81
+ENUM: net/bytebuddy/dynamic/scaffold/MethodGraph$Node$Sort.class - JACT (NotCovered, Total): 3, 79
+ENUM: net/bytebuddy/dynamic/scaffold/ClassWriterStrategy$Default$1.class - JACT (NotCovered, Total): 7, 13
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Harmonized.class - JACT (NotCovered, Total): 8, 174
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldRegistry$Default$Compiled.class - JACT (NotCovered, Total): 52, 88
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$ForDefinedMethod$OfVisibilityBridge.class - JACT (NotCovered, Total): 136, 251
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$FieldPool$Record$ForImplicitField.class - JACT (NotCovered, Total): 78, 114
+ENUM: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Harmonizer$ForJavaMethod.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store$Entry$Resolved$Node.class - JACT (NotCovered, Total): 82, 112
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$MethodPool$Record$AccessBridgeWrapper$BridgeTarget.class - JACT (NotCovered, Total): 16, 52
+ENUM: net/bytebuddy/dynamic/scaffold/InstrumentedType$Factory$Default$2.class - JACT (NotCovered, Total): 6, 12
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store$Entry$Resolved.class - JACT (NotCovered, Total): 127, 312
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Store$Graph.class - JACT (NotCovered, Total): 37, 66
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$FieldPool$Record$ForExplicitField.class - JACT (NotCovered, Total): 86, 139
+ENUM: net/bytebuddy/dynamic/scaffold/FieldLocator$ForClassHierarchy$Factory.class - JACT (NotCovered, Total): 0, 19
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$NodeList.class - JACT (NotCovered, Total): 33, 49
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/InstrumentedType$Default.class - JACT (NotCovered, Total): 2471, 3729
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default.class - JACT (NotCovered, Total): 117, 298
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/TypeWriter$Default$ValidatingClassVisitor$ValidatingMethodVisitor.class - JACT (NotCovered, Total): 81, 130
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Compiler$Default$Key$Detached.class - JACT (NotCovered, Total): 0, 23
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodRegistry$Default$Compiled.class - JACT (NotCovered, Total): 110, 177
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/MethodGraph$Linked$Delegation.class - JACT (NotCovered, Total): 74, 103
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/FieldRegistry$Default$Entry.class - JACT (NotCovered, Total): 82, 111
+ENUM: net/bytebuddy/dynamic/scaffold/subclass/ConstructorStrategy$Default$4.class - JACT (NotCovered, Total): 33, 39
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/subclass/SubclassDynamicTypeBuilder.class - JACT (NotCovered, Total): 42, 208
+REGULAR CLASS: net/bytebuddy/dynamic/scaffold/subclass/SubclassDynamicTypeBuilder$InstrumentableMatcher.class - JACT (NotCovered, Total): 37, 60
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$MethodMatchAdapter.class - JACT (NotCovered, Total): 63, 85
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$MethodDefinition$ParameterDefinition$Simple$Annotatable$AbstractBase$Adapter.class - JACT (NotCovered, Total): 26, 39
+REGULAR CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter$MethodDefinitionAdapter.class - JACT (NotCovered, Total): 228, 260
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Delegator.class - JACT (NotCovered, Total): 151, 192
+ENUM: net/bytebuddy/dynamic/VisibilityBridgeStrategy$Default$3.class - JACT (NotCovered, Total): 2, 8
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$AbstractBase$Adapter.class - JACT (NotCovered, Total): 915, 1189
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod$TransformedMethod.class - JACT (NotCovered, Total): 9, 91
+REGULAR CLASS: net/bytebuddy/dynamic/Transformer$ForMethod$TransformedMethod$TransformedParameter.class - JACT (NotCovered, Total): 43, 79
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassInjector$UsingReflection$Dispatcher$UsingUnsafeInjection.class - JACT (NotCovered, Total): 356, 1035
+ENUM: net/bytebuddy/dynamic/loading/ClassFilePostProcessor$NoOp.class - JACT (NotCovered, Total): 0, 16
+ENUM: net/bytebuddy/dynamic/loading/PackageDefinitionStrategy$NoOp.class - JACT (NotCovered, Total): 0, 16
+ABSTRACT CLASS: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$PersistenceHandler.class - JACT (NotCovered, Total): 3, 37
+ABSTRACT CLASS: net/bytebuddy/dynamic/loading/ClassInjector$AbstractBase.class - JACT (NotCovered, Total): 0, 58
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$SynchronizationStrategy$ForJava8CapableVm.class - JACT (NotCovered, Total): 108, 120
+ENUM: net/bytebuddy/dynamic/loading/ByteArrayClassLoader$PackageLookupStrategy$CreationAction.class - JACT (NotCovered, Total): 5, 34
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassInjector$UsingUnsafe.class - JACT (NotCovered, Total): 149, 267
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassLoadingStrategy$ForUnsafeInjection.class - JACT (NotCovered, Total): 53, 72
+REGULAR CLASS: net/bytebuddy/dynamic/loading/ClassLoadingStrategy$UsingLookup.class - JACT (NotCovered, Total): 65, 82
+ENUM: net/bytebuddy/dynamic/loading/ClassInjector$UsingUnsafe$Dispatcher$CreationAction.class - JACT (NotCovered, Total): 86, 246
+ABSTRACT CLASS: net/bytebuddy/dynamic/DynamicType$Builder$FieldDefinition$Optional$Valuable$AbstractBase$Adapter.class - JACT (NotCovered, Total): 125, 145
+ENUM: net/bytebuddy/ClassFileVersion$VersionLocator$Resolver.class - JACT (NotCovered, Total): 95, 142
+REGULAR CLASS: net/bytebuddy/matcher/MethodReturnTypeMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/MethodParameterTypesMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/LatentMatcher$ForMethodToken.class - JACT (NotCovered, Total): 37, 51
+REGULAR CLASS: net/bytebuddy/matcher/CollectionItemMatcher.class - JACT (NotCovered, Total): 51, 74
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$5.class - JACT (NotCovered, Total): 4, 11
+REGULAR CLASS: net/bytebuddy/matcher/CollectionSizeMatcher.class - JACT (NotCovered, Total): 69, 87
+REGULAR CLASS: net/bytebuddy/matcher/DeclaringAnnotationMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/ErasureMatcher.class - JACT (NotCovered, Total): 49, 61
+REGULAR CLASS: net/bytebuddy/matcher/VisibilityMatcher.class - JACT (NotCovered, Total): 49, 60
+REGULAR CLASS: net/bytebuddy/matcher/BooleanMatcher.class - JACT (NotCovered, Total): 39, 67
+ENUM: net/bytebuddy/matcher/MethodSortMatcher$Sort$4.class - JACT (NotCovered, Total): 0, 10
+ENUM: net/bytebuddy/matcher/StringMatcher$Mode$9.class - JACT (NotCovered, Total): 4, 11
+REGULAR CLASS: net/bytebuddy/matcher/EqualityMatcher.class - JACT (NotCovered, Total): 49, 60
+REGULAR CLASS: net/bytebuddy/matcher/ElementMatchers.class - JACT (NotCovered, Total): 981, 1294
+ENUM: net/bytebuddy/asm/AsmVisitorWrapper$NoOp.class - JACT (NotCovered, Total): 0, 20
+
+Summary for Included Classes By Both Tools:
+Interfaces found: 13
+Abstract classes found: 102
+Enums found: 141
+Annotations found: 0
+Synthetic classes found: 0
+Regular classes found: 338
