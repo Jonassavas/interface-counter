@@ -1,0 +1,47 @@
+JAR File: commons-beanutils-1.9.4.jar
+Packages:
+    org.apache.commons.beanutils
+    org.apache.commons.beanutils.converters
+    org.apache.commons.beanutils.expression
+    org.apache.commons.beanutils.locale
+    org.apache.commons.beanutils.locale.converters
+
+JAR File: commons-collections-3.2.2.jar
+Packages:
+    org.apache.commons.collections
+    org.apache.commons.collections.bag
+    org.apache.commons.collections.bidimap
+    org.apache.commons.collections.buffer
+    org.apache.commons.collections.collection
+    org.apache.commons.collections.comparators
+    org.apache.commons.collections.functors
+    org.apache.commons.collections.iterators
+    org.apache.commons.collections.keyvalue
+    org.apache.commons.collections.list
+    org.apache.commons.collections.map
+    org.apache.commons.collections.set
+
+JAR File: commons-digester-2.1.jar
+Packages:
+    org.apache.commons.digester
+    org.apache.commons.digester.annotations
+    org.apache.commons.digester.annotations.handlers
+    org.apache.commons.digester.annotations.internal
+    org.apache.commons.digester.annotations.providers
+    org.apache.commons.digester.annotations.reflect
+    org.apache.commons.digester.annotations.rules
+    org.apache.commons.digester.annotations.spi
+    org.apache.commons.digester.annotations.utils
+    org.apache.commons.digester.parser
+    org.apache.commons.digester.plugins
+    org.apache.commons.digester.plugins.strategies
+    org.apache.commons.digester.substitution
+    org.apache.commons.digester.xmlrules
+
+JAR File: commons-logging-1.2.jar
+Packages:
+    org.apache.commons.logging
+    org.apache.commons.logging.impl
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.

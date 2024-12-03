@@ -1,0 +1,24 @@
+Dependency JAR: automaton-1.11-8.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-lang3-3.5.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: generex-1.0.2.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: snakeyaml-1.23-android.jar
+Missing Packages:
+Number of packages in this JAR: 19
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 34
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

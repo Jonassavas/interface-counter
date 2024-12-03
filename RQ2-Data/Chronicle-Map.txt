@@ -7,20 +7,24 @@ Packages:
     net.openhft.ticker
     net.openhft.ticker.impl
     software.chronicle.enterprise.internals.impl
+Number of packages in this JAR: 7
 
 JAR File: annotations-12.0.jar
 Packages:
     org.intellij.lang.annotations
     org.jetbrains.annotations
+Number of packages in this JAR: 2
 
 JAR File: asm-9.2.jar
 Packages:
     org.objectweb.asm
     org.objectweb.asm.signature
+Number of packages in this JAR: 2
 
 JAR File: assertions-disabled-1.0.0.jar
 Packages:
     net.openhft.chronicle.assertions
+Number of packages in this JAR: 1
 
 JAR File: chronicle-algorithms-2.25ea0.jar
 Packages:
@@ -30,11 +34,13 @@ Packages:
     net.openhft.chronicle.algo.hashing
     net.openhft.chronicle.algo.internal
     net.openhft.chronicle.algo.locks
+Number of packages in this JAR: 6
 
 JAR File: chronicle-analytics-2.25ea0.jar
 Packages:
     net.openhft.chronicle.analytics
     net.openhft.chronicle.analytics.internal
+Number of packages in this JAR: 2
 
 JAR File: chronicle-bytes-2.25ea7.jar
 Packages:
@@ -47,6 +53,7 @@ Packages:
     net.openhft.chronicle.bytes.ref
     net.openhft.chronicle.bytes.render
     net.openhft.chronicle.bytes.util
+Number of packages in this JAR: 9
 
 JAR File: chronicle-core-2.25ea10.jar
 Packages:
@@ -77,16 +84,19 @@ Packages:
     net.openhft.chronicle.core.util
     net.openhft.chronicle.core.values
     net.openhft.chronicle.core.watcher
+Number of packages in this JAR: 27
 
 JAR File: chronicle-threads-2.25ea5.jar
 Packages:
     net.openhft.chronicle.threads
     net.openhft.chronicle.threads.internal
+Number of packages in this JAR: 2
 
 JAR File: chronicle-values-2.25ea3.jar
 Packages:
     net.openhft.chronicle.values
     net.openhft.chronicle.values.internal
+Number of packages in this JAR: 2
 
 JAR File: chronicle-wire-2.25ea10.jar
 Packages:
@@ -108,6 +118,7 @@ Packages:
     net.openhft.chronicle.wire.internal.reduction
     net.openhft.chronicle.wire.internal.stream
     net.openhft.chronicle.wire.utils
+Number of packages in this JAR: 18
 
 JAR File: commons-io-1.3.2.jar
 Packages:
@@ -115,11 +126,13 @@ Packages:
     org.apache.commons.io.filefilter
     org.apache.commons.io.input
     org.apache.commons.io.output
+Number of packages in this JAR: 4
 
 JAR File: compiler-2.25ea2.jar
 Packages:
     net.openhft.compiler
     net.openhft.compiler.internal
+Number of packages in this JAR: 2
 
 JAR File: ecj-4.4.2.jar
 Packages:
@@ -144,6 +157,7 @@ Packages:
     org.eclipse.jdt.internal.compiler.problem
     org.eclipse.jdt.internal.compiler.tool
     org.eclipse.jdt.internal.compiler.util
+Number of packages in this JAR: 21
 
 JAR File: fastutil-7.0.6.jar
 Packages:
@@ -158,21 +172,25 @@ Packages:
     it.unimi.dsi.fastutil.longs
     it.unimi.dsi.fastutil.objects
     it.unimi.dsi.fastutil.shorts
+Number of packages in this JAR: 11
 
 JAR File: javapoet-1.13.0.jar
 Packages:
     com.squareup.javapoet
+Number of packages in this JAR: 1
 
 JAR File: javax.annotation-api-1.3.2.jar
 Packages:
     javax.annotation
     javax.annotation.security
     javax.annotation.sql
+Number of packages in this JAR: 3
 
 JAR File: jcl-over-slf4j-1.7.32.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: jettison-1.5.4.jar
 Packages:
@@ -181,14 +199,17 @@ Packages:
     org.codehaus.jettison.json
     org.codehaus.jettison.mapped
     org.codehaus.jettison.util
+Number of packages in this JAR: 5
 
 JAR File: jffi-1.3.12-native.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: jffi-1.3.12.jar
 Packages:
     com.kenai.jffi
     com.kenai.jffi.internal
+Number of packages in this JAR: 2
 
 JAR File: jna-5.5.0.jar
 Packages:
@@ -196,6 +217,7 @@ Packages:
     com.sun.jna.internal
     com.sun.jna.ptr
     com.sun.jna.win32
+Number of packages in this JAR: 4
 
 JAR File: jna-platform-5.5.0.jar
 Packages:
@@ -212,10 +234,12 @@ Packages:
     com.sun.jna.platform.win32.COM.util
     com.sun.jna.platform.win32.COM.util.annotation
     com.sun.jna.platform.wince
+Number of packages in this JAR: 13
 
 JAR File: jnr-a64asm-1.0.0.jar
 Packages:
     jnr.a64asm
+Number of packages in this JAR: 1
 
 JAR File: jnr-constants-0.10.4.jar
 Packages:
@@ -236,6 +260,7 @@ Packages:
     jnr.constants.platform.openbsd
     jnr.constants.platform.solaris
     jnr.constants.platform.windows
+Number of packages in this JAR: 17
 
 JAR File: jnr-ffi-2.2.15.jar
 Packages:
@@ -289,11 +314,13 @@ Packages:
     jnr.ffi.util
     jnr.ffi.util.ref
     jnr.ffi.util.ref.internal
+Number of packages in this JAR: 50
 
 JAR File: jnr-x86asm-1.0.2.jar
 Packages:
     com.kenai.jnr.x86asm
     jnr.x86asm
+Number of packages in this JAR: 2
 
 JAR File: jsap-2.1.jar
 Packages:
@@ -303,6 +330,7 @@ Packages:
     com.martiansoftware.jsap.stringparsers
     com.martiansoftware.jsap.xml
     com.martiansoftware.util
+Number of packages in this JAR: 6
 
 JAR File: log4j-1.2.17.jar
 Packages:
@@ -327,6 +355,7 @@ Packages:
     org.apache.log4j.spi
     org.apache.log4j.varia
     org.apache.log4j.xml
+Number of packages in this JAR: 21
 
 JAR File: maven-resolver-api-1.8.2.jar
 Packages:
@@ -342,6 +371,7 @@ Packages:
     org.eclipse.aether.transfer
     org.eclipse.aether.transform
     org.eclipse.aether.version
+Number of packages in this JAR: 12
 
 JAR File: maven-resolver-impl-1.8.2.jar
 Packages:
@@ -356,12 +386,14 @@ Packages:
     org.eclipse.aether.internal.impl.synccontext
     org.eclipse.aether.internal.impl.synccontext.legacy
     org.eclipse.aether.internal.impl.synccontext.named
+Number of packages in this JAR: 11
 
 JAR File: maven-resolver-named-locks-1.8.2.jar
 Packages:
     org.eclipse.aether.named
     org.eclipse.aether.named.providers
     org.eclipse.aether.named.support
+Number of packages in this JAR: 3
 
 JAR File: maven-resolver-spi-1.8.2.jar
 Packages:
@@ -374,6 +406,7 @@ Packages:
     org.eclipse.aether.spi.locator
     org.eclipse.aether.spi.log
     org.eclipse.aether.spi.synccontext
+Number of packages in this JAR: 9
 
 JAR File: maven-resolver-util-1.8.2.jar
 Packages:
@@ -390,10 +423,12 @@ Packages:
     org.eclipse.aether.util.listener
     org.eclipse.aether.util.repository
     org.eclipse.aether.util.version
+Number of packages in this JAR: 13
 
 JAR File: mxparser-1.2.2.jar
 Packages:
     io.github.xstream.mxparser
+Number of packages in this JAR: 1
 
 JAR File: pax-url-aether-2.6.12.jar
 Packages:
@@ -609,10 +644,12 @@ Packages:
     shaded.org.sonatype.plexus.components.sec.dispatcher
     shaded.org.sonatype.plexus.components.sec.dispatcher.model
     shaded.org.sonatype.plexus.components.sec.dispatcher.model.io.xpp3
+Number of packages in this JAR: 212
 
 JAR File: pax-url-aether-support-2.6.12.jar
 Packages:
     org.eclipse.aether.internal.impl
+Number of packages in this JAR: 1
 
 JAR File: posix-2.25ea0.jar
 Packages:
@@ -623,6 +660,7 @@ Packages:
     net.openhft.posix.internal.jnr
     net.openhft.posix.internal.noop
     net.openhft.posix.internal.raw
+Number of packages in this JAR: 7
 
 JAR File: slf4j-api-1.7.36.jar
 Packages:
@@ -630,6 +668,7 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: spoon-core-4.4.1.jar
 Packages:
@@ -662,14 +701,17 @@ Packages:
     spoon.support.util
     spoon.support.visitor
     spoon.template
+Number of packages in this JAR: 29
 
 JAR File: stage-compiler-1.11.jar
 Packages:
     net.openhft.sg
+Number of packages in this JAR: 1
 
 JAR File: xmlpull-1.1.3.1.jar
 Packages:
     org.xmlpull.v1
+Number of packages in this JAR: 1
 
 JAR File: xstream-1.4.20.jar
 Packages:
@@ -696,6 +738,7 @@ Packages:
     com.thoughtworks.xstream.mapper
     com.thoughtworks.xstream.persistence
     com.thoughtworks.xstream.security
+Number of packages in this JAR: 23
 
 Duplicate Packages Found:
 Package: javax.annotation.security
@@ -714,3 +757,6 @@ Package: javax.annotation
     Appears in JARs:
         pax-url-aether-2.6.12.jar
         javax.annotation-api-1.3.2.jar
+
+Total number of duplicate packages: 4
+Total number of packages: 570

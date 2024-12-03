@@ -1,0 +1,436 @@
+JAR File: annotations-13.0.jar
+Packages:
+    org.intellij.lang.annotations
+    org.jetbrains.annotations
+
+JAR File: brave-5.13.11.jar
+Packages:
+    brave
+    brave.baggage
+    brave.handler
+    brave.internal
+    brave.internal.baggage
+    brave.internal.codec
+    brave.internal.collect
+    brave.internal.extra
+    brave.internal.handler
+    brave.internal.propagation
+    brave.internal.recorder
+    brave.propagation
+    brave.sampler
+
+JAR File: cdi-api-2.0.SP1.jar
+Packages:
+    javax.decorator
+    javax.enterprise.context
+    javax.enterprise.context.control
+    javax.enterprise.context.spi
+    javax.enterprise.event
+    javax.enterprise.inject
+    javax.enterprise.inject.literal
+    javax.enterprise.inject.se
+    javax.enterprise.inject.spi
+    javax.enterprise.inject.spi.configurator
+    javax.enterprise.util
+
+JAR File: commons-pool2-2.11.1.jar
+Packages:
+    org.apache.commons.pool2
+    org.apache.commons.pool2.impl
+    org.apache.commons.pool2.proxy
+
+JAR File: HdrHistogram-2.1.12.jar
+Packages:
+    org.HdrHistogram
+    org.HdrHistogram.packedarray
+
+JAR File: javax.el-api-3.0.0.jar
+Packages:
+    javax.el
+
+JAR File: javax.inject-1.jar
+Packages:
+    javax.inject
+
+JAR File: javax.interceptor-api-1.2.jar
+Packages:
+    javax.interceptor
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: kotlin-stdlib-1.5.30.jar
+Packages:
+    META-INF.versions.9
+    kotlin
+    kotlin.annotation
+    kotlin.collections
+    kotlin.collections.builders
+    kotlin.collections.unsigned
+    kotlin.comparisons
+    kotlin.concurrent
+    kotlin.contracts
+    kotlin.coroutines
+    kotlin.coroutines.cancellation
+    kotlin.coroutines.intrinsics
+    kotlin.coroutines.jvm.internal
+    kotlin.experimental
+    kotlin.internal
+    kotlin.io
+    kotlin.js
+    kotlin.jvm
+    kotlin.jvm.functions
+    kotlin.jvm.internal
+    kotlin.jvm.internal.markers
+    kotlin.jvm.internal.unsafe
+    kotlin.math
+    kotlin.properties
+    kotlin.random
+    kotlin.ranges
+    kotlin.reflect
+    kotlin.sequences
+    kotlin.system
+    kotlin.text
+    kotlin.time
+
+JAR File: kotlin-stdlib-common-1.5.30.jar
+Packages:
+
+JAR File: kotlin-stdlib-jdk7-1.5.30.jar
+Packages:
+    META-INF.versions.9
+    kotlin.internal.jdk7
+    kotlin.io.path
+    kotlin.jdk7
+
+JAR File: kotlin-stdlib-jdk8-1.5.30.jar
+Packages:
+    META-INF.versions.9
+    kotlin.collections.jdk8
+    kotlin.internal.jdk8
+    kotlin.random.jdk8
+    kotlin.streams.jdk8
+    kotlin.text.jdk8
+    kotlin.time.jdk8
+
+JAR File: kotlinx-coroutines-core-jvm-1.5.2.jar
+Packages:
+    kotlinx.coroutines
+    kotlinx.coroutines.channels
+    kotlinx.coroutines.debug
+    kotlinx.coroutines.debug.internal
+    kotlinx.coroutines.flow
+    kotlinx.coroutines.flow.internal
+    kotlinx.coroutines.internal
+    kotlinx.coroutines.intrinsics
+    kotlinx.coroutines.scheduling
+    kotlinx.coroutines.selects
+    kotlinx.coroutines.sync
+    kotlinx.coroutines.test
+
+JAR File: kotlinx-coroutines-jdk8-1.5.2.jar
+Packages:
+    kotlinx.coroutines.future
+    kotlinx.coroutines.stream
+    kotlinx.coroutines.time
+
+JAR File: kotlinx-coroutines-reactive-1.5.2.jar
+Packages:
+    kotlinx.coroutines.reactive
+
+JAR File: LatencyUtils-2.0.3.jar
+Packages:
+    org.LatencyUtils
+
+JAR File: micrometer-core-1.9.6.jar
+Packages:
+    io.micrometer.core.annotation
+    io.micrometer.core.aop
+    io.micrometer.core.instrument
+    io.micrometer.core.instrument.binder
+    io.micrometer.core.instrument.binder.cache
+    io.micrometer.core.instrument.binder.commonspool2
+    io.micrometer.core.instrument.binder.db
+    io.micrometer.core.instrument.binder.grpc
+    io.micrometer.core.instrument.binder.http
+    io.micrometer.core.instrument.binder.httpcomponents
+    io.micrometer.core.instrument.binder.hystrix
+    io.micrometer.core.instrument.binder.jersey.server
+    io.micrometer.core.instrument.binder.jetty
+    io.micrometer.core.instrument.binder.jpa
+    io.micrometer.core.instrument.binder.jvm
+    io.micrometer.core.instrument.binder.kafka
+    io.micrometer.core.instrument.binder.logging
+    io.micrometer.core.instrument.binder.mongodb
+    io.micrometer.core.instrument.binder.okhttp3
+    io.micrometer.core.instrument.binder.system
+    io.micrometer.core.instrument.binder.tomcat
+    io.micrometer.core.instrument.composite
+    io.micrometer.core.instrument.config
+    io.micrometer.core.instrument.config.validate
+    io.micrometer.core.instrument.cumulative
+    io.micrometer.core.instrument.distribution
+    io.micrometer.core.instrument.distribution.pause
+    io.micrometer.core.instrument.dropwizard
+    io.micrometer.core.instrument.internal
+    io.micrometer.core.instrument.logging
+    io.micrometer.core.instrument.noop
+    io.micrometer.core.instrument.push
+    io.micrometer.core.instrument.search
+    io.micrometer.core.instrument.simple
+    io.micrometer.core.instrument.step
+    io.micrometer.core.instrument.util
+    io.micrometer.core.ipc.http
+    io.micrometer.core.lang
+    io.micrometer.core.util.internal.logging
+
+JAR File: netty-buffer-4.1.85.Final.jar
+Packages:
+    io.netty.buffer
+    io.netty.buffer.search
+
+JAR File: netty-codec-4.1.85.Final.jar
+Packages:
+    io.netty.handler.codec
+    io.netty.handler.codec.base64
+    io.netty.handler.codec.bytes
+    io.netty.handler.codec.compression
+    io.netty.handler.codec.json
+    io.netty.handler.codec.marshalling
+    io.netty.handler.codec.protobuf
+    io.netty.handler.codec.serialization
+    io.netty.handler.codec.string
+    io.netty.handler.codec.xml
+
+JAR File: netty-codec-dns-4.1.85.Final.jar
+Packages:
+    io.netty.handler.codec.dns
+
+JAR File: netty-common-4.1.85.Final.jar
+Packages:
+    io.netty.util
+    io.netty.util.collection
+    io.netty.util.concurrent
+    io.netty.util.internal
+    io.netty.util.internal.logging
+    io.netty.util.internal.shaded.org.jctools.queues
+    io.netty.util.internal.shaded.org.jctools.queues.atomic
+    io.netty.util.internal.shaded.org.jctools.util
+    io.netty.util.internal.svm
+
+JAR File: netty-handler-4.1.85.Final.jar
+Packages:
+    io.netty.handler.address
+    io.netty.handler.flow
+    io.netty.handler.flush
+    io.netty.handler.ipfilter
+    io.netty.handler.logging
+    io.netty.handler.pcap
+    io.netty.handler.ssl
+    io.netty.handler.ssl.ocsp
+    io.netty.handler.ssl.util
+    io.netty.handler.stream
+    io.netty.handler.timeout
+    io.netty.handler.traffic
+
+JAR File: netty-incubator-transport-classes-io_uring-0.0.16.Final.jar
+Packages:
+    io.netty.incubator.channel.uring
+
+JAR File: netty-incubator-transport-native-io_uring-0.0.16.Final-linux-x86_64.jar
+Packages:
+
+JAR File: netty-resolver-4.1.85.Final.jar
+Packages:
+    io.netty.resolver
+
+JAR File: netty-resolver-dns-4.1.85.Final.jar
+Packages:
+    io.netty.resolver.dns
+
+JAR File: netty-tcnative-2.0.54.Final-linux-x86_64.jar
+Packages:
+
+JAR File: netty-tcnative-classes-2.0.54.Final.jar
+Packages:
+    io.netty.internal.tcnative
+
+JAR File: netty-transport-4.1.85.Final.jar
+Packages:
+    io.netty.bootstrap
+    io.netty.channel
+    io.netty.channel.embedded
+    io.netty.channel.group
+    io.netty.channel.internal
+    io.netty.channel.local
+    io.netty.channel.nio
+    io.netty.channel.oio
+    io.netty.channel.pool
+    io.netty.channel.socket
+    io.netty.channel.socket.nio
+    io.netty.channel.socket.oio
+
+JAR File: netty-transport-classes-epoll-4.1.85.Final.jar
+Packages:
+    io.netty.channel.epoll
+
+JAR File: netty-transport-classes-kqueue-4.1.85.Final.jar
+Packages:
+    io.netty.channel.kqueue
+
+JAR File: netty-transport-native-epoll-4.1.85.Final-linux-x86_64.jar
+Packages:
+
+JAR File: netty-transport-native-kqueue-4.1.85.Final-osx-x86_64.jar
+Packages:
+
+JAR File: netty-transport-native-unix-common-4.1.85.Final.jar
+Packages:
+    io.netty.channel.unix
+
+JAR File: reactive-streams-1.0.4.jar
+Packages:
+    org.reactivestreams
+
+JAR File: reactor-core-3.4.25.jar
+Packages:
+    reactor.adapter
+    reactor.core
+    reactor.core.publisher
+    reactor.core.scheduler
+    reactor.util
+    reactor.util.annotation
+    reactor.util.concurrent
+    reactor.util.context
+    reactor.util.function
+    reactor.util.retry
+
+JAR File: rxjava-1.3.8.jar
+Packages:
+    rx
+    rx.annotations
+    rx.exceptions
+    rx.functions
+    rx.internal.observers
+    rx.internal.operators
+    rx.internal.producers
+    rx.internal.schedulers
+    rx.internal.subscriptions
+    rx.internal.util
+    rx.internal.util.atomic
+    rx.internal.util.unsafe
+    rx.observables
+    rx.observers
+    rx.plugins
+    rx.schedulers
+    rx.singles
+    rx.subjects
+    rx.subscriptions
+
+JAR File: rxjava-2.2.21.jar
+Packages:
+    io.reactivex
+    io.reactivex.annotations
+    io.reactivex.disposables
+    io.reactivex.exceptions
+    io.reactivex.flowables
+    io.reactivex.functions
+    io.reactivex.internal.disposables
+    io.reactivex.internal.functions
+    io.reactivex.internal.fuseable
+    io.reactivex.internal.observers
+    io.reactivex.internal.operators.completable
+    io.reactivex.internal.operators.flowable
+    io.reactivex.internal.operators.maybe
+    io.reactivex.internal.operators.mixed
+    io.reactivex.internal.operators.observable
+    io.reactivex.internal.operators.parallel
+    io.reactivex.internal.operators.single
+    io.reactivex.internal.queue
+    io.reactivex.internal.schedulers
+    io.reactivex.internal.subscribers
+    io.reactivex.internal.subscriptions
+    io.reactivex.internal.util
+    io.reactivex.observables
+    io.reactivex.observers
+    io.reactivex.parallel
+    io.reactivex.plugins
+    io.reactivex.processors
+    io.reactivex.schedulers
+    io.reactivex.subjects
+    io.reactivex.subscribers
+
+JAR File: rxjava-3.1.5.jar
+Packages:
+    META-INF.versions.9
+    io.reactivex.rxjava3.annotations
+    io.reactivex.rxjava3.core
+    io.reactivex.rxjava3.disposables
+    io.reactivex.rxjava3.exceptions
+    io.reactivex.rxjava3.flowables
+    io.reactivex.rxjava3.functions
+    io.reactivex.rxjava3.internal.disposables
+    io.reactivex.rxjava3.internal.functions
+    io.reactivex.rxjava3.internal.fuseable
+    io.reactivex.rxjava3.internal.jdk8
+    io.reactivex.rxjava3.internal.observers
+    io.reactivex.rxjava3.internal.operators.completable
+    io.reactivex.rxjava3.internal.operators.flowable
+    io.reactivex.rxjava3.internal.operators.maybe
+    io.reactivex.rxjava3.internal.operators.mixed
+    io.reactivex.rxjava3.internal.operators.observable
+    io.reactivex.rxjava3.internal.operators.parallel
+    io.reactivex.rxjava3.internal.operators.single
+    io.reactivex.rxjava3.internal.queue
+    io.reactivex.rxjava3.internal.schedulers
+    io.reactivex.rxjava3.internal.subscribers
+    io.reactivex.rxjava3.internal.subscriptions
+    io.reactivex.rxjava3.internal.util
+    io.reactivex.rxjava3.observables
+    io.reactivex.rxjava3.observers
+    io.reactivex.rxjava3.operators
+    io.reactivex.rxjava3.parallel
+    io.reactivex.rxjava3.plugins
+    io.reactivex.rxjava3.processors
+    io.reactivex.rxjava3.schedulers
+    io.reactivex.rxjava3.subjects
+    io.reactivex.rxjava3.subscribers
+
+JAR File: rxjava-reactive-streams-1.2.1.jar
+Packages:
+    rx
+    rx.internal.reactivestreams
+
+JAR File: zipkin-2.23.2.jar
+Packages:
+    zipkin2
+    zipkin2.codec
+    zipkin2.internal
+    zipkin2.internal.gson.internal
+    zipkin2.internal.gson.stream
+    zipkin2.storage
+    zipkin2.v1
+
+JAR File: zipkin-reporter-2.16.3.jar
+Packages:
+    zipkin2.reporter
+    zipkin2.reporter.internal
+
+JAR File: zipkin-reporter-brave-2.16.3.jar
+Packages:
+    zipkin2.reporter.brave
+
+Duplicate Packages Found:
+Package: rx
+    Appears in JARs:
+        rxjava-reactive-streams-1.2.1.jar
+        rxjava-1.3.8.jar
+Package: META-INF.versions.9
+    Appears in JARs:
+        kotlin-stdlib-jdk7-1.5.30.jar
+        kotlin-stdlib-1.5.30.jar
+        rxjava-3.1.5.jar
+        kotlin-stdlib-jdk8-1.5.30.jar

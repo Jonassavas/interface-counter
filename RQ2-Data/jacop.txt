@@ -3,6 +3,7 @@ Packages:
     org.fusesource.hawtjni.runtime
     org.fusesource.jansi
     org.fusesource.jansi.internal
+Number of packages in this JAR: 3
 
 JAR File: jline-2.14.6.jar
 Packages:
@@ -15,6 +16,7 @@ Packages:
     org.fusesource.hawtjni.runtime
     org.fusesource.jansi
     org.fusesource.jansi.internal
+Number of packages in this JAR: 9
 
 JAR File: log4j-1.2.17.jar
 Packages:
@@ -39,6 +41,7 @@ Packages:
     org.apache.log4j.spi
     org.apache.log4j.varia
     org.apache.log4j.xml
+Number of packages in this JAR: 21
 
 JAR File: mockito-all-1.10.19.jar
 Packages:
@@ -121,6 +124,7 @@ Packages:
     org.objenesis.instantiator.perc
     org.objenesis.instantiator.sun
     org.objenesis.strategy
+Number of packages in this JAR: 79
 
 JAR File: scala-compiler-2.13.1.jar
 Packages:
@@ -179,6 +183,7 @@ Packages:
     scala.tools.nsc.util
     scala.tools.reflect
     scala.tools.util
+Number of packages in this JAR: 55
 
 JAR File: scala-library-2.13.1.jar
 Packages:
@@ -213,6 +218,7 @@ Packages:
     scala.util.control
     scala.util.hashing
     scala.util.matching
+Number of packages in this JAR: 31
 
 JAR File: scala-reflect-2.13.1.jar
 Packages:
@@ -229,6 +235,7 @@ Packages:
     scala.reflect.macros.blackbox
     scala.reflect.macros.whitebox
     scala.reflect.runtime
+Number of packages in this JAR: 13
 
 JAR File: slf4j-api-1.7.24.jar
 Packages:
@@ -236,11 +243,13 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: slf4j-log4j12-1.7.24.jar
 Packages:
     org.apache.log4j
     org.slf4j.impl
+Number of packages in this JAR: 2
 
 Duplicate Packages Found:
 Package: org.apache.log4j
@@ -259,3 +268,6 @@ Package: org.fusesource.jansi
     Appears in JARs:
         jline-2.14.6.jar
         jansi-1.12.jar
+
+Total number of duplicate packages: 4
+Total number of packages: 217

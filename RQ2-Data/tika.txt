@@ -12,6 +12,7 @@ Packages:
     aQute.lib.io
     aQute.lib.stringrover
     aQute.libg.glob
+Number of packages in this JAR: 12
 
 JAR File: biz.aQute.bndlib-6.3.1.jar
 Packages:
@@ -154,6 +155,7 @@ Packages:
     aQute.libg.tuple
     aQute.libg.uri
     aQute.service.reporter
+Number of packages in this JAR: 139
 
 JAR File: commons-io-2.11.0.jar
 Packages:
@@ -168,6 +170,7 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 11
 
 JAR File: org.osgi.compendium-5.0.0.jar
 Packages:
@@ -212,6 +215,7 @@ Packages:
     org.osgi.util.measurement
     org.osgi.util.position
     org.osgi.util.xml
+Number of packages in this JAR: 41
 
 JAR File: org.osgi.core-6.0.0.jar
 Packages:
@@ -236,10 +240,12 @@ Packages:
     org.osgi.service.startlevel
     org.osgi.service.url
     org.osgi.util.tracker
+Number of packages in this JAR: 21
 
 JAR File: org.osgi.dto-1.0.0.jar
 Packages:
     org.osgi.dto
+Number of packages in this JAR: 1
 
 JAR File: org.osgi.framework-1.8.0.jar
 Packages:
@@ -255,36 +261,44 @@ Packages:
     org.osgi.framework.startlevel.dto
     org.osgi.framework.wiring
     org.osgi.framework.wiring.dto
+Number of packages in this JAR: 12
 
 JAR File: org.osgi.resource-1.0.0.jar
 Packages:
     org.osgi.resource
     org.osgi.resource.dto
+Number of packages in this JAR: 2
 
 JAR File: org.osgi.service.log-1.3.0.jar
 Packages:
     org.osgi.service.log
+Number of packages in this JAR: 1
 
 JAR File: org.osgi.service.repository-1.1.0.jar
 Packages:
     org.osgi.service.repository
+Number of packages in this JAR: 1
 
 JAR File: org.osgi.util.function-1.2.0.jar
 Packages:
     org.osgi.util.function
+Number of packages in this JAR: 1
 
 JAR File: org.osgi.util.promise-1.2.0.jar
 Packages:
     org.osgi.util.promise
+Number of packages in this JAR: 1
 
 JAR File: org.osgi.util.tracker-1.5.4.jar
 Packages:
     org.osgi.util.tracker
+Number of packages in this JAR: 1
 
 JAR File: osgi.annotation-8.0.1.jar
 Packages:
     org.osgi.annotation.bundle
     org.osgi.annotation.versioning
+Number of packages in this JAR: 2
 
 JAR File: slf4j-api-2.0.3.jar
 Packages:
@@ -293,6 +307,7 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 5
 
 Duplicate Packages Found:
 Package: org.osgi.framework.hooks.resolver
@@ -379,3 +394,6 @@ Package: org.osgi.framework.hooks.bundle
     Appears in JARs:
         org.osgi.framework-1.8.0.jar
         org.osgi.core-6.0.0.jar
+
+Total number of duplicate packages: 21
+Total number of packages: 251

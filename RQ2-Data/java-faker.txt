@@ -1,6 +1,7 @@
 JAR File: automaton-1.11-8.jar
 Packages:
     dk.brics.automaton
+Number of packages in this JAR: 1
 
 JAR File: commons-lang3-3.5.jar
 Packages:
@@ -16,11 +17,13 @@ Packages:
     org.apache.commons.lang3.text.translate
     org.apache.commons.lang3.time
     org.apache.commons.lang3.tuple
+Number of packages in this JAR: 12
 
 JAR File: generex-1.0.2.jar
 Packages:
     com.mifmif.common.regex
     com.mifmif.common.regex.util
+Number of packages in this JAR: 2
 
 JAR File: snakeyaml-1.23-android.jar
 Packages:
@@ -43,6 +46,10 @@ Packages:
     org.yaml.snakeyaml.serializer
     org.yaml.snakeyaml.tokens
     org.yaml.snakeyaml.util
+Number of packages in this JAR: 19
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 34

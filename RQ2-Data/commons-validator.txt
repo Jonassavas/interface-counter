@@ -5,6 +5,7 @@ Packages:
     org.apache.commons.beanutils.expression
     org.apache.commons.beanutils.locale
     org.apache.commons.beanutils.locale.converters
+Number of packages in this JAR: 5
 
 JAR File: commons-collections-3.2.2.jar
 Packages:
@@ -20,6 +21,7 @@ Packages:
     org.apache.commons.collections.list
     org.apache.commons.collections.map
     org.apache.commons.collections.set
+Number of packages in this JAR: 12
 
 JAR File: commons-digester-2.1.jar
 Packages:
@@ -37,11 +39,16 @@ Packages:
     org.apache.commons.digester.plugins.strategies
     org.apache.commons.digester.substitution
     org.apache.commons.digester.xmlrules
+Number of packages in this JAR: 14
 
 JAR File: commons-logging-1.2.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 33

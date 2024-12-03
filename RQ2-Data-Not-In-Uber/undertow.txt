@@ -1,0 +1,98 @@
+Dependency JAR: jboss-classfilewriter-1.2.5.Final.jar
+Missing Packages:
+    org.jboss.classfilewriter
+    org.jboss.classfilewriter.annotations
+    org.jboss.classfilewriter.attributes
+    org.jboss.classfilewriter.code
+    org.jboss.classfilewriter.constpool
+    org.jboss.classfilewriter.util
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 6
+
+Dependency JAR: jboss-logging-3.4.3.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jboss-logging-annotations-2.2.1.Final.jar
+Missing Packages:
+    org.jboss.logging.annotations
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 1
+
+Dependency JAR: jboss-logging-processor-2.2.1.Final.jar
+Missing Packages:
+    org.jboss.logging.processor.apt
+    org.jboss.logging.processor.apt.report
+    org.jboss.logging.processor.generator.model
+    org.jboss.logging.processor.model
+    org.jboss.logging.processor.util
+    org.jboss.logging.processor.validation
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 6
+
+Dependency JAR: jboss-threads-3.5.0.Final.jar
+Missing Packages:
+    org.jboss.threads
+    org.jboss.threads.management
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 2
+
+Dependency JAR: jdeparser-2.0.3.Final.jar
+Missing Packages:
+    org.jboss.jdeparser
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 1
+
+Dependency JAR: undertow-parser-generator-2.3.13.Final.jar
+Missing Packages:
+    io.undertow.annotationprocessor
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 1
+
+Dependency JAR: wildfly-client-config-1.0.1.Final.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: wildfly-common-1.6.0.Final.jar
+Missing Packages:
+    org.wildfly.common
+    org.wildfly.common._private
+    org.wildfly.common.annotation
+    org.wildfly.common.archive
+    org.wildfly.common.array
+    org.wildfly.common.bytes
+    org.wildfly.common.codec
+    org.wildfly.common.context
+    org.wildfly.common.cpu
+    org.wildfly.common.expression
+    org.wildfly.common.flags
+    org.wildfly.common.function
+    org.wildfly.common.iteration
+    org.wildfly.common.lock
+    org.wildfly.common.math
+    org.wildfly.common.net
+    org.wildfly.common.os
+    org.wildfly.common.ref
+    org.wildfly.common.rpc
+    org.wildfly.common.selector
+    org.wildfly.common.string
+    org.wildfly.common.xml
+Number of packages in this JAR: 26
+Number of missing packages in this JAR: 22
+
+Dependency JAR: xnio-api-3.8.8.Final.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xnio-nio-3.8.8.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 57
+Total number of missing packages across all dependency JARs: 39
+Overall percentage of missing packages: 68.42%

@@ -1,0 +1,23 @@
+JAR File: jvm-driver-9.4.2.jar
+Packages:
+    META-INF.versions.9
+    io.github.toolfactory.jvm
+    io.github.toolfactory.jvm.function
+    io.github.toolfactory.jvm.function.catalog
+    io.github.toolfactory.jvm.function.template
+    io.github.toolfactory.jvm.util
+
+JAR File: narcissus-1.0.7.jar
+Packages:
+    META-INF.versions.9
+    io.github.toolfactory.narcissus
+
+JAR File: org.eclipse.jdt.annotation-2.2.700.jar
+Packages:
+    org.eclipse.jdt.annotation
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        jvm-driver-9.4.2.jar
+        narcissus-1.0.7.jar

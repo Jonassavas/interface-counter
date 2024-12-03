@@ -1,6 +1,7 @@
 JAR File: angus-activation-1.0.0.jar
 Packages:
     com.sun.activation.registries
+Number of packages in this JAR: 1
 
 JAR File: antlr4-runtime-4.10.1.jar
 Packages:
@@ -11,6 +12,7 @@ Packages:
     org.antlr.v4.runtime.tree
     org.antlr.v4.runtime.tree.pattern
     org.antlr.v4.runtime.tree.xpath
+Number of packages in this JAR: 7
 
 JAR File: aspectjrt-1.9.9.1.jar
 Packages:
@@ -25,6 +27,7 @@ Packages:
     org.aspectj.runtime.internal
     org.aspectj.runtime.internal.cflowstack
     org.aspectj.runtime.reflect
+Number of packages in this JAR: 11
 
 JAR File: cactoos-0.54.0.jar
 Packages:
@@ -44,6 +47,7 @@ Packages:
     org.cactoos.set
     org.cactoos.text
     org.cactoos.time
+Number of packages in this JAR: 16
 
 JAR File: checker-qual-3.12.0.jar
 Packages:
@@ -76,6 +80,7 @@ Packages:
     org.checkerframework.common.value.qual
     org.checkerframework.dataflow.qual
     org.checkerframework.framework.qual
+Number of packages in this JAR: 29
 
 JAR File: commons-io-2.11.0.jar
 Packages:
@@ -90,6 +95,7 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 11
 
 JAR File: commons-lang3-3.12.0.jar
 Packages:
@@ -110,20 +116,24 @@ Packages:
     org.apache.commons.lang3.text.translate
     org.apache.commons.lang3.time
     org.apache.commons.lang3.tuple
+Number of packages in this JAR: 17
 
 JAR File: commons-logging-1.2.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: error_prone_annotations-2.11.0.jar
 Packages:
     com.google.errorprone.annotations
     com.google.errorprone.annotations.concurrent
+Number of packages in this JAR: 2
 
 JAR File: failureaccess-1.0.1.jar
 Packages:
     com.google.common.util.concurrent.internal
+Number of packages in this JAR: 1
 
 JAR File: guava-31.1-jre.jar
 Packages:
@@ -145,6 +155,7 @@ Packages:
     com.google.common.util.concurrent
     com.google.common.xml
     com.google.thirdparty.publicsuffix
+Number of packages in this JAR: 18
 
 JAR File: hamcrest-2.2.jar
 Packages:
@@ -159,6 +170,7 @@ Packages:
     org.hamcrest.object
     org.hamcrest.text
     org.hamcrest.xml
+Number of packages in this JAR: 11
 
 JAR File: httpclient-4.5.13.jar
 Packages:
@@ -186,6 +198,7 @@ Packages:
     org.apache.http.impl.conn.tsccm
     org.apache.http.impl.cookie
     org.apache.http.impl.execchain
+Number of packages in this JAR: 24
 
 JAR File: httpcore-4.4.15.jar
 Packages:
@@ -206,15 +219,18 @@ Packages:
     org.apache.http.protocol
     org.apache.http.ssl
     org.apache.http.util
+Number of packages in this JAR: 17
 
 JAR File: j2objc-annotations-1.3.jar
 Packages:
     com.google.j2objc.annotations
+Number of packages in this JAR: 1
 
 JAR File: jakarta.activation-api-2.1.0.jar
 Packages:
     jakarta.activation
     jakarta.activation.spi
+Number of packages in this JAR: 2
 
 JAR File: jakarta.xml.bind-api-4.0.0.jar
 Packages:
@@ -224,10 +240,12 @@ Packages:
     jakarta.xml.bind.attachment
     jakarta.xml.bind.helpers
     jakarta.xml.bind.util
+Number of packages in this JAR: 6
 
 JAR File: javax.activation-api-1.2.0.jar
 Packages:
     javax.activation
+Number of packages in this JAR: 1
 
 JAR File: javax.json-1.1.4.jar
 Packages:
@@ -236,12 +254,14 @@ Packages:
     javax.json.stream
     org.glassfish.json
     org.glassfish.json.api
+Number of packages in this JAR: 5
 
 JAR File: javax.json-api-1.1.4.jar
 Packages:
     javax.json
     javax.json.spi
     javax.json.stream
+Number of packages in this JAR: 3
 
 JAR File: jaxb-api-2.4.0-b180830.0359.jar
 Packages:
@@ -252,6 +272,7 @@ Packages:
     javax.xml.bind.attachment
     javax.xml.bind.helpers
     javax.xml.bind.util
+Number of packages in this JAR: 7
 
 JAR File: jaxb-core-4.0.0.jar
 Packages:
@@ -278,6 +299,7 @@ Packages:
     org.glassfish.jaxb.core.v2.runtime.unmarshaller
     org.glassfish.jaxb.core.v2.schemagen.episode
     org.glassfish.jaxb.core.v2.util
+Number of packages in this JAR: 23
 
 JAR File: jaxb-impl-4.0.0.jar
 Packages:
@@ -299,6 +321,7 @@ Packages:
     org.glassfish.jaxb.runtime.v2.schemagen
     org.glassfish.jaxb.runtime.v2.schemagen.xmlschema
     org.glassfish.jaxb.runtime.v2.util
+Number of packages in this JAR: 18
 
 JAR File: jcabi-aspects-0.24.1.jar
 Packages:
@@ -306,6 +329,7 @@ Packages:
     com.jcabi.aspects.aj
     com.jcabi.aspects.apt
     com.jcabi.aspects.version
+Number of packages in this JAR: 4
 
 JAR File: jcabi-http-1.20.1.jar
 Packages:
@@ -314,22 +338,27 @@ Packages:
     com.jcabi.http.request
     com.jcabi.http.response
     com.jcabi.http.wire
+Number of packages in this JAR: 5
 
 JAR File: jcabi-immutable-1.5.jar
 Packages:
     com.jcabi.immutable
+Number of packages in this JAR: 1
 
 JAR File: jcabi-log-0.22.0.jar
 Packages:
     com.jcabi.log
+Number of packages in this JAR: 1
 
 JAR File: jcabi-manifests-1.2.1.jar
 Packages:
     com.jcabi.manifests
+Number of packages in this JAR: 1
 
 JAR File: jcabi-xml-0.25.3.jar
 Packages:
     com.jcabi.xml
+Number of packages in this JAR: 1
 
 JAR File: jersey-client-1.12.jar
 Packages:
@@ -343,6 +372,7 @@ Packages:
     com.sun.jersey.client.proxy
     com.sun.jersey.client.urlconnection
     com.sun.ws.rs.ext
+Number of packages in this JAR: 10
 
 JAR File: jersey-core-1.12.jar
 Packages:
@@ -372,21 +402,25 @@ Packages:
     javax.ws.rs
     javax.ws.rs.core
     javax.ws.rs.ext
+Number of packages in this JAR: 26
 
 JAR File: jsr305-3.0.2.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: jsr311-api-1.1.1.jar
 Packages:
     javax.ws.rs
     javax.ws.rs.core
     javax.ws.rs.ext
+Number of packages in this JAR: 3
 
 JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: lombok-1.18.24.jar
 Packages:
@@ -402,6 +436,7 @@ Packages:
     lombok.extern.slf4j
     lombok.javac.apt
     lombok.launch
+Number of packages in this JAR: 12
 
 JAR File: slf4j-api-2.0.0-beta1.jar
 Packages:
@@ -410,10 +445,12 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 5
 
 JAR File: xembly-0.28.1.jar
 Packages:
     org.xembly
+Number of packages in this JAR: 1
 
 JAR File: xml-apis-1.4.01.jar
 Packages:
@@ -446,6 +483,7 @@ Packages:
     org.xml.sax
     org.xml.sax.ext
     org.xml.sax.helpers
+Number of packages in this JAR: 29
 
 Duplicate Packages Found:
 Package: javax.ws.rs
@@ -472,3 +510,6 @@ Package: javax.ws.rs.core
     Appears in JARs:
         jsr311-api-1.1.1.jar
         jersey-core-1.12.jar
+
+Total number of duplicate packages: 6
+Total number of packages: 335

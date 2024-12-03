@@ -4,6 +4,7 @@ Packages:
     org.apache.batik.anim.dom
     org.apache.batik.anim.timing
     org.apache.batik.anim.values
+Number of packages in this JAR: 4
 
 JAR File: batik-awt-util-1.14.jar
 Packages:
@@ -17,21 +18,25 @@ Packages:
     org.apache.batik.ext.awt.image.rendered
     org.apache.batik.ext.awt.image.spi
     org.apache.batik.ext.swing
+Number of packages in this JAR: 10
 
 JAR File: batik-bridge-1.14.jar
 Packages:
     org.apache.batik.bridge
     org.apache.batik.bridge.svg12
+Number of packages in this JAR: 2
 
 JAR File: batik-codec-1.14.jar
 Packages:
     org.apache.batik.ext.awt.image.codec.imageio
     org.apache.batik.ext.awt.image.codec.png
     org.apache.batik.ext.awt.image.codec.util
+Number of packages in this JAR: 3
 
 JAR File: batik-constants-1.14.jar
 Packages:
     org.apache.batik.constants
+Number of packages in this JAR: 1
 
 JAR File: batik-css-1.14.jar
 Packages:
@@ -43,6 +48,7 @@ Packages:
     org.apache.batik.css.engine.value.svg
     org.apache.batik.css.engine.value.svg12
     org.apache.batik.css.parser
+Number of packages in this JAR: 8
 
 JAR File: batik-dom-1.14.jar
 Packages:
@@ -51,11 +57,13 @@ Packages:
     org.apache.batik.dom.traversal
     org.apache.batik.dom.util
     org.apache.batik.dom.xbl
+Number of packages in this JAR: 5
 
 JAR File: batik-ext-1.14.jar
 Packages:
     org.apache.batik.w3c.dom
     org.apache.batik.w3c.dom.events
+Number of packages in this JAR: 2
 
 JAR File: batik-gvt-1.14.jar
 Packages:
@@ -66,34 +74,41 @@ Packages:
     org.apache.batik.gvt.font
     org.apache.batik.gvt.renderer
     org.apache.batik.gvt.text
+Number of packages in this JAR: 7
 
 JAR File: batik-i18n-1.14.jar
 Packages:
     org.apache.batik.i18n
+Number of packages in this JAR: 1
 
 JAR File: batik-parser-1.14.jar
 Packages:
     org.apache.batik.parser
+Number of packages in this JAR: 1
 
 JAR File: batik-script-1.14.jar
 Packages:
     org.apache.batik.script
     org.apache.batik.script.jpython
     org.apache.batik.script.rhino
+Number of packages in this JAR: 3
 
 JAR File: batik-shared-resources-1.14.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: batik-svg-dom-1.14.jar
 Packages:
     org.apache.batik.dom.svg
     org.apache.batik.dom.svg12
+Number of packages in this JAR: 2
 
 JAR File: batik-svggen-1.14.jar
 Packages:
     org.apache.batik.svggen
     org.apache.batik.svggen.font
     org.apache.batik.svggen.font.table
+Number of packages in this JAR: 3
 
 JAR File: batik-transcoder-1.14.jar
 Packages:
@@ -105,6 +120,7 @@ Packages:
     org.apache.batik.transcoder.svg2svg
     org.apache.batik.transcoder.wmf
     org.apache.batik.transcoder.wmf.tosvg
+Number of packages in this JAR: 8
 
 JAR File: batik-util-1.14.jar
 Packages:
@@ -112,10 +128,12 @@ Packages:
     org.apache.batik.util
     org.apache.batik.util.io
     org.apache.batik.util.resources
+Number of packages in this JAR: 4
 
 JAR File: batik-xml-1.14.jar
 Packages:
     org.apache.batik.xml
+Number of packages in this JAR: 1
 
 JAR File: commons-codec-1.15.jar
 Packages:
@@ -126,6 +144,7 @@ Packages:
     org.apache.commons.codec.language
     org.apache.commons.codec.language.bm
     org.apache.commons.codec.net
+Number of packages in this JAR: 7
 
 JAR File: commons-collections4-4.4.jar
 Packages:
@@ -148,6 +167,7 @@ Packages:
     org.apache.commons.collections4.splitmap
     org.apache.commons.collections4.trie
     org.apache.commons.collections4.trie.analyzer
+Number of packages in this JAR: 19
 
 JAR File: commons-compress-1.21.jar
 Packages:
@@ -186,6 +206,7 @@ Packages:
     org.apache.commons.compress.java.util.jar
     org.apache.commons.compress.parallel
     org.apache.commons.compress.utils
+Number of packages in this JAR: 35
 
 JAR File: commons-io-2.11.0.jar
 Packages:
@@ -200,6 +221,7 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 11
 
 JAR File: commons-lang3-3.3.2.jar
 Packages:
@@ -215,11 +237,13 @@ Packages:
     org.apache.commons.lang3.text.translate
     org.apache.commons.lang3.time
     org.apache.commons.lang3.tuple
+Number of packages in this JAR: 12
 
 JAR File: commons-logging-1.0.4.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: commons-math3-3.6.1.jar
 Packages:
@@ -298,6 +322,7 @@ Packages:
     org.apache.commons.math3.stat.regression
     org.apache.commons.math3.transform
     org.apache.commons.math3.util
+Number of packages in this JAR: 75
 
 JAR File: curvesapi-1.07.jar
 Packages:
@@ -307,6 +332,7 @@ Packages:
     com.graphbuilder.math.func
     com.graphbuilder.org.apache.harmony.awt.gl
     com.graphbuilder.struc
+Number of packages in this JAR: 6
 
 JAR File: log4j-api-2.17.2.jar
 Packages:
@@ -320,6 +346,7 @@ Packages:
     org.apache.logging.log4j.spi
     org.apache.logging.log4j.status
     org.apache.logging.log4j.util
+Number of packages in this JAR: 10
 
 JAR File: poi-5.2.2.jar
 Packages:
@@ -387,6 +414,7 @@ Packages:
     org.apache.poi.ss.util.cellwalk
     org.apache.poi.util
     org.apache.poi.wp.usermodel
+Number of packages in this JAR: 64
 
 JAR File: poi-ooxml-5.2.2.jar
 Packages:
@@ -437,6 +465,7 @@ Packages:
     org.apache.poi.xwpf.extractor
     org.apache.poi.xwpf.model
     org.apache.poi.xwpf.usermodel
+Number of packages in this JAR: 47
 
 JAR File: poi-ooxml-lite-5.2.2.jar
 Packages:
@@ -494,6 +523,7 @@ Packages:
     org.openxmlformats.schemas.xpackage.x2006.digitalSignature.impl
     org.w3.x2000.x09.xmldsig
     org.w3.x2000.x09.xmldsig.impl
+Number of packages in this JAR: 54
 
 JAR File: slf4j-api-1.7.32.jar
 Packages:
@@ -501,10 +531,12 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: SparseBitSet-1.2.jar
 Packages:
     com.zaxxer.sparsebits
+Number of packages in this JAR: 1
 
 JAR File: spring-core-5.3.18.jar
 Packages:
@@ -557,6 +589,7 @@ Packages:
     org.springframework.util.function
     org.springframework.util.unit
     org.springframework.util.xml
+Number of packages in this JAR: 49
 
 JAR File: spring-expression-5.3.18.jar
 Packages:
@@ -566,11 +599,13 @@ Packages:
     org.springframework.expression.spel.ast
     org.springframework.expression.spel.standard
     org.springframework.expression.spel.support
+Number of packages in this JAR: 6
 
 JAR File: spring-jcl-5.3.18.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: xml-apis-1.4.01.jar
 Packages:
@@ -603,6 +638,7 @@ Packages:
     org.xml.sax
     org.xml.sax.ext
     org.xml.sax.helpers
+Number of packages in this JAR: 29
 
 JAR File: xml-apis-ext-1.3.04.jar
 Packages:
@@ -610,6 +646,7 @@ Packages:
     org.w3c.css.sac.helpers
     org.w3c.dom.smil
     org.w3c.dom.svg
+Number of packages in this JAR: 4
 
 JAR File: xmlbeans-5.0.3.jar
 Packages:
@@ -654,6 +691,7 @@ Packages:
     org.apache.xmlbeans.soap
     org.apache.xmlbeans.xml.stream
     org.apache.xmlbeans.xml.stream.events
+Number of packages in this JAR: 41
 
 JAR File: xmlgraphics-commons-2.6.jar
 Packages:
@@ -691,6 +729,7 @@ Packages:
     org.apache.xmlgraphics.xmp.merge
     org.apache.xmlgraphics.xmp.schemas
     org.apache.xmlgraphics.xmp.schemas.pdf
+Number of packages in this JAR: 34
 
 Duplicate Packages Found:
 Package: org.apache.commons.logging.impl
@@ -708,3 +747,6 @@ Package: META-INF.versions.9
         poi-5.2.2.jar
         poi-ooxml-5.2.2.jar
         poi-ooxml-lite-5.2.2.jar
+
+Total number of duplicate packages: 3
+Total number of packages: 577

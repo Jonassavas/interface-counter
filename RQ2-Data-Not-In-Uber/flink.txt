@@ -1,0 +1,101 @@
+Dependency JAR: chill-java-0.7.6.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-collections-3.2.2.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-compress-1.24.0.jar
+Missing Packages:
+    META-INF.versions.9
+Number of packages in this JAR: 37
+Number of missing packages in this JAR: 1
+
+Dependency JAR: commons-lang3-3.12.0.jar
+Missing Packages:
+Number of packages in this JAR: 17
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-math3-3.6.1.jar
+Missing Packages:
+Number of packages in this JAR: 75
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-text-1.10.0.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-annotations-1.19.0.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-core-1.19.0.jar
+Missing Packages:
+Number of packages in this JAR: 60
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-metrics-core-1.19.0.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-shaded-asm-9-9.5-17.0.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-shaded-force-shading-17.0.jar
+Missing Packages:
+Number of packages in this JAR: 0
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-shaded-guava-31.1-jre-17.0.jar
+Missing Packages:
+Number of packages in this JAR: 19
+Number of missing packages in this JAR: 0
+
+Dependency JAR: flink-shaded-jackson-2.14.2-17.0.jar
+Missing Packages:
+    META-INF.versions.9
+Number of packages in this JAR: 72
+Number of missing packages in this JAR: 1
+
+Dependency JAR: jsr305-1.3.9.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kryo-2.24.0.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: minlog-1.2.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: objenesis-2.1.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.36.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: snakeyaml-engine-2.6.jar
+Missing Packages:
+Number of packages in this JAR: 21
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 361
+Total number of missing packages across all dependency JARs: 2
+Overall percentage of missing packages: 0.55%

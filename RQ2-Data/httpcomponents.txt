@@ -3,10 +3,12 @@ Packages:
     org.conscrypt
     org.conscrypt.ct
     org.conscrypt.io
+Number of packages in this JAR: 3
 
 JAR File: dec-0.1.2.jar
 Packages:
     org.brotli.dec
+Number of packages in this JAR: 1
 
 JAR File: httpcore5-5.2.jar
 Packages:
@@ -40,6 +42,7 @@ Packages:
     org.apache.hc.core5.reactor.ssl
     org.apache.hc.core5.ssl
     org.apache.hc.core5.util
+Number of packages in this JAR: 30
 
 JAR File: httpcore5-h2-5.2.jar
 Packages:
@@ -57,6 +60,7 @@ Packages:
     org.apache.hc.core5.http2.nio.support
     org.apache.hc.core5.http2.protocol
     org.apache.hc.core5.http2.ssl
+Number of packages in this JAR: 14
 
 JAR File: slf4j-api-1.7.36.jar
 Packages:
@@ -64,6 +68,10 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 52

@@ -13,6 +13,7 @@ Packages:
     org.codehaus.commons.compiler.util.reflect
     org.codehaus.commons.compiler.util.resource
     org.codehaus.commons.nullanalysis
+Number of packages in this JAR: 13
 
 JAR File: commons-io-2.7.jar
 Packages:
@@ -26,6 +27,7 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 10
 
 JAR File: graphhopper-web-api-6.0-SNAPSHOT.jar
 Packages:
@@ -36,6 +38,7 @@ Packages:
     com.graphhopper.util.details
     com.graphhopper.util.exceptions
     com.graphhopper.util.shapes
+Number of packages in this JAR: 7
 
 JAR File: hppc-0.8.1.jar
 Packages:
@@ -44,10 +47,12 @@ Packages:
     com.carrotsearch.hppc.predicates
     com.carrotsearch.hppc.procedures
     com.carrotsearch.hppc.sorting
+Number of packages in this JAR: 5
 
 JAR File: jackson-annotations-2.10.5.jar
 Packages:
     com.fasterxml.jackson.annotation
+Number of packages in this JAR: 1
 
 JAR File: jackson-core-2.10.5.jar
 Packages:
@@ -63,6 +68,7 @@ Packages:
     com.fasterxml.jackson.core.sym
     com.fasterxml.jackson.core.type
     com.fasterxml.jackson.core.util
+Number of packages in this JAR: 12
 
 JAR File: jackson-databind-2.10.5.1.jar
 Packages:
@@ -87,6 +93,7 @@ Packages:
     com.fasterxml.jackson.databind.ser.std
     com.fasterxml.jackson.databind.type
     com.fasterxml.jackson.databind.util
+Number of packages in this JAR: 21
 
 JAR File: jackson-dataformat-xml-2.10.5.jar
 Packages:
@@ -96,22 +103,26 @@ Packages:
     com.fasterxml.jackson.dataformat.xml.jaxb
     com.fasterxml.jackson.dataformat.xml.ser
     com.fasterxml.jackson.dataformat.xml.util
+Number of packages in this JAR: 6
 
 JAR File: jackson-datatype-jts-0.12-2.5-1.jar
 Packages:
     com.bedatadriven.jackson.datatype.jts
     com.bedatadriven.jackson.datatype.jts.parsers
     com.bedatadriven.jackson.datatype.jts.serialization
+Number of packages in this JAR: 3
 
 JAR File: jackson-module-jaxb-annotations-2.10.5.jar
 Packages:
     com.fasterxml.jackson.module.jaxb
     com.fasterxml.jackson.module.jaxb.deser
     com.fasterxml.jackson.module.jaxb.ser
+Number of packages in this JAR: 3
 
 JAR File: jakarta.activation-api-1.2.2.jar
 Packages:
     javax.activation
+Number of packages in this JAR: 1
 
 JAR File: jakarta.xml.bind-api-2.3.3.jar
 Packages:
@@ -122,6 +133,7 @@ Packages:
     javax.xml.bind.attachment
     javax.xml.bind.helpers
     javax.xml.bind.util
+Number of packages in this JAR: 7
 
 JAR File: janino-3.1.2.jar
 Packages:
@@ -129,6 +141,7 @@ Packages:
     org.codehaus.janino.samples
     org.codehaus.janino.tools
     org.codehaus.janino.util
+Number of packages in this JAR: 4
 
 JAR File: jts-core-1.15.1.jar
 Packages:
@@ -186,17 +199,20 @@ Packages:
     org.locationtech.jts.triangulate
     org.locationtech.jts.triangulate.quadedge
     org.locationtech.jts.util
+Number of packages in this JAR: 54
 
 JAR File: osmosis-osm-binary-0.47.3.jar
 Packages:
     org.openstreetmap.osmosis.osmbinary
     org.openstreetmap.osmosis.osmbinary.file
     org.openstreetmap.osmosis.osmbinary.test
+Number of packages in this JAR: 3
 
 JAR File: protobuf-java-3.11.4.jar
 Packages:
     com.google.protobuf
     com.google.protobuf.compiler
+Number of packages in this JAR: 2
 
 JAR File: slf4j-api-1.7.36.jar
 Packages:
@@ -204,6 +220,7 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: stax2-api-4.2.1.jar
 Packages:
@@ -218,6 +235,7 @@ Packages:
     org.codehaus.stax2.typed
     org.codehaus.stax2.util
     org.codehaus.stax2.validation
+Number of packages in this JAR: 11
 
 JAR File: woodstox-core-6.2.1.jar
 Packages:
@@ -299,6 +317,7 @@ Packages:
     com.ctc.wstx.stax
     com.ctc.wstx.sw
     com.ctc.wstx.util
+Number of packages in this JAR: 78
 
 JAR File: xmlgraphics-commons-2.7.jar
 Packages:
@@ -336,6 +355,10 @@ Packages:
     org.apache.xmlgraphics.xmp.merge
     org.apache.xmlgraphics.xmp.schemas
     org.apache.xmlgraphics.xmp.schemas.pdf
+Number of packages in this JAR: 34
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 279

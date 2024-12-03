@@ -1,0 +1,19 @@
+Dependency JAR: asm-9.1.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: java-semver-0.9.0.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.30.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 9
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

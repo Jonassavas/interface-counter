@@ -1,0 +1,210 @@
+Dependency JAR: helidon-common-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-configurable-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-context-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-http-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-key-util-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-mapper-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-media-type-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-reactive-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-common-service-loader-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-config-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-logging-common-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-media-common-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-media-jsonp-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-tracing-config-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-webserver-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: helidon-webserver-cors-2.5.6.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.annotation-api-1.3.5.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.json-1.1.6-module.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.json-1.1.6.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.json-api-1.1.6.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.json.bind-api-1.0.2.jar
+Missing Packages:
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jandex-2.3.1.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jboss-logging-3.2.1.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: microprofile-config-api-1.4.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: microprofile-openapi-api-1.2.jar
+Missing Packages:
+Number of packages in this JAR: 27
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-buffer-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-codec-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-codec-http-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-codec-http2-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-common-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-handler-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-resolver-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-transport-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: netty-transport-native-unix-common-4.1.86.Final.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: opentracing-api-0.33.0.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: opentracing-noop-0.33.0.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: opentracing-util-0.33.0.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: smallrye-open-api-core-2.0.26.jar
+Missing Packages:
+Number of packages in this JAR: 51
+Number of missing packages in this JAR: 0
+
+Dependency JAR: smallrye-open-api-jaxrs-2.0.26.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: snakeyaml-1.32.jar
+Missing Packages:
+Number of packages in this JAR: 21
+Number of missing packages in this JAR: 0
+
+Dependency JAR: yasson-1.0.11.jar
+Missing Packages:
+    META-INF.versions.16.org.eclipse.yasson.internal
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 1
+
+Summary:
+Total number of packages in all dependency JARs: 220
+Total number of missing packages across all dependency JARs: 1
+Overall percentage of missing packages: 0.45%

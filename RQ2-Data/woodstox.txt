@@ -11,6 +11,7 @@ Packages:
     aQute.bnd.annotation.service
     aQute.bnd.annotation.spi
     aQute.bnd.annotation.xml
+Number of packages in this JAR: 11
 
 JAR File: isorelax-20090621.jar
 Packages:
@@ -23,6 +24,7 @@ Packages:
     org.iso_relax.jaxp
     org.iso_relax.verifier
     org.iso_relax.verifier.impl
+Number of packages in this JAR: 9
 
 JAR File: msv-core-2013.6.1.jar
 Packages:
@@ -70,15 +72,18 @@ Packages:
     com.sun.msv.verifier.util
     com.sun.msv.writer
     com.sun.msv.writer.relaxng
+Number of packages in this JAR: 44
 
 JAR File: org.osgi.resource-1.0.0.jar
 Packages:
     org.osgi.resource
     org.osgi.resource.dto
+Number of packages in this JAR: 2
 
 JAR File: org.osgi.service.serviceloader-1.0.0.jar
 Packages:
     org.osgi.service.serviceloader
+Number of packages in this JAR: 1
 
 JAR File: osgi.core-5.0.0.jar
 Packages:
@@ -98,11 +103,13 @@ Packages:
     org.osgi.service.startlevel
     org.osgi.service.url
     org.osgi.util.tracker
+Number of packages in this JAR: 16
 
 JAR File: relaxngDatatype-20020414.jar
 Packages:
     org.relaxng.datatype
     org.relaxng.datatype.helpers
+Number of packages in this JAR: 2
 
 JAR File: stax2-api-4.2.1.jar
 Packages:
@@ -117,6 +124,7 @@ Packages:
     org.codehaus.stax2.typed
     org.codehaus.stax2.util
     org.codehaus.stax2.validation
+Number of packages in this JAR: 11
 
 JAR File: xsdlib-2013.6.1.jar
 Packages:
@@ -127,9 +135,13 @@ Packages:
     com.sun.msv.datatype.xsd.ngimpl
     com.sun.msv.datatype.xsd.regex
     com.sun.xml.util
+Number of packages in this JAR: 7
 
 Duplicate Packages Found:
 Package: org.osgi.resource
     Appears in JARs:
         org.osgi.resource-1.0.0.jar
         osgi.core-5.0.0.jar
+
+Total number of duplicate packages: 1
+Total number of packages: 103

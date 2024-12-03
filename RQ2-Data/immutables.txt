@@ -8,6 +8,7 @@ Packages:
     com.google.gson.internal.reflect
     com.google.gson.reflect
     com.google.gson.stream
+Number of packages in this JAR: 8
 
 JAR File: guava-19.0.jar
 Packages:
@@ -28,10 +29,12 @@ Packages:
     com.google.common.util.concurrent
     com.google.common.xml
     com.google.thirdparty.publicsuffix
+Number of packages in this JAR: 17
 
 JAR File: jackson-annotations-2.8.0.jar
 Packages:
     com.fasterxml.jackson.annotation
+Number of packages in this JAR: 1
 
 JAR File: jackson-core-2.8.11.jar
 Packages:
@@ -44,6 +47,7 @@ Packages:
     com.fasterxml.jackson.core.sym
     com.fasterxml.jackson.core.type
     com.fasterxml.jackson.core.util
+Number of packages in this JAR: 9
 
 JAR File: jackson-databind-2.8.11.6.jar
 Packages:
@@ -67,6 +71,7 @@ Packages:
     com.fasterxml.jackson.databind.ser.std
     com.fasterxml.jackson.databind.type
     com.fasterxml.jackson.databind.util
+Number of packages in this JAR: 20
 
 JAR File: javax.ws.rs-api-2.0.jar
 Packages:
@@ -75,12 +80,14 @@ Packages:
     javax.ws.rs.container
     javax.ws.rs.core
     javax.ws.rs.ext
+Number of packages in this JAR: 5
 
 JAR File: jsr305-3.0.1.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: metainf-2.9.3.jar
 Packages:
@@ -95,6 +102,7 @@ Packages:
     org.immutables.metainf.internal.$guava$.math
     org.immutables.metainf.internal.$guava$.primitives
     org.immutables.metainf.internal.$processor$
+Number of packages in this JAR: 11
 
 JAR File: value-2.9.3.jar
 Packages:
@@ -112,9 +120,13 @@ Packages:
     org.immutables.value.internal.$processor$
     org.immutables.value.internal.$processor$.encode
     org.immutables.value.internal.$processor$.meta
+Number of packages in this JAR: 14
 
 Duplicate Packages Found:
 Package: org.immutables.extgenerator
     Appears in JARs:
         value-2.9.3.jar
         metainf-2.9.3.jar
+
+Total number of duplicate packages: 1
+Total number of packages: 88

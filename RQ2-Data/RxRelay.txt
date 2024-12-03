@@ -1,6 +1,7 @@
 JAR File: reactive-streams-1.0.3.jar
 Packages:
     org.reactivestreams
+Number of packages in this JAR: 1
 
 JAR File: rxjava-3.0.3.jar
 Packages:
@@ -35,6 +36,10 @@ Packages:
     io.reactivex.rxjava3.schedulers
     io.reactivex.rxjava3.subjects
     io.reactivex.rxjava3.subscribers
+Number of packages in this JAR: 31
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 32

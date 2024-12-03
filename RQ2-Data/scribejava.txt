@@ -7,10 +7,12 @@ Packages:
     org.apache.commons.codec.language
     org.apache.commons.codec.language.bm
     org.apache.commons.codec.net
+Number of packages in this JAR: 7
 
 JAR File: jackson-annotations-2.14.0.jar
 Packages:
     com.fasterxml.jackson.annotation
+Number of packages in this JAR: 1
 
 JAR File: jackson-core-2.14.0.jar
 Packages:
@@ -29,6 +31,7 @@ Packages:
     com.fasterxml.jackson.core.sym
     com.fasterxml.jackson.core.type
     com.fasterxml.jackson.core.util
+Number of packages in this JAR: 15
 
 JAR File: jackson-databind-2.14.0.jar
 Packages:
@@ -56,11 +59,13 @@ Packages:
     com.fasterxml.jackson.databind.type
     com.fasterxml.jackson.databind.util
     com.fasterxml.jackson.databind.util.internal
+Number of packages in this JAR: 24
 
 JAR File: jakarta.activation-api-2.1.0.jar
 Packages:
     jakarta.activation
     jakarta.activation.spi
+Number of packages in this JAR: 2
 
 JAR File: jakarta.xml.bind-api-4.0.0.jar
 Packages:
@@ -70,6 +75,7 @@ Packages:
     jakarta.xml.bind.attachment
     jakarta.xml.bind.helpers
     jakarta.xml.bind.util
+Number of packages in this JAR: 6
 
 JAR File: jaxb-api-2.3.0.jar
 Packages:
@@ -80,13 +86,18 @@ Packages:
     javax.xml.bind.attachment
     javax.xml.bind.helpers
     javax.xml.bind.util
+Number of packages in this JAR: 7
 
 JAR File: scribejava-java8-8.3.3.jar
 Packages:
     com.github.scribejava.java8.base64
+Number of packages in this JAR: 1
 
 Duplicate Packages Found:
 Package: META-INF.versions.9
     Appears in JARs:
         jackson-core-2.14.0.jar
         jackson-databind-2.14.0.jar
+
+Total number of duplicate packages: 1
+Total number of packages: 63

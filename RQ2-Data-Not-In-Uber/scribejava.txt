@@ -1,0 +1,50 @@
+Dependency JAR: commons-codec-1.15.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-annotations-2.14.0.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-core-2.14.0.jar
+Missing Packages:
+Number of packages in this JAR: 15
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-databind-2.14.0.jar
+Missing Packages:
+Number of packages in this JAR: 24
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.activation-api-2.1.0.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.xml.bind-api-4.0.0.jar
+Missing Packages:
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jaxb-api-2.3.0.jar
+Missing Packages:
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 6
+
+Dependency JAR: scribejava-java8-8.3.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 63
+Total number of missing packages across all dependency JARs: 6
+Overall percentage of missing packages: 9.52%

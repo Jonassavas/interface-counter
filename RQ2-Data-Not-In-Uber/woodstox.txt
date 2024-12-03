@@ -1,0 +1,79 @@
+Dependency JAR: biz.aQute.bnd.annotation-6.3.1.jar
+Missing Packages:
+    aQute.bnd.annotation
+    aQute.bnd.annotation.baseline
+    aQute.bnd.annotation.component
+    aQute.bnd.annotation.headers
+    aQute.bnd.annotation.jpms
+    aQute.bnd.annotation.licenses
+    aQute.bnd.annotation.metatype
+    aQute.bnd.annotation.plugin
+    aQute.bnd.annotation.service
+    aQute.bnd.annotation.spi
+    aQute.bnd.annotation.xml
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 11
+
+Dependency JAR: isorelax-20090621.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: msv-core-2013.6.1.jar
+Missing Packages:
+Number of packages in this JAR: 44
+Number of missing packages in this JAR: 0
+
+Dependency JAR: org.osgi.resource-1.0.0.jar
+Missing Packages:
+    org.osgi.resource
+    org.osgi.resource.dto
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 2
+
+Dependency JAR: org.osgi.service.serviceloader-1.0.0.jar
+Missing Packages:
+    org.osgi.service.serviceloader
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 1
+
+Dependency JAR: osgi.core-5.0.0.jar
+Missing Packages:
+    org.osgi.framework
+    org.osgi.framework.hooks.bundle
+    org.osgi.framework.hooks.resolver
+    org.osgi.framework.hooks.service
+    org.osgi.framework.hooks.weaving
+    org.osgi.framework.launch
+    org.osgi.framework.namespace
+    org.osgi.framework.startlevel
+    org.osgi.framework.wiring
+    org.osgi.resource
+    org.osgi.service.condpermadmin
+    org.osgi.service.packageadmin
+    org.osgi.service.permissionadmin
+    org.osgi.service.startlevel
+    org.osgi.service.url
+    org.osgi.util.tracker
+Number of packages in this JAR: 16
+Number of missing packages in this JAR: 16
+
+Dependency JAR: relaxngDatatype-20020414.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: stax2-api-4.2.1.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xsdlib-2013.6.1.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 103
+Total number of missing packages across all dependency JARs: 30
+Overall percentage of missing packages: 29.13%

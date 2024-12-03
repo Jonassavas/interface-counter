@@ -1,0 +1,275 @@
+JAR File: annotations-13.0.jar
+Packages:
+    org.intellij.lang.annotations
+    org.jetbrains.annotations
+
+JAR File: asm-9.3.jar
+Packages:
+    org.objectweb.asm
+    org.objectweb.asm.signature
+
+JAR File: asm-analysis-9.3.jar
+Packages:
+    org.objectweb.asm.tree.analysis
+
+JAR File: asm-tree-9.3.jar
+Packages:
+    org.objectweb.asm.tree
+
+JAR File: asm-util-9.3.jar
+Packages:
+    org.objectweb.asm.util
+
+JAR File: bucket4j-core-6.4.1.jar
+Packages:
+    io.github.bucket4j
+    io.github.bucket4j.grid
+    io.github.bucket4j.local
+    io.github.bucket4j.serialization
+
+JAR File: commons-io-2.11.0.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.comparator
+    org.apache.commons.io.file
+    org.apache.commons.io.file.spi
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.function
+    org.apache.commons.io.input
+    org.apache.commons.io.input.buffer
+    org.apache.commons.io.monitor
+    org.apache.commons.io.output
+    org.apache.commons.io.serialization
+
+JAR File: config-1.4.2.jar
+Packages:
+    com.typesafe.config
+    com.typesafe.config.impl
+    com.typesafe.config.parser
+
+JAR File: javax.inject-1.jar
+Packages:
+    javax.inject
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: kotlin-reflect-1.6.21.jar
+Packages:
+    META-INF.versions.9
+    META-INF.versions.9.kotlin.reflect.jvm.internal.impl.serialization.deserialization.builtins
+    kotlin.reflect.full
+    kotlin.reflect.jvm
+    kotlin.reflect.jvm.internal
+    kotlin.reflect.jvm.internal.calls
+    kotlin.reflect.jvm.internal.impl
+    kotlin.reflect.jvm.internal.impl.builtins
+    kotlin.reflect.jvm.internal.impl.builtins.functions
+    kotlin.reflect.jvm.internal.impl.builtins.jvm
+    kotlin.reflect.jvm.internal.impl.descriptors
+    kotlin.reflect.jvm.internal.impl.descriptors.annotations
+    kotlin.reflect.jvm.internal.impl.descriptors.deserialization
+    kotlin.reflect.jvm.internal.impl.descriptors.impl
+    kotlin.reflect.jvm.internal.impl.descriptors.java
+    kotlin.reflect.jvm.internal.impl.descriptors.runtime.components
+    kotlin.reflect.jvm.internal.impl.descriptors.runtime.structure
+    kotlin.reflect.jvm.internal.impl.incremental
+    kotlin.reflect.jvm.internal.impl.incremental.components
+    kotlin.reflect.jvm.internal.impl.load.java
+    kotlin.reflect.jvm.internal.impl.load.java.components
+    kotlin.reflect.jvm.internal.impl.load.java.descriptors
+    kotlin.reflect.jvm.internal.impl.load.java.lazy
+    kotlin.reflect.jvm.internal.impl.load.java.lazy.descriptors
+    kotlin.reflect.jvm.internal.impl.load.java.lazy.types
+    kotlin.reflect.jvm.internal.impl.load.java.sources
+    kotlin.reflect.jvm.internal.impl.load.java.structure
+    kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement
+    kotlin.reflect.jvm.internal.impl.load.kotlin
+    kotlin.reflect.jvm.internal.impl.load.kotlin.header
+    kotlin.reflect.jvm.internal.impl.metadata
+    kotlin.reflect.jvm.internal.impl.metadata.builtins
+    kotlin.reflect.jvm.internal.impl.metadata.deserialization
+    kotlin.reflect.jvm.internal.impl.metadata.jvm
+    kotlin.reflect.jvm.internal.impl.metadata.jvm.deserialization
+    kotlin.reflect.jvm.internal.impl.name
+    kotlin.reflect.jvm.internal.impl.platform
+    kotlin.reflect.jvm.internal.impl.protobuf
+    kotlin.reflect.jvm.internal.impl.renderer
+    kotlin.reflect.jvm.internal.impl.resolve
+    kotlin.reflect.jvm.internal.impl.resolve.calls.inference
+    kotlin.reflect.jvm.internal.impl.resolve.constants
+    kotlin.reflect.jvm.internal.impl.resolve.deprecation
+    kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil
+    kotlin.reflect.jvm.internal.impl.resolve.jvm
+    kotlin.reflect.jvm.internal.impl.resolve.sam
+    kotlin.reflect.jvm.internal.impl.resolve.scopes
+    kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers
+    kotlin.reflect.jvm.internal.impl.serialization
+    kotlin.reflect.jvm.internal.impl.serialization.deserialization
+    kotlin.reflect.jvm.internal.impl.serialization.deserialization.builtins
+    kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors
+    kotlin.reflect.jvm.internal.impl.storage
+    kotlin.reflect.jvm.internal.impl.types
+    kotlin.reflect.jvm.internal.impl.types.checker
+    kotlin.reflect.jvm.internal.impl.types.error
+    kotlin.reflect.jvm.internal.impl.types.model
+    kotlin.reflect.jvm.internal.impl.types.typeUtil
+    kotlin.reflect.jvm.internal.impl.types.typesApproximation
+    kotlin.reflect.jvm.internal.impl.util
+    kotlin.reflect.jvm.internal.impl.util.capitalizeDecapitalize
+    kotlin.reflect.jvm.internal.impl.util.collectionUtils
+    kotlin.reflect.jvm.internal.impl.utils
+    kotlin.reflect.jvm.internal.pcollections
+
+JAR File: kotlin-stdlib-1.6.21.jar
+Packages:
+    META-INF.versions.9
+    kotlin
+    kotlin.annotation
+    kotlin.collections
+    kotlin.collections.builders
+    kotlin.collections.unsigned
+    kotlin.comparisons
+    kotlin.concurrent
+    kotlin.contracts
+    kotlin.coroutines
+    kotlin.coroutines.cancellation
+    kotlin.coroutines.intrinsics
+    kotlin.coroutines.jvm.internal
+    kotlin.experimental
+    kotlin.internal
+    kotlin.io
+    kotlin.js
+    kotlin.jvm
+    kotlin.jvm.functions
+    kotlin.jvm.internal
+    kotlin.jvm.internal.markers
+    kotlin.jvm.internal.unsafe
+    kotlin.math
+    kotlin.properties
+    kotlin.random
+    kotlin.ranges
+    kotlin.reflect
+    kotlin.sequences
+    kotlin.system
+    kotlin.text
+    kotlin.time
+
+JAR File: kotlin-stdlib-common-1.6.21.jar
+Packages:
+
+JAR File: kotlin-stdlib-jdk7-1.6.21.jar
+Packages:
+    META-INF.versions.9
+    kotlin.internal.jdk7
+    kotlin.io.path
+    kotlin.jdk7
+
+JAR File: kotlin-stdlib-jdk8-1.6.21.jar
+Packages:
+    META-INF.versions.9
+    kotlin.collections.jdk8
+    kotlin.internal.jdk8
+    kotlin.jvm.jdk8
+    kotlin.random.jdk8
+    kotlin.streams.jdk8
+    kotlin.text.jdk8
+    kotlin.time.jdk8
+
+JAR File: kotlinx-coroutines-core-1.6.2.jar
+Packages:
+
+JAR File: kotlinx-coroutines-core-jvm-1.6.2.jar
+Packages:
+    kotlinx.coroutines
+    kotlinx.coroutines.channels
+    kotlinx.coroutines.debug
+    kotlinx.coroutines.debug.internal
+    kotlinx.coroutines.flow
+    kotlinx.coroutines.flow.internal
+    kotlinx.coroutines.internal
+    kotlinx.coroutines.intrinsics
+    kotlinx.coroutines.scheduling
+    kotlinx.coroutines.selects
+    kotlinx.coroutines.sync
+
+JAR File: reactive-streams-1.0.3.jar
+Packages:
+    org.reactivestreams
+
+JAR File: reactor-core-3.4.18.jar
+Packages:
+    reactor.adapter
+    reactor.core
+    reactor.core.publisher
+    reactor.core.scheduler
+    reactor.util
+    reactor.util.annotation
+    reactor.util.concurrent
+    reactor.util.context
+    reactor.util.function
+    reactor.util.retry
+
+JAR File: rxjava-2.2.21.jar
+Packages:
+    io.reactivex
+    io.reactivex.annotations
+    io.reactivex.disposables
+    io.reactivex.exceptions
+    io.reactivex.flowables
+    io.reactivex.functions
+    io.reactivex.internal.disposables
+    io.reactivex.internal.functions
+    io.reactivex.internal.fuseable
+    io.reactivex.internal.observers
+    io.reactivex.internal.operators.completable
+    io.reactivex.internal.operators.flowable
+    io.reactivex.internal.operators.maybe
+    io.reactivex.internal.operators.mixed
+    io.reactivex.internal.operators.observable
+    io.reactivex.internal.operators.parallel
+    io.reactivex.internal.operators.single
+    io.reactivex.internal.queue
+    io.reactivex.internal.schedulers
+    io.reactivex.internal.subscribers
+    io.reactivex.internal.subscriptions
+    io.reactivex.internal.util
+    io.reactivex.observables
+    io.reactivex.observers
+    io.reactivex.parallel
+    io.reactivex.plugins
+    io.reactivex.processors
+    io.reactivex.schedulers
+    io.reactivex.subjects
+    io.reactivex.subscribers
+
+JAR File: slf4j-api-1.7.36.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: unbescape-1.1.6.RELEASE.jar
+Packages:
+    org.unbescape
+    org.unbescape.css
+    org.unbescape.csv
+    org.unbescape.html
+    org.unbescape.java
+    org.unbescape.javascript
+    org.unbescape.json
+    org.unbescape.properties
+    org.unbescape.uri
+    org.unbescape.xml
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        kotlin-reflect-1.6.21.jar
+        kotlin-stdlib-1.6.21.jar
+        kotlin-stdlib-jdk7-1.6.21.jar
+        kotlin-stdlib-jdk8-1.6.21.jar

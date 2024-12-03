@@ -1,0 +1,179 @@
+Dependency JAR: batik-anim-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-awt-util-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-bridge-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-constants-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-css-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-dom-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-ext-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-extension-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-gvt-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-i18n-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-parser-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-script-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-shared-resources-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 0
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-svg-dom-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-svggen-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-transcoder-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-util-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-xml-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bcpkix-jdk18on-1.71.1.jar
+Missing Packages:
+Number of packages in this JAR: 51
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bcprov-jdk18on-1.71.1.jar
+Missing Packages:
+Number of packages in this JAR: 233
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bcutil-jdk18on-1.71.1.jar
+Missing Packages:
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-logging-1.0.4.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fontbox-2.0.24.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fop-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 98
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fop-core-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 97
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fop-events-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fop-util-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: icu4j-71.1.jar
+Missing Packages:
+Number of packages in this JAR: 17
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jsr305-3.0.2.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: qdox-1.12.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: serializer-2.7.2.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xalan-2.7.2.jar
+Missing Packages:
+Number of packages in this JAR: 49
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xml-apis-1.4.01.jar
+Missing Packages:
+Number of packages in this JAR: 29
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xml-apis-ext-1.3.04.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xmlgraphics-commons-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 744
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

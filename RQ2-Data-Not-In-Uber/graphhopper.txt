@@ -1,0 +1,110 @@
+Dependency JAR: commons-compiler-3.1.2.jar
+Missing Packages:
+Number of packages in this JAR: 13
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-io-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: graphhopper-web-api-6.0-SNAPSHOT.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: hppc-0.8.1.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-annotations-2.10.5.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-core-2.10.5.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-databind-2.10.5.1.jar
+Missing Packages:
+Number of packages in this JAR: 21
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-dataformat-xml-2.10.5.jar
+Missing Packages:
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-datatype-jts-0.12-2.5-1.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jackson-module-jaxb-annotations-2.10.5.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.activation-api-1.2.2.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.xml.bind-api-2.3.3.jar
+Missing Packages:
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 6
+
+Dependency JAR: janino-3.1.2.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jts-core-1.15.1.jar
+Missing Packages:
+Number of packages in this JAR: 54
+Number of missing packages in this JAR: 0
+
+Dependency JAR: osmosis-osm-binary-0.47.3.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: protobuf-java-3.11.4.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.36.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: stax2-api-4.2.1.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: woodstox-core-6.2.1.jar
+Missing Packages:
+Number of packages in this JAR: 78
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xmlgraphics-commons-2.7.jar
+Missing Packages:
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 279
+Total number of missing packages across all dependency JARs: 6
+Overall percentage of missing packages: 2.15%

@@ -1,0 +1,92 @@
+JAR File: jboss-classfilewriter-1.2.5.Final.jar
+Packages:
+    org.jboss.classfilewriter
+    org.jboss.classfilewriter.annotations
+    org.jboss.classfilewriter.attributes
+    org.jboss.classfilewriter.code
+    org.jboss.classfilewriter.constpool
+    org.jboss.classfilewriter.util
+
+JAR File: jboss-logging-3.4.3.Final.jar
+Packages:
+    org.jboss.logging
+
+JAR File: jboss-logging-annotations-2.2.1.Final.jar
+Packages:
+    org.jboss.logging.annotations
+
+JAR File: jboss-logging-processor-2.2.1.Final.jar
+Packages:
+    org.jboss.logging.processor.apt
+    org.jboss.logging.processor.apt.report
+    org.jboss.logging.processor.generator.model
+    org.jboss.logging.processor.model
+    org.jboss.logging.processor.util
+    org.jboss.logging.processor.validation
+
+JAR File: jboss-threads-3.5.0.Final.jar
+Packages:
+    META-INF.versions.9.org.jboss.threads
+    org.jboss.threads
+    org.jboss.threads.management
+
+JAR File: jdeparser-2.0.3.Final.jar
+Packages:
+    org.jboss.jdeparser
+
+JAR File: undertow-parser-generator-2.3.13.Final.jar
+Packages:
+    io.undertow.annotationprocessor
+
+JAR File: wildfly-client-config-1.0.1.Final.jar
+Packages:
+    org.wildfly.client.config
+    org.wildfly.client.config._private
+
+JAR File: wildfly-common-1.6.0.Final.jar
+Packages:
+    META-INF.versions.11.org.wildfly.common.archive
+    META-INF.versions.9.org.wildfly.common.cpu
+    META-INF.versions.9.org.wildfly.common.lock
+    META-INF.versions.9.org.wildfly.common.os
+    org.wildfly.common
+    org.wildfly.common._private
+    org.wildfly.common.annotation
+    org.wildfly.common.archive
+    org.wildfly.common.array
+    org.wildfly.common.bytes
+    org.wildfly.common.codec
+    org.wildfly.common.context
+    org.wildfly.common.cpu
+    org.wildfly.common.expression
+    org.wildfly.common.flags
+    org.wildfly.common.function
+    org.wildfly.common.iteration
+    org.wildfly.common.lock
+    org.wildfly.common.math
+    org.wildfly.common.net
+    org.wildfly.common.os
+    org.wildfly.common.ref
+    org.wildfly.common.rpc
+    org.wildfly.common.selector
+    org.wildfly.common.string
+    org.wildfly.common.xml
+
+JAR File: xnio-api-3.8.8.Final.jar
+Packages:
+    org.xnio
+    org.xnio._private
+    org.xnio.channels
+    org.xnio.conduits
+    org.xnio.http
+    org.xnio.management
+    org.xnio.sasl
+    org.xnio.ssl
+    org.xnio.streams
+
+JAR File: xnio-nio-3.8.8.Final.jar
+Packages:
+    org.xnio.nio
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.

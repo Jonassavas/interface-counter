@@ -1,0 +1,49 @@
+Dependency JAR: jansi-1.12.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jline-2.14.6.jar
+Missing Packages:
+Number of packages in this JAR: 9
+Number of missing packages in this JAR: 0
+
+Dependency JAR: log4j-1.2.17.jar
+Missing Packages:
+Number of packages in this JAR: 21
+Number of missing packages in this JAR: 0
+
+Dependency JAR: mockito-all-1.10.19.jar
+Missing Packages:
+Number of packages in this JAR: 79
+Number of missing packages in this JAR: 0
+
+Dependency JAR: scala-compiler-2.13.1.jar
+Missing Packages:
+Number of packages in this JAR: 55
+Number of missing packages in this JAR: 0
+
+Dependency JAR: scala-library-2.13.1.jar
+Missing Packages:
+Number of packages in this JAR: 31
+Number of missing packages in this JAR: 0
+
+Dependency JAR: scala-reflect-2.13.1.jar
+Missing Packages:
+Number of packages in this JAR: 13
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.24.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-log4j12-1.7.24.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 217
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

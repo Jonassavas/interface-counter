@@ -4,6 +4,7 @@ Packages:
     com.apple.eawt
     com.apple.eawt.event
     com.apple.eio
+Number of packages in this JAR: 4
 
 JAR File: commons-lang3-3.3.1.jar
 Packages:
@@ -19,6 +20,7 @@ Packages:
     org.apache.commons.lang3.text.translate
     org.apache.commons.lang3.time
     org.apache.commons.lang3.tuple
+Number of packages in this JAR: 12
 
 JAR File: ejml-cdense-0.39.jar
 Packages:
@@ -35,6 +37,7 @@ Packages:
     org.ejml.dense.row.linsol.qr
     org.ejml.dense.row.misc
     org.ejml.dense.row.mult
+Number of packages in this JAR: 13
 
 JAR File: ejml-core-0.39.jar
 Packages:
@@ -45,6 +48,7 @@ Packages:
     org.ejml.interfaces.linsol
     org.ejml.ops
     org.ejml.sparse
+Number of packages in this JAR: 7
 
 JAR File: ejml-ddense-0.39.jar
 Packages:
@@ -77,6 +81,7 @@ Packages:
     org.ejml.dense.row.misc
     org.ejml.dense.row.mult
     org.ejml.generic
+Number of packages in this JAR: 29
 
 JAR File: ejml-dsparse-0.39.jar
 Packages:
@@ -91,6 +96,7 @@ Packages:
     org.ejml.sparse.csc.misc
     org.ejml.sparse.csc.mult
     org.ejml.sparse.triplet
+Number of packages in this JAR: 11
 
 JAR File: ejml-fdense-0.39.jar
 Packages:
@@ -123,6 +129,7 @@ Packages:
     org.ejml.dense.row.misc
     org.ejml.dense.row.mult
     org.ejml.generic
+Number of packages in this JAR: 29
 
 JAR File: ejml-fsparse-0.39.jar
 Packages:
@@ -137,12 +144,14 @@ Packages:
     org.ejml.sparse.csc.misc
     org.ejml.sparse.csc.mult
     org.ejml.sparse.triplet
+Number of packages in this JAR: 11
 
 JAR File: ejml-simple-0.39.jar
 Packages:
     org.ejml.equation
     org.ejml.simple
     org.ejml.simple.ops
+Number of packages in this JAR: 3
 
 JAR File: ejml-zdense-0.39.jar
 Packages:
@@ -159,12 +168,14 @@ Packages:
     org.ejml.dense.row.linsol.qr
     org.ejml.dense.row.misc
     org.ejml.dense.row.mult
+Number of packages in this JAR: 13
 
 JAR File: istack-commons-runtime-3.0.7.jar
 Packages:
     com.sun.istack
     com.sun.istack.localization
     com.sun.istack.logging
+Number of packages in this JAR: 3
 
 JAR File: jakarta.servlet-api-4.0.4.jar
 Packages:
@@ -172,10 +183,12 @@ Packages:
     javax.servlet.annotation
     javax.servlet.descriptor
     javax.servlet.http
+Number of packages in this JAR: 4
 
 JAR File: javax.activation-api-1.2.0.jar
 Packages:
     javax.activation
+Number of packages in this JAR: 1
 
 JAR File: javax.json-1.0.4.jar
 Packages:
@@ -184,6 +197,7 @@ Packages:
     javax.json.stream
     org.glassfish.json
     org.glassfish.json.api
+Number of packages in this JAR: 5
 
 JAR File: jaxb-api-2.4.0-b180830.0359.jar
 Packages:
@@ -194,6 +208,7 @@ Packages:
     javax.xml.bind.attachment
     javax.xml.bind.helpers
     javax.xml.bind.util
+Number of packages in this JAR: 7
 
 JAR File: jaxb-impl-2.4.0-b180830.0438.jar
 Packages:
@@ -222,6 +237,7 @@ Packages:
     com.sun.xml.bind.v2.schemagen.episode
     com.sun.xml.bind.v2.schemagen.xmlschema
     com.sun.xml.bind.v2.util
+Number of packages in this JAR: 25
 
 JAR File: joda-time-2.10.5.jar
 Packages:
@@ -232,6 +248,7 @@ Packages:
     org.joda.time.field
     org.joda.time.format
     org.joda.time.tz
+Number of packages in this JAR: 7
 
 JAR File: jollyday-0.4.9.jar
 Packages:
@@ -247,12 +264,14 @@ Packages:
     de.jollyday.parser
     de.jollyday.parser.impl
     de.jollyday.util
+Number of packages in this JAR: 12
 
 JAR File: jsr305-3.0.2.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: lucene-analyzers-common-7.5.0.jar
 Packages:
@@ -318,6 +337,7 @@ Packages:
     org.apache.lucene.collation.tokenattributes
     org.tartarus.snowball
     org.tartarus.snowball.ext
+Number of packages in this JAR: 62
 
 JAR File: lucene-core-7.5.0.jar
 Packages:
@@ -355,6 +375,7 @@ Packages:
     org.apache.lucene.util.graph
     org.apache.lucene.util.mutable
     org.apache.lucene.util.packed
+Number of packages in this JAR: 34
 
 JAR File: lucene-queries-7.5.0.jar
 Packages:
@@ -364,6 +385,7 @@ Packages:
     org.apache.lucene.queries.function.valuesource
     org.apache.lucene.queries.mlt
     org.apache.lucene.queries.payloads
+Number of packages in this JAR: 6
 
 JAR File: lucene-queryparser-7.5.0.jar
 Packages:
@@ -392,6 +414,7 @@ Packages:
     org.apache.lucene.queryparser.surround.query
     org.apache.lucene.queryparser.xml
     org.apache.lucene.queryparser.xml.builders
+Number of packages in this JAR: 25
 
 JAR File: lucene-sandbox-7.5.0.jar
 Packages:
@@ -403,23 +426,27 @@ Packages:
     org.apache.lucene.sandbox.queries
     org.apache.lucene.search
     org.apache.lucene.search.intervals
+Number of packages in this JAR: 8
 
 JAR File: protobuf-java-3.19.6.jar
 Packages:
     com.google.protobuf
     com.google.protobuf.compiler
+Number of packages in this JAR: 2
 
 JAR File: serializer-2.7.3.jar
 Packages:
     org.apache.xml.serializer
     org.apache.xml.serializer.dom3
     org.apache.xml.serializer.utils
+Number of packages in this JAR: 3
 
 JAR File: slf4j-api-1.7.12.jar
 Packages:
     org.slf4j
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 3
 
 JAR File: xalan-2.7.3.jar
 Packages:
@@ -473,6 +500,7 @@ Packages:
     org.apache.xpath.operations
     org.apache.xpath.patterns
     org.apache.xpath.res
+Number of packages in this JAR: 50
 
 JAR File: xercesImpl-2.12.2.jar
 Packages:
@@ -516,6 +544,7 @@ Packages:
     org.apache.xerces.xs.datatypes
     org.apache.xml.serialize
     org.w3c.dom.html
+Number of packages in this JAR: 40
 
 JAR File: xml-apis-1.4.01.jar
 Packages:
@@ -548,6 +577,7 @@ Packages:
     org.xml.sax
     org.xml.sax.ext
     org.xml.sax.helpers
+Number of packages in this JAR: 29
 
 JAR File: xom-1.3.9.jar
 Packages:
@@ -567,6 +597,7 @@ Packages:
     nu.xom.tests
     nu.xom.xinclude
     nu.xom.xslt
+Number of packages in this JAR: 16
 
 Duplicate Packages Found:
 Package: org.ejml.dense.block.decomposition.bidiagonal
@@ -789,3 +820,6 @@ Package: org.ejml.dense.row.decompose.hessenberg
     Appears in JARs:
         ejml-cdense-0.39.jar
         ejml-zdense-0.39.jar
+
+Total number of duplicate packages: 51
+Total number of packages: 477

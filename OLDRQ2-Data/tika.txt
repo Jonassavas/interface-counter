@@ -1,0 +1,381 @@
+JAR File: biz.aQute.bnd.util-6.3.1.jar
+Packages:
+    aQute.bnd.classfile
+    aQute.bnd.classfile.builder
+    aQute.bnd.classfile.preview
+    aQute.bnd.exceptions
+    aQute.bnd.memoize
+    aQute.bnd.result
+    aQute.bnd.signatures
+    aQute.bnd.stream
+    aQute.bnd.unmodifiable
+    aQute.lib.io
+    aQute.lib.stringrover
+    aQute.libg.glob
+
+JAR File: biz.aQute.bndlib-6.3.1.jar
+Packages:
+    aQute.bnd.annotation
+    aQute.bnd.annotation.baseline
+    aQute.bnd.annotation.component
+    aQute.bnd.annotation.headers
+    aQute.bnd.annotation.jpms
+    aQute.bnd.annotation.licenses
+    aQute.bnd.annotation.metatype
+    aQute.bnd.annotation.plugin
+    aQute.bnd.annotation.service
+    aQute.bnd.annotation.spi
+    aQute.bnd.annotation.xml
+    aQute.bnd.apiguardian.api
+    aQute.bnd.aspectj.plugin
+    aQute.bnd.build
+    aQute.bnd.build.api
+    aQute.bnd.build.model
+    aQute.bnd.build.model.clauses
+    aQute.bnd.build.model.conversions
+    aQute.bnd.buildtool
+    aQute.bnd.bundle.annotations
+    aQute.bnd.cdi
+    aQute.bnd.classindex
+    aQute.bnd.compatibility
+    aQute.bnd.component
+    aQute.bnd.component.annotations
+    aQute.bnd.component.error
+    aQute.bnd.connection.settings
+    aQute.bnd.differ
+    aQute.bnd.exporter.executable
+    aQute.bnd.exporter.runbundles
+    aQute.bnd.filerepo
+    aQute.bnd.header
+    aQute.bnd.help
+    aQute.bnd.help.instructions
+    aQute.bnd.http
+    aQute.bnd.junit
+    aQute.bnd.make
+    aQute.bnd.make.calltree
+    aQute.bnd.make.component
+    aQute.bnd.make.coverage
+    aQute.bnd.make.metatype
+    aQute.bnd.maven
+    aQute.bnd.maven.support
+    aQute.bnd.metatype
+    aQute.bnd.metatype.annotations
+    aQute.bnd.obr
+    aQute.bnd.osgi
+    aQute.bnd.osgi.eclipse
+    aQute.bnd.osgi.repository
+    aQute.bnd.osgi.resource
+    aQute.bnd.plugin.ant
+    aQute.bnd.plugin.eclipse
+    aQute.bnd.plugin.git
+    aQute.bnd.plugin.gradle
+    aQute.bnd.plugin.jpms
+    aQute.bnd.plugin.maven
+    aQute.bnd.plugin.spi
+    aQute.bnd.print
+    aQute.bnd.properties
+    aQute.bnd.remoteworkspace.client
+    aQute.bnd.remoteworkspace.server
+    aQute.bnd.resource.repository
+    aQute.bnd.service
+    aQute.bnd.service.action
+    aQute.bnd.service.classparser
+    aQute.bnd.service.clipboard
+    aQute.bnd.service.diff
+    aQute.bnd.service.export
+    aQute.bnd.service.extension
+    aQute.bnd.service.externalplugin
+    aQute.bnd.service.generate
+    aQute.bnd.service.library
+    aQute.bnd.service.lifecycle
+    aQute.bnd.service.maven
+    aQute.bnd.service.message
+    aQute.bnd.service.progress
+    aQute.bnd.service.release
+    aQute.bnd.service.remotelaunch
+    aQute.bnd.service.remoteworkspace
+    aQute.bnd.service.reporter
+    aQute.bnd.service.repository
+    aQute.bnd.service.resolve.hook
+    aQute.bnd.service.specifications
+    aQute.bnd.service.url
+    aQute.bnd.service.verifier
+    aQute.bnd.signing
+    aQute.bnd.url
+    aQute.bnd.util.dto
+    aQute.bnd.util.home
+    aQute.bnd.util.repository
+    aQute.bnd.version
+    aQute.bnd.version.maven
+    aQute.bnd.xmlattribute
+    aQute.lib.aspects
+    aQute.lib.base64
+    aQute.lib.collections
+    aQute.lib.concurrent.serial
+    aQute.lib.concurrentinit
+    aQute.lib.converter
+    aQute.lib.date
+    aQute.lib.deployer
+    aQute.lib.fileset
+    aQute.lib.filter
+    aQute.lib.formatter
+    aQute.lib.hex
+    aQute.lib.hierarchy
+    aQute.lib.io
+    aQute.lib.json
+    aQute.lib.link
+    aQute.lib.manifest
+    aQute.lib.mavenpasswordobfuscator
+    aQute.lib.persistentmap
+    aQute.lib.redirect
+    aQute.lib.settings
+    aQute.lib.specinterface
+    aQute.lib.spring
+    aQute.lib.stringrover
+    aQute.lib.strings
+    aQute.lib.tag
+    aQute.lib.utf8properties
+    aQute.lib.watcher
+    aQute.lib.xml
+    aQute.lib.xpath
+    aQute.lib.zip
+    aQute.libg.command
+    aQute.libg.cryptography
+    aQute.libg.filelock
+    aQute.libg.generics
+    aQute.libg.glob
+    aQute.libg.gzip
+    aQute.libg.ints
+    aQute.libg.map
+    aQute.libg.qtokens
+    aQute.libg.reporter
+    aQute.libg.reporter.slf4j
+    aQute.libg.sed
+    aQute.libg.tuple
+    aQute.libg.uri
+    aQute.service.reporter
+
+JAR File: commons-io-2.11.0.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.comparator
+    org.apache.commons.io.file
+    org.apache.commons.io.file.spi
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.function
+    org.apache.commons.io.input
+    org.apache.commons.io.input.buffer
+    org.apache.commons.io.monitor
+    org.apache.commons.io.output
+    org.apache.commons.io.serialization
+
+JAR File: org.osgi.compendium-5.0.0.jar
+Packages:
+    org.osgi.application
+    org.osgi.namespace.contract
+    org.osgi.namespace.extender
+    org.osgi.namespace.service
+    org.osgi.service.application
+    org.osgi.service.blueprint.container
+    org.osgi.service.blueprint.reflect
+    org.osgi.service.cm
+    org.osgi.service.component
+    org.osgi.service.component.annotations
+    org.osgi.service.coordinator
+    org.osgi.service.deploymentadmin
+    org.osgi.service.deploymentadmin.spi
+    org.osgi.service.device
+    org.osgi.service.dmt
+    org.osgi.service.dmt.notification
+    org.osgi.service.dmt.notification.spi
+    org.osgi.service.dmt.security
+    org.osgi.service.dmt.spi
+    org.osgi.service.event
+    org.osgi.service.http
+    org.osgi.service.io
+    org.osgi.service.jdbc
+    org.osgi.service.jndi
+    org.osgi.service.jpa
+    org.osgi.service.log
+    org.osgi.service.metatype
+    org.osgi.service.monitor
+    org.osgi.service.prefs
+    org.osgi.service.provisioning
+    org.osgi.service.remoteserviceadmin
+    org.osgi.service.repository
+    org.osgi.service.resolver
+    org.osgi.service.serviceloader
+    org.osgi.service.subsystem
+    org.osgi.service.upnp
+    org.osgi.service.useradmin
+    org.osgi.service.wireadmin
+    org.osgi.util.measurement
+    org.osgi.util.position
+    org.osgi.util.xml
+
+JAR File: org.osgi.core-6.0.0.jar
+Packages:
+    org.osgi.dto
+    org.osgi.framework
+    org.osgi.framework.dto
+    org.osgi.framework.hooks.bundle
+    org.osgi.framework.hooks.resolver
+    org.osgi.framework.hooks.service
+    org.osgi.framework.hooks.weaving
+    org.osgi.framework.launch
+    org.osgi.framework.namespace
+    org.osgi.framework.startlevel
+    org.osgi.framework.startlevel.dto
+    org.osgi.framework.wiring
+    org.osgi.framework.wiring.dto
+    org.osgi.resource
+    org.osgi.resource.dto
+    org.osgi.service.condpermadmin
+    org.osgi.service.packageadmin
+    org.osgi.service.permissionadmin
+    org.osgi.service.startlevel
+    org.osgi.service.url
+    org.osgi.util.tracker
+
+JAR File: org.osgi.dto-1.0.0.jar
+Packages:
+    org.osgi.dto
+
+JAR File: org.osgi.framework-1.8.0.jar
+Packages:
+    org.osgi.framework
+    org.osgi.framework.dto
+    org.osgi.framework.hooks.bundle
+    org.osgi.framework.hooks.resolver
+    org.osgi.framework.hooks.service
+    org.osgi.framework.hooks.weaving
+    org.osgi.framework.launch
+    org.osgi.framework.namespace
+    org.osgi.framework.startlevel
+    org.osgi.framework.startlevel.dto
+    org.osgi.framework.wiring
+    org.osgi.framework.wiring.dto
+
+JAR File: org.osgi.resource-1.0.0.jar
+Packages:
+    org.osgi.resource
+    org.osgi.resource.dto
+
+JAR File: org.osgi.service.log-1.3.0.jar
+Packages:
+    org.osgi.service.log
+
+JAR File: org.osgi.service.repository-1.1.0.jar
+Packages:
+    org.osgi.service.repository
+
+JAR File: org.osgi.util.function-1.2.0.jar
+Packages:
+    org.osgi.util.function
+
+JAR File: org.osgi.util.promise-1.2.0.jar
+Packages:
+    org.osgi.util.promise
+
+JAR File: org.osgi.util.tracker-1.5.4.jar
+Packages:
+    org.osgi.util.tracker
+
+JAR File: osgi.annotation-8.0.1.jar
+Packages:
+    org.osgi.annotation.bundle
+    org.osgi.annotation.versioning
+
+JAR File: slf4j-api-2.0.3.jar
+Packages:
+    META-INF.versions.9
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+Duplicate Packages Found:
+Package: org.osgi.framework.hooks.resolver
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: aQute.lib.io
+    Appears in JARs:
+        biz.aQute.bndlib-6.3.1.jar
+        biz.aQute.bnd.util-6.3.1.jar
+Package: org.osgi.framework.dto
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.resource.dto
+    Appears in JARs:
+        org.osgi.resource-1.0.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.namespace
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.startlevel.dto
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.resource
+    Appears in JARs:
+        org.osgi.resource-1.0.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.service.log
+    Appears in JARs:
+        org.osgi.compendium-5.0.0.jar
+        org.osgi.service.log-1.3.0.jar
+Package: org.osgi.framework.hooks.service
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.wiring
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.dto
+    Appears in JARs:
+        org.osgi.dto-1.0.0.jar
+        org.osgi.core-6.0.0.jar
+Package: aQute.libg.glob
+    Appears in JARs:
+        biz.aQute.bndlib-6.3.1.jar
+        biz.aQute.bnd.util-6.3.1.jar
+Package: org.osgi.framework.launch
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.util.tracker
+    Appears in JARs:
+        org.osgi.util.tracker-1.5.4.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.service.repository
+    Appears in JARs:
+        org.osgi.compendium-5.0.0.jar
+        org.osgi.service.repository-1.1.0.jar
+Package: aQute.lib.stringrover
+    Appears in JARs:
+        biz.aQute.bndlib-6.3.1.jar
+        biz.aQute.bnd.util-6.3.1.jar
+Package: org.osgi.framework.startlevel
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.hooks.weaving
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.wiring.dto
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar
+Package: org.osgi.framework.hooks.bundle
+    Appears in JARs:
+        org.osgi.framework-1.8.0.jar
+        org.osgi.core-6.0.0.jar

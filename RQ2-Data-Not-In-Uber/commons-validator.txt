@@ -1,0 +1,24 @@
+Dependency JAR: commons-beanutils-1.9.4.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-collections-3.2.2.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-digester-2.1.jar
+Missing Packages:
+Number of packages in this JAR: 14
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-logging-1.2.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 33
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

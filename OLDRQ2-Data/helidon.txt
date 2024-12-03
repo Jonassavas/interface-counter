@@ -1,0 +1,364 @@
+JAR File: helidon-common-2.5.6.jar
+Packages:
+    io.helidon.common
+
+JAR File: helidon-common-configurable-2.5.6.jar
+Packages:
+    io.helidon.common.configurable
+    io.helidon.common.configurable.spi
+
+JAR File: helidon-common-context-2.5.6.jar
+Packages:
+    io.helidon.common.context
+    io.helidon.common.context.spi
+
+JAR File: helidon-common-http-2.5.6.jar
+Packages:
+    io.helidon.common.http
+
+JAR File: helidon-common-key-util-2.5.6.jar
+Packages:
+    io.helidon.common.pki
+
+JAR File: helidon-common-mapper-2.5.6.jar
+Packages:
+    io.helidon.common.mapper
+    io.helidon.common.mapper.spi
+
+JAR File: helidon-common-media-type-2.5.6.jar
+Packages:
+    io.helidon.common.media.type
+    io.helidon.common.media.type.spi
+
+JAR File: helidon-common-reactive-2.5.6.jar
+Packages:
+    io.helidon.common.reactive
+
+JAR File: helidon-common-service-loader-2.5.6.jar
+Packages:
+    io.helidon.common.serviceloader
+
+JAR File: helidon-config-2.5.6.jar
+Packages:
+    io.helidon.config
+    io.helidon.config.spi
+
+JAR File: helidon-logging-common-2.5.6.jar
+Packages:
+    io.helidon.logging.common
+    io.helidon.logging.common.spi
+
+JAR File: helidon-media-common-2.5.6.jar
+Packages:
+    io.helidon.media.common
+    io.helidon.media.common.spi
+
+JAR File: helidon-media-jsonp-2.5.6.jar
+Packages:
+    io.helidon.media.jsonp
+
+JAR File: helidon-tracing-config-2.5.6.jar
+Packages:
+    io.helidon.tracing.config
+
+JAR File: helidon-webserver-2.5.6.jar
+Packages:
+    io.helidon.webserver
+
+JAR File: helidon-webserver-cors-2.5.6.jar
+Packages:
+    io.helidon.webserver.cors
+
+JAR File: jakarta.annotation-api-1.3.5.jar
+Packages:
+    javax.annotation
+    javax.annotation.security
+    javax.annotation.sql
+
+JAR File: jakarta.json-1.1.6-module.jar
+Packages:
+    org.glassfish.json
+    org.glassfish.json.api
+
+JAR File: jakarta.json-1.1.6.jar
+Packages:
+    javax.json
+    javax.json.spi
+    javax.json.stream
+    org.glassfish.json
+    org.glassfish.json.api
+
+JAR File: jakarta.json-api-1.1.6.jar
+Packages:
+    javax.json
+    javax.json.spi
+    javax.json.stream
+
+JAR File: jakarta.json.bind-api-1.0.2.jar
+Packages:
+    javax.json.bind
+    javax.json.bind.adapter
+    javax.json.bind.annotation
+    javax.json.bind.config
+    javax.json.bind.serializer
+    javax.json.bind.spi
+
+JAR File: jandex-2.3.1.Final.jar
+Packages:
+    org.jboss.jandex
+
+JAR File: jboss-logging-3.2.1.Final.jar
+Packages:
+    org.jboss.logging
+
+JAR File: microprofile-config-api-1.4.jar
+Packages:
+    org.eclipse.microprofile.config
+    org.eclipse.microprofile.config.inject
+    org.eclipse.microprofile.config.spi
+
+JAR File: microprofile-openapi-api-1.2.jar
+Packages:
+    org.eclipse.microprofile.openapi
+    org.eclipse.microprofile.openapi.annotations
+    org.eclipse.microprofile.openapi.annotations.callbacks
+    org.eclipse.microprofile.openapi.annotations.enums
+    org.eclipse.microprofile.openapi.annotations.extensions
+    org.eclipse.microprofile.openapi.annotations.headers
+    org.eclipse.microprofile.openapi.annotations.info
+    org.eclipse.microprofile.openapi.annotations.links
+    org.eclipse.microprofile.openapi.annotations.media
+    org.eclipse.microprofile.openapi.annotations.parameters
+    org.eclipse.microprofile.openapi.annotations.responses
+    org.eclipse.microprofile.openapi.annotations.security
+    org.eclipse.microprofile.openapi.annotations.servers
+    org.eclipse.microprofile.openapi.annotations.tags
+    org.eclipse.microprofile.openapi.models
+    org.eclipse.microprofile.openapi.models.callbacks
+    org.eclipse.microprofile.openapi.models.examples
+    org.eclipse.microprofile.openapi.models.headers
+    org.eclipse.microprofile.openapi.models.info
+    org.eclipse.microprofile.openapi.models.links
+    org.eclipse.microprofile.openapi.models.media
+    org.eclipse.microprofile.openapi.models.parameters
+    org.eclipse.microprofile.openapi.models.responses
+    org.eclipse.microprofile.openapi.models.security
+    org.eclipse.microprofile.openapi.models.servers
+    org.eclipse.microprofile.openapi.models.tags
+    org.eclipse.microprofile.openapi.spi
+
+JAR File: netty-buffer-4.1.86.Final.jar
+Packages:
+    io.netty.buffer
+    io.netty.buffer.search
+
+JAR File: netty-codec-4.1.86.Final.jar
+Packages:
+    io.netty.handler.codec
+    io.netty.handler.codec.base64
+    io.netty.handler.codec.bytes
+    io.netty.handler.codec.compression
+    io.netty.handler.codec.json
+    io.netty.handler.codec.marshalling
+    io.netty.handler.codec.protobuf
+    io.netty.handler.codec.serialization
+    io.netty.handler.codec.string
+    io.netty.handler.codec.xml
+
+JAR File: netty-codec-http-4.1.86.Final.jar
+Packages:
+    io.netty.handler.codec.http
+    io.netty.handler.codec.http.cookie
+    io.netty.handler.codec.http.cors
+    io.netty.handler.codec.http.multipart
+    io.netty.handler.codec.http.websocketx
+    io.netty.handler.codec.http.websocketx.extensions
+    io.netty.handler.codec.http.websocketx.extensions.compression
+    io.netty.handler.codec.rtsp
+    io.netty.handler.codec.spdy
+
+JAR File: netty-codec-http2-4.1.86.Final.jar
+Packages:
+    io.netty.handler.codec.http2
+
+JAR File: netty-common-4.1.86.Final.jar
+Packages:
+    io.netty.util
+    io.netty.util.collection
+    io.netty.util.concurrent
+    io.netty.util.internal
+    io.netty.util.internal.logging
+    io.netty.util.internal.shaded.org.jctools.queues
+    io.netty.util.internal.shaded.org.jctools.queues.atomic
+    io.netty.util.internal.shaded.org.jctools.util
+    io.netty.util.internal.svm
+
+JAR File: netty-handler-4.1.86.Final.jar
+Packages:
+    io.netty.handler.address
+    io.netty.handler.flow
+    io.netty.handler.flush
+    io.netty.handler.ipfilter
+    io.netty.handler.logging
+    io.netty.handler.pcap
+    io.netty.handler.ssl
+    io.netty.handler.ssl.ocsp
+    io.netty.handler.ssl.util
+    io.netty.handler.stream
+    io.netty.handler.timeout
+    io.netty.handler.traffic
+
+JAR File: netty-resolver-4.1.86.Final.jar
+Packages:
+    io.netty.resolver
+
+JAR File: netty-transport-4.1.86.Final.jar
+Packages:
+    io.netty.bootstrap
+    io.netty.channel
+    io.netty.channel.embedded
+    io.netty.channel.group
+    io.netty.channel.internal
+    io.netty.channel.local
+    io.netty.channel.nio
+    io.netty.channel.oio
+    io.netty.channel.pool
+    io.netty.channel.socket
+    io.netty.channel.socket.nio
+    io.netty.channel.socket.oio
+
+JAR File: netty-transport-native-unix-common-4.1.86.Final.jar
+Packages:
+    io.netty.channel.unix
+
+JAR File: opentracing-api-0.33.0.jar
+Packages:
+    io.opentracing
+    io.opentracing.log
+    io.opentracing.propagation
+    io.opentracing.tag
+
+JAR File: opentracing-noop-0.33.0.jar
+Packages:
+    io.opentracing.noop
+
+JAR File: opentracing-util-0.33.0.jar
+Packages:
+    io.opentracing.util
+
+JAR File: smallrye-open-api-core-2.0.26.jar
+Packages:
+    io.smallrye.openapi.api
+    io.smallrye.openapi.api.constants
+    io.smallrye.openapi.api.models
+    io.smallrye.openapi.api.models.callbacks
+    io.smallrye.openapi.api.models.examples
+    io.smallrye.openapi.api.models.headers
+    io.smallrye.openapi.api.models.info
+    io.smallrye.openapi.api.models.links
+    io.smallrye.openapi.api.models.media
+    io.smallrye.openapi.api.models.parameters
+    io.smallrye.openapi.api.models.responses
+    io.smallrye.openapi.api.models.security
+    io.smallrye.openapi.api.models.servers
+    io.smallrye.openapi.api.models.tags
+    io.smallrye.openapi.api.util
+    io.smallrye.openapi.runtime
+    io.smallrye.openapi.runtime.io
+    io.smallrye.openapi.runtime.io.callback
+    io.smallrye.openapi.runtime.io.components
+    io.smallrye.openapi.runtime.io.contact
+    io.smallrye.openapi.runtime.io.content
+    io.smallrye.openapi.runtime.io.definition
+    io.smallrye.openapi.runtime.io.discriminator
+    io.smallrye.openapi.runtime.io.encoding
+    io.smallrye.openapi.runtime.io.example
+    io.smallrye.openapi.runtime.io.extension
+    io.smallrye.openapi.runtime.io.externaldocs
+    io.smallrye.openapi.runtime.io.header
+    io.smallrye.openapi.runtime.io.info
+    io.smallrye.openapi.runtime.io.license
+    io.smallrye.openapi.runtime.io.link
+    io.smallrye.openapi.runtime.io.mediatype
+    io.smallrye.openapi.runtime.io.oauth
+    io.smallrye.openapi.runtime.io.operation
+    io.smallrye.openapi.runtime.io.parameter
+    io.smallrye.openapi.runtime.io.paths
+    io.smallrye.openapi.runtime.io.requestbody
+    io.smallrye.openapi.runtime.io.response
+    io.smallrye.openapi.runtime.io.schema
+    io.smallrye.openapi.runtime.io.securityrequirement
+    io.smallrye.openapi.runtime.io.securityscheme
+    io.smallrye.openapi.runtime.io.server
+    io.smallrye.openapi.runtime.io.servervariable
+    io.smallrye.openapi.runtime.io.tag
+    io.smallrye.openapi.runtime.io.xml
+    io.smallrye.openapi.runtime.scanner
+    io.smallrye.openapi.runtime.scanner.dataobject
+    io.smallrye.openapi.runtime.scanner.processor
+    io.smallrye.openapi.runtime.scanner.spi
+    io.smallrye.openapi.runtime.util
+    io.smallrye.openapi.spi
+
+JAR File: smallrye-open-api-jaxrs-2.0.26.jar
+Packages:
+    io.smallrye.openapi.jaxrs
+
+JAR File: snakeyaml-1.32.jar
+Packages:
+    org.yaml.snakeyaml
+    org.yaml.snakeyaml.comments
+    org.yaml.snakeyaml.composer
+    org.yaml.snakeyaml.constructor
+    org.yaml.snakeyaml.emitter
+    org.yaml.snakeyaml.env
+    org.yaml.snakeyaml.error
+    org.yaml.snakeyaml.events
+    org.yaml.snakeyaml.extensions.compactnotation
+    org.yaml.snakeyaml.external.biz.base64Coder
+    org.yaml.snakeyaml.external.com.google.gdata.util.common.base
+    org.yaml.snakeyaml.introspector
+    org.yaml.snakeyaml.nodes
+    org.yaml.snakeyaml.parser
+    org.yaml.snakeyaml.reader
+    org.yaml.snakeyaml.representer
+    org.yaml.snakeyaml.resolver
+    org.yaml.snakeyaml.scanner
+    org.yaml.snakeyaml.serializer
+    org.yaml.snakeyaml.tokens
+    org.yaml.snakeyaml.util
+
+JAR File: yasson-1.0.11.jar
+Packages:
+    META-INF.versions.16.org.eclipse.yasson.internal
+    org.eclipse.yasson
+    org.eclipse.yasson.internal
+    org.eclipse.yasson.internal.components
+    org.eclipse.yasson.internal.jsonstructure
+    org.eclipse.yasson.internal.model
+    org.eclipse.yasson.internal.model.customization
+    org.eclipse.yasson.internal.properties
+    org.eclipse.yasson.internal.serializer
+    org.eclipse.yasson.spi
+
+Duplicate Packages Found:
+Package: org.glassfish.json
+    Appears in JARs:
+        jakarta.json-1.1.6-module.jar
+        jakarta.json-1.1.6.jar
+Package: org.glassfish.json.api
+    Appears in JARs:
+        jakarta.json-1.1.6-module.jar
+        jakarta.json-1.1.6.jar
+Package: javax.json.spi
+    Appears in JARs:
+        jakarta.json-api-1.1.6.jar
+        jakarta.json-1.1.6.jar
+Package: javax.json.stream
+    Appears in JARs:
+        jakarta.json-api-1.1.6.jar
+        jakarta.json-1.1.6.jar
+Package: javax.json
+    Appears in JARs:
+        jakarta.json-api-1.1.6.jar
+        jakarta.json-1.1.6.jar

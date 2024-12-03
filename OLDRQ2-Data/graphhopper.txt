@@ -1,0 +1,341 @@
+JAR File: commons-compiler-3.1.2.jar
+Packages:
+    org.codehaus.commons.compiler
+    org.codehaus.commons.compiler.io
+    org.codehaus.commons.compiler.java8.java.util
+    org.codehaus.commons.compiler.java8.java.util.function
+    org.codehaus.commons.compiler.java8.java.util.stream
+    org.codehaus.commons.compiler.java9.java.lang.module
+    org.codehaus.commons.compiler.lang
+    org.codehaus.commons.compiler.samples
+    org.codehaus.commons.compiler.util
+    org.codehaus.commons.compiler.util.iterator
+    org.codehaus.commons.compiler.util.reflect
+    org.codehaus.commons.compiler.util.resource
+    org.codehaus.commons.nullanalysis
+
+JAR File: commons-io-2.7.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.comparator
+    org.apache.commons.io.file
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.function
+    org.apache.commons.io.input
+    org.apache.commons.io.input.buffer
+    org.apache.commons.io.monitor
+    org.apache.commons.io.output
+    org.apache.commons.io.serialization
+
+JAR File: graphhopper-web-api-6.0-SNAPSHOT.jar
+Packages:
+    com.graphhopper
+    com.graphhopper.jackson
+    com.graphhopper.json
+    com.graphhopper.util
+    com.graphhopper.util.details
+    com.graphhopper.util.exceptions
+    com.graphhopper.util.shapes
+
+JAR File: hppc-0.8.1.jar
+Packages:
+    com.carrotsearch.hppc
+    com.carrotsearch.hppc.cursors
+    com.carrotsearch.hppc.predicates
+    com.carrotsearch.hppc.procedures
+    com.carrotsearch.hppc.sorting
+
+JAR File: jackson-annotations-2.10.5.jar
+Packages:
+    com.fasterxml.jackson.annotation
+
+JAR File: jackson-core-2.10.5.jar
+Packages:
+    com.fasterxml.jackson.core
+    com.fasterxml.jackson.core.async
+    com.fasterxml.jackson.core.base
+    com.fasterxml.jackson.core.exc
+    com.fasterxml.jackson.core.filter
+    com.fasterxml.jackson.core.format
+    com.fasterxml.jackson.core.io
+    com.fasterxml.jackson.core.json
+    com.fasterxml.jackson.core.json.async
+    com.fasterxml.jackson.core.sym
+    com.fasterxml.jackson.core.type
+    com.fasterxml.jackson.core.util
+
+JAR File: jackson-databind-2.10.5.1.jar
+Packages:
+    com.fasterxml.jackson.databind
+    com.fasterxml.jackson.databind.annotation
+    com.fasterxml.jackson.databind.cfg
+    com.fasterxml.jackson.databind.deser
+    com.fasterxml.jackson.databind.deser.impl
+    com.fasterxml.jackson.databind.deser.std
+    com.fasterxml.jackson.databind.exc
+    com.fasterxml.jackson.databind.ext
+    com.fasterxml.jackson.databind.introspect
+    com.fasterxml.jackson.databind.json
+    com.fasterxml.jackson.databind.jsonFormatVisitors
+    com.fasterxml.jackson.databind.jsonschema
+    com.fasterxml.jackson.databind.jsontype
+    com.fasterxml.jackson.databind.jsontype.impl
+    com.fasterxml.jackson.databind.module
+    com.fasterxml.jackson.databind.node
+    com.fasterxml.jackson.databind.ser
+    com.fasterxml.jackson.databind.ser.impl
+    com.fasterxml.jackson.databind.ser.std
+    com.fasterxml.jackson.databind.type
+    com.fasterxml.jackson.databind.util
+
+JAR File: jackson-dataformat-xml-2.10.5.jar
+Packages:
+    com.fasterxml.jackson.dataformat.xml
+    com.fasterxml.jackson.dataformat.xml.annotation
+    com.fasterxml.jackson.dataformat.xml.deser
+    com.fasterxml.jackson.dataformat.xml.jaxb
+    com.fasterxml.jackson.dataformat.xml.ser
+    com.fasterxml.jackson.dataformat.xml.util
+
+JAR File: jackson-datatype-jts-0.12-2.5-1.jar
+Packages:
+    com.bedatadriven.jackson.datatype.jts
+    com.bedatadriven.jackson.datatype.jts.parsers
+    com.bedatadriven.jackson.datatype.jts.serialization
+
+JAR File: jackson-module-jaxb-annotations-2.10.5.jar
+Packages:
+    com.fasterxml.jackson.module.jaxb
+    com.fasterxml.jackson.module.jaxb.deser
+    com.fasterxml.jackson.module.jaxb.ser
+
+JAR File: jakarta.activation-api-1.2.2.jar
+Packages:
+    javax.activation
+
+JAR File: jakarta.xml.bind-api-2.3.3.jar
+Packages:
+    META-INF.versions.9.javax.xml.bind
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+
+JAR File: janino-3.1.2.jar
+Packages:
+    org.codehaus.janino
+    org.codehaus.janino.samples
+    org.codehaus.janino.tools
+    org.codehaus.janino.util
+
+JAR File: jts-core-1.15.1.jar
+Packages:
+    org.locationtech.jts
+    org.locationtech.jts.algorithm
+    org.locationtech.jts.algorithm.distance
+    org.locationtech.jts.algorithm.locate
+    org.locationtech.jts.algorithm.match
+    org.locationtech.jts.awt
+    org.locationtech.jts.densify
+    org.locationtech.jts.dissolve
+    org.locationtech.jts.edgegraph
+    org.locationtech.jts.geom
+    org.locationtech.jts.geom.impl
+    org.locationtech.jts.geom.prep
+    org.locationtech.jts.geom.util
+    org.locationtech.jts.geomgraph
+    org.locationtech.jts.geomgraph.index
+    org.locationtech.jts.index
+    org.locationtech.jts.index.bintree
+    org.locationtech.jts.index.chain
+    org.locationtech.jts.index.intervalrtree
+    org.locationtech.jts.index.kdtree
+    org.locationtech.jts.index.quadtree
+    org.locationtech.jts.index.strtree
+    org.locationtech.jts.index.sweepline
+    org.locationtech.jts.io
+    org.locationtech.jts.io.gml2
+    org.locationtech.jts.io.kml
+    org.locationtech.jts.linearref
+    org.locationtech.jts.math
+    org.locationtech.jts.noding
+    org.locationtech.jts.noding.snapround
+    org.locationtech.jts.operation
+    org.locationtech.jts.operation.buffer
+    org.locationtech.jts.operation.buffer.validate
+    org.locationtech.jts.operation.distance
+    org.locationtech.jts.operation.distance3d
+    org.locationtech.jts.operation.linemerge
+    org.locationtech.jts.operation.overlay
+    org.locationtech.jts.operation.overlay.snap
+    org.locationtech.jts.operation.overlay.validate
+    org.locationtech.jts.operation.polygonize
+    org.locationtech.jts.operation.predicate
+    org.locationtech.jts.operation.relate
+    org.locationtech.jts.operation.union
+    org.locationtech.jts.operation.valid
+    org.locationtech.jts.planargraph
+    org.locationtech.jts.planargraph.algorithm
+    org.locationtech.jts.precision
+    org.locationtech.jts.shape
+    org.locationtech.jts.shape.fractal
+    org.locationtech.jts.shape.random
+    org.locationtech.jts.simplify
+    org.locationtech.jts.triangulate
+    org.locationtech.jts.triangulate.quadedge
+    org.locationtech.jts.util
+
+JAR File: osmosis-osm-binary-0.47.3.jar
+Packages:
+    org.openstreetmap.osmosis.osmbinary
+    org.openstreetmap.osmosis.osmbinary.file
+    org.openstreetmap.osmosis.osmbinary.test
+
+JAR File: protobuf-java-3.11.4.jar
+Packages:
+    com.google.protobuf
+    com.google.protobuf.compiler
+
+JAR File: slf4j-api-1.7.36.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: stax2-api-4.2.1.jar
+Packages:
+    org.codehaus.stax2
+    org.codehaus.stax2.evt
+    org.codehaus.stax2.io
+    org.codehaus.stax2.osgi
+    org.codehaus.stax2.ri
+    org.codehaus.stax2.ri.dom
+    org.codehaus.stax2.ri.evt
+    org.codehaus.stax2.ri.typed
+    org.codehaus.stax2.typed
+    org.codehaus.stax2.util
+    org.codehaus.stax2.validation
+
+JAR File: woodstox-core-6.2.1.jar
+Packages:
+    com.ctc.wstx.api
+    com.ctc.wstx.cfg
+    com.ctc.wstx.compat
+    com.ctc.wstx.dom
+    com.ctc.wstx.dtd
+    com.ctc.wstx.ent
+    com.ctc.wstx.evt
+    com.ctc.wstx.exc
+    com.ctc.wstx.io
+    com.ctc.wstx.msv
+    com.ctc.wstx.osgi
+    com.ctc.wstx.sax
+    com.ctc.wstx.shaded.msv.org_isorelax.catalog
+    com.ctc.wstx.shaded.msv.org_isorelax.dispatcher
+    com.ctc.wstx.shaded.msv.org_isorelax.dispatcher.impl
+    com.ctc.wstx.shaded.msv.org_isorelax.jaxp
+    com.ctc.wstx.shaded.msv.org_isorelax.verifier
+    com.ctc.wstx.shaded.msv.org_isorelax.verifier.impl
+    com.ctc.wstx.shaded.msv.org_jp_gr_xml.dom
+    com.ctc.wstx.shaded.msv.org_jp_gr_xml.sax
+    com.ctc.wstx.shaded.msv.org_jp_gr_xml.xml
+    com.ctc.wstx.shaded.msv.relaxng_datatype
+    com.ctc.wstx.shaded.msv.relaxng_datatype.helpers
+    com.ctc.wstx.shaded.msv.xsd_util
+    com.ctc.wstx.shaded.msv_core.datatype
+    com.ctc.wstx.shaded.msv_core.datatype.regexp
+    com.ctc.wstx.shaded.msv_core.datatype.xsd
+    com.ctc.wstx.shaded.msv_core.datatype.xsd.datetime
+    com.ctc.wstx.shaded.msv_core.datatype.xsd.ngimpl
+    com.ctc.wstx.shaded.msv_core.datatype.xsd.regex
+    com.ctc.wstx.shaded.msv_core.driver.textui
+    com.ctc.wstx.shaded.msv_core.grammar
+    com.ctc.wstx.shaded.msv_core.grammar.dtd
+    com.ctc.wstx.shaded.msv_core.grammar.relax
+    com.ctc.wstx.shaded.msv_core.grammar.relaxng
+    com.ctc.wstx.shaded.msv_core.grammar.relaxng.datatype
+    com.ctc.wstx.shaded.msv_core.grammar.trex
+    com.ctc.wstx.shaded.msv_core.grammar.trex.typed
+    com.ctc.wstx.shaded.msv_core.grammar.util
+    com.ctc.wstx.shaded.msv_core.grammar.xmlschema
+    com.ctc.wstx.shaded.msv_core.reader
+    com.ctc.wstx.shaded.msv_core.reader.datatype
+    com.ctc.wstx.shaded.msv_core.reader.datatype.xsd
+    com.ctc.wstx.shaded.msv_core.reader.dtd
+    com.ctc.wstx.shaded.msv_core.reader.relax
+    com.ctc.wstx.shaded.msv_core.reader.relax.core
+    com.ctc.wstx.shaded.msv_core.reader.relax.core.checker
+    com.ctc.wstx.shaded.msv_core.reader.trex
+    com.ctc.wstx.shaded.msv_core.reader.trex.classic
+    com.ctc.wstx.shaded.msv_core.reader.trex.ng
+    com.ctc.wstx.shaded.msv_core.reader.trex.ng.comp
+    com.ctc.wstx.shaded.msv_core.reader.trex.typed
+    com.ctc.wstx.shaded.msv_core.reader.util
+    com.ctc.wstx.shaded.msv_core.reader.xmlschema
+    com.ctc.wstx.shaded.msv_core.relaxns.grammar
+    com.ctc.wstx.shaded.msv_core.relaxns.grammar.relax
+    com.ctc.wstx.shaded.msv_core.relaxns.grammar.trex
+    com.ctc.wstx.shaded.msv_core.relaxns.reader
+    com.ctc.wstx.shaded.msv_core.relaxns.reader.relax
+    com.ctc.wstx.shaded.msv_core.relaxns.reader.trex
+    com.ctc.wstx.shaded.msv_core.relaxns.verifier
+    com.ctc.wstx.shaded.msv_core.scanner.dtd
+    com.ctc.wstx.shaded.msv_core.util
+    com.ctc.wstx.shaded.msv_core.util.xml
+    com.ctc.wstx.shaded.msv_core.verifier
+    com.ctc.wstx.shaded.msv_core.verifier.identity
+    com.ctc.wstx.shaded.msv_core.verifier.jarv
+    com.ctc.wstx.shaded.msv_core.verifier.jaxp
+    com.ctc.wstx.shaded.msv_core.verifier.psvi
+    com.ctc.wstx.shaded.msv_core.verifier.regexp
+    com.ctc.wstx.shaded.msv_core.verifier.regexp.xmlschema
+    com.ctc.wstx.shaded.msv_core.verifier.util
+    com.ctc.wstx.shaded.msv_core.writer
+    com.ctc.wstx.shaded.msv_core.writer.relaxng
+    com.ctc.wstx.sr
+    com.ctc.wstx.stax
+    com.ctc.wstx.sw
+    com.ctc.wstx.util
+
+JAR File: xmlgraphics-commons-2.7.jar
+Packages:
+    org.apache.xmlgraphics.fonts
+    org.apache.xmlgraphics.image
+    org.apache.xmlgraphics.image.codec.png
+    org.apache.xmlgraphics.image.codec.tiff
+    org.apache.xmlgraphics.image.codec.util
+    org.apache.xmlgraphics.image.loader
+    org.apache.xmlgraphics.image.loader.cache
+    org.apache.xmlgraphics.image.loader.impl
+    org.apache.xmlgraphics.image.loader.impl.imageio
+    org.apache.xmlgraphics.image.loader.pipeline
+    org.apache.xmlgraphics.image.loader.spi
+    org.apache.xmlgraphics.image.loader.util
+    org.apache.xmlgraphics.image.rendered
+    org.apache.xmlgraphics.image.writer
+    org.apache.xmlgraphics.image.writer.imageio
+    org.apache.xmlgraphics.image.writer.internal
+    org.apache.xmlgraphics.io
+    org.apache.xmlgraphics.java2d
+    org.apache.xmlgraphics.java2d.color
+    org.apache.xmlgraphics.java2d.color.profile
+    org.apache.xmlgraphics.java2d.ps
+    org.apache.xmlgraphics.ps
+    org.apache.xmlgraphics.ps.dsc
+    org.apache.xmlgraphics.ps.dsc.events
+    org.apache.xmlgraphics.ps.dsc.tools
+    org.apache.xmlgraphics.util
+    org.apache.xmlgraphics.util.dijkstra
+    org.apache.xmlgraphics.util.i18n
+    org.apache.xmlgraphics.util.io
+    org.apache.xmlgraphics.util.uri
+    org.apache.xmlgraphics.xmp
+    org.apache.xmlgraphics.xmp.merge
+    org.apache.xmlgraphics.xmp.schemas
+    org.apache.xmlgraphics.xmp.schemas.pdf
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.

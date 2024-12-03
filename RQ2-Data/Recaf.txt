@@ -6,32 +6,39 @@ Packages:
     javax.annotation.concurrent
     javax.annotation.meta
     net.jcip.annotations
+Number of packages in this JAR: 6
 
 JAR File: args4j-2.33.jar
 Packages:
     org.kohsuke.args4j
     org.kohsuke.args4j.spi
+Number of packages in this JAR: 2
 
 JAR File: asm-9.2.jar
 Packages:
     org.objectweb.asm
     org.objectweb.asm.signature
+Number of packages in this JAR: 2
 
 JAR File: asm-analysis-9.2.jar
 Packages:
     org.objectweb.asm.tree.analysis
+Number of packages in this JAR: 1
 
 JAR File: asm-commons-9.2.jar
 Packages:
     org.objectweb.asm.commons
+Number of packages in this JAR: 1
 
 JAR File: asm-tree-9.2.jar
 Packages:
     org.objectweb.asm.tree
+Number of packages in this JAR: 1
 
 JAR File: asm-util-9.2.jar
 Packages:
     org.objectweb.asm.util
+Number of packages in this JAR: 1
 
 JAR File: CAFED00D-1.9.6.jar
 Packages:
@@ -43,6 +50,7 @@ Packages:
     me.coley.cafedude.classfile.constant
     me.coley.cafedude.io
     me.coley.cafedude.transform
+Number of packages in this JAR: 8
 
 JAR File: cfr-0.152.jar
 Packages:
@@ -104,6 +112,7 @@ Packages:
     org.benf.cfr.reader.util.graph
     org.benf.cfr.reader.util.lambda
     org.benf.cfr.reader.util.output
+Number of packages in this JAR: 58
 
 JAR File: checker-qual-3.12.0.jar
 Packages:
@@ -136,6 +145,7 @@ Packages:
     org.checkerframework.common.value.qual
     org.checkerframework.dataflow.qual
     org.checkerframework.framework.qual
+Number of packages in this JAR: 29
 
 JAR File: commonmark-0.18.2.jar
 Packages:
@@ -152,6 +162,7 @@ Packages:
     org.commonmark.renderer
     org.commonmark.renderer.html
     org.commonmark.renderer.text
+Number of packages in this JAR: 13
 
 JAR File: commons-codec-1.15.jar
 Packages:
@@ -162,6 +173,7 @@ Packages:
     org.apache.commons.codec.language
     org.apache.commons.codec.language.bm
     org.apache.commons.codec.net
+Number of packages in this JAR: 7
 
 JAR File: commons-io-2.11.0.jar
 Packages:
@@ -176,6 +188,7 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 11
 
 JAR File: commons-lang3-3.11.jar
 Packages:
@@ -196,6 +209,7 @@ Packages:
     org.apache.commons.lang3.text.translate
     org.apache.commons.lang3.time
     org.apache.commons.lang3.tuple
+Number of packages in this JAR: 17
 
 JAR File: cssparser-0.9.29.jar
 Packages:
@@ -207,23 +221,28 @@ Packages:
     com.steadystate.css.sac
     com.steadystate.css.userdata
     com.steadystate.css.util
+Number of packages in this JAR: 8
 
 JAR File: directories-12.jar
 Packages:
     io.github.soc.directories
+Number of packages in this JAR: 1
 
 JAR File: error_prone_annotations-2.11.0.jar
 Packages:
     com.google.errorprone.annotations
     com.google.errorprone.annotations.concurrent
+Number of packages in this JAR: 2
 
 JAR File: failureaccess-1.0.1.jar
 Packages:
     com.google.common.util.concurrent.internal
+Number of packages in this JAR: 1
 
 JAR File: flowless-0.6.3.jar
 Packages:
     org.fxmisc.flowless
+Number of packages in this JAR: 1
 
 JAR File: forgeflower-1.5.498.29.jar
 Packages:
@@ -253,6 +272,7 @@ Packages:
     org.jetbrains.java.decompiler.struct.lazy
     org.jetbrains.java.decompiler.struct.match
     org.jetbrains.java.decompiler.util
+Number of packages in this JAR: 26
 
 JAR File: guava-31.1-jre.jar
 Packages:
@@ -274,10 +294,12 @@ Packages:
     com.google.common.util.concurrent
     com.google.common.xml
     com.google.thirdparty.publicsuffix
+Number of packages in this JAR: 18
 
 JAR File: j2objc-annotations-1.3.jar
 Packages:
     com.google.j2objc.annotations
+Number of packages in this JAR: 1
 
 JAR File: javafx-base-18-win.jar
 Packages:
@@ -302,9 +324,11 @@ Packages:
     javafx.event
     javafx.util
     javafx.util.converter
+Number of packages in this JAR: 21
 
 JAR File: javafx-base-18.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: javafx-controls-18-win.jar
 Packages:
@@ -318,9 +342,11 @@ Packages:
     javafx.scene.control
     javafx.scene.control.cell
     javafx.scene.control.skin
+Number of packages in this JAR: 10
 
 JAR File: javafx-controls-18.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: javafx-graphics-18-win.jar
 Packages:
@@ -429,9 +455,11 @@ Packages:
     javafx.scene.text
     javafx.scene.transform
     javafx.stage
+Number of packages in this JAR: 105
 
 JAR File: javafx-graphics-18.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: javafx-media-18-win.jar
 Packages:
@@ -449,9 +477,11 @@ Packages:
     com.sun.media.jfxmediaimpl.platform.gstreamer
     com.sun.media.jfxmediaimpl.platform.java
     javafx.scene.media
+Number of packages in this JAR: 14
 
 JAR File: javafx-media-18.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: javaparser-core-3.24.2.jar
 Packages:
@@ -484,6 +514,7 @@ Packages:
     com.github.javaparser.resolution.types
     com.github.javaparser.resolution.types.parametrization
     com.github.javaparser.utils
+Number of packages in this JAR: 29
 
 JAR File: javaparser-symbol-solver-core-3.24.2.jar
 Packages:
@@ -510,6 +541,7 @@ Packages:
     com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas
     com.github.javaparser.symbolsolver.resolution.typesolvers
     com.github.javaparser.symbolsolver.utils
+Number of packages in this JAR: 23
 
 JAR File: javassist-3.28.0-GA.jar
 Packages:
@@ -530,14 +562,17 @@ Packages:
     javassist.tools.web
     javassist.util
     javassist.util.proxy
+Number of packages in this JAR: 17
 
 JAR File: javax.inject-1.jar
 Packages:
     javax.inject
+Number of packages in this JAR: 1
 
 JAR File: jcip-annotations-1.0.jar
 Packages:
     net.jcip.annotations
+Number of packages in this JAR: 1
 
 JAR File: jgrapht-core-1.0.1.jar
 Packages:
@@ -566,6 +601,7 @@ Packages:
     org.jgrapht.graph.specifics
     org.jgrapht.traverse
     org.jgrapht.util
+Number of packages in this JAR: 25
 
 JAR File: jline-3.19.0.jar
 Packages:
@@ -597,10 +633,12 @@ Packages:
     org.jline.terminal.spi
     org.jline.utils
     org.jline.widget
+Number of packages in this JAR: 28
 
 JAR File: jline-builtins-3.21.0.jar
 Packages:
     org.jline.builtins
+Number of packages in this JAR: 1
 
 JAR File: jline-reader-3.21.0.jar
 Packages:
@@ -609,10 +647,12 @@ Packages:
     org.jline.reader.impl
     org.jline.reader.impl.completer
     org.jline.reader.impl.history
+Number of packages in this JAR: 5
 
 JAR File: jline-style-3.21.0.jar
 Packages:
     org.jline.style
+Number of packages in this JAR: 1
 
 JAR File: jline-terminal-3.21.0.jar
 Packages:
@@ -620,6 +660,7 @@ Packages:
     org.jline.terminal.impl
     org.jline.terminal.spi
     org.jline.utils
+Number of packages in this JAR: 4
 
 JAR File: jline-terminal-jna-3.21.0.jar
 Packages:
@@ -629,6 +670,7 @@ Packages:
     org.jline.terminal.impl.jna.osx
     org.jline.terminal.impl.jna.solaris
     org.jline.terminal.impl.jna.win
+Number of packages in this JAR: 6
 
 JAR File: jna-5.9.0.jar
 Packages:
@@ -636,6 +678,7 @@ Packages:
     com.sun.jna.internal
     com.sun.jna.ptr
     com.sun.jna.win32
+Number of packages in this JAR: 4
 
 JAR File: jphantom-1.4.3.jar
 Packages:
@@ -655,11 +698,13 @@ Packages:
     org.clyze.jphantom.jar
     org.clyze.jphantom.methods
     org.clyze.jphantom.util
+Number of packages in this JAR: 16
 
 JAR File: jregex-1.2_01.jar
 Packages:
     jregex
     jregex.util.io
+Number of packages in this JAR: 2
 
 JAR File: jsoup-1.14.3.jar
 Packages:
@@ -670,15 +715,18 @@ Packages:
     org.jsoup.parser
     org.jsoup.safety
     org.jsoup.select
+Number of packages in this JAR: 7
 
 JAR File: jsr305-3.0.2.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: logback-classic-1.2.10.jar
 Packages:
@@ -707,6 +755,7 @@ Packages:
     ch.qos.logback.classic.turbo
     ch.qos.logback.classic.util
     org.slf4j.impl
+Number of packages in this JAR: 25
 
 JAR File: logback-core-1.2.3.jar
 Packages:
@@ -746,19 +795,23 @@ Packages:
     ch.qos.logback.core.status
     ch.qos.logback.core.subst
     ch.qos.logback.core.util
+Number of packages in this JAR: 36
 
 JAR File: minimal-json-0.9.5.jar
 Packages:
     com.eclipsesource.json
+Number of packages in this JAR: 1
 
 JAR File: picocli-4.6.3.jar
 Packages:
     META-INF.versions.9
     picocli
+Number of packages in this JAR: 2
 
 JAR File: picocli-shell-jline3-4.6.3.jar
 Packages:
     picocli.shell.jline3
+Number of packages in this JAR: 1
 
 JAR File: plugface-core-0.7.1.jar
 Packages:
@@ -768,6 +821,7 @@ Packages:
     org.plugface.core.impl
     org.plugface.core.internal
     org.plugface.core.internal.di
+Number of packages in this JAR: 6
 
 JAR File: procyon-compilertools-0.6.0.jar
 Packages:
@@ -790,6 +844,7 @@ Packages:
     com.strobel.decompiler.semantics
     com.strobel.decompiler.types
     com.strobel.decompiler.utilities
+Number of packages in this JAR: 19
 
 JAR File: procyon-core-0.6.0.jar
 Packages:
@@ -806,6 +861,7 @@ Packages:
     com.strobel.io
     com.strobel.reflection
     com.strobel.util
+Number of packages in this JAR: 13
 
 JAR File: reactfx-2.0-M5.jar
 Packages:
@@ -818,11 +874,13 @@ Packages:
     org.reactfx.inhibeans.value
     org.reactfx.util
     org.reactfx.value
+Number of packages in this JAR: 9
 
 JAR File: reflectasm-1.11.9.jar
 Packages:
     com.esotericsoftware.asm
     com.esotericsoftware.reflectasm
+Number of packages in this JAR: 2
 
 JAR File: richtextfx-0.10.6.jar
 Packages:
@@ -831,6 +889,7 @@ Packages:
     org.fxmisc.richtext.event
     org.fxmisc.richtext.model
     org.fxmisc.richtext.util
+Number of packages in this JAR: 5
 
 JAR File: sa-jdi-8.0.jar
 Packages:
@@ -924,11 +983,13 @@ Packages:
     sun.jvm.hotspot.utilities
     sun.jvm.hotspot.utilities.memo
     sun.jvm.hotspot.utilities.soql
+Number of packages in this JAR: 90
 
 JAR File: sac-1.3.jar
 Packages:
     org.w3c.css.sac
     org.w3c.css.sac.helpers
+Number of packages in this JAR: 2
 
 JAR File: SimAnalyzer-1.6.0.jar
 Packages:
@@ -938,6 +999,7 @@ Packages:
     me.coley.analysis.util
     me.coley.analysis.value
     me.coley.analysis.value.simulated
+Number of packages in this JAR: 6
 
 JAR File: slf4j-api-1.7.30.jar
 Packages:
@@ -945,6 +1007,7 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: tools-8.0.jar
 Packages:
@@ -1145,17 +1208,20 @@ Packages:
     sun.tools.serialver
     sun.tools.tree
     sun.tools.util
+Number of packages in this JAR: 197
 
 JAR File: undofx-2.1.0.jar
 Packages:
     org.fxmisc.undo
     org.fxmisc.undo.impl
+Number of packages in this JAR: 2
 
 JAR File: wellbehavedfx-0.3.3.jar
 Packages:
     org.fxmisc.wellbehaved.event
     org.fxmisc.wellbehaved.event.internal
     org.fxmisc.wellbehaved.event.template
+Number of packages in this JAR: 3
 
 Duplicate Packages Found:
 Package: org.jline.builtins
@@ -1242,3 +1308,6 @@ Package: org.jline.reader.impl
     Appears in JARs:
         jline-reader-3.21.0.jar
         jline-3.19.0.jar
+
+Total number of duplicate packages: 21
+Total number of packages: 961

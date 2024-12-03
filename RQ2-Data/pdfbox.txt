@@ -52,6 +52,7 @@ Packages:
     org.bouncycastle.tsp.cms
     org.bouncycastle.tsp.ers
     org.bouncycastle.voms
+Number of packages in this JAR: 52
 
 JAR File: bcprov-jdk15to18-1.77.jar
 Packages:
@@ -231,6 +232,7 @@ Packages:
     org.bouncycastle.x509
     org.bouncycastle.x509.extension
     org.bouncycastle.x509.util
+Number of packages in this JAR: 176
 
 JAR File: bcutil-jdk15to18-1.77.jar
 Packages:
@@ -267,11 +269,13 @@ Packages:
     org.bouncycastle.oer.its.template.ieee1609dot2
     org.bouncycastle.oer.its.template.ieee1609dot2.basetypes
     org.bouncycastle.oer.its.template.ieee1609dot2dot1
+Number of packages in this JAR: 33
 
 JAR File: commons-logging-1.2.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: fontbox-2.0.31.jar
 Packages:
@@ -285,6 +289,10 @@ Packages:
     org.apache.fontbox.type1
     org.apache.fontbox.util
     org.apache.fontbox.util.autodetect
+Number of packages in this JAR: 10
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 273

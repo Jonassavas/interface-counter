@@ -1,0 +1,114 @@
+Dependency JAR: annotations-13.0.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-9.3.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-analysis-9.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-tree-9.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-util-9.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bucket4j-core-6.4.1.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-io-2.11.0.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: config-1.4.2.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: javax.inject-1.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jsr305-3.0.2.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlin-reflect-1.6.21.jar
+Missing Packages:
+Number of packages in this JAR: 64
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlin-stdlib-1.6.21.jar
+Missing Packages:
+Number of packages in this JAR: 31
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlin-stdlib-common-1.6.21.jar
+Missing Packages:
+Number of packages in this JAR: 0
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlin-stdlib-jdk7-1.6.21.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlin-stdlib-jdk8-1.6.21.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlinx-coroutines-core-1.6.2.jar
+Missing Packages:
+Number of packages in this JAR: 0
+Number of missing packages in this JAR: 0
+
+Dependency JAR: kotlinx-coroutines-core-jvm-1.6.2.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: reactive-streams-1.0.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: reactor-core-3.4.18.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: rxjava-2.2.21.jar
+Missing Packages:
+Number of packages in this JAR: 30
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.36.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: unbescape-1.1.6.RELEASE.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 202
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

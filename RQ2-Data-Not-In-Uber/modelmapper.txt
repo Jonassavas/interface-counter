@@ -1,0 +1,34 @@
+Dependency JAR: asm-9.4.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-commons-9.2.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: asm-tree-9.4.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: byte-buddy-dep-1.12.3.jar
+Missing Packages:
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 0
+
+Dependency JAR: objenesis-3.2.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: typetools-0.6.3.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 49
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

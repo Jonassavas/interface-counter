@@ -2,14 +2,17 @@ JAR File: asm-9.4.jar
 Packages:
     org.objectweb.asm
     org.objectweb.asm.signature
+Number of packages in this JAR: 2
 
 JAR File: asm-commons-9.2.jar
 Packages:
     org.objectweb.asm.commons
+Number of packages in this JAR: 1
 
 JAR File: asm-tree-9.4.jar
 Packages:
     org.objectweb.asm.tree
+Number of packages in this JAR: 1
 
 JAR File: byte-buddy-dep-1.12.3.jar
 Packages:
@@ -47,6 +50,7 @@ Packages:
     net.bytebuddy.utility.dispatcher
     net.bytebuddy.utility.privilege
     net.bytebuddy.utility.visitor
+Number of packages in this JAR: 34
 
 JAR File: objenesis-3.2.jar
 Packages:
@@ -60,10 +64,15 @@ Packages:
     org.objenesis.instantiator.sun
     org.objenesis.instantiator.util
     org.objenesis.strategy
+Number of packages in this JAR: 10
 
 JAR File: typetools-0.6.3.jar
 Packages:
     net.jodah.typetools
+Number of packages in this JAR: 1
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 49

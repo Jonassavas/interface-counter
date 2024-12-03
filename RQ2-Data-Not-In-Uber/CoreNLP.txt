@@ -1,0 +1,289 @@
+Dependency JAR: AppleJavaExtensions-1.4.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-lang3-3.3.1.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-cdense-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 13
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-core-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-ddense-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 29
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-dsparse-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-fdense-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 29
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-fsparse-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-simple-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: ejml-zdense-0.39.jar
+Missing Packages:
+Number of packages in this JAR: 13
+Number of missing packages in this JAR: 0
+
+Dependency JAR: istack-commons-runtime-3.0.7.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jakarta.servlet-api-4.0.4.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: javax.activation-api-1.2.0.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: javax.json-1.0.4.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jaxb-api-2.4.0-b180830.0359.jar
+Missing Packages:
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 6
+
+Dependency JAR: jaxb-impl-2.4.0-b180830.0438.jar
+Missing Packages:
+Number of packages in this JAR: 25
+Number of missing packages in this JAR: 0
+
+Dependency JAR: joda-time-2.10.5.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jollyday-0.4.9.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: jsr305-3.0.2.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: lucene-analyzers-common-7.5.0.jar
+Missing Packages:
+    org.apache.lucene.analysis.ar
+    org.apache.lucene.analysis.bg
+    org.apache.lucene.analysis.bn
+    org.apache.lucene.analysis.br
+    org.apache.lucene.analysis.ca
+    org.apache.lucene.analysis.charfilter
+    org.apache.lucene.analysis.cjk
+    org.apache.lucene.analysis.ckb
+    org.apache.lucene.analysis.commongrams
+    org.apache.lucene.analysis.compound
+    org.apache.lucene.analysis.compound.hyphenation
+    org.apache.lucene.analysis.core
+    org.apache.lucene.analysis.custom
+    org.apache.lucene.analysis.cz
+    org.apache.lucene.analysis.da
+    org.apache.lucene.analysis.de
+    org.apache.lucene.analysis.el
+    org.apache.lucene.analysis.en
+    org.apache.lucene.analysis.es
+    org.apache.lucene.analysis.eu
+    org.apache.lucene.analysis.fa
+    org.apache.lucene.analysis.fi
+    org.apache.lucene.analysis.fr
+    org.apache.lucene.analysis.ga
+    org.apache.lucene.analysis.gl
+    org.apache.lucene.analysis.hi
+    org.apache.lucene.analysis.hu
+    org.apache.lucene.analysis.hunspell
+    org.apache.lucene.analysis.hy
+    org.apache.lucene.analysis.id
+    org.apache.lucene.analysis.in
+    org.apache.lucene.analysis.it
+    org.apache.lucene.analysis.lt
+    org.apache.lucene.analysis.lv
+    org.apache.lucene.analysis.minhash
+    org.apache.lucene.analysis.miscellaneous
+    org.apache.lucene.analysis.ngram
+    org.apache.lucene.analysis.nl
+    org.apache.lucene.analysis.no
+    org.apache.lucene.analysis.path
+    org.apache.lucene.analysis.pattern
+    org.apache.lucene.analysis.payloads
+    org.apache.lucene.analysis.pt
+    org.apache.lucene.analysis.query
+    org.apache.lucene.analysis.reverse
+    org.apache.lucene.analysis.ro
+    org.apache.lucene.analysis.ru
+    org.apache.lucene.analysis.shingle
+    org.apache.lucene.analysis.sinks
+    org.apache.lucene.analysis.snowball
+    org.apache.lucene.analysis.sr
+    org.apache.lucene.analysis.standard
+    org.apache.lucene.analysis.sv
+    org.apache.lucene.analysis.synonym
+    org.apache.lucene.analysis.th
+    org.apache.lucene.analysis.tr
+    org.apache.lucene.analysis.util
+    org.apache.lucene.analysis.wikipedia
+    org.apache.lucene.collation
+    org.apache.lucene.collation.tokenattributes
+Number of packages in this JAR: 62
+Number of missing packages in this JAR: 60
+
+Dependency JAR: lucene-core-7.5.0.jar
+Missing Packages:
+    org.apache.lucene
+    org.apache.lucene.analysis
+    org.apache.lucene.analysis.standard
+    org.apache.lucene.analysis.tokenattributes
+    org.apache.lucene.codecs
+    org.apache.lucene.codecs.blocktree
+    org.apache.lucene.codecs.compressing
+    org.apache.lucene.codecs.lucene50
+    org.apache.lucene.codecs.lucene60
+    org.apache.lucene.codecs.lucene62
+    org.apache.lucene.codecs.lucene70
+    org.apache.lucene.codecs.perfield
+    org.apache.lucene.document
+    org.apache.lucene.geo
+    org.apache.lucene.index
+    org.apache.lucene.search
+    org.apache.lucene.search.similarities
+    org.apache.lucene.search.spans
+    org.apache.lucene.store
+    org.apache.lucene.util
+    org.apache.lucene.util.automaton
+    org.apache.lucene.util.bkd
+    org.apache.lucene.util.fst
+    org.apache.lucene.util.graph
+    org.apache.lucene.util.mutable
+    org.apache.lucene.util.packed
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 26
+
+Dependency JAR: lucene-queries-7.5.0.jar
+Missing Packages:
+    org.apache.lucene.queries
+    org.apache.lucene.queries.function
+    org.apache.lucene.queries.function.docvalues
+    org.apache.lucene.queries.function.valuesource
+    org.apache.lucene.queries.mlt
+    org.apache.lucene.queries.payloads
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 6
+
+Dependency JAR: lucene-queryparser-7.5.0.jar
+Missing Packages:
+    org.apache.lucene.queryparser.classic
+    org.apache.lucene.queryparser.complexPhrase
+    org.apache.lucene.queryparser.ext
+    org.apache.lucene.queryparser.flexible.core
+    org.apache.lucene.queryparser.flexible.core.builders
+    org.apache.lucene.queryparser.flexible.core.config
+    org.apache.lucene.queryparser.flexible.core.messages
+    org.apache.lucene.queryparser.flexible.core.nodes
+    org.apache.lucene.queryparser.flexible.core.parser
+    org.apache.lucene.queryparser.flexible.core.processors
+    org.apache.lucene.queryparser.flexible.core.util
+    org.apache.lucene.queryparser.flexible.messages
+    org.apache.lucene.queryparser.flexible.precedence
+    org.apache.lucene.queryparser.flexible.precedence.processors
+    org.apache.lucene.queryparser.flexible.standard
+    org.apache.lucene.queryparser.flexible.standard.builders
+    org.apache.lucene.queryparser.flexible.standard.config
+    org.apache.lucene.queryparser.flexible.standard.nodes
+    org.apache.lucene.queryparser.flexible.standard.parser
+    org.apache.lucene.queryparser.flexible.standard.processors
+    org.apache.lucene.queryparser.simple
+    org.apache.lucene.queryparser.surround.parser
+    org.apache.lucene.queryparser.surround.query
+    org.apache.lucene.queryparser.xml
+    org.apache.lucene.queryparser.xml.builders
+Number of packages in this JAR: 25
+Number of missing packages in this JAR: 25
+
+Dependency JAR: lucene-sandbox-7.5.0.jar
+Missing Packages:
+    org.apache.lucene.codecs.idversion
+    org.apache.lucene.document
+    org.apache.lucene.geo
+    org.apache.lucene.payloads
+    org.apache.lucene.sandbox.queries
+    org.apache.lucene.search
+    org.apache.lucene.search.intervals
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 7
+
+Dependency JAR: protobuf-java-3.19.6.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: serializer-2.7.3.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: slf4j-api-1.7.12.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xalan-2.7.3.jar
+Missing Packages:
+Number of packages in this JAR: 50
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xercesImpl-2.12.2.jar
+Missing Packages:
+Number of packages in this JAR: 40
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xml-apis-1.4.01.jar
+Missing Packages:
+Number of packages in this JAR: 29
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xom-1.3.9.jar
+Missing Packages:
+Number of packages in this JAR: 16
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 477
+Total number of missing packages across all dependency JARs: 130
+Overall percentage of missing packages: 27.25%

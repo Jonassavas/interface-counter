@@ -1,0 +1,105 @@
+JAR File: asm-7.1.jar
+Packages:
+    org.objectweb.asm
+    org.objectweb.asm.signature
+
+JAR File: cglib-3.3.0.jar
+Packages:
+    net.sf.cglib.beans
+    net.sf.cglib.core
+    net.sf.cglib.core.internal
+    net.sf.cglib.proxy
+    net.sf.cglib.reflect
+    net.sf.cglib.transform
+    net.sf.cglib.transform.impl
+    net.sf.cglib.util
+
+JAR File: commons-logging-1.3.1.jar
+Packages:
+    META-INF.versions.9
+    org.apache.commons.logging
+    org.apache.commons.logging.impl
+
+JAR File: javassist-3.30.2-GA.jar
+Packages:
+    javassist
+    javassist.bytecode
+    javassist.bytecode.analysis
+    javassist.bytecode.annotation
+    javassist.bytecode.stackmap
+    javassist.compiler
+    javassist.compiler.ast
+    javassist.convert
+    javassist.expr
+    javassist.runtime
+    javassist.scopedpool
+    javassist.tools
+    javassist.tools.reflect
+    javassist.tools.rmi
+    javassist.tools.web
+    javassist.util
+    javassist.util.proxy
+
+JAR File: log4j-api-2.23.1.jar
+Packages:
+    META-INF.versions.9.org.apache.logging.log4j.util
+    META-INF.versions.9.org.apache.logging.log4j.util.internal
+    org.apache.logging.log4j
+    org.apache.logging.log4j.internal
+    org.apache.logging.log4j.message
+    org.apache.logging.log4j.simple
+    org.apache.logging.log4j.spi
+    org.apache.logging.log4j.status
+    org.apache.logging.log4j.util
+    org.apache.logging.log4j.util.internal
+
+JAR File: mssql-jdbc-12.4.2.jre8.jar
+Packages:
+    com.microsoft.sqlserver.jdbc
+    com.microsoft.sqlserver.jdbc.dataclassification
+    com.microsoft.sqlserver.jdbc.dns
+    com.microsoft.sqlserver.jdbc.osgi
+    com.microsoft.sqlserver.jdbc.spatialdatatypes
+    microsoft.sql
+    mssql.googlecode.cityhash
+    mssql.googlecode.concurrentlinkedhashmap
+    mssql.security.provider
+
+JAR File: ognl-3.4.2.jar
+Packages:
+    ognl
+    ognl.enhance
+    ognl.internal
+    ognl.internal.entry
+    ognl.security
+
+JAR File: reload4j-1.2.25.jar
+Packages:
+    org.apache.log4j
+    org.apache.log4j.chainsaw
+    org.apache.log4j.config
+    org.apache.log4j.helpers
+    org.apache.log4j.jdbc
+    org.apache.log4j.net
+    org.apache.log4j.or
+    org.apache.log4j.or.jms
+    org.apache.log4j.or.sax
+    org.apache.log4j.pattern
+    org.apache.log4j.rewrite
+    org.apache.log4j.spi
+    org.apache.log4j.varia
+    org.apache.log4j.xml
+
+JAR File: slf4j-api-2.0.12.jar
+Packages:
+    META-INF.versions.9
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        commons-logging-1.3.1.jar
+        slf4j-api-2.0.12.jar

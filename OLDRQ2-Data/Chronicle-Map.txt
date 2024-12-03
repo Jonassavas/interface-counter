@@ -1,0 +1,716 @@
+JAR File: affinity-3.23.3.jar
+Packages:
+    net.openhft.affinity
+    net.openhft.affinity.impl
+    net.openhft.affinity.lockchecker
+    net.openhft.affinity.main
+    net.openhft.ticker
+    net.openhft.ticker.impl
+    software.chronicle.enterprise.internals.impl
+
+JAR File: annotations-12.0.jar
+Packages:
+    org.intellij.lang.annotations
+    org.jetbrains.annotations
+
+JAR File: asm-9.2.jar
+Packages:
+    org.objectweb.asm
+    org.objectweb.asm.signature
+
+JAR File: assertions-disabled-1.0.0.jar
+Packages:
+    net.openhft.chronicle.assertions
+
+JAR File: chronicle-algorithms-2.25ea0.jar
+Packages:
+    net.openhft.chronicle.algo
+    net.openhft.chronicle.algo.bitset
+    net.openhft.chronicle.algo.bytes
+    net.openhft.chronicle.algo.hashing
+    net.openhft.chronicle.algo.internal
+    net.openhft.chronicle.algo.locks
+
+JAR File: chronicle-analytics-2.25ea0.jar
+Packages:
+    net.openhft.chronicle.analytics
+    net.openhft.chronicle.analytics.internal
+
+JAR File: chronicle-bytes-2.25ea7.jar
+Packages:
+    net.openhft.chronicle.bytes
+    net.openhft.chronicle.bytes.algo
+    net.openhft.chronicle.bytes.domestic
+    net.openhft.chronicle.bytes.internal
+    net.openhft.chronicle.bytes.internal.migration
+    net.openhft.chronicle.bytes.pool
+    net.openhft.chronicle.bytes.ref
+    net.openhft.chronicle.bytes.render
+    net.openhft.chronicle.bytes.util
+
+JAR File: chronicle-core-2.25ea10.jar
+Packages:
+    net.openhft.chronicle.core
+    net.openhft.chronicle.core.analytics
+    net.openhft.chronicle.core.annotation
+    net.openhft.chronicle.core.announcer
+    net.openhft.chronicle.core.cleaner
+    net.openhft.chronicle.core.cleaner.spi
+    net.openhft.chronicle.core.cooler
+    net.openhft.chronicle.core.domestic
+    net.openhft.chronicle.core.internal
+    net.openhft.chronicle.core.internal.analytics
+    net.openhft.chronicle.core.internal.announcer
+    net.openhft.chronicle.core.internal.cleaner
+    net.openhft.chronicle.core.internal.invariant.ints
+    net.openhft.chronicle.core.internal.invariant.longs
+    net.openhft.chronicle.core.internal.pom
+    net.openhft.chronicle.core.internal.util
+    net.openhft.chronicle.core.io
+    net.openhft.chronicle.core.onoes
+    net.openhft.chronicle.core.pom
+    net.openhft.chronicle.core.pool
+    net.openhft.chronicle.core.scoped
+    net.openhft.chronicle.core.shutdown
+    net.openhft.chronicle.core.threads
+    net.openhft.chronicle.core.time
+    net.openhft.chronicle.core.util
+    net.openhft.chronicle.core.values
+    net.openhft.chronicle.core.watcher
+
+JAR File: chronicle-threads-2.25ea5.jar
+Packages:
+    net.openhft.chronicle.threads
+    net.openhft.chronicle.threads.internal
+
+JAR File: chronicle-values-2.25ea3.jar
+Packages:
+    net.openhft.chronicle.values
+    net.openhft.chronicle.values.internal
+
+JAR File: chronicle-wire-2.25ea10.jar
+Packages:
+    net.openhft.chronicle.wire
+    net.openhft.chronicle.wire.channel
+    net.openhft.chronicle.wire.channel.echo
+    net.openhft.chronicle.wire.channel.echo.internal
+    net.openhft.chronicle.wire.channel.impl
+    net.openhft.chronicle.wire.channel.impl.internal
+    net.openhft.chronicle.wire.channel.impl.tcp
+    net.openhft.chronicle.wire.converter
+    net.openhft.chronicle.wire.domestic
+    net.openhft.chronicle.wire.domestic.extractor
+    net.openhft.chronicle.wire.domestic.reduction
+    net.openhft.chronicle.wire.domestic.stream
+    net.openhft.chronicle.wire.internal
+    net.openhft.chronicle.wire.internal.extractor
+    net.openhft.chronicle.wire.internal.fieldinfo
+    net.openhft.chronicle.wire.internal.reduction
+    net.openhft.chronicle.wire.internal.stream
+    net.openhft.chronicle.wire.utils
+
+JAR File: commons-io-1.3.2.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.input
+    org.apache.commons.io.output
+
+JAR File: compiler-2.25ea2.jar
+Packages:
+    net.openhft.compiler
+    net.openhft.compiler.internal
+
+JAR File: ecj-4.4.2.jar
+Packages:
+    org.eclipse.jdt.core
+    org.eclipse.jdt.core.compiler
+    org.eclipse.jdt.core.compiler.batch
+    org.eclipse.jdt.internal.antadapter
+    org.eclipse.jdt.internal.compiler
+    org.eclipse.jdt.internal.compiler.apt.dispatch
+    org.eclipse.jdt.internal.compiler.apt.model
+    org.eclipse.jdt.internal.compiler.apt.util
+    org.eclipse.jdt.internal.compiler.ast
+    org.eclipse.jdt.internal.compiler.batch
+    org.eclipse.jdt.internal.compiler.classfmt
+    org.eclipse.jdt.internal.compiler.codegen
+    org.eclipse.jdt.internal.compiler.env
+    org.eclipse.jdt.internal.compiler.flow
+    org.eclipse.jdt.internal.compiler.impl
+    org.eclipse.jdt.internal.compiler.lookup
+    org.eclipse.jdt.internal.compiler.parser
+    org.eclipse.jdt.internal.compiler.parser.diagnose
+    org.eclipse.jdt.internal.compiler.problem
+    org.eclipse.jdt.internal.compiler.tool
+    org.eclipse.jdt.internal.compiler.util
+
+JAR File: fastutil-7.0.6.jar
+Packages:
+    it.unimi.dsi.fastutil
+    it.unimi.dsi.fastutil.booleans
+    it.unimi.dsi.fastutil.bytes
+    it.unimi.dsi.fastutil.chars
+    it.unimi.dsi.fastutil.doubles
+    it.unimi.dsi.fastutil.floats
+    it.unimi.dsi.fastutil.ints
+    it.unimi.dsi.fastutil.io
+    it.unimi.dsi.fastutil.longs
+    it.unimi.dsi.fastutil.objects
+    it.unimi.dsi.fastutil.shorts
+
+JAR File: javapoet-1.13.0.jar
+Packages:
+    com.squareup.javapoet
+
+JAR File: javax.annotation-api-1.3.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.security
+    javax.annotation.sql
+
+JAR File: jcl-over-slf4j-1.7.32.jar
+Packages:
+    org.apache.commons.logging
+    org.apache.commons.logging.impl
+
+JAR File: jettison-1.5.4.jar
+Packages:
+    org.codehaus.jettison
+    org.codehaus.jettison.badgerfish
+    org.codehaus.jettison.json
+    org.codehaus.jettison.mapped
+    org.codehaus.jettison.util
+
+JAR File: jffi-1.3.12-native.jar
+Packages:
+
+JAR File: jffi-1.3.12.jar
+Packages:
+    com.kenai.jffi
+    com.kenai.jffi.internal
+
+JAR File: jna-5.5.0.jar
+Packages:
+    com.sun.jna
+    com.sun.jna.internal
+    com.sun.jna.ptr
+    com.sun.jna.win32
+
+JAR File: jna-platform-5.5.0.jar
+Packages:
+    com.sun.jna.platform
+    com.sun.jna.platform.dnd
+    com.sun.jna.platform.linux
+    com.sun.jna.platform.mac
+    com.sun.jna.platform.unix
+    com.sun.jna.platform.unix.solaris
+    com.sun.jna.platform.win32
+    com.sun.jna.platform.win32.COM
+    com.sun.jna.platform.win32.COM.tlb
+    com.sun.jna.platform.win32.COM.tlb.imp
+    com.sun.jna.platform.win32.COM.util
+    com.sun.jna.platform.win32.COM.util.annotation
+    com.sun.jna.platform.wince
+
+JAR File: jnr-a64asm-1.0.0.jar
+Packages:
+    jnr.a64asm
+
+JAR File: jnr-constants-0.10.4.jar
+Packages:
+    jnr.constants
+    jnr.constants.platform
+    jnr.constants.platform.aix
+    jnr.constants.platform.darwin
+    jnr.constants.platform.dragonflybsd
+    jnr.constants.platform.fake
+    jnr.constants.platform.freebsd
+    jnr.constants.platform.freebsd.aarch64
+    jnr.constants.platform.linux
+    jnr.constants.platform.linux.aarch64
+    jnr.constants.platform.linux.loongarch64
+    jnr.constants.platform.linux.mips64el
+    jnr.constants.platform.linux.powerpc64
+    jnr.constants.platform.linux.s390x
+    jnr.constants.platform.openbsd
+    jnr.constants.platform.solaris
+    jnr.constants.platform.windows
+
+JAR File: jnr-ffi-2.2.15.jar
+Packages:
+    jnr.ffi
+    jnr.ffi.annotations
+    jnr.ffi.byref
+    jnr.ffi.mapper
+    jnr.ffi.provider
+    jnr.ffi.provider.converters
+    jnr.ffi.provider.jffi
+    jnr.ffi.provider.jffi.platform.aarch64.darwin
+    jnr.ffi.provider.jffi.platform.aarch64.freebsd
+    jnr.ffi.provider.jffi.platform.aarch64.linux
+    jnr.ffi.provider.jffi.platform.aarch64.windows
+    jnr.ffi.provider.jffi.platform.arm.linux
+    jnr.ffi.provider.jffi.platform.i386.darwin
+    jnr.ffi.provider.jffi.platform.i386.freebsd
+    jnr.ffi.provider.jffi.platform.i386.linux
+    jnr.ffi.provider.jffi.platform.i386.midnightbsd
+    jnr.ffi.provider.jffi.platform.i386.openbsd
+    jnr.ffi.provider.jffi.platform.i386.solaris
+    jnr.ffi.provider.jffi.platform.i386.windows
+    jnr.ffi.provider.jffi.platform.loongarch64.linux
+    jnr.ffi.provider.jffi.platform.mips.linux
+    jnr.ffi.provider.jffi.platform.mips64.linux
+    jnr.ffi.provider.jffi.platform.mips64el.linux
+    jnr.ffi.provider.jffi.platform.mipsel.linux
+    jnr.ffi.provider.jffi.platform.ppc.aix
+    jnr.ffi.provider.jffi.platform.ppc.darwin
+    jnr.ffi.provider.jffi.platform.ppc.linux
+    jnr.ffi.provider.jffi.platform.ppc64.aix
+    jnr.ffi.provider.jffi.platform.ppc64.freebsd
+    jnr.ffi.provider.jffi.platform.ppc64.ibmi
+    jnr.ffi.provider.jffi.platform.ppc64.linux
+    jnr.ffi.provider.jffi.platform.ppc64le.linux
+    jnr.ffi.provider.jffi.platform.riscv64.linux
+    jnr.ffi.provider.jffi.platform.s390.linux
+    jnr.ffi.provider.jffi.platform.s390x.linux
+    jnr.ffi.provider.jffi.platform.sparc.solaris
+    jnr.ffi.provider.jffi.platform.sparcv9.linux
+    jnr.ffi.provider.jffi.platform.sparcv9.solaris
+    jnr.ffi.provider.jffi.platform.x86_64.darwin
+    jnr.ffi.provider.jffi.platform.x86_64.dragonfly
+    jnr.ffi.provider.jffi.platform.x86_64.freebsd
+    jnr.ffi.provider.jffi.platform.x86_64.linux
+    jnr.ffi.provider.jffi.platform.x86_64.midnightbsd
+    jnr.ffi.provider.jffi.platform.x86_64.openbsd
+    jnr.ffi.provider.jffi.platform.x86_64.solaris
+    jnr.ffi.provider.jffi.platform.x86_64.windows
+    jnr.ffi.types
+    jnr.ffi.util
+    jnr.ffi.util.ref
+    jnr.ffi.util.ref.internal
+
+JAR File: jnr-x86asm-1.0.2.jar
+Packages:
+    com.kenai.jnr.x86asm
+    jnr.x86asm
+
+JAR File: jsap-2.1.jar
+Packages:
+    com.martiansoftware.jsap
+    com.martiansoftware.jsap.ant
+    com.martiansoftware.jsap.defaultsources
+    com.martiansoftware.jsap.stringparsers
+    com.martiansoftware.jsap.xml
+    com.martiansoftware.util
+
+JAR File: log4j-1.2.17.jar
+Packages:
+    org.apache.log4j
+    org.apache.log4j.chainsaw
+    org.apache.log4j.config
+    org.apache.log4j.helpers
+    org.apache.log4j.jdbc
+    org.apache.log4j.jmx
+    org.apache.log4j.lf5
+    org.apache.log4j.lf5.util
+    org.apache.log4j.lf5.viewer
+    org.apache.log4j.lf5.viewer.categoryexplorer
+    org.apache.log4j.lf5.viewer.configure
+    org.apache.log4j.net
+    org.apache.log4j.nt
+    org.apache.log4j.or
+    org.apache.log4j.or.jms
+    org.apache.log4j.or.sax
+    org.apache.log4j.pattern
+    org.apache.log4j.rewrite
+    org.apache.log4j.spi
+    org.apache.log4j.varia
+    org.apache.log4j.xml
+
+JAR File: maven-resolver-api-1.8.2.jar
+Packages:
+    org.eclipse.aether
+    org.eclipse.aether.artifact
+    org.eclipse.aether.collection
+    org.eclipse.aether.deployment
+    org.eclipse.aether.graph
+    org.eclipse.aether.installation
+    org.eclipse.aether.metadata
+    org.eclipse.aether.repository
+    org.eclipse.aether.resolution
+    org.eclipse.aether.transfer
+    org.eclipse.aether.transform
+    org.eclipse.aether.version
+
+JAR File: maven-resolver-impl-1.8.2.jar
+Packages:
+    org.eclipse.aether.impl
+    org.eclipse.aether.impl.guice
+    org.eclipse.aether.internal.impl
+    org.eclipse.aether.internal.impl.checksum
+    org.eclipse.aether.internal.impl.collect
+    org.eclipse.aether.internal.impl.collect.bf
+    org.eclipse.aether.internal.impl.collect.df
+    org.eclipse.aether.internal.impl.slf4j
+    org.eclipse.aether.internal.impl.synccontext
+    org.eclipse.aether.internal.impl.synccontext.legacy
+    org.eclipse.aether.internal.impl.synccontext.named
+
+JAR File: maven-resolver-named-locks-1.8.2.jar
+Packages:
+    org.eclipse.aether.named
+    org.eclipse.aether.named.providers
+    org.eclipse.aether.named.support
+
+JAR File: maven-resolver-spi-1.8.2.jar
+Packages:
+    org.eclipse.aether.spi.connector
+    org.eclipse.aether.spi.connector.checksum
+    org.eclipse.aether.spi.connector.layout
+    org.eclipse.aether.spi.connector.transport
+    org.eclipse.aether.spi.io
+    org.eclipse.aether.spi.localrepo
+    org.eclipse.aether.spi.locator
+    org.eclipse.aether.spi.log
+    org.eclipse.aether.spi.synccontext
+
+JAR File: maven-resolver-util-1.8.2.jar
+Packages:
+    org.eclipse.aether.util
+    org.eclipse.aether.util.artifact
+    org.eclipse.aether.util.concurrency
+    org.eclipse.aether.util.filter
+    org.eclipse.aether.util.graph.manager
+    org.eclipse.aether.util.graph.selector
+    org.eclipse.aether.util.graph.transformer
+    org.eclipse.aether.util.graph.traverser
+    org.eclipse.aether.util.graph.version
+    org.eclipse.aether.util.graph.visitor
+    org.eclipse.aether.util.listener
+    org.eclipse.aether.util.repository
+    org.eclipse.aether.util.version
+
+JAR File: mxparser-1.2.2.jar
+Packages:
+    io.github.xstream.mxparser
+
+JAR File: pax-url-aether-2.6.12.jar
+Packages:
+    javax.annotation
+    javax.annotation.security
+    javax.annotation.sql
+    javax.inject
+    org.eclipse.sisu
+    org.eclipse.sisu.bean
+    org.eclipse.sisu.inject
+    org.eclipse.sisu.launch
+    org.eclipse.sisu.osgi
+    org.eclipse.sisu.space
+    org.eclipse.sisu.space.asm
+    org.eclipse.sisu.wire
+    org.ops4j.pax.url.commons.handler
+    org.ops4j.pax.url.mvn
+    org.ops4j.pax.url.mvn.internal
+    org.ops4j.pax.url.mvn.internal.config
+    org.ops4j.pax.url.mvn.internal.wagon
+    org.sonatype.inject
+    shaded.org.apache.commons.codec
+    shaded.org.apache.commons.codec.binary
+    shaded.org.apache.commons.codec.cli
+    shaded.org.apache.commons.codec.digest
+    shaded.org.apache.commons.codec.net
+    shaded.org.apache.commons.io
+    shaded.org.apache.commons.io.comparator
+    shaded.org.apache.commons.io.file
+    shaded.org.apache.commons.io.file.spi
+    shaded.org.apache.commons.io.filefilter
+    shaded.org.apache.commons.io.function
+    shaded.org.apache.commons.io.input
+    shaded.org.apache.commons.io.input.buffer
+    shaded.org.apache.commons.io.monitor
+    shaded.org.apache.commons.io.output
+    shaded.org.apache.commons.io.serialization
+    shaded.org.apache.commons.lang3
+    shaded.org.apache.commons.lang3.compare
+    shaded.org.apache.commons.lang3.function
+    shaded.org.apache.commons.lang3.stream
+    shaded.org.apache.commons.logging
+    shaded.org.apache.commons.logging.impl
+    shaded.org.apache.http
+    shaded.org.apache.http.annotation
+    shaded.org.apache.http.auth
+    shaded.org.apache.http.auth.params
+    shaded.org.apache.http.client
+    shaded.org.apache.http.client.config
+    shaded.org.apache.http.client.entity
+    shaded.org.apache.http.client.methods
+    shaded.org.apache.http.client.params
+    shaded.org.apache.http.client.protocol
+    shaded.org.apache.http.client.utils
+    shaded.org.apache.http.concurrent
+    shaded.org.apache.http.config
+    shaded.org.apache.http.conn
+    shaded.org.apache.http.conn.params
+    shaded.org.apache.http.conn.routing
+    shaded.org.apache.http.conn.scheme
+    shaded.org.apache.http.conn.socket
+    shaded.org.apache.http.conn.ssl
+    shaded.org.apache.http.conn.util
+    shaded.org.apache.http.cookie
+    shaded.org.apache.http.cookie.params
+    shaded.org.apache.http.entity
+    shaded.org.apache.http.impl
+    shaded.org.apache.http.impl.auth
+    shaded.org.apache.http.impl.bootstrap
+    shaded.org.apache.http.impl.client
+    shaded.org.apache.http.impl.conn
+    shaded.org.apache.http.impl.conn.tsccm
+    shaded.org.apache.http.impl.cookie
+    shaded.org.apache.http.impl.entity
+    shaded.org.apache.http.impl.execchain
+    shaded.org.apache.http.impl.io
+    shaded.org.apache.http.impl.pool
+    shaded.org.apache.http.io
+    shaded.org.apache.http.message
+    shaded.org.apache.http.params
+    shaded.org.apache.http.pool
+    shaded.org.apache.http.protocol
+    shaded.org.apache.http.ssl
+    shaded.org.apache.http.util
+    shaded.org.apache.maven.artifact
+    shaded.org.apache.maven.artifact.handler
+    shaded.org.apache.maven.artifact.metadata
+    shaded.org.apache.maven.artifact.repository
+    shaded.org.apache.maven.artifact.repository.layout
+    shaded.org.apache.maven.artifact.repository.metadata
+    shaded.org.apache.maven.artifact.repository.metadata.io.xpp3
+    shaded.org.apache.maven.artifact.resolver
+    shaded.org.apache.maven.artifact.resolver.filter
+    shaded.org.apache.maven.artifact.versioning
+    shaded.org.apache.maven.building
+    shaded.org.apache.maven.model
+    shaded.org.apache.maven.model.building
+    shaded.org.apache.maven.model.composition
+    shaded.org.apache.maven.model.inheritance
+    shaded.org.apache.maven.model.interpolation
+    shaded.org.apache.maven.model.io
+    shaded.org.apache.maven.model.io.xpp3
+    shaded.org.apache.maven.model.locator
+    shaded.org.apache.maven.model.management
+    shaded.org.apache.maven.model.merge
+    shaded.org.apache.maven.model.normalization
+    shaded.org.apache.maven.model.path
+    shaded.org.apache.maven.model.plugin
+    shaded.org.apache.maven.model.profile
+    shaded.org.apache.maven.model.profile.activation
+    shaded.org.apache.maven.model.resolution
+    shaded.org.apache.maven.model.superpom
+    shaded.org.apache.maven.model.validation
+    shaded.org.apache.maven.repository
+    shaded.org.apache.maven.repository.internal
+    shaded.org.apache.maven.repository.legacy.metadata
+    shaded.org.apache.maven.settings
+    shaded.org.apache.maven.settings.building
+    shaded.org.apache.maven.settings.crypto
+    shaded.org.apache.maven.settings.io
+    shaded.org.apache.maven.settings.io.xpp3
+    shaded.org.apache.maven.settings.merge
+    shaded.org.apache.maven.settings.validation
+    shaded.org.apache.maven.wagon
+    shaded.org.apache.maven.wagon.authentication
+    shaded.org.apache.maven.wagon.authorization
+    shaded.org.apache.maven.wagon.events
+    shaded.org.apache.maven.wagon.observers
+    shaded.org.apache.maven.wagon.providers.file
+    shaded.org.apache.maven.wagon.providers.http
+    shaded.org.apache.maven.wagon.proxy
+    shaded.org.apache.maven.wagon.repository
+    shaded.org.apache.maven.wagon.resource
+    shaded.org.apache.maven.wagon.shared.http
+    shaded.org.codehaus.plexus.interpolation
+    shaded.org.codehaus.plexus.interpolation.fixed
+    shaded.org.codehaus.plexus.interpolation.multi
+    shaded.org.codehaus.plexus.interpolation.object
+    shaded.org.codehaus.plexus.interpolation.os
+    shaded.org.codehaus.plexus.interpolation.reflection
+    shaded.org.codehaus.plexus.interpolation.util
+    shaded.org.codehaus.plexus.util
+    shaded.org.codehaus.plexus.util.cli
+    shaded.org.codehaus.plexus.util.cli.shell
+    shaded.org.codehaus.plexus.util.dag
+    shaded.org.codehaus.plexus.util.introspection
+    shaded.org.codehaus.plexus.util.io
+    shaded.org.codehaus.plexus.util.reflection
+    shaded.org.codehaus.plexus.util.xml
+    shaded.org.codehaus.plexus.util.xml.pull
+    shaded.org.eclipse.aether
+    shaded.org.eclipse.aether.artifact
+    shaded.org.eclipse.aether.collection
+    shaded.org.eclipse.aether.connector.basic
+    shaded.org.eclipse.aether.deployment
+    shaded.org.eclipse.aether.graph
+    shaded.org.eclipse.aether.impl
+    shaded.org.eclipse.aether.impl.guice
+    shaded.org.eclipse.aether.installation
+    shaded.org.eclipse.aether.internal.impl
+    shaded.org.eclipse.aether.internal.impl.checksum
+    shaded.org.eclipse.aether.internal.impl.collect
+    shaded.org.eclipse.aether.internal.impl.collect.bf
+    shaded.org.eclipse.aether.internal.impl.collect.df
+    shaded.org.eclipse.aether.internal.impl.slf4j
+    shaded.org.eclipse.aether.internal.impl.synccontext
+    shaded.org.eclipse.aether.internal.impl.synccontext.legacy
+    shaded.org.eclipse.aether.internal.impl.synccontext.named
+    shaded.org.eclipse.aether.internal.transport.wagon
+    shaded.org.eclipse.aether.metadata
+    shaded.org.eclipse.aether.named
+    shaded.org.eclipse.aether.named.providers
+    shaded.org.eclipse.aether.named.support
+    shaded.org.eclipse.aether.repository
+    shaded.org.eclipse.aether.resolution
+    shaded.org.eclipse.aether.spi.connector
+    shaded.org.eclipse.aether.spi.connector.checksum
+    shaded.org.eclipse.aether.spi.connector.layout
+    shaded.org.eclipse.aether.spi.connector.transport
+    shaded.org.eclipse.aether.spi.io
+    shaded.org.eclipse.aether.spi.localrepo
+    shaded.org.eclipse.aether.spi.locator
+    shaded.org.eclipse.aether.spi.log
+    shaded.org.eclipse.aether.spi.synccontext
+    shaded.org.eclipse.aether.transfer
+    shaded.org.eclipse.aether.transform
+    shaded.org.eclipse.aether.transport.wagon
+    shaded.org.eclipse.aether.util
+    shaded.org.eclipse.aether.util.artifact
+    shaded.org.eclipse.aether.util.concurrency
+    shaded.org.eclipse.aether.util.filter
+    shaded.org.eclipse.aether.util.graph.manager
+    shaded.org.eclipse.aether.util.graph.selector
+    shaded.org.eclipse.aether.util.graph.transformer
+    shaded.org.eclipse.aether.util.graph.traverser
+    shaded.org.eclipse.aether.util.graph.version
+    shaded.org.eclipse.aether.util.graph.visitor
+    shaded.org.eclipse.aether.util.listener
+    shaded.org.eclipse.aether.util.repository
+    shaded.org.eclipse.aether.util.version
+    shaded.org.eclipse.aether.version
+    shaded.org.ops4j.io
+    shaded.org.ops4j.lang
+    shaded.org.ops4j.monitors
+    shaded.org.ops4j.monitors.exception
+    shaded.org.ops4j.monitors.stream
+    shaded.org.ops4j.net
+    shaded.org.ops4j.pax.swissbox.property
+    shaded.org.ops4j.util.collections
+    shaded.org.ops4j.util.property
+    shaded.org.ops4j.util.xml
+    shaded.org.sonatype.plexus.components.cipher
+    shaded.org.sonatype.plexus.components.sec.dispatcher
+    shaded.org.sonatype.plexus.components.sec.dispatcher.model
+    shaded.org.sonatype.plexus.components.sec.dispatcher.model.io.xpp3
+
+JAR File: pax-url-aether-support-2.6.12.jar
+Packages:
+    org.eclipse.aether.internal.impl
+
+JAR File: posix-2.25ea0.jar
+Packages:
+    net.openhft.posix
+    net.openhft.posix.internal
+    net.openhft.posix.internal.core
+    net.openhft.posix.internal.jna
+    net.openhft.posix.internal.jnr
+    net.openhft.posix.internal.noop
+    net.openhft.posix.internal.raw
+
+JAR File: slf4j-api-1.7.36.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: spoon-core-4.4.1.jar
+Packages:
+    spoon
+    spoon.compiler
+    spoon.processing
+    spoon.refactoring
+    spoon.reflect
+    spoon.reflect.code
+    spoon.reflect.cu
+    spoon.reflect.declaration
+    spoon.reflect.eval
+    spoon.reflect.factory
+    spoon.reflect.path
+    spoon.reflect.path.impl
+    spoon.reflect.reference
+    spoon.reflect.visitor
+    spoon.reflect.visitor.filter
+    spoon.support
+    spoon.support.compiler
+    spoon.support.compiler.jdt
+    spoon.support.gui
+    spoon.support.processing
+    spoon.support.reflect.code
+    spoon.support.reflect.cu
+    spoon.support.reflect.declaration
+    spoon.support.reflect.eval
+    spoon.support.reflect.reference
+    spoon.support.template
+    spoon.support.util
+    spoon.support.visitor
+    spoon.template
+
+JAR File: stage-compiler-1.11.jar
+Packages:
+    net.openhft.sg
+
+JAR File: xmlpull-1.1.3.1.jar
+Packages:
+    org.xmlpull.v1
+
+JAR File: xstream-1.4.20.jar
+Packages:
+    com.thoughtworks.xstream
+    com.thoughtworks.xstream.annotations
+    com.thoughtworks.xstream.converters
+    com.thoughtworks.xstream.converters.basic
+    com.thoughtworks.xstream.converters.collections
+    com.thoughtworks.xstream.converters.enums
+    com.thoughtworks.xstream.converters.extended
+    com.thoughtworks.xstream.converters.javabean
+    com.thoughtworks.xstream.converters.reflection
+    com.thoughtworks.xstream.converters.time
+    com.thoughtworks.xstream.core
+    com.thoughtworks.xstream.core.util
+    com.thoughtworks.xstream.io
+    com.thoughtworks.xstream.io.binary
+    com.thoughtworks.xstream.io.copy
+    com.thoughtworks.xstream.io.json
+    com.thoughtworks.xstream.io.naming
+    com.thoughtworks.xstream.io.path
+    com.thoughtworks.xstream.io.xml
+    com.thoughtworks.xstream.io.xml.xppdom
+    com.thoughtworks.xstream.mapper
+    com.thoughtworks.xstream.persistence
+    com.thoughtworks.xstream.security
+
+Duplicate Packages Found:
+Package: javax.annotation.security
+    Appears in JARs:
+        pax-url-aether-2.6.12.jar
+        javax.annotation-api-1.3.2.jar
+Package: javax.annotation.sql
+    Appears in JARs:
+        pax-url-aether-2.6.12.jar
+        javax.annotation-api-1.3.2.jar
+Package: org.eclipse.aether.internal.impl
+    Appears in JARs:
+        maven-resolver-impl-1.8.2.jar
+        pax-url-aether-support-2.6.12.jar
+Package: javax.annotation
+    Appears in JARs:
+        pax-url-aether-2.6.12.jar
+        javax.annotation-api-1.3.2.jar

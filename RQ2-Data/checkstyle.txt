@@ -62,10 +62,12 @@ Packages:
     org.apache.tools.mail
     org.apache.tools.tar
     org.apache.tools.zip
+Number of packages in this JAR: 62
 
 JAR File: ant-launcher-1.10.12.jar
 Packages:
     org.apache.tools.ant.launch
+Number of packages in this JAR: 1
 
 JAR File: antlr4-runtime-4.11.1.jar
 Packages:
@@ -76,6 +78,7 @@ Packages:
     org.antlr.v4.runtime.tree
     org.antlr.v4.runtime.tree.pattern
     org.antlr.v4.runtime.tree.xpath
+Number of packages in this JAR: 7
 
 JAR File: checker-qual-3.27.0.jar
 Packages:
@@ -109,6 +112,7 @@ Packages:
     org.checkerframework.common.value.qual
     org.checkerframework.dataflow.qual
     org.checkerframework.framework.qual
+Number of packages in this JAR: 30
 
 JAR File: commons-beanutils-1.9.4.jar
 Packages:
@@ -117,6 +121,7 @@ Packages:
     org.apache.commons.beanutils.expression
     org.apache.commons.beanutils.locale
     org.apache.commons.beanutils.locale.converters
+Number of packages in this JAR: 5
 
 JAR File: commons-codec-1.15.jar
 Packages:
@@ -127,6 +132,7 @@ Packages:
     org.apache.commons.codec.language
     org.apache.commons.codec.language.bm
     org.apache.commons.codec.net
+Number of packages in this JAR: 7
 
 JAR File: commons-collections-3.2.2.jar
 Packages:
@@ -142,20 +148,24 @@ Packages:
     org.apache.commons.collections.list
     org.apache.commons.collections.map
     org.apache.commons.collections.set
+Number of packages in this JAR: 12
 
 JAR File: commons-logging-1.2.jar
 Packages:
     org.apache.commons.logging
     org.apache.commons.logging.impl
+Number of packages in this JAR: 2
 
 JAR File: error_prone_annotations-2.11.0.jar
 Packages:
     com.google.errorprone.annotations
     com.google.errorprone.annotations.concurrent
+Number of packages in this JAR: 2
 
 JAR File: failureaccess-1.0.1.jar
 Packages:
     com.google.common.util.concurrent.internal
+Number of packages in this JAR: 1
 
 JAR File: guava-31.1-jre.jar
 Packages:
@@ -177,6 +187,7 @@ Packages:
     com.google.common.util.concurrent
     com.google.common.xml
     com.google.thirdparty.publicsuffix
+Number of packages in this JAR: 18
 
 JAR File: httpclient5-5.1.3.jar
 Packages:
@@ -206,6 +217,7 @@ Packages:
     org.apache.hc.client5.http.socket
     org.apache.hc.client5.http.ssl
     org.apache.hc.client5.http.utils
+Number of packages in this JAR: 26
 
 JAR File: httpcore5-5.1.3.jar
 Packages:
@@ -239,6 +251,7 @@ Packages:
     org.apache.hc.core5.reactor.ssl
     org.apache.hc.core5.ssl
     org.apache.hc.core5.util
+Number of packages in this JAR: 30
 
 JAR File: httpcore5-h2-5.1.3.jar
 Packages:
@@ -256,10 +269,12 @@ Packages:
     org.apache.hc.core5.http2.nio.support
     org.apache.hc.core5.http2.protocol
     org.apache.hc.core5.http2.ssl
+Number of packages in this JAR: 14
 
 JAR File: j2objc-annotations-1.3.jar
 Packages:
     com.google.j2objc.annotations
+Number of packages in this JAR: 1
 
 JAR File: javassist-3.28.0-GA.jar
 Packages:
@@ -280,20 +295,24 @@ Packages:
     javassist.tools.web
     javassist.util
     javassist.util.proxy
+Number of packages in this JAR: 17
 
 JAR File: jsr305-3.0.2.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: picocli-4.7.0.jar
 Packages:
     META-INF.versions.9
     picocli
+Number of packages in this JAR: 2
 
 JAR File: reflections-0.10.2.jar
 Packages:
@@ -302,6 +321,7 @@ Packages:
     org.reflections.serializers
     org.reflections.util
     org.reflections.vfs
+Number of packages in this JAR: 5
 
 JAR File: Saxon-HE-11.4.jar
 Packages:
@@ -363,6 +383,7 @@ Packages:
     net.sf.saxon.value
     net.sf.saxon.xpath
     net.sf.saxon.z
+Number of packages in this JAR: 58
 
 JAR File: slf4j-api-1.7.32.jar
 Packages:
@@ -370,9 +391,11 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: xmlresolver-4.4.3-data.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: xmlresolver-4.4.3.jar
 Packages:
@@ -386,6 +409,10 @@ Packages:
     org.xmlresolver.sources
     org.xmlresolver.tools
     org.xmlresolver.utils
+Number of packages in this JAR: 10
 
 Duplicate Packages Found:
 No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 317

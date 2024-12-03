@@ -1,0 +1,382 @@
+JAR File: checker-qual-3.5.0.jar
+Packages:
+    org.checkerframework.checker.compilermsgs.qual
+    org.checkerframework.checker.fenum.qual
+    org.checkerframework.checker.formatter
+    org.checkerframework.checker.formatter.qual
+    org.checkerframework.checker.guieffect.qual
+    org.checkerframework.checker.i18n.qual
+    org.checkerframework.checker.i18nformatter
+    org.checkerframework.checker.i18nformatter.qual
+    org.checkerframework.checker.index.qual
+    org.checkerframework.checker.initialization.qual
+    org.checkerframework.checker.interning.qual
+    org.checkerframework.checker.lock.qual
+    org.checkerframework.checker.nullness
+    org.checkerframework.checker.nullness.qual
+    org.checkerframework.checker.optional.qual
+    org.checkerframework.checker.propkey.qual
+    org.checkerframework.checker.regex
+    org.checkerframework.checker.regex.qual
+    org.checkerframework.checker.signature.qual
+    org.checkerframework.checker.signedness
+    org.checkerframework.checker.signedness.qual
+    org.checkerframework.checker.tainting.qual
+    org.checkerframework.checker.units
+    org.checkerframework.checker.units.qual
+    org.checkerframework.common.aliasing.qual
+    org.checkerframework.common.reflection.qual
+    org.checkerframework.common.returnsreceiver.qual
+    org.checkerframework.common.subtyping.qual
+    org.checkerframework.common.util.report.qual
+    org.checkerframework.common.value.qual
+    org.checkerframework.dataflow.qual
+    org.checkerframework.framework.qual
+    org.checkerframework.framework.util
+
+JAR File: classgraph-4.8.60.jar
+Packages:
+    META-INF.versions.9
+    io.github.classgraph
+    nonapi.io.github.classgraph.classloaderhandler
+    nonapi.io.github.classgraph.classpath
+    nonapi.io.github.classgraph.concurrency
+    nonapi.io.github.classgraph.fastzipfilereader
+    nonapi.io.github.classgraph.json
+    nonapi.io.github.classgraph.recycler
+    nonapi.io.github.classgraph.scanspec
+    nonapi.io.github.classgraph.types
+    nonapi.io.github.classgraph.utils
+
+JAR File: commons-lang3-3.9.jar
+Packages:
+    org.apache.commons.lang3
+    org.apache.commons.lang3.arch
+    org.apache.commons.lang3.builder
+    org.apache.commons.lang3.concurrent
+    org.apache.commons.lang3.event
+    org.apache.commons.lang3.exception
+    org.apache.commons.lang3.math
+    org.apache.commons.lang3.mutable
+    org.apache.commons.lang3.reflect
+    org.apache.commons.lang3.text
+    org.apache.commons.lang3.text.translate
+    org.apache.commons.lang3.time
+    org.apache.commons.lang3.tuple
+
+JAR File: commons-math3-3.6.1.jar
+Packages:
+    org.apache.commons.math3
+    org.apache.commons.math3.analysis
+    org.apache.commons.math3.analysis.differentiation
+    org.apache.commons.math3.analysis.function
+    org.apache.commons.math3.analysis.integration
+    org.apache.commons.math3.analysis.integration.gauss
+    org.apache.commons.math3.analysis.interpolation
+    org.apache.commons.math3.analysis.polynomials
+    org.apache.commons.math3.analysis.solvers
+    org.apache.commons.math3.complex
+    org.apache.commons.math3.dfp
+    org.apache.commons.math3.distribution
+    org.apache.commons.math3.distribution.fitting
+    org.apache.commons.math3.exception
+    org.apache.commons.math3.exception.util
+    org.apache.commons.math3.filter
+    org.apache.commons.math3.fitting
+    org.apache.commons.math3.fitting.leastsquares
+    org.apache.commons.math3.fraction
+    org.apache.commons.math3.genetics
+    org.apache.commons.math3.geometry
+    org.apache.commons.math3.geometry.enclosing
+    org.apache.commons.math3.geometry.euclidean.oned
+    org.apache.commons.math3.geometry.euclidean.threed
+    org.apache.commons.math3.geometry.euclidean.twod
+    org.apache.commons.math3.geometry.euclidean.twod.hull
+    org.apache.commons.math3.geometry.hull
+    org.apache.commons.math3.geometry.partitioning
+    org.apache.commons.math3.geometry.partitioning.utilities
+    org.apache.commons.math3.geometry.spherical.oned
+    org.apache.commons.math3.geometry.spherical.twod
+    org.apache.commons.math3.linear
+    org.apache.commons.math3.ml.clustering
+    org.apache.commons.math3.ml.clustering.evaluation
+    org.apache.commons.math3.ml.distance
+    org.apache.commons.math3.ml.neuralnet
+    org.apache.commons.math3.ml.neuralnet.oned
+    org.apache.commons.math3.ml.neuralnet.sofm
+    org.apache.commons.math3.ml.neuralnet.sofm.util
+    org.apache.commons.math3.ml.neuralnet.twod
+    org.apache.commons.math3.ml.neuralnet.twod.util
+    org.apache.commons.math3.ode
+    org.apache.commons.math3.ode.events
+    org.apache.commons.math3.ode.nonstiff
+    org.apache.commons.math3.ode.sampling
+    org.apache.commons.math3.optim
+    org.apache.commons.math3.optim.linear
+    org.apache.commons.math3.optim.nonlinear.scalar
+    org.apache.commons.math3.optim.nonlinear.scalar.gradient
+    org.apache.commons.math3.optim.nonlinear.scalar.noderiv
+    org.apache.commons.math3.optim.nonlinear.vector
+    org.apache.commons.math3.optim.nonlinear.vector.jacobian
+    org.apache.commons.math3.optim.univariate
+    org.apache.commons.math3.optimization
+    org.apache.commons.math3.optimization.direct
+    org.apache.commons.math3.optimization.fitting
+    org.apache.commons.math3.optimization.general
+    org.apache.commons.math3.optimization.linear
+    org.apache.commons.math3.optimization.univariate
+    org.apache.commons.math3.primes
+    org.apache.commons.math3.random
+    org.apache.commons.math3.special
+    org.apache.commons.math3.stat
+    org.apache.commons.math3.stat.clustering
+    org.apache.commons.math3.stat.correlation
+    org.apache.commons.math3.stat.descriptive
+    org.apache.commons.math3.stat.descriptive.moment
+    org.apache.commons.math3.stat.descriptive.rank
+    org.apache.commons.math3.stat.descriptive.summary
+    org.apache.commons.math3.stat.inference
+    org.apache.commons.math3.stat.interval
+    org.apache.commons.math3.stat.ranking
+    org.apache.commons.math3.stat.regression
+    org.apache.commons.math3.transform
+    org.apache.commons.math3.util
+
+JAR File: commons-text-1.8.jar
+Packages:
+    org.apache.commons.text
+    org.apache.commons.text.diff
+    org.apache.commons.text.lookup
+    org.apache.commons.text.matcher
+    org.apache.commons.text.similarity
+    org.apache.commons.text.translate
+
+JAR File: error_prone_annotations-2.3.4.jar
+Packages:
+    com.google.errorprone.annotations
+    com.google.errorprone.annotations.concurrent
+
+JAR File: failureaccess-1.0.1.jar
+Packages:
+    com.google.common.util.concurrent.internal
+
+JAR File: fastutil-8.3.0.jar
+Packages:
+    it.unimi.dsi.fastutil
+    it.unimi.dsi.fastutil.booleans
+    it.unimi.dsi.fastutil.bytes
+    it.unimi.dsi.fastutil.chars
+    it.unimi.dsi.fastutil.doubles
+    it.unimi.dsi.fastutil.floats
+    it.unimi.dsi.fastutil.ints
+    it.unimi.dsi.fastutil.io
+    it.unimi.dsi.fastutil.longs
+    it.unimi.dsi.fastutil.objects
+    it.unimi.dsi.fastutil.shorts
+
+JAR File: guava-30.0-jre.jar
+Packages:
+    com.google.common.annotations
+    com.google.common.base
+    com.google.common.base.internal
+    com.google.common.cache
+    com.google.common.collect
+    com.google.common.escape
+    com.google.common.eventbus
+    com.google.common.graph
+    com.google.common.hash
+    com.google.common.html
+    com.google.common.io
+    com.google.common.math
+    com.google.common.net
+    com.google.common.primitives
+    com.google.common.reflect
+    com.google.common.util.concurrent
+    com.google.common.xml
+    com.google.thirdparty.publicsuffix
+
+JAR File: icu4j-65.1.jar
+Packages:
+    com.ibm.icu.impl
+    com.ibm.icu.impl.coll
+    com.ibm.icu.impl.data
+    com.ibm.icu.impl.duration
+    com.ibm.icu.impl.duration.impl
+    com.ibm.icu.impl.locale
+    com.ibm.icu.impl.number
+    com.ibm.icu.impl.number.parse
+    com.ibm.icu.impl.number.range
+    com.ibm.icu.impl.text
+    com.ibm.icu.lang
+    com.ibm.icu.math
+    com.ibm.icu.number
+    com.ibm.icu.text
+    com.ibm.icu.util
+
+JAR File: j2objc-annotations-1.3.jar
+Packages:
+    com.google.j2objc.annotations
+
+JAR File: jackson-annotations-2.13.2.jar
+Packages:
+    com.fasterxml.jackson.annotation
+
+JAR File: jackson-core-2.13.2.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.core
+    com.fasterxml.jackson.core.async
+    com.fasterxml.jackson.core.base
+    com.fasterxml.jackson.core.exc
+    com.fasterxml.jackson.core.filter
+    com.fasterxml.jackson.core.format
+    com.fasterxml.jackson.core.io
+    com.fasterxml.jackson.core.json
+    com.fasterxml.jackson.core.json.async
+    com.fasterxml.jackson.core.sym
+    com.fasterxml.jackson.core.type
+    com.fasterxml.jackson.core.util
+
+JAR File: jackson-databind-2.13.2.1.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.databind
+    com.fasterxml.jackson.databind.annotation
+    com.fasterxml.jackson.databind.cfg
+    com.fasterxml.jackson.databind.deser
+    com.fasterxml.jackson.databind.deser.impl
+    com.fasterxml.jackson.databind.deser.std
+    com.fasterxml.jackson.databind.exc
+    com.fasterxml.jackson.databind.ext
+    com.fasterxml.jackson.databind.introspect
+    com.fasterxml.jackson.databind.jdk14
+    com.fasterxml.jackson.databind.json
+    com.fasterxml.jackson.databind.jsonFormatVisitors
+    com.fasterxml.jackson.databind.jsonschema
+    com.fasterxml.jackson.databind.jsontype
+    com.fasterxml.jackson.databind.jsontype.impl
+    com.fasterxml.jackson.databind.module
+    com.fasterxml.jackson.databind.node
+    com.fasterxml.jackson.databind.ser
+    com.fasterxml.jackson.databind.ser.impl
+    com.fasterxml.jackson.databind.ser.std
+    com.fasterxml.jackson.databind.type
+    com.fasterxml.jackson.databind.util
+
+JAR File: jackson-datatype-jsr310-2.13.2.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.datatype.jsr310
+    com.fasterxml.jackson.datatype.jsr310.deser
+    com.fasterxml.jackson.datatype.jsr310.deser.key
+    com.fasterxml.jackson.datatype.jsr310.ser
+    com.fasterxml.jackson.datatype.jsr310.ser.key
+    com.fasterxml.jackson.datatype.jsr310.util
+
+JAR File: json-base-1.0.0.jar
+Packages:
+    com.github.wnameless.json
+
+JAR File: json-flattener-0.8.1.jar
+Packages:
+    com.github.wnameless.json.flattener
+    com.github.wnameless.json.unflattener
+
+JAR File: jsr305-3.0.2.jar
+Packages:
+    javax.annotation
+    javax.annotation.concurrent
+    javax.annotation.meta
+
+JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+Packages:
+
+JAR File: minimal-json-0.9.5.jar
+Packages:
+    com.eclipsesource.json
+
+JAR File: RoaringBitmap-0.9.25.jar
+Packages:
+    org.roaringbitmap
+    org.roaringbitmap.art
+    org.roaringbitmap.buffer
+    org.roaringbitmap.insights
+    org.roaringbitmap.longlong
+
+JAR File: shims-0.9.25.jar
+Packages:
+    META-INF.versions.11.org.roaringbitmap
+    org.roaringbitmap
+
+JAR File: slf4j-api-1.7.30.jar
+Packages:
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+
+JAR File: tablesaw-core-0.43.1.jar
+Packages:
+    tech.tablesaw.aggregate
+    tech.tablesaw.analytic
+    tech.tablesaw.api
+    tech.tablesaw.columns
+    tech.tablesaw.columns.booleans
+    tech.tablesaw.columns.booleans.fillers
+    tech.tablesaw.columns.dates
+    tech.tablesaw.columns.datetimes
+    tech.tablesaw.columns.instant
+    tech.tablesaw.columns.numbers
+    tech.tablesaw.columns.numbers.fillers
+    tech.tablesaw.columns.strings
+    tech.tablesaw.columns.temporal
+    tech.tablesaw.columns.temporal.fillers
+    tech.tablesaw.columns.times
+    tech.tablesaw.conversion
+    tech.tablesaw.conversion.smile
+    tech.tablesaw.filtering
+    tech.tablesaw.filtering.predicates
+    tech.tablesaw.index
+    tech.tablesaw.interpolation
+    tech.tablesaw.io
+    tech.tablesaw.io.csv
+    tech.tablesaw.io.fixed
+    tech.tablesaw.io.jdbc
+    tech.tablesaw.io.string
+    tech.tablesaw.joining
+    tech.tablesaw.selection
+    tech.tablesaw.sorting
+    tech.tablesaw.sorting.comparators
+    tech.tablesaw.table
+    tech.tablesaw.util
+
+JAR File: univocity-parsers-2.8.4.jar
+Packages:
+    com.univocity.parsers.annotations
+    com.univocity.parsers.annotations.helpers
+    com.univocity.parsers.common
+    com.univocity.parsers.common.beans
+    com.univocity.parsers.common.fields
+    com.univocity.parsers.common.input
+    com.univocity.parsers.common.input.concurrent
+    com.univocity.parsers.common.iterators
+    com.univocity.parsers.common.processor
+    com.univocity.parsers.common.processor.core
+    com.univocity.parsers.common.record
+    com.univocity.parsers.common.routine
+    com.univocity.parsers.conversions
+    com.univocity.parsers.csv
+    com.univocity.parsers.fixed
+    com.univocity.parsers.tsv
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        classgraph-4.8.60.jar
+        jackson-core-2.13.2.jar
+        jackson-databind-2.13.2.1.jar
+        jackson-datatype-jsr310-2.13.2.jar
+Package: org.roaringbitmap
+    Appears in JARs:
+        shims-0.9.25.jar
+        RoaringBitmap-0.9.25.jar

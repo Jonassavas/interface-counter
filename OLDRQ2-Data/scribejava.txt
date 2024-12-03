@@ -1,0 +1,92 @@
+JAR File: commons-codec-1.15.jar
+Packages:
+    org.apache.commons.codec
+    org.apache.commons.codec.binary
+    org.apache.commons.codec.cli
+    org.apache.commons.codec.digest
+    org.apache.commons.codec.language
+    org.apache.commons.codec.language.bm
+    org.apache.commons.codec.net
+
+JAR File: jackson-annotations-2.14.0.jar
+Packages:
+    com.fasterxml.jackson.annotation
+
+JAR File: jackson-core-2.14.0.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.core
+    com.fasterxml.jackson.core.async
+    com.fasterxml.jackson.core.base
+    com.fasterxml.jackson.core.exc
+    com.fasterxml.jackson.core.filter
+    com.fasterxml.jackson.core.format
+    com.fasterxml.jackson.core.io
+    com.fasterxml.jackson.core.io.doubleparser
+    com.fasterxml.jackson.core.io.schubfach
+    com.fasterxml.jackson.core.json
+    com.fasterxml.jackson.core.json.async
+    com.fasterxml.jackson.core.sym
+    com.fasterxml.jackson.core.type
+    com.fasterxml.jackson.core.util
+
+JAR File: jackson-databind-2.14.0.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.databind
+    com.fasterxml.jackson.databind.annotation
+    com.fasterxml.jackson.databind.cfg
+    com.fasterxml.jackson.databind.deser
+    com.fasterxml.jackson.databind.deser.impl
+    com.fasterxml.jackson.databind.deser.std
+    com.fasterxml.jackson.databind.exc
+    com.fasterxml.jackson.databind.ext
+    com.fasterxml.jackson.databind.introspect
+    com.fasterxml.jackson.databind.jdk14
+    com.fasterxml.jackson.databind.json
+    com.fasterxml.jackson.databind.jsonFormatVisitors
+    com.fasterxml.jackson.databind.jsonschema
+    com.fasterxml.jackson.databind.jsontype
+    com.fasterxml.jackson.databind.jsontype.impl
+    com.fasterxml.jackson.databind.module
+    com.fasterxml.jackson.databind.node
+    com.fasterxml.jackson.databind.ser
+    com.fasterxml.jackson.databind.ser.impl
+    com.fasterxml.jackson.databind.ser.std
+    com.fasterxml.jackson.databind.type
+    com.fasterxml.jackson.databind.util
+    com.fasterxml.jackson.databind.util.internal
+
+JAR File: jakarta.activation-api-2.1.0.jar
+Packages:
+    jakarta.activation
+    jakarta.activation.spi
+
+JAR File: jakarta.xml.bind-api-4.0.0.jar
+Packages:
+    jakarta.xml.bind
+    jakarta.xml.bind.annotation
+    jakarta.xml.bind.annotation.adapters
+    jakarta.xml.bind.attachment
+    jakarta.xml.bind.helpers
+    jakarta.xml.bind.util
+
+JAR File: jaxb-api-2.3.0.jar
+Packages:
+    META-INF.versions.9.javax.xml.bind
+    javax.xml.bind
+    javax.xml.bind.annotation
+    javax.xml.bind.annotation.adapters
+    javax.xml.bind.attachment
+    javax.xml.bind.helpers
+    javax.xml.bind.util
+
+JAR File: scribejava-java8-8.3.3.jar
+Packages:
+    com.github.scribejava.java8.base64
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        jackson-core-2.14.0.jar
+        jackson-databind-2.14.0.jar

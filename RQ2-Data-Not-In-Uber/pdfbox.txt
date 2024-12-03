@@ -1,0 +1,29 @@
+Dependency JAR: bcpkix-jdk15to18-1.77.jar
+Missing Packages:
+Number of packages in this JAR: 52
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bcprov-jdk15to18-1.77.jar
+Missing Packages:
+Number of packages in this JAR: 176
+Number of missing packages in this JAR: 0
+
+Dependency JAR: bcutil-jdk15to18-1.77.jar
+Missing Packages:
+Number of packages in this JAR: 33
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-logging-1.2.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: fontbox-2.0.31.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 273
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%

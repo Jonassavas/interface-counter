@@ -2,23 +2,28 @@ JAR File: annotations-13.0.jar
 Packages:
     org.intellij.lang.annotations
     org.jetbrains.annotations
+Number of packages in this JAR: 2
 
 JAR File: asm-9.3.jar
 Packages:
     org.objectweb.asm
     org.objectweb.asm.signature
+Number of packages in this JAR: 2
 
 JAR File: asm-analysis-9.3.jar
 Packages:
     org.objectweb.asm.tree.analysis
+Number of packages in this JAR: 1
 
 JAR File: asm-tree-9.3.jar
 Packages:
     org.objectweb.asm.tree
+Number of packages in this JAR: 1
 
 JAR File: asm-util-9.3.jar
 Packages:
     org.objectweb.asm.util
+Number of packages in this JAR: 1
 
 JAR File: bucket4j-core-6.4.1.jar
 Packages:
@@ -26,6 +31,7 @@ Packages:
     io.github.bucket4j.grid
     io.github.bucket4j.local
     io.github.bucket4j.serialization
+Number of packages in this JAR: 4
 
 JAR File: commons-io-2.11.0.jar
 Packages:
@@ -40,22 +46,26 @@ Packages:
     org.apache.commons.io.monitor
     org.apache.commons.io.output
     org.apache.commons.io.serialization
+Number of packages in this JAR: 11
 
 JAR File: config-1.4.2.jar
 Packages:
     com.typesafe.config
     com.typesafe.config.impl
     com.typesafe.config.parser
+Number of packages in this JAR: 3
 
 JAR File: javax.inject-1.jar
 Packages:
     javax.inject
+Number of packages in this JAR: 1
 
 JAR File: jsr305-3.0.2.jar
 Packages:
     javax.annotation
     javax.annotation.concurrent
     javax.annotation.meta
+Number of packages in this JAR: 3
 
 JAR File: kotlin-reflect-1.6.21.jar
 Packages:
@@ -123,6 +133,7 @@ Packages:
     kotlin.reflect.jvm.internal.impl.util.collectionUtils
     kotlin.reflect.jvm.internal.impl.utils
     kotlin.reflect.jvm.internal.pcollections
+Number of packages in this JAR: 64
 
 JAR File: kotlin-stdlib-1.6.21.jar
 Packages:
@@ -157,9 +168,11 @@ Packages:
     kotlin.system
     kotlin.text
     kotlin.time
+Number of packages in this JAR: 31
 
 JAR File: kotlin-stdlib-common-1.6.21.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: kotlin-stdlib-jdk7-1.6.21.jar
 Packages:
@@ -167,6 +180,7 @@ Packages:
     kotlin.internal.jdk7
     kotlin.io.path
     kotlin.jdk7
+Number of packages in this JAR: 4
 
 JAR File: kotlin-stdlib-jdk8-1.6.21.jar
 Packages:
@@ -178,9 +192,11 @@ Packages:
     kotlin.streams.jdk8
     kotlin.text.jdk8
     kotlin.time.jdk8
+Number of packages in this JAR: 8
 
 JAR File: kotlinx-coroutines-core-1.6.2.jar
 Packages:
+Number of packages in this JAR: 0
 
 JAR File: kotlinx-coroutines-core-jvm-1.6.2.jar
 Packages:
@@ -195,10 +211,12 @@ Packages:
     kotlinx.coroutines.scheduling
     kotlinx.coroutines.selects
     kotlinx.coroutines.sync
+Number of packages in this JAR: 11
 
 JAR File: reactive-streams-1.0.3.jar
 Packages:
     org.reactivestreams
+Number of packages in this JAR: 1
 
 JAR File: reactor-core-3.4.18.jar
 Packages:
@@ -212,6 +230,7 @@ Packages:
     reactor.util.context
     reactor.util.function
     reactor.util.retry
+Number of packages in this JAR: 10
 
 JAR File: rxjava-2.2.21.jar
 Packages:
@@ -245,6 +264,7 @@ Packages:
     io.reactivex.schedulers
     io.reactivex.subjects
     io.reactivex.subscribers
+Number of packages in this JAR: 30
 
 JAR File: slf4j-api-1.7.36.jar
 Packages:
@@ -252,6 +272,7 @@ Packages:
     org.slf4j.event
     org.slf4j.helpers
     org.slf4j.spi
+Number of packages in this JAR: 4
 
 JAR File: unbescape-1.1.6.RELEASE.jar
 Packages:
@@ -265,6 +286,7 @@ Packages:
     org.unbescape.properties
     org.unbescape.uri
     org.unbescape.xml
+Number of packages in this JAR: 10
 
 Duplicate Packages Found:
 Package: META-INF.versions.9
@@ -273,3 +295,6 @@ Package: META-INF.versions.9
         kotlin-stdlib-1.6.21.jar
         kotlin-stdlib-jdk7-1.6.21.jar
         kotlin-stdlib-jdk8-1.6.21.jar
+
+Total number of duplicate packages: 1
+Total number of packages: 202

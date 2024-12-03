@@ -1,0 +1,262 @@
+Dependency JAR: batik-anim-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-awt-util-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-bridge-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-codec-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-constants-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-css-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-dom-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 5
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-ext-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-gvt-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-i18n-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-parser-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-script-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-shared-resources-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 0
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-svg-dom-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-svggen-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 3
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-transcoder-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 8
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-util-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: batik-xml-1.14.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-codec-1.15.jar
+Missing Packages:
+Number of packages in this JAR: 7
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-collections4-4.4.jar
+Missing Packages:
+Number of packages in this JAR: 19
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-compress-1.21.jar
+Missing Packages:
+Number of packages in this JAR: 35
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-io-2.11.0.jar
+Missing Packages:
+Number of packages in this JAR: 11
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-lang3-3.3.2.jar
+Missing Packages:
+Number of packages in this JAR: 12
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-logging-1.0.4.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: commons-math3-3.6.1.jar
+Missing Packages:
+Number of packages in this JAR: 75
+Number of missing packages in this JAR: 0
+
+Dependency JAR: curvesapi-1.07.jar
+Missing Packages:
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 0
+
+Dependency JAR: log4j-api-2.17.2.jar
+Missing Packages:
+    META-INF.versions.9
+    META-INF.versions.9.org.apache.logging.log4j.util
+    META-INF.versions.9.org.apache.logging.log4j.util.internal
+Number of packages in this JAR: 10
+Number of missing packages in this JAR: 3
+
+Dependency JAR: poi-5.2.2.jar
+Missing Packages:
+    META-INF.versions.9
+Number of packages in this JAR: 64
+Number of missing packages in this JAR: 1
+
+Dependency JAR: poi-ooxml-5.2.2.jar
+Missing Packages:
+    META-INF.versions.9
+Number of packages in this JAR: 47
+Number of missing packages in this JAR: 1
+
+Dependency JAR: poi-ooxml-lite-5.2.2.jar
+Missing Packages:
+    META-INF.versions.9
+Number of packages in this JAR: 54
+Number of missing packages in this JAR: 1
+
+Dependency JAR: slf4j-api-1.7.32.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: SparseBitSet-1.2.jar
+Missing Packages:
+Number of packages in this JAR: 1
+Number of missing packages in this JAR: 0
+
+Dependency JAR: spring-core-5.3.18.jar
+Missing Packages:
+    org.springframework.asm
+    org.springframework.cglib
+    org.springframework.cglib.beans
+    org.springframework.cglib.core
+    org.springframework.cglib.core.internal
+    org.springframework.cglib.proxy
+    org.springframework.cglib.reflect
+    org.springframework.cglib.transform
+    org.springframework.cglib.transform.impl
+    org.springframework.cglib.util
+    org.springframework.core
+    org.springframework.core.annotation
+    org.springframework.core.codec
+    org.springframework.core.convert
+    org.springframework.core.convert.converter
+    org.springframework.core.convert.support
+    org.springframework.core.env
+    org.springframework.core.io
+    org.springframework.core.io.buffer
+    org.springframework.core.io.support
+    org.springframework.core.log
+    org.springframework.core.metrics
+    org.springframework.core.metrics.jfr
+    org.springframework.core.serializer
+    org.springframework.core.serializer.support
+    org.springframework.core.style
+    org.springframework.core.task
+    org.springframework.core.task.support
+    org.springframework.core.type
+    org.springframework.core.type.classreading
+    org.springframework.core.type.filter
+    org.springframework.lang
+    org.springframework.objenesis
+    org.springframework.objenesis.instantiator
+    org.springframework.objenesis.instantiator.android
+    org.springframework.objenesis.instantiator.annotations
+    org.springframework.objenesis.instantiator.basic
+    org.springframework.objenesis.instantiator.gcj
+    org.springframework.objenesis.instantiator.perc
+    org.springframework.objenesis.instantiator.sun
+    org.springframework.objenesis.instantiator.util
+    org.springframework.objenesis.strategy
+    org.springframework.util
+    org.springframework.util.backoff
+    org.springframework.util.comparator
+    org.springframework.util.concurrent
+    org.springframework.util.function
+    org.springframework.util.unit
+    org.springframework.util.xml
+Number of packages in this JAR: 49
+Number of missing packages in this JAR: 49
+
+Dependency JAR: spring-expression-5.3.18.jar
+Missing Packages:
+    org.springframework.expression
+    org.springframework.expression.common
+    org.springframework.expression.spel
+    org.springframework.expression.spel.ast
+    org.springframework.expression.spel.standard
+    org.springframework.expression.spel.support
+Number of packages in this JAR: 6
+Number of missing packages in this JAR: 6
+
+Dependency JAR: spring-jcl-5.3.18.jar
+Missing Packages:
+Number of packages in this JAR: 2
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xml-apis-1.4.01.jar
+Missing Packages:
+Number of packages in this JAR: 29
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xml-apis-ext-1.3.04.jar
+Missing Packages:
+Number of packages in this JAR: 4
+Number of missing packages in this JAR: 0
+
+Dependency JAR: xmlbeans-5.0.3.jar
+Missing Packages:
+    META-INF.versions.9
+    META-INF.versions.9.org.apache.xmlbeans.impl.tool
+Number of packages in this JAR: 41
+Number of missing packages in this JAR: 2
+
+Dependency JAR: xmlgraphics-commons-2.6.jar
+Missing Packages:
+Number of packages in this JAR: 34
+Number of missing packages in this JAR: 0
+
+Summary:
+Total number of packages in all dependency JARs: 577
+Total number of missing packages across all dependency JARs: 63
+Overall percentage of missing packages: 10.92%
