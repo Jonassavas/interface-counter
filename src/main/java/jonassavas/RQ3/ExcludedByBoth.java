@@ -7,13 +7,14 @@ import java.util.jar.*;
 public class ExcludedByBoth {
     public static void main(String[] args) throws IOException {
         // Specify the directory containing dependency JAR files
-        String dependenciesPath = "C:\\kthcs\\MEX\\RQ2Gathering\\classgraph\\dependencies";
+        String dependenciesPath = "C:\\kthcs\\MEX\\RQ2Gathering\\woodstox\\dependencies";
         // Specify the input TXT file paths
-        String inputTxtPath = "./Included_By_Both_Tools/classgraph.txt";
-        String inputTxtPath2 = "./JACT_Only_Included/classgraph.txt";
-        String inputTxtPath3 = "./DepTrim_Only_Included/classgraph.txt";
+        String projectString = "woodstox.txt";
+        String inputTxtPath = "./Included_By_Both_Tools/" + projectString;
+        String inputTxtPath2 = "./JACT_Only_Included/" + projectString;
+        String inputTxtPath3 = "./DepTrim_Only_Included/" + projectString;
         // Specify the output TXT file path
-        String outputPath = "./RQ3-Excluded-By-Both/classgraph.txt";
+        String outputPath = "./RQ3-Excluded-By-Both/" + projectString;
 
         File dependenciesDirectory = new File(dependenciesPath);
         File outputFile = new File(outputPath);
