@@ -25,20 +25,6 @@ Missing Packages:
 Number of packages in this JAR: 10
 Number of missing packages in this JAR: 2
 
-Dependency JAR: mssql-jdbc-12.4.2.jre8.jar
-Missing Packages:
-    com.microsoft.sqlserver.jdbc
-    com.microsoft.sqlserver.jdbc.dataclassification
-    com.microsoft.sqlserver.jdbc.dns
-    com.microsoft.sqlserver.jdbc.osgi
-    com.microsoft.sqlserver.jdbc.spatialdatatypes
-    microsoft.sql
-    mssql.googlecode.cityhash
-    mssql.googlecode.concurrentlinkedhashmap
-    mssql.security.provider
-Number of packages in this JAR: 9
-Number of missing packages in this JAR: 9
-
 Dependency JAR: ognl-3.4.2.jar
 Missing Packages:
 Number of packages in this JAR: 5
@@ -55,6 +41,6 @@ Number of packages in this JAR: 5
 Number of missing packages in this JAR: 0
 
 Summary:
-Total number of packages in all dependency JARs: 73
-Total number of missing packages across all dependency JARs: 11
-Overall percentage of missing packages: 15.07%
+Total number of packages in all dependency JARs: 64
+Total number of missing packages across all dependency JARs: 2
+Overall percentage of missing packages: 3.13%

@@ -8,13 +8,7 @@ Missing Packages:
 Number of packages in this JAR: 2
 Number of missing packages in this JAR: 0
 
-Dependency JAR: org.eclipse.jdt.annotation-2.2.700.jar
-Missing Packages:
-    org.eclipse.jdt.annotation
-Number of packages in this JAR: 1
-Number of missing packages in this JAR: 1
-
 Summary:
-Total number of packages in all dependency JARs: 9
-Total number of missing packages across all dependency JARs: 1
-Overall percentage of missing packages: 11.11%
+Total number of packages in all dependency JARs: 8
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
