@@ -60,11 +60,6 @@ io/github/toolfactory/narcissus/Narcissus$3.class
 io/github/toolfactory/narcissus/Narcissus$5.class
 io/github/toolfactory/narcissus/Narcissus.class
 io/github/toolfactory/narcissus/ReflectionCache.class
-org/eclipse/jdt/annotation/Checks.class
-org/eclipse/jdt/annotation/DefaultLocation.class
-org/eclipse/jdt/annotation/NonNull.class
-org/eclipse/jdt/annotation/NonNullByDefault.class
-org/eclipse/jdt/annotation/Nullable.class
-org/eclipse/jdt/annotation/package-info.class
 
-Total number of excluded class files: 68
+Total number of excluded class files: 62
+Total number of class files in all JARs: 224

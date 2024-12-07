@@ -1635,3 +1635,4 @@ org/objectweb/asm/signature/SignatureVisitor.class
 org/objectweb/asm/signature/SignatureWriter.class
 
 Total number of excluded class files: 1635
+Total number of class files in all JARs: 2474

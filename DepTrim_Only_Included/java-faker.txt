@@ -143,7 +143,7 @@ REGULAR CLASS: dk/brics/automaton/StringUnionOperations$1.class
 REGULAR CLASS: dk/brics/automaton/StringUnionOperations$State.class
 REGULAR CLASS: dk/brics/automaton/StringUnionOperations.class
 
-Total number of class files only in DepTrim: 145
+Total number of class files only in DepTrim: 144
 Total number of class files in DepTrim: 284
 Interfaces found: 14
 Abstract classes found: 4

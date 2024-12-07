@@ -1957,7 +1957,7 @@ REGULAR CLASS: io/netty/buffer/WrappedUnpooledUnsafeDirectByteBuf.class
 INTERFACE: io/netty/buffer/PoolChunkMetric.class
 REGULAR CLASS: io/netty/buffer/UnpooledUnsafeNoCleanerDirectByteBuf.class
 
-Total number of class files only in DepTrim: 1974
+Total number of class files only in DepTrim: 1958
 Total number of class files in DepTrim: 2911
 Interfaces found: 364
 Abstract classes found: 80

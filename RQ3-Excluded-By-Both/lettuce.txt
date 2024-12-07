@@ -2661,3 +2661,4 @@ zipkin2/storage/StrictTraceId.class
 zipkin2/storage/Traces.class
 
 Total number of excluded class files: 2661
+Total number of class files in all JARs: 10364

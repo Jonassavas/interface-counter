@@ -717,3 +717,4 @@ org/apache/commons/logging/impl/WeakHashtable$WeakKey.class
 org/apache/commons/logging/impl/WeakHashtable.class
 
 Total number of excluded class files: 717
+Total number of class files in all JARs: 780

@@ -1012,3 +1012,4 @@ org/objenesis/strategy/SingleInstantiatorStrategy.class
 org/objenesis/strategy/StdInstantiatorStrategy.class
 
 Total number of excluded class files: 1012
+Total number of class files in all JARs: 2700

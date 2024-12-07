@@ -5411,7 +5411,7 @@ REGULAR CLASS: io/github/bucket4j/BucketState$1.class
 REGULAR CLASS: io/github/bucket4j/BucketConfiguration$1.class
 REGULAR CLASS: io/github/bucket4j/Refill.class
 
-Total number of class files only in DepTrim: 5416
+Total number of class files only in DepTrim: 5412
 Total number of class files in DepTrim: 5596
 Interfaces found: 559
 Abstract classes found: 267
