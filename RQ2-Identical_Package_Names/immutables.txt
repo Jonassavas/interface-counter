@@ -1,0 +1,26 @@
+JAR File: gson-2.8.8.jar
+Packages:
+    com.google.gson
+    com.google.gson.annotations
+    com.google.gson.internal
+    com.google.gson.internal.bind
+    com.google.gson.internal.bind.util
+    com.google.gson.internal.reflect
+    com.google.gson.reflect
+    com.google.gson.stream
+Number of packages in this JAR: 8
+
+JAR File: javax.ws.rs-api-2.0.jar
+Packages:
+    javax.ws.rs
+    javax.ws.rs.client
+    javax.ws.rs.container
+    javax.ws.rs.core
+    javax.ws.rs.ext
+Number of packages in this JAR: 5
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 13

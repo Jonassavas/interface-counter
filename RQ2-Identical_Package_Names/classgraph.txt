@@ -14,11 +14,6 @@ Packages:
     io.github.toolfactory.narcissus
 Number of packages in this JAR: 2
 
-JAR File: org.eclipse.jdt.annotation-2.2.700.jar
-Packages:
-    org.eclipse.jdt.annotation
-Number of packages in this JAR: 1
-
 Duplicate Packages Found:
 Package: META-INF.versions.9
     Appears in JARs:
@@ -26,4 +21,4 @@ Package: META-INF.versions.9
         narcissus-1.0.7.jar
 
 Total number of duplicate packages: 1
-Total number of packages: 9
+Total number of packages: 8

@@ -1,0 +1,29 @@
+JAR File: commons-io-2.11.0.jar
+Packages:
+    org.apache.commons.io
+    org.apache.commons.io.comparator
+    org.apache.commons.io.file
+    org.apache.commons.io.file.spi
+    org.apache.commons.io.filefilter
+    org.apache.commons.io.function
+    org.apache.commons.io.input
+    org.apache.commons.io.input.buffer
+    org.apache.commons.io.monitor
+    org.apache.commons.io.output
+    org.apache.commons.io.serialization
+Number of packages in this JAR: 11
+
+JAR File: slf4j-api-2.0.3.jar
+Packages:
+    META-INF.versions.9
+    org.slf4j
+    org.slf4j.event
+    org.slf4j.helpers
+    org.slf4j.spi
+Number of packages in this JAR: 5
+
+Duplicate Packages Found:
+No duplicate packages found across the JARs.
+
+Total number of duplicate packages: 0
+Total number of packages: 16

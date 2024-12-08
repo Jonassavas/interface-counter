@@ -1,0 +1,112 @@
+JAR File: commons-lang3-3.9.jar
+Packages:
+    org.apache.commons.lang3
+    org.apache.commons.lang3.arch
+    org.apache.commons.lang3.builder
+    org.apache.commons.lang3.concurrent
+    org.apache.commons.lang3.event
+    org.apache.commons.lang3.exception
+    org.apache.commons.lang3.math
+    org.apache.commons.lang3.mutable
+    org.apache.commons.lang3.reflect
+    org.apache.commons.lang3.text
+    org.apache.commons.lang3.text.translate
+    org.apache.commons.lang3.time
+    org.apache.commons.lang3.tuple
+Number of packages in this JAR: 13
+
+JAR File: commons-text-1.8.jar
+Packages:
+    org.apache.commons.text
+    org.apache.commons.text.diff
+    org.apache.commons.text.lookup
+    org.apache.commons.text.matcher
+    org.apache.commons.text.similarity
+    org.apache.commons.text.translate
+Number of packages in this JAR: 6
+
+JAR File: jackson-annotations-2.13.2.jar
+Packages:
+    com.fasterxml.jackson.annotation
+Number of packages in this JAR: 1
+
+JAR File: jackson-core-2.13.2.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.core
+    com.fasterxml.jackson.core.async
+    com.fasterxml.jackson.core.base
+    com.fasterxml.jackson.core.exc
+    com.fasterxml.jackson.core.filter
+    com.fasterxml.jackson.core.format
+    com.fasterxml.jackson.core.io
+    com.fasterxml.jackson.core.json
+    com.fasterxml.jackson.core.json.async
+    com.fasterxml.jackson.core.sym
+    com.fasterxml.jackson.core.type
+    com.fasterxml.jackson.core.util
+Number of packages in this JAR: 13
+
+JAR File: jackson-databind-2.13.2.1.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.databind
+    com.fasterxml.jackson.databind.annotation
+    com.fasterxml.jackson.databind.cfg
+    com.fasterxml.jackson.databind.deser
+    com.fasterxml.jackson.databind.deser.impl
+    com.fasterxml.jackson.databind.deser.std
+    com.fasterxml.jackson.databind.exc
+    com.fasterxml.jackson.databind.ext
+    com.fasterxml.jackson.databind.introspect
+    com.fasterxml.jackson.databind.jdk14
+    com.fasterxml.jackson.databind.json
+    com.fasterxml.jackson.databind.jsonFormatVisitors
+    com.fasterxml.jackson.databind.jsonschema
+    com.fasterxml.jackson.databind.jsontype
+    com.fasterxml.jackson.databind.jsontype.impl
+    com.fasterxml.jackson.databind.module
+    com.fasterxml.jackson.databind.node
+    com.fasterxml.jackson.databind.ser
+    com.fasterxml.jackson.databind.ser.impl
+    com.fasterxml.jackson.databind.ser.std
+    com.fasterxml.jackson.databind.type
+    com.fasterxml.jackson.databind.util
+Number of packages in this JAR: 23
+
+JAR File: jackson-datatype-jsr310-2.13.2.jar
+Packages:
+    META-INF.versions.9
+    com.fasterxml.jackson.datatype.jsr310
+    com.fasterxml.jackson.datatype.jsr310.deser
+    com.fasterxml.jackson.datatype.jsr310.deser.key
+    com.fasterxml.jackson.datatype.jsr310.ser
+    com.fasterxml.jackson.datatype.jsr310.ser.key
+    com.fasterxml.jackson.datatype.jsr310.util
+Number of packages in this JAR: 7
+
+JAR File: json-base-1.0.0.jar
+Packages:
+    com.github.wnameless.json
+Number of packages in this JAR: 1
+
+JAR File: json-flattener-0.8.1.jar
+Packages:
+    com.github.wnameless.json.flattener
+    com.github.wnameless.json.unflattener
+Number of packages in this JAR: 2
+
+JAR File: minimal-json-0.9.5.jar
+Packages:
+    com.eclipsesource.json
+Number of packages in this JAR: 1
+
+Duplicate Packages Found:
+Package: META-INF.versions.9
+    Appears in JARs:
+        jackson-core-2.13.2.jar
+        jackson-databind-2.13.2.1.jar
+        jackson-datatype-jsr310-2.13.2.jar
+
+Total number of duplicate packages: 1
+Total number of packages: 67

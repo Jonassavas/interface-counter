@@ -83,11 +83,6 @@ Missing Packages:
 Number of packages in this JAR: 3
 Number of missing packages in this JAR: 0
 
-Dependency JAR: jakarta.json-1.1.6-module.jar
-Missing Packages:
-Number of packages in this JAR: 2
-Number of missing packages in this JAR: 0
-
 Dependency JAR: jakarta.json-1.1.6.jar
 Missing Packages:
 Number of packages in this JAR: 5
@@ -200,6 +195,6 @@ Number of packages in this JAR: 10
 Number of missing packages in this JAR: 1
 
 Summary:
-Total number of packages in all dependency JARs: 217
+Total number of packages in all dependency JARs: 215
 Total number of missing packages across all dependency JARs: 1
-Overall percentage of missing packages: 0.46%
+Overall percentage of missing packages: 0.47%

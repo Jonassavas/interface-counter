@@ -58,19 +58,6 @@ Packages:
     org.apache.logging.log4j.util.internal
 Number of packages in this JAR: 10
 
-JAR File: mssql-jdbc-12.4.2.jre8.jar
-Packages:
-    com.microsoft.sqlserver.jdbc
-    com.microsoft.sqlserver.jdbc.dataclassification
-    com.microsoft.sqlserver.jdbc.dns
-    com.microsoft.sqlserver.jdbc.osgi
-    com.microsoft.sqlserver.jdbc.spatialdatatypes
-    microsoft.sql
-    mssql.googlecode.cityhash
-    mssql.googlecode.concurrentlinkedhashmap
-    mssql.security.provider
-Number of packages in this JAR: 9
-
 JAR File: ognl-3.4.2.jar
 Packages:
     ognl
@@ -114,4 +101,4 @@ Package: META-INF.versions.9
         slf4j-api-2.0.12.jar
 
 Total number of duplicate packages: 1
-Total number of packages: 73
+Total number of packages: 64

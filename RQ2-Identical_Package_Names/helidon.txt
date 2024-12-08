@@ -92,12 +92,6 @@ Packages:
     javax.annotation.sql
 Number of packages in this JAR: 3
 
-JAR File: jakarta.json-1.1.6-module.jar
-Packages:
-    org.glassfish.json
-    org.glassfish.json.api
-Number of packages in this JAR: 2
-
 JAR File: jakarta.json-1.1.6.jar
 Packages:
     javax.json
@@ -106,13 +100,6 @@ Packages:
     org.glassfish.json
     org.glassfish.json.api
 Number of packages in this JAR: 5
-
-JAR File: jakarta.json-api-1.1.6.jar
-Packages:
-    javax.json
-    javax.json.spi
-    javax.json.stream
-Number of packages in this JAR: 3
 
 JAR File: jakarta.json.bind-api-1.0.2.jar
 Packages:
@@ -383,26 +370,7 @@ Packages:
 Number of packages in this JAR: 10
 
 Duplicate Packages Found:
-Package: org.glassfish.json
-    Appears in JARs:
-        jakarta.json-1.1.6-module.jar
-        jakarta.json-1.1.6.jar
-Package: org.glassfish.json.api
-    Appears in JARs:
-        jakarta.json-1.1.6-module.jar
-        jakarta.json-1.1.6.jar
-Package: javax.json.spi
-    Appears in JARs:
-        jakarta.json-api-1.1.6.jar
-        jakarta.json-1.1.6.jar
-Package: javax.json.stream
-    Appears in JARs:
-        jakarta.json-api-1.1.6.jar
-        jakarta.json-1.1.6.jar
-Package: javax.json
-    Appears in JARs:
-        jakarta.json-api-1.1.6.jar
-        jakarta.json-1.1.6.jar
+No duplicate packages found across the JARs.
 
-Total number of duplicate packages: 5
-Total number of packages: 220
+Total number of duplicate packages: 0
+Total number of packages: 215

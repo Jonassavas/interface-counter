@@ -538,75 +538,6 @@ Packages:
     com.zaxxer.sparsebits
 Number of packages in this JAR: 1
 
-JAR File: spring-core-5.3.18.jar
-Packages:
-    org.springframework.asm
-    org.springframework.cglib
-    org.springframework.cglib.beans
-    org.springframework.cglib.core
-    org.springframework.cglib.core.internal
-    org.springframework.cglib.proxy
-    org.springframework.cglib.reflect
-    org.springframework.cglib.transform
-    org.springframework.cglib.transform.impl
-    org.springframework.cglib.util
-    org.springframework.core
-    org.springframework.core.annotation
-    org.springframework.core.codec
-    org.springframework.core.convert
-    org.springframework.core.convert.converter
-    org.springframework.core.convert.support
-    org.springframework.core.env
-    org.springframework.core.io
-    org.springframework.core.io.buffer
-    org.springframework.core.io.support
-    org.springframework.core.log
-    org.springframework.core.metrics
-    org.springframework.core.metrics.jfr
-    org.springframework.core.serializer
-    org.springframework.core.serializer.support
-    org.springframework.core.style
-    org.springframework.core.task
-    org.springframework.core.task.support
-    org.springframework.core.type
-    org.springframework.core.type.classreading
-    org.springframework.core.type.filter
-    org.springframework.lang
-    org.springframework.objenesis
-    org.springframework.objenesis.instantiator
-    org.springframework.objenesis.instantiator.android
-    org.springframework.objenesis.instantiator.annotations
-    org.springframework.objenesis.instantiator.basic
-    org.springframework.objenesis.instantiator.gcj
-    org.springframework.objenesis.instantiator.perc
-    org.springframework.objenesis.instantiator.sun
-    org.springframework.objenesis.instantiator.util
-    org.springframework.objenesis.strategy
-    org.springframework.util
-    org.springframework.util.backoff
-    org.springframework.util.comparator
-    org.springframework.util.concurrent
-    org.springframework.util.function
-    org.springframework.util.unit
-    org.springframework.util.xml
-Number of packages in this JAR: 49
-
-JAR File: spring-expression-5.3.18.jar
-Packages:
-    org.springframework.expression
-    org.springframework.expression.common
-    org.springframework.expression.spel
-    org.springframework.expression.spel.ast
-    org.springframework.expression.spel.standard
-    org.springframework.expression.spel.support
-Number of packages in this JAR: 6
-
-JAR File: spring-jcl-5.3.18.jar
-Packages:
-    org.apache.commons.logging
-    org.apache.commons.logging.impl
-Number of packages in this JAR: 2
-
 JAR File: xml-apis-1.4.01.jar
 Packages:
     javax.xml
@@ -732,14 +663,6 @@ Packages:
 Number of packages in this JAR: 34
 
 Duplicate Packages Found:
-Package: org.apache.commons.logging.impl
-    Appears in JARs:
-        spring-jcl-5.3.18.jar
-        commons-logging-1.0.4.jar
-Package: org.apache.commons.logging
-    Appears in JARs:
-        spring-jcl-5.3.18.jar
-        commons-logging-1.0.4.jar
 Package: META-INF.versions.9
     Appears in JARs:
         log4j-api-2.17.2.jar
@@ -748,5 +671,5 @@ Package: META-INF.versions.9
         poi-ooxml-5.2.2.jar
         poi-ooxml-lite-5.2.2.jar
 
-Total number of duplicate packages: 3
-Total number of packages: 577
+Total number of duplicate packages: 1
+Total number of packages: 520

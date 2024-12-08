@@ -7,11 +7,11 @@ import java.util.jar.*;
 public class JarDepPackagesNotInUber {
     public static void main(String[] args) throws IOException {
         // Specify the Uber-JAR file path
-        String uberJarPath = "C:\\kthcs\\MEX\\RESULTS\\woodstox\\target\\woodstox-core-6.4.0-shaded.jar";
+        String uberJarPath = "C:\\kthcs\\MEX\\RESULTS\\undertow\\core\\target\\undertow-core-2.3.13.Final-shaded.jar";
         // Specify the directory containing dependency JAR files
-        String dependenciesPath = "C:\\kthcs\\MEX\\RQ2Gathering\\woodstox\\dependencies";
+        String dependenciesPath = "C:\\kthcs\\MEX\\RQ2Gathering\\undertow\\core\\dependencies";
         // Specify the output file path
-        String outputPath = "./RQ2-Data-Not-In-Uber/woodstox.txt";
+        String outputPath = "./RQ2-Data-Not-In-Uber/undertow.txt";
 
         File uberJarFile = new File(uberJarPath);
         File dependenciesDirectory = new File(dependenciesPath);

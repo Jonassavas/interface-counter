@@ -7,9 +7,9 @@ import java.util.jar.*;
 public class JarPackagePrinter {
     public static void main(String[] args) throws IOException {
         // Specify the directory containing JAR files
-        String directoryPath = "C:\\kthcs\\MEX\\RQ2Gathering\\undertow\\core\\dependencies";
+        String directoryPath = "C:\\kthcs\\MEX\\RQ2Gathering\\woodstox\\dependencies";
         // Specify the output file path
-        String outputPath = "./RQ2-Data/undertow.txt";
+        String outputPath = "./RQ2-Identical_Package_Names/woodstox.txt";
 
         File directory = new File(directoryPath);
         File outputFile = new File(outputPath);
