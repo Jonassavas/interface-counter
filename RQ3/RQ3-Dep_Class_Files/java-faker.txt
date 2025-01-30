@@ -1,0 +1,44 @@
+JAR File: automaton-1.11-8.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 22
+
+JAR File: commons-lang3-3.5.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 21
+    Enums: 12
+    Annotations: 3
+    Synthetic Classes: 8
+    Regular Classes: 202
+
+JAR File: generex-1.0.2.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 5
+
+JAR File: snakeyaml-1.23-android.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 14
+    Enums: 8
+    Annotations: 0
+    Synthetic Classes: 5
+    Regular Classes: 173
+
+Summary of All JAR Files:
+    Total Interfaces: 26
+    Total Abstract Classes: 35
+    Total Enums: 21
+    Total Annotations: 3
+    Total Synthetic Classes: 14
+    Total Regular Classes: 402
+    Total Classes: 501

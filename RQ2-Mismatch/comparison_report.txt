@@ -1,0 +1,200 @@
+affinity-v3.23.3
+asm-v9.2
+chronicle.algorithms-v2.25ea0
+chronicle.analytics-v2.25ea0
+chronicle.bytes-v2.25ea7
+chronicle.core-v2.25ea10
+chronicle.threads-v2.25ea5
+chronicle.values-v2.25ea3
+chronicle.wire-v2.25ea10
+compiler-v2.25ea2
+javapoet-v1.13.0
+javax.annotation.api-v1.3.2
+jcl.over.slf4j-v1.7.32
+jettison-v1.5.4
+jffi.1.3.12-vnative
+jffi-v1.3.12
+jna-v5.5.0
+jna.platform-v5.5.0
+jnr.a64asm-v1.0.0
+jnr.constants-v0.10.4
+jnr.ffi-v2.2.15
+jnr.x86asm-v1.0.2
+maven.resolver.api-v1.8.2
+maven.resolver.impl-v1.8.2
+maven.resolver.named.locks-v1.8.2
+maven.resolver.spi-v1.8.2
+maven.resolver.util-v1.8.2
+mxparser-v1.2.2
+pax.url.aether-v2.6.12
+pax.url.aether.support-v2.6.12
+posix-v2.25ea0
+slf4j.api-v1.7.36
+xmlpull-v1.1.3.1
+xstream-v1.4.20
+Could not find JAR for: org.apache.commons.commons.lang3-v3.12.0
+Mismatched class: AbstractChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: ArtifactRequestBuilder.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionGroup.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionItem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultChecksumPolicyProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$ArtifactUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$EventCatapult.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$MetadataUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultFileProcessor.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultInstaller.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory$DefaultLocalPathPrefixComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalRepositoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver$ResolveTask.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultOfflineController.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager$LoggedMirror.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryConnectorProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryEventDispatcher.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryLayoutProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositorySystem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTrackingFileManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTransporterProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager$1.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdatePolicyAnalyzer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FailChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource$ChecksumFilePath.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport$LocalPathPrefixComposerSupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LoggerFactoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory$Maven2RepositoryLayout.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponent.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponents.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SafeTransferListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleDigest.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Utils.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: WarnChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+
+Summary of affected Java packages:
+Dependency: pax.url.aether.support-v2.6.12
+Affected Packages: 1
+  - org.eclipse.aether.internal.impl
+Could not find JAR for: org.apache.commons.commons.lang3-v3.12.0
+Mismatched class: AbstractChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: ArtifactRequestBuilder.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionGroup.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionItem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultChecksumPolicyProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$ArtifactUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$EventCatapult.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$MetadataUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultFileProcessor.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultInstaller.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory$DefaultLocalPathPrefixComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalRepositoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver$ResolveTask.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultOfflineController.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager$LoggedMirror.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryConnectorProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryEventDispatcher.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryLayoutProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositorySystem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTrackingFileManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTransporterProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager$1.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdatePolicyAnalyzer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FailChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource$ChecksumFilePath.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport$LocalPathPrefixComposerSupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LoggerFactoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory$Maven2RepositoryLayout.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponent.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponents.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SafeTransferListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleDigest.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Utils.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: WarnChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Total mismatched classes for pax.url.aether.support-v2.6.12: 48
+
+Summary of affected Java packages:
+Dependency: pax.url.aether.support-v2.6.12
+  - org.eclipse.aether.internal.impl (48 mismatched classes)
+
+Total mismatched classes: 48
+Could not find JAR for: org.apache.commons.commons.lang3-v3.12.0
+Mismatched class: AbstractChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: ArtifactRequestBuilder.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionGroup.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver$ResolutionItem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultArtifactResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultChecksumPolicyProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$ArtifactUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$EventCatapult.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer$MetadataUploadListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultDeployer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultFileProcessor.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultInstaller.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory$DefaultLocalPathPrefixComposer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalPathPrefixComposerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultLocalRepositoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver$ResolveTask.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultMetadataResolver.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultOfflineController.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager$LoggedMirror.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRemoteRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryConnectorProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryEventDispatcher.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositoryLayoutProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultRepositorySystem.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTrackingFileManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultTransporterProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager$1.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdateCheckManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: DefaultUpdatePolicyAnalyzer.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: EnhancedLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FailChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource$ChecksumFilePath.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: FileProvidedChecksumsSource.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport$LocalPathPrefixComposerSupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LocalPathPrefixComposerFactorySupport.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: LoggerFactoryProvider.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory$Maven2RepositoryLayout.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Maven2RepositoryLayoutFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponent.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: PrioritizedComponents.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SafeTransferListener.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleDigest.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManager.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: SimpleLocalRepositoryManagerFactory.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: Utils.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Mismatched class: WarnChecksumPolicy.class in pax.url.aether.support-v2.6.12 (package: org.eclipse.aether.internal.impl)
+Total mismatched classes for pax.url.aether.support-v2.6.12: 48
+
+Summary of affected Java packages:
+Dependency: pax.url.aether.support-v2.6.12
+  - org.eclipse.aether.internal.impl (48 mismatched classes)
+
+Total mismatched classes: 48

@@ -1,0 +1,206 @@
+JAR File: annotations-13.0.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 30
+    Synthetic Classes: 0
+    Regular Classes: 2
+
+JAR File: asm-9.3.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 8
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 28
+
+JAR File: asm-analysis-9.3.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 12
+
+JAR File: asm-tree-9.3.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 37
+
+JAR File: asm-util-9.3.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 1
+    Enums: 2
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 20
+
+JAR File: bucket4j-core-6.4.1.jar
+Class Types:
+    Interfaces: 20
+    Abstract Classes: 3
+    Enums: 3
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 65
+
+JAR File: commons-io-2.11.0.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 9
+    Enums: 4
+    Annotations: 0
+    Synthetic Classes: 3
+    Regular Classes: 171
+
+JAR File: config-1.4.2.jar
+Class Types:
+    Interfaces: 24
+    Abstract Classes: 11
+    Enums: 10
+    Annotations: 1
+    Synthetic Classes: 6
+    Regular Classes: 129
+
+JAR File: javax.inject-1.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 5
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: jsr305-3.0.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 29
+    Synthetic Classes: 0
+    Regular Classes: 4
+
+JAR File: kotlin-reflect-1.6.21.jar
+Class Types:
+    Interfaces: 238
+    Abstract Classes: 114
+    Enums: 70
+    Annotations: 1
+    Synthetic Classes: 67
+    Regular Classes: 1374
+
+JAR File: kotlin-stdlib-1.6.21.jar
+Class Types:
+    Interfaces: 95
+    Abstract Classes: 51
+    Enums: 19
+    Annotations: 68
+    Synthetic Classes: 16
+    Regular Classes: 631
+
+JAR File: kotlin-stdlib-common-1.6.21.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: kotlin-stdlib-jdk7-1.6.21.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 1
+    Synthetic Classes: 0
+    Regular Classes: 7
+
+JAR File: kotlin-stdlib-jdk8-1.6.21.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 12
+
+JAR File: kotlinx-coroutines-core-1.6.2.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: kotlinx-coroutines-core-jvm-1.6.2.jar
+Class Types:
+    Interfaces: 44
+    Abstract Classes: 36
+    Enums: 5
+    Annotations: 5
+    Synthetic Classes: 35
+    Regular Classes: 720
+
+JAR File: reactive-streams-1.0.3.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 9
+
+JAR File: reactor-core-3.4.18.jar
+Class Types:
+    Interfaces: 59
+    Abstract Classes: 33
+    Enums: 11
+    Annotations: 3
+    Synthetic Classes: 17
+    Regular Classes: 760
+
+JAR File: rxjava-2.2.21.jar
+Class Types:
+    Interfaces: 99
+    Abstract Classes: 67
+    Enums: 30
+    Annotations: 8
+    Synthetic Classes: 8
+    Regular Classes: 1447
+
+JAR File: slf4j-api-1.7.36.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 2
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 20
+
+JAR File: unbescape-1.1.6.RELEASE.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 1
+    Enums: 19
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 47
+
+Summary of All JAR Files:
+    Total Interfaces: 613
+    Total Abstract Classes: 338
+    Total Enums: 175
+    Total Annotations: 151
+    Total Synthetic Classes: 157
+    Total Regular Classes: 5495
+    Total Classes: 6929

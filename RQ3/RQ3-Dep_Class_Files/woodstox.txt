@@ -1,0 +1,53 @@
+JAR File: isorelax-20090621.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 3
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 33
+
+JAR File: msv-core-2013.6.1.jar
+Class Types:
+    Interfaces: 41
+    Abstract Classes: 52
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 6
+    Regular Classes: 425
+
+JAR File: relaxngDatatype-20020414.jar
+Class Types:
+    Interfaces: 6
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 10
+
+JAR File: stax2-api-4.2.1.jar
+Class Types:
+    Interfaces: 24
+    Abstract Classes: 27
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 73
+
+JAR File: xsdlib-2013.6.1.jar
+Class Types:
+    Interfaces: 8
+    Abstract Classes: 15
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 125
+
+Summary of All JAR Files:
+    Total Interfaces: 93
+    Total Abstract Classes: 97
+    Total Enums: 0
+    Total Annotations: 0
+    Total Synthetic Classes: 7
+    Total Regular Classes: 666
+    Total Classes: 863

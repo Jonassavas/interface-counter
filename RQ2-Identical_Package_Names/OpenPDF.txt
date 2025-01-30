@@ -1285,5 +1285,5 @@ Package: org.apache.fop.fo.pagination.bookmarks
         fop-2.7.jar
         fop-core-2.7.jar
 
-Total number of duplicate packages: 99
+Total number of duplicate packages: 196
 Total number of packages: 744

@@ -1,0 +1,26 @@
+JAR File: commons-io-2.11.0.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 9
+    Enums: 4
+    Annotations: 0
+    Synthetic Classes: 3
+    Regular Classes: 171
+
+JAR File: slf4j-api-2.0.3.jar
+Class Types:
+    Interfaces: 13
+    Abstract Classes: 4
+    Enums: 1
+    Annotations: 1
+    Synthetic Classes: 3
+    Regular Classes: 29
+
+Summary of All JAR Files:
+    Total Interfaces: 27
+    Total Abstract Classes: 13
+    Total Enums: 5
+    Total Annotations: 1
+    Total Synthetic Classes: 6
+    Total Regular Classes: 200
+    Total Classes: 252

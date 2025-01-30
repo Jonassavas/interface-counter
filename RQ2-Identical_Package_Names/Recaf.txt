@@ -832,5 +832,5 @@ Package: org.jline.reader.impl
         jline-reader-3.21.0.jar
         jline-3.19.0.jar
 
-Total number of duplicate packages: 21
+Total number of duplicate packages: 42
 Total number of packages: 524

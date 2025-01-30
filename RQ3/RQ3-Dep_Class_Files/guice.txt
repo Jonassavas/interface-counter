@@ -1,0 +1,98 @@
+JAR File: aopalliance-1.0.jar
+Class Types:
+    Interfaces: 8
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 1
+
+JAR File: asm-9.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 8
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 28
+
+JAR File: checker-qual-3.5.0.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 7
+    Annotations: 301
+    Synthetic Classes: 0
+    Regular Classes: 13
+
+JAR File: error_prone_annotations-2.3.4.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 22
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: failureaccess-1.0.1.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 1
+
+JAR File: guava-30.1-jre.jar
+Class Types:
+    Interfaces: 108
+    Abstract Classes: 262
+    Enums: 112
+    Annotations: 10
+    Synthetic Classes: 63
+    Regular Classes: 1459
+
+JAR File: j2objc-annotations-1.3.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 2
+    Annotations: 10
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: javax.inject-1.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 5
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: jsr305-3.0.1.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 29
+    Synthetic Classes: 0
+    Regular Classes: 4
+
+JAR File: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+Summary of All JAR Files:
+    Total Interfaces: 119
+    Total Abstract Classes: 271
+    Total Enums: 122
+    Total Annotations: 377
+    Total Synthetic Classes: 63
+    Total Regular Classes: 1506
+    Total Classes: 2458

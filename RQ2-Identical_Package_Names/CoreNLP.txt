@@ -821,5 +821,5 @@ Package: org.ejml.dense.row.decompose.hessenberg
         ejml-cdense-0.39.jar
         ejml-zdense-0.39.jar
 
-Total number of duplicate packages: 51
+Total number of duplicate packages: 114
 Total number of packages: 477

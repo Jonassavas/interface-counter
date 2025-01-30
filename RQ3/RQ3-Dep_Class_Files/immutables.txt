@@ -1,0 +1,26 @@
+JAR File: gson-2.8.8.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 10
+    Enums: 9
+    Annotations: 5
+    Synthetic Classes: 3
+    Regular Classes: 145
+
+JAR File: javax.ws.rs-api-2.0.jar
+Class Types:
+    Interfaces: 48
+    Abstract Classes: 8
+    Enums: 3
+    Annotations: 27
+    Synthetic Classes: 0
+    Regular Classes: 39
+
+Summary of All JAR Files:
+    Total Interfaces: 57
+    Total Abstract Classes: 18
+    Total Enums: 12
+    Total Annotations: 32
+    Total Synthetic Classes: 3
+    Total Regular Classes: 184
+    Total Classes: 306

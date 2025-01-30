@@ -1,0 +1,404 @@
+JAR File: annotations-13.0.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 30
+    Synthetic Classes: 0
+    Regular Classes: 2
+
+JAR File: brave-5.13.11.jar
+Class Types:
+    Interfaces: 33
+    Abstract Classes: 33
+    Enums: 12
+    Annotations: 1
+    Synthetic Classes: 6
+    Regular Classes: 166
+
+JAR File: cdi-api-2.0.SP1.jar
+Class Types:
+    Interfaces: 67
+    Abstract Classes: 4
+    Enums: 4
+    Annotations: 30
+    Synthetic Classes: 2
+    Regular Classes: 41
+
+JAR File: commons-pool2-2.11.1.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 7
+    Enums: 2
+    Annotations: 0
+    Synthetic Classes: 5
+    Regular Classes: 52
+
+JAR File: HdrHistogram-2.1.12.jar
+Class Types:
+    Interfaces: 5
+    Abstract Classes: 6
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 9
+    Regular Classes: 76
+
+JAR File: javax.el-api-3.0.0.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 11
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 32
+
+JAR File: javax.inject-1.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 5
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: javax.interceptor-api-1.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 8
+    Synthetic Classes: 0
+    Regular Classes: 1
+
+JAR File: jsr305-3.0.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 29
+    Synthetic Classes: 0
+    Regular Classes: 4
+
+JAR File: kotlin-stdlib-1.5.30.jar
+Class Types:
+    Interfaces: 95
+    Abstract Classes: 51
+    Enums: 18
+    Annotations: 63
+    Synthetic Classes: 16
+    Regular Classes: 620
+
+JAR File: kotlin-stdlib-common-1.5.30.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: kotlin-stdlib-jdk7-1.5.30.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 1
+    Synthetic Classes: 0
+    Regular Classes: 6
+
+JAR File: kotlin-stdlib-jdk8-1.5.30.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 11
+
+JAR File: kotlinx-coroutines-core-jvm-1.5.2.jar
+Class Types:
+    Interfaces: 43
+    Abstract Classes: 35
+    Enums: 5
+    Annotations: 5
+    Synthetic Classes: 35
+    Regular Classes: 710
+
+JAR File: kotlinx-coroutines-jdk8-1.5.2.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 10
+
+JAR File: kotlinx-coroutines-reactive-1.5.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 3
+    Regular Classes: 28
+
+JAR File: LatencyUtils-2.0.3.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 2
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 16
+
+JAR File: micrometer-core-1.9.6.jar
+Class Types:
+    Interfaces: 35
+    Abstract Classes: 18
+    Enums: 13
+    Annotations: 8
+    Synthetic Classes: 24
+    Regular Classes: 252
+
+JAR File: netty-buffer-4.1.85.Final.jar
+Class Types:
+    Interfaces: 16
+    Abstract Classes: 14
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 5
+    Regular Classes: 101
+
+JAR File: netty-codec-4.1.85.Final.jar
+Class Types:
+    Interfaces: 11
+    Abstract Classes: 13
+    Enums: 14
+    Annotations: 0
+    Synthetic Classes: 14
+    Regular Classes: 162
+
+JAR File: netty-codec-dns-4.1.85.Final.jar
+Class Types:
+    Interfaces: 12
+    Abstract Classes: 4
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 28
+
+JAR File: netty-common-4.1.85.Final.jar
+Class Types:
+    Interfaces: 63
+    Abstract Classes: 62
+    Enums: 2
+    Annotations: 3
+    Synthetic Classes: 12
+    Regular Classes: 346
+
+JAR File: netty-handler-4.1.85.Final.jar
+Class Types:
+    Interfaces: 21
+    Abstract Classes: 23
+    Enums: 16
+    Annotations: 0
+    Synthetic Classes: 18
+    Regular Classes: 266
+
+JAR File: netty-incubator-transport-classes-io_uring-0.0.16.Final.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 4
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 38
+
+JAR File: netty-incubator-transport-native-io_uring-0.0.16.Final-linux-x86_64.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: netty-resolver-4.1.85.Final.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 4
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 19
+
+JAR File: netty-resolver-dns-4.1.85.Final.jar
+Class Types:
+    Interfaces: 8
+    Abstract Classes: 6
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 4
+    Regular Classes: 83
+
+JAR File: netty-tcnative-2.0.54.Final-linux-x86_64.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: netty-tcnative-classes-2.0.54.Final.jar
+Class Types:
+    Interfaces: 10
+    Abstract Classes: 3
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 15
+
+JAR File: netty-transport-4.1.85.Final.jar
+Class Types:
+    Interfaces: 57
+    Abstract Classes: 31
+    Enums: 4
+    Annotations: 2
+    Synthetic Classes: 12
+    Regular Classes: 260
+
+JAR File: netty-transport-classes-epoll-4.1.85.Final.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 5
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 4
+    Regular Classes: 56
+
+JAR File: netty-transport-classes-kqueue-4.1.85.Final.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 5
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 43
+
+JAR File: netty-transport-native-epoll-4.1.85.Final-linux-x86_64.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: netty-transport-native-kqueue-4.1.85.Final-osx-x86_64.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: netty-transport-native-unix-common-4.1.85.Final.jar
+Class Types:
+    Interfaces: 6
+    Abstract Classes: 2
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 23
+
+JAR File: reactive-streams-1.0.4.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 9
+
+JAR File: reactor-core-3.4.25.jar
+Class Types:
+    Interfaces: 62
+    Abstract Classes: 33
+    Enums: 11
+    Annotations: 3
+    Synthetic Classes: 17
+    Regular Classes: 769
+
+JAR File: rxjava-1.3.8.jar
+Class Types:
+    Interfaces: 49
+    Abstract Classes: 51
+    Enums: 13
+    Annotations: 3
+    Synthetic Classes: 2
+    Regular Classes: 897
+
+JAR File: rxjava-2.2.21.jar
+Class Types:
+    Interfaces: 99
+    Abstract Classes: 67
+    Enums: 30
+    Annotations: 8
+    Synthetic Classes: 8
+    Regular Classes: 1447
+
+JAR File: rxjava-3.1.5.jar
+Class Types:
+    Interfaces: 97
+    Abstract Classes: 78
+    Enums: 23
+    Annotations: 8
+    Synthetic Classes: 10
+    Regular Classes: 1540
+
+JAR File: rxjava-reactive-streams-1.2.1.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 14
+
+JAR File: zipkin-2.23.2.jar
+Class Types:
+    Interfaces: 13
+    Abstract Classes: 18
+    Enums: 17
+    Annotations: 1
+    Synthetic Classes: 2
+    Regular Classes: 116
+
+JAR File: zipkin-reporter-2.16.3.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 5
+    Enums: 4
+    Annotations: 0
+    Synthetic Classes: 3
+    Regular Classes: 15
+
+JAR File: zipkin-reporter-brave-2.16.3.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 1
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 7
+
+Summary of All JAR Files:
+    Total Interfaces: 834
+    Total Abstract Classes: 597
+    Total Enums: 197
+    Total Annotations: 208
+    Total Synthetic Classes: 219
+    Total Regular Classes: 8281
+    Total Classes: 10336

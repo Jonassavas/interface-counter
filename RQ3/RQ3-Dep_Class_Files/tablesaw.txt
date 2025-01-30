@@ -1,0 +1,89 @@
+JAR File: commons-lang3-3.9.jar
+Class Types:
+    Interfaces: 23
+    Abstract Classes: 21
+    Enums: 14
+    Annotations: 4
+    Synthetic Classes: 8
+    Regular Classes: 211
+
+JAR File: commons-text-1.8.jar
+Class Types:
+    Interfaces: 11
+    Abstract Classes: 9
+    Enums: 9
+    Annotations: 0
+    Synthetic Classes: 4
+    Regular Classes: 101
+
+JAR File: jackson-annotations-2.13.2.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 5
+    Enums: 11
+    Annotations: 38
+    Synthetic Classes: 1
+    Regular Classes: 14
+
+JAR File: jackson-core-2.13.2.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 21
+    Enums: 16
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 75
+
+JAR File: jackson-databind-2.13.2.1.jar
+Class Types:
+    Interfaces: 45
+    Abstract Classes: 110
+    Enums: 16
+    Annotations: 12
+    Synthetic Classes: 27
+    Regular Classes: 496
+
+JAR File: jackson-datatype-jsr310-2.13.2.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 6
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 50
+
+JAR File: json-base-1.0.0.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 6
+    Regular Classes: 15
+
+JAR File: json-flattener-0.8.1.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 0
+    Enums: 3
+    Annotations: 0
+    Synthetic Classes: 4
+    Regular Classes: 10
+
+JAR File: minimal-json-0.9.5.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 3
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 19
+
+Summary of All JAR Files:
+    Total Interfaces: 100
+    Total Abstract Classes: 175
+    Total Enums: 69
+    Total Annotations: 54
+    Total Synthetic Classes: 54
+    Total Regular Classes: 991
+    Total Classes: 1443

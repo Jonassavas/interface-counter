@@ -1,0 +1,26 @@
+JAR File: jvm-driver-9.4.2.jar
+Class Types:
+    Interfaces: 60
+    Abstract Classes: 20
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 126
+
+JAR File: narcissus-1.0.7.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 11
+
+Summary of All JAR Files:
+    Total Interfaces: 62
+    Total Abstract Classes: 20
+    Total Enums: 1
+    Total Annotations: 0
+    Total Synthetic Classes: 2
+    Total Regular Classes: 137
+    Total Classes: 222

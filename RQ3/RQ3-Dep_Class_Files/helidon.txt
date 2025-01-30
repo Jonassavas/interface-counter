@@ -1,0 +1,359 @@
+JAR File: helidon-common-2.5.6.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 0
+    Enums: 4
+    Annotations: 1
+    Synthetic Classes: 2
+    Regular Classes: 26
+
+JAR File: helidon-common-configurable-2.5.6.jar
+Class Types:
+    Interfaces: 5
+    Abstract Classes: 0
+    Enums: 2
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 29
+
+JAR File: helidon-common-context-2.5.6.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 9
+
+JAR File: helidon-common-http-2.5.6.jar
+Class Types:
+    Interfaces: 12
+    Abstract Classes: 3
+    Enums: 5
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 36
+
+JAR File: helidon-common-key-util-2.5.6.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 10
+
+JAR File: helidon-common-mapper-2.5.6.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 7
+
+JAR File: helidon-common-media-type-2.5.6.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 3
+
+JAR File: helidon-common-reactive-2.5.6.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 2
+    Enums: 9
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 173
+
+JAR File: helidon-common-service-loader-2.5.6.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 4
+
+JAR File: helidon-config-2.5.6.jar
+Class Types:
+    Interfaces: 50
+    Abstract Classes: 10
+    Enums: 3
+    Annotations: 0
+    Synthetic Classes: 10
+    Regular Classes: 149
+
+JAR File: helidon-logging-common-2.5.6.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 1
+
+JAR File: helidon-media-common-2.5.6.jar
+Class Types:
+    Interfaces: 17
+    Abstract Classes: 1
+    Enums: 2
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 49
+
+JAR File: helidon-media-jsonp-2.5.6.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 10
+
+JAR File: helidon-tracing-config-2.5.6.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 5
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 14
+
+JAR File: helidon-webserver-2.5.6.jar
+Class Types:
+    Interfaces: 32
+    Abstract Classes: 5
+    Enums: 7
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 108
+
+JAR File: helidon-webserver-cors-2.5.6.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 3
+    Enums: 2
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 24
+
+JAR File: jakarta.annotation-api-1.3.5.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 14
+    Synthetic Classes: 0
+    Regular Classes: 0
+
+JAR File: jakarta.json-1.1.6.jar
+Class Types:
+    Interfaces: 23
+    Abstract Classes: 5
+    Enums: 5
+    Annotations: 0
+    Synthetic Classes: 7
+    Regular Classes: 54
+
+JAR File: jakarta.json.bind-api-1.0.2.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 12
+    Synthetic Classes: 0
+    Regular Classes: 4
+
+JAR File: jandex-2.3.1.Final.jar
+Class Types:
+    Interfaces: 2
+    Abstract Classes: 6
+    Enums: 7
+    Annotations: 0
+    Synthetic Classes: 7
+    Regular Classes: 84
+
+JAR File: jboss-logging-3.2.1.Final.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 3
+    Enums: 2
+    Annotations: 10
+    Synthetic Classes: 6
+    Regular Classes: 24
+
+JAR File: microprofile-config-api-1.4.jar
+Class Types:
+    Interfaces: 5
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 1
+    Synthetic Classes: 0
+    Regular Classes: 1
+
+JAR File: microprofile-openapi-api-1.2.jar
+Class Types:
+    Interfaces: 37
+    Abstract Classes: 1
+    Enums: 14
+    Annotations: 38
+    Synthetic Classes: 0
+    Regular Classes: 3
+
+JAR File: netty-buffer-4.1.86.Final.jar
+Class Types:
+    Interfaces: 16
+    Abstract Classes: 14
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 5
+    Regular Classes: 101
+
+JAR File: netty-codec-4.1.86.Final.jar
+Class Types:
+    Interfaces: 11
+    Abstract Classes: 13
+    Enums: 14
+    Annotations: 0
+    Synthetic Classes: 15
+    Regular Classes: 164
+
+JAR File: netty-codec-http-4.1.86.Final.jar
+Class Types:
+    Interfaces: 46
+    Abstract Classes: 26
+    Enums: 17
+    Annotations: 0
+    Synthetic Classes: 18
+    Regular Classes: 278
+
+JAR File: netty-codec-http2-4.1.86.Final.jar
+Class Types:
+    Interfaces: 51
+    Abstract Classes: 9
+    Enums: 10
+    Annotations: 0
+    Synthetic Classes: 13
+    Regular Classes: 194
+
+JAR File: netty-common-4.1.86.Final.jar
+Class Types:
+    Interfaces: 63
+    Abstract Classes: 62
+    Enums: 2
+    Annotations: 3
+    Synthetic Classes: 12
+    Regular Classes: 346
+
+JAR File: netty-handler-4.1.86.Final.jar
+Class Types:
+    Interfaces: 21
+    Abstract Classes: 23
+    Enums: 16
+    Annotations: 0
+    Synthetic Classes: 18
+    Regular Classes: 266
+
+JAR File: netty-resolver-4.1.86.Final.jar
+Class Types:
+    Interfaces: 4
+    Abstract Classes: 4
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 19
+
+JAR File: netty-transport-4.1.86.Final.jar
+Class Types:
+    Interfaces: 57
+    Abstract Classes: 31
+    Enums: 4
+    Annotations: 2
+    Synthetic Classes: 12
+    Regular Classes: 260
+
+JAR File: netty-transport-native-unix-common-4.1.86.Final.jar
+Class Types:
+    Interfaces: 6
+    Abstract Classes: 2
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 23
+
+JAR File: opentracing-api-0.33.0.jar
+Class Types:
+    Interfaces: 14
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 14
+
+JAR File: opentracing-noop-0.33.0.jar
+Class Types:
+    Interfaces: 6
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 7
+
+JAR File: opentracing-util-0.33.0.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 5
+
+JAR File: smallrye-open-api-core-2.0.26.jar
+Class Types:
+    Interfaces: 19
+    Abstract Classes: 6
+    Enums: 5
+    Annotations: 0
+    Synthetic Classes: 15
+    Regular Classes: 189
+
+JAR File: smallrye-open-api-jaxrs-2.0.26.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 1
+    Annotations: 0
+    Synthetic Classes: 1
+    Regular Classes: 6
+
+JAR File: snakeyaml-1.32.jar
+Class Types:
+    Interfaces: 9
+    Abstract Classes: 14
+    Enums: 10
+    Annotations: 0
+    Synthetic Classes: 6
+    Regular Classes: 187
+
+JAR File: yasson-1.0.11.jar
+Class Types:
+    Interfaces: 15
+    Abstract Classes: 21
+    Enums: 6
+    Annotations: 1
+    Synthetic Classes: 10
+    Regular Classes: 191
+
+Summary of All JAR Files:
+    Total Interfaces: 559
+    Total Abstract Classes: 272
+    Total Enums: 151
+    Total Annotations: 82
+    Total Synthetic Classes: 161
+    Total Regular Classes: 3072
+    Total Classes: 4297

@@ -626,5 +626,5 @@ Package: javax.annotation
         pax-url-aether-2.6.12.jar
         javax.annotation-api-1.3.2.jar
 
-Total number of duplicate packages: 4
+Total number of duplicate packages: 8
 Total number of packages: 474

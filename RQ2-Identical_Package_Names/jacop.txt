@@ -269,5 +269,5 @@ Package: org.fusesource.jansi
         jline-2.14.6.jar
         jansi-1.12.jar
 
-Total number of duplicate packages: 4
+Total number of duplicate packages: 8
 Total number of packages: 217

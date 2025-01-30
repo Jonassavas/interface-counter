@@ -1,0 +1,62 @@
+JAR File: asm-9.4.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 8
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 28
+
+JAR File: asm-commons-9.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 2
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 24
+
+JAR File: asm-tree-9.4.jar
+Class Types:
+    Interfaces: 0
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 37
+
+JAR File: byte-buddy-dep-1.12.3.jar
+Class Types:
+    Interfaces: 425
+    Abstract Classes: 219
+    Enums: 558
+    Annotations: 59
+    Synthetic Classes: 50
+    Regular Classes: 1233
+
+JAR File: objenesis-3.2.jar
+Class Types:
+    Interfaces: 3
+    Abstract Classes: 3
+    Enums: 1
+    Annotations: 1
+    Synthetic Classes: 0
+    Regular Classes: 35
+
+JAR File: typetools-0.6.3.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 0
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 7
+
+Summary of All JAR Files:
+    Total Interfaces: 431
+    Total Abstract Classes: 233
+    Total Enums: 559
+    Total Annotations: 60
+    Total Synthetic Classes: 50
+    Total Regular Classes: 1364
+    Total Classes: 2697

@@ -1,0 +1,44 @@
+JAR File: commons-beanutils-1.9.4.jar
+Class Types:
+    Interfaces: 8
+    Abstract Classes: 8
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 2
+    Regular Classes: 119
+
+JAR File: commons-collections-3.2.2.jar
+Class Types:
+    Interfaces: 27
+    Abstract Classes: 33
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 400
+
+JAR File: commons-digester-2.1.jar
+Class Types:
+    Interfaces: 12
+    Abstract Classes: 10
+    Enums: 0
+    Annotations: 25
+    Synthetic Classes: 0
+    Regular Classes: 108
+
+JAR File: commons-logging-1.2.jar
+Class Types:
+    Interfaces: 1
+    Abstract Classes: 1
+    Enums: 0
+    Annotations: 0
+    Synthetic Classes: 0
+    Regular Classes: 26
+
+Summary of All JAR Files:
+    Total Interfaces: 48
+    Total Abstract Classes: 52
+    Total Enums: 0
+    Total Annotations: 25
+    Total Synthetic Classes: 2
+    Total Regular Classes: 653
+    Total Classes: 780
