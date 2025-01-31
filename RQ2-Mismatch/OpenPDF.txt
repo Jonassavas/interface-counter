@@ -1,0 +1,13 @@
+Mismatched class: EventConventionException.class in fop-v2.7 (package: org.apache.fop.tools)
+Mismatched class: EventProducerCollector.class in fop-v2.7 (package: org.apache.fop.tools)
+Mismatched class: EventProducerCollectorTask$1.class in fop-v2.7 (package: org.apache.fop.tools)
+Mismatched class: EventProducerCollectorTask.class in fop-v2.7 (package: org.apache.fop.tools)
+Total mismatched classes for fop-v2.7: 4
+
+Summary of affected Java packages:
+Dependency: fop-v2.7
+  - org.apache.fop.tools (4 mismatched classes)
+
+Total mismatched classes: 4
+Total correctly matched classes: 12239
+Total affected packages with mismatches: 1

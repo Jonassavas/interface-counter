@@ -1,0 +1,10 @@
+Mismatched class: PrintAboveWriter.class in jline-v3.19.0 (package: org.jline.reader)
+Total mismatched classes for jline-v3.19.0: 1
+
+Summary of affected Java packages:
+Dependency: jline-v3.19.0
+  - org.jline.reader (1 mismatched classes)
+
+Total mismatched classes: 1
+Total correctly matched classes: 8458
+Total affected packages with mismatches: 1
