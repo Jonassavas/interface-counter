@@ -1,0 +1,7 @@
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 690
+Total affected packages with mismatches: 0
+Total correctly matched packages: 31

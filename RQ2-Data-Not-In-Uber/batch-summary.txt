@@ -1,0 +1,154 @@
+Project: checkstyle
+Total number of packages in all dependency JARs: 254
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: Chronicle-Map
+Total number of packages in all dependency JARs: 474
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: classgraph
+Total number of packages in all dependency JARs: 8
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: commons-validator
+Total number of packages in all dependency JARs: 33
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: CoreNLP
+Total number of packages in all dependency JARs: 477
+Total number of missing packages across all dependency JARs: 130
+Overall percentage of missing packages: 27.25%
+
+Project: flink
+Total number of packages in all dependency JARs: 361
+Total number of missing packages across all dependency JARs: 2
+Overall percentage of missing packages: 0.55%
+
+Project: graphhopper
+Total number of packages in all dependency JARs: 279
+Total number of missing packages across all dependency JARs: 6
+Overall percentage of missing packages: 2.15%
+
+Project: guice
+Total number of packages in all dependency JARs: 63
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: helidon
+Total number of packages in all dependency JARs: 215
+Total number of missing packages across all dependency JARs: 1
+Overall percentage of missing packages: 0.47%
+
+Project: httpcomponents
+Total number of packages in all dependency JARs: 52
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: immutables
+Total number of packages in all dependency JARs: 13
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: jacop
+Total number of packages in all dependency JARs: 217
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: java-faker
+Total number of packages in all dependency JARs: 34
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: jcabi-github
+Total number of packages in all dependency JARs: 280
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: jimfs
+Total number of packages in all dependency JARs: 43
+Total number of missing packages across all dependency JARs: 1
+Overall percentage of missing packages: 2.33%
+
+Project: jooby
+Total number of packages in all dependency JARs: 202
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: lettuce
+Total number of packages in all dependency JARs: 293
+Total number of missing packages across all dependency JARs: 4
+Overall percentage of missing packages: 1.37%
+
+Project: modelmapper
+Total number of packages in all dependency JARs: 49
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: mybatis-3
+Total number of packages in all dependency JARs: 64
+Total number of missing packages across all dependency JARs: 2
+Overall percentage of missing packages: 3.13%
+
+Project: OpenPDF
+Total number of packages in all dependency JARs: 744
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: pdfbox
+Total number of packages in all dependency JARs: 273
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: pf4j
+Total number of packages in all dependency JARs: 9
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: poi-tl
+Total number of packages in all dependency JARs: 520
+Total number of missing packages across all dependency JARs: 8
+Overall percentage of missing packages: 1.54%
+
+Project: Recaf
+Total number of packages in all dependency JARs: 524
+Total number of missing packages across all dependency JARs: 3
+Overall percentage of missing packages: 0.57%
+
+Project: RxRelay
+Total number of packages in all dependency JARs: 32
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: scribejava
+Total number of packages in all dependency JARs: 63
+Total number of missing packages across all dependency JARs: 6
+Overall percentage of missing packages: 9.52%
+
+Project: tablesaw
+Total number of packages in all dependency JARs: 67
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: tika
+Total number of packages in all dependency JARs: 16
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+Project: undertow
+Total number of packages in all dependency JARs: 42
+Total number of missing packages across all dependency JARs: 24
+Overall percentage of missing packages: 57.14%
+
+Project: woodstox
+Total number of packages in all dependency JARs: 73
+Total number of missing packages across all dependency JARs: 0
+Overall percentage of missing packages: 0.00%
+
+===== Overall Summary =====
+Grand total number of packages in all dependency JARs: 5774
+Grand total number of missing packages: 187
+Overall percentage of missing packages: 3.24%

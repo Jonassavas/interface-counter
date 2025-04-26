@@ -9,9 +9,9 @@ import java.util.jar.*;
 
 public class JarHtmlComparator {
     public static void main(String[] args) throws IOException {
-        String jarDirPath = "C:\\kthcs\\MEX\\RQ2Gathering\\Chronicle-Map\\dependencies";
-        String htmlReportPath = "C:\\kthcs\\MEX\\CompleteJactResults\\chronicle-map_jact-report\\dependencies";
-        String outputFilePath = "./RQ2-Mismatch/comparison_report.txt";
+        String jarDirPath = "C:\\kthcs\\MEX\\RQ2Gathering\\jooby\\jooby\\dependencies";
+        String htmlReportPath = "C:\\kthcs\\MEX\\CompleteJactResults\\jooby_jact-report\\dependencies";
+        String outputFilePath = "./RQ2-correct/jooby.txt";
 
         try (FileWriter fileWriter = new FileWriter(outputFilePath, true);
              PrintWriter printWriter = new PrintWriter(fileWriter)) {
@@ -35,8 +35,6 @@ public class JarHtmlComparator {
             String searchableName = (lastDash != -1)
                 ? baseName.substring(0, lastDash).replace('-', '.') + "-v" + baseName.substring(lastDash + 1)
                 : baseName.replace('-', '.');
-            
-            //System.out.println(searchableName);
 
             try (JarFile jar = new JarFile(jarFile)) {
                 Enumeration<JarEntry> entries = jar.entries();
@@ -63,6 +61,9 @@ public class JarHtmlComparator {
 
         Map<String, Map<String, Integer>> affectedPackages = new HashMap<>();
         int totalMismatchedClasses = 0;
+        int totalMatchedClasses = 0;
+        int totalAffectedPackages = 0;
+        int totalCorrectlyMatchedPackages = 0;  // New counter for correct packages
 
         for (File jarDir : Objects.requireNonNull(reportDir.listFiles(File::isDirectory))) {
             if (jarDir.getName().equals("jacoco-resources")) continue;
@@ -91,7 +92,6 @@ public class JarHtmlComparator {
                 continue;
             }
 
-            //System.out.println("Matched " + dirName + " to " + matchedJar);
             int dependencyMismatchCount = 0;
 
             for (File packageDir : Objects.requireNonNull(jarDir.listFiles(File::isDirectory))) {
@@ -102,21 +102,29 @@ public class JarHtmlComparator {
                 int packageMismatchCount = 0;
 
                 for (File htmlFile : Objects.requireNonNull(packageDir.listFiles((d, name) -> name.endsWith(".html")))) {
-                    if (htmlFile.getName().equals("index.html") || htmlFile.getName().equals("index.source.html")) continue;
+                    if (htmlFile.getName().equals("index.html") || 
+                        htmlFile.getName().equals("indirect-dependencies.html") ||
+                        htmlFile.getName().equals("index.source.html")) continue;
 
                     String className = htmlFile.getName().replace(".html", ".class");
                     if (!jarClasses.contains(className)) {
                         printWriter.println("Mismatched class: " + className + " in " + matchedJar + " (package: " + packageName + ")");
-                        System.out.println("Mismatched class: " + className + " in " + matchedJar + " (package: " + packageName + ")");
                         packageMismatchCount++;
                         totalMismatchedClasses++;
+                    } else {
+                        totalMatchedClasses++;
                     }
                 }
+
                 if (packageMismatchCount > 0) {
                     affectedPackages.computeIfAbsent(matchedJar, k -> new HashMap<>()).put(packageName, packageMismatchCount);
                     dependencyMismatchCount += packageMismatchCount;
+                    totalAffectedPackages++;
+                } else {
+                    totalCorrectlyMatchedPackages++;  // Increment for fully matched package
                 }
             }
+
             if (dependencyMismatchCount > 0) {
                 printWriter.println("Total mismatched classes for " + matchedJar + ": " + dependencyMismatchCount);
                 System.out.println("Total mismatched classes for " + matchedJar + ": " + dependencyMismatchCount);
@@ -133,7 +141,15 @@ public class JarHtmlComparator {
                 System.out.println("  - " + pkg + " (" + count + " mismatched classes)");
             });
         });
+
         printWriter.println("\nTotal mismatched classes: " + totalMismatchedClasses);
+        printWriter.println("Total correctly matched classes: " + totalMatchedClasses);
+        printWriter.println("Total affected packages with mismatches: " + totalAffectedPackages);
+        printWriter.println("Total correctly matched packages: " + totalCorrectlyMatchedPackages);  // New summary line
+
         System.out.println("\nTotal mismatched classes: " + totalMismatchedClasses);
+        System.out.println("Total correctly matched classes: " + totalMatchedClasses);
+        System.out.println("Total affected packages with mismatches: " + totalAffectedPackages);
+        System.out.println("Total correctly matched packages: " + totalCorrectlyMatchedPackages);  // New summary line
     }
 }

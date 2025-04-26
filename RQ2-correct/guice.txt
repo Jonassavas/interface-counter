@@ -1,0 +1,8 @@
+Could not find JAR for: com.google.guava.listenablefuture-v9999.0.empty.to.avoid.conflict.with.guava
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 1894
+Total affected packages with mismatches: 0
+Total correctly matched packages: 35

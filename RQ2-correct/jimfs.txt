@@ -1,0 +1,15 @@
+Could not find JAR for: com.google.auto.service.auto.service.annotations-v1.1.1
+Could not find JAR for: com.google.errorprone.error_prone_annotations-v2.26.1
+Could not find JAR for: com.google.guava.failureaccess-v1.0.2
+Could not find JAR for: com.google.guava.guava-v33.1.0.jre
+Could not find JAR for: com.google.guava.listenablefuture-v9999.0-empty-to-avoid-conflict-with-guava
+Could not find JAR for: com.google.j2objc.j2objc.annotations-v3.0.0
+Could not find JAR for: com.ibm.icu.icu4j-v75.1
+Could not find JAR for: org.checkerframework.checker.qual-v3.42.0
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 5
+Total affected packages with mismatches: 0
+Total correctly matched packages: 2

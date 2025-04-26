@@ -1,0 +1,20 @@
+Mismatched class: ArgFlag.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Mismatched class: ClassFlag.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Mismatched class: FieldFlag.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Mismatched class: MethodFlag.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Mismatched class: NativeStats$NativeFunction.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Mismatched class: NativeStats.class in jline-v2.14.6 (package: org.fusesource.hawtjni.runtime)
+Total mismatched classes for jline-v2.14.6: 6
+Mismatched class: MDCFriend.class in log4j-v1.2.17 (package: org.apache.log4j)
+Total mismatched classes for log4j-v1.2.17: 1
+
+Summary of affected Java packages:
+Dependency: log4j-v1.2.17
+  - org.apache.log4j (1 mismatched classes)
+Dependency: jline-v2.14.6
+  - org.fusesource.hawtjni.runtime (6 mismatched classes)
+
+Total mismatched classes: 7
+Total correctly matched classes: 7565
+Total affected packages with mismatches: 2
+Total correctly matched packages: 202

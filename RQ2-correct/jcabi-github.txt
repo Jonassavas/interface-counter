@@ -1,0 +1,11 @@
+Could not find JAR for: com.google.guava.listenablefuture-v9999.0.empty.to.avoid.conflict.with.guava
+Could not find JAR for: commons.codec.commons.codec-v1.15
+Could not find JAR for: javax.validation.validation.api-v2.0.1.Final
+Could not find JAR for: org.mockito.mockito.core-v4.6.1
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 4811
+Total affected packages with mismatches: 0
+Total correctly matched packages: 234

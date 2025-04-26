@@ -1,0 +1,8 @@
+Could not find JAR for: org.apache.flink.flink.shaded.force.shading-v17.0
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 6926
+Total affected packages with mismatches: 0
+Total correctly matched packages: 343

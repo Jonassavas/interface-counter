@@ -1,0 +1,9 @@
+Could not find JAR for: org.jetbrains.kotlin.kotlin.stdlib.common-v1.6.21
+Could not find JAR for: org.jetbrains.kotlinx.kotlinx.coroutines.core-v1.6.2
+
+Summary of affected Java packages:
+
+Total mismatched classes: 0
+Total correctly matched classes: 5605
+Total affected packages with mismatches: 0
+Total correctly matched packages: 179
